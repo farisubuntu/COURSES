@@ -48,8 +48,6 @@ echo "$result" > "${filename}"
 }
 
 
-
-
 function req_all () {
  
  mkdir "${n}"
