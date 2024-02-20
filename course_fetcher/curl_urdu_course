@@ -9,7 +9,7 @@ const_url="https://api.mondly.com/v2/categories/$n/lessons/";
 function req_category () {
 cat_url="https://api.mondly.com/v1/categories/${n}"
 
-result="$(curl $cat_url \
+result="$(curl ${cat_url} \
   -H 'authority: api.mondly.com' \
   -H 'accept: application/json, text/javascript, */*; q=0.01' \
   -H 'accept-language: en-US,en;q=0.9,ar;q=0.8,ur;q=0.7' \
@@ -20,7 +20,7 @@ echo "$result" > "$n.json"
 
 }
 function req_vocabulary () {
-vocabulary_url="https://api.mondly.com/v2/categories/${n}/vocabularies/${1}01"
+vocabulary_url="https://api.mondly.com/v2/categories/${n}/vocabularies/${n}01"
 
 result="$(curl ${vocabulary_url} \
 -H 'authority: api.mondly.com' \
@@ -32,7 +32,7 @@ echo "$result" > "vocabulary.${1}01.json"
 
 }
 function req_topic () {
-filename="${2}.json"
+filename="${n}0${2}.json"
 
 #TODO: check if file present
 touch "${filename}"
