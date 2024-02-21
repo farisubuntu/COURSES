@@ -1,5 +1,10 @@
 #!/usr/bin/bash
 
+# make dir for data and go into it
+mkdir -p "data";
+cd "$(pwd)/data";
+
+
 # curl payload contain's target_lang=it for turky, change it to any language code 
 
 # temp
