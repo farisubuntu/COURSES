@@ -20,3 +20,12 @@ $ wget https://d13tz37rv54ob.cloudfront.net/en_gb/5GwX74ia-8nEV1331d1QayXXQpa1TG
 $ wget https://d13tz37rv54ob.cloudfront.net/ur/5yJIklmE-tT6L44G-d2no9epgjQXY1kV?t=1580691716
 
 ```
+
+branches:
+
+**images**: all images related to all courses. target language flags in flags dir.
+**custorm-hook**:
+- `useFetcher.jsx`: custom hook used to fetch course data then extracted as `quizzes`,`lesson`
+- `globals.js`: example of using globals varaibles
+- `AppContext`: another way of using global variables
+
