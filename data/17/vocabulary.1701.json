@@ -1,1 +1,1142 @@
-{"vocabulary":{"id":1701,"index":1,"category":17,"categoryID":17,"unifiedUnitId":17,"unifiedCategoryId":17,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":11,"countPhrases":0,"countDone":0,"vItems":[10132,10133,10134,10135,10136,10137,10138,10139,10140,10141]},"vItems":[{"id":10132,"vocabulary":1701,"wordID":19259,"key":"gUxLMEiAHm-3lB6OZ_PlG_LNHTNWDGT9","sols":[{"key":"gUxLMEiAHm-3lB6OZ_PlG_LNHTNWDGT9","text":"سريع","dictionary":[{"raw":"سريع","translations":[]}]},{"key":"gUxLMEiAHm-3lB6OZ_PlG_LNHTNWDGT9","text":"fast","phonetic":"","dictionary":[{"raw":"fast","translations":[{"type":"dictionary","text":"سريع","phonetic":null}]}]}],"audio_updated_at":1543436697},{"id":10133,"vocabulary":1701,"wordID":19232,"key":"8wBBav97BsG0L8IWIbQSW6COBJIkKQoi","sols":[{"key":"8wBBav97BsG0L8IWIbQSW6COBJIkKQoi","text":"جميل","dictionary":[{"raw":"جميل","translations":[]}]},{"key":"8wBBav97BsG0L8IWIbQSW6COBJIkKQoi","text":"beautiful","phonetic":"","dictionary":[{"raw":"beautiful","translations":[{"type":"dictionary","text":"جميل","phonetic":null}]}]}],"audio_updated_at":1543436679},{"id":10134,"vocabulary":1701,"wordID":19253,"key":"SLVlWDBj8GwANy1ctBA3uW59Oq3CVf46","sols":[{"key":"SLVlWDBj8GwANy1ctBA3uW59Oq3CVf46","text":"طويل","dictionary":[{"raw":"طويل","translations":[]}]},{"key":"SLVlWDBj8GwANy1ctBA3uW59Oq3CVf46","text":"tall","phonetic":"","dictionary":[{"raw":"tall","translations":[{"type":"dictionary","text":"طويل","phonetic":null}]}]}],"audio_updated_at":1543436735},{"id":10135,"vocabulary":1701,"wordID":19257,"key":"lbA_971nVx6oYV0H65LxbaMu-SWB83sT","sols":[{"key":"lbA_971nVx6oYV0H65LxbaMu-SWB83sT","text":"مريح","dictionary":[{"raw":"مريح","translations":[]}]},{"key":"lbA_971nVx6oYV0H65LxbaMu-SWB83sT","text":"comfortable","phonetic":"","dictionary":[{"raw":"comfortable","translations":[{"type":"dictionary","text":"مريح","phonetic":null}]}]}],"audio_updated_at":1543436687},{"id":10136,"vocabulary":1701,"wordID":23669,"key":"o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh","sols":[{"key":"o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh","text":"مشوق","dictionary":[{"raw":"مشوق","translations":[]}]},{"key":"o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh","text":"interesting","phonetic":"","dictionary":[{"raw":"interesting","translations":[{"type":"dictionary","text":"مشوق","phonetic":null}]}]}],"audio_updated_at":1688290515},{"id":10137,"vocabulary":1701,"wordID":23797,"key":"a2mtsLb08llpWITo_svO35Rry5gtrwzv","sols":[{"key":"a2mtsLb08llpWITo_svO35Rry5gtrwzv","text":"تثلج","dictionary":[{"raw":"تثلج","translations":[]}]},{"key":"a2mtsLb08llpWITo_svO35Rry5gtrwzv","text":"to snow","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"snow","translations":[{"type":"dictionary","text":"تثلج","phonetic":null}]}]}],"audio_updated_at":1688290662},{"id":10138,"vocabulary":1701,"wordID":23796,"key":"O8ie8FSdrbrHagn9N0IiXU00O02x7LwN","sols":[{"key":"O8ie8FSdrbrHagn9N0IiXU00O02x7LwN","text":"تمطر","dictionary":[{"raw":"تمطر","translations":[]}]},{"key":"O8ie8FSdrbrHagn9N0IiXU00O02x7LwN","text":"to rain","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"rain","translations":[{"type":"dictionary","text":"تمطر","phonetic":null}]}]}],"audio_updated_at":1688290661},{"id":10139,"vocabulary":1701,"wordID":13320,"key":"8B8g1auV489wQtx4fhkh8zhu-W92TQR2","sols":[{"key":"8B8g1auV489wQtx4fhkh8zhu-W92TQR2","text":"يساعد","dictionary":[{"raw":"يساعد","translations":[{"type":"verb","name":{"t":"to help","m":"يساعد","phonetic":"to help"},"id":43,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ","text":"I help","phonetic":"","audio_updated_at":1543438179},"m":{"text":"أنا أساعد"}},{"t":{"key":"MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv","text":"You help","phonetic":"","audio_updated_at":1543438180},"m":{"text":"أنت تساعد"}},{"t":{"key":"5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s","text":"He helps","phonetic":"","audio_updated_at":1543438181},"m":{"text":"هو يساعد"}},{"t":{"key":"87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9","text":"She helps","phonetic":"","audio_updated_at":1543438182},"m":{"text":"هي تساعد"}},{"t":{"key":"ParYyqadRkg9qMwprdEQvUHplzqHyMbk","text":"We help","phonetic":"","audio_updated_at":1543438184},"m":{"text":"نحن نساعد"}},{"t":{"key":"LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU","text":"You help","phonetic":"","audio_updated_at":1541547555},"m":{"text":"أنتم تساعدون"}},{"t":{"key":"VGuPZI4vdq97_VnJzetW08suAOSYkP2G","text":"They help","phonetic":"","audio_updated_at":1543438185},"m":{"text":"هم يساعدون"}}],"pa":[{"t":{"key":"250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr","text":"I helped","phonetic":"","audio_updated_at":1541547558},"m":{"text":"أنا ساعدت"}},{"t":{"key":"SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN","text":"You helped","phonetic":"","audio_updated_at":1541547559},"m":{"text":"أنت ساعدت"}},{"t":{"key":"Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q","text":"He helped","phonetic":"","audio_updated_at":1541547559},"m":{"text":"هو ساعد"}},{"t":{"key":"2w3NgLuoTBE72ZkltxnWThvOeartBWAR","text":"She helped","phonetic":"","audio_updated_at":1541547560},"m":{"text":"هي ساعدت"}},{"t":{"key":"ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO","text":"We helped","phonetic":"","audio_updated_at":1541547562},"m":{"text":"نحن ساعدنا"}},{"t":{"key":"-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR","text":"You helped","phonetic":"","audio_updated_at":1541547563},"m":{"text":"أنتم ساعدتم"}},{"t":{"key":"lBh1FKOForCy2PzDsi5BgfFStNWI1fim","text":"They helped","phonetic":"","audio_updated_at":1541547564},"m":{"text":"هم ساعدوا"}}],"fu":[{"t":{"key":"S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm","text":"I will help","phonetic":"","audio_updated_at":1541547565},"m":{"text":"أنا سأساعد"}},{"t":{"key":"fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy","text":"You will help","phonetic":"","audio_updated_at":1541547567},"m":{"text":"أنت ستساعد"}},{"t":{"key":"5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn","text":"He will help","phonetic":"","audio_updated_at":1541547567},"m":{"text":"هو سيساعد"}},{"t":{"key":"1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr","text":"She will help","phonetic":"","audio_updated_at":1541547568},"m":{"text":"هي ستساعد"}},{"t":{"key":"SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i","text":"We will help","phonetic":"","audio_updated_at":1541547570},"m":{"text":"نحن سنساعد"}},{"t":{"key":"aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6","text":"You will help","phonetic":"","audio_updated_at":1541547571},"m":{"text":"أنتم ستساعدون"}},{"t":{"key":"be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto","text":"They will help","phonetic":"","audio_updated_at":1541547572},"m":{"text":"هم سيساعدون"}}]}}]}]},{"key":"8B8g1auV489wQtx4fhkh8zhu-W92TQR2","text":"to help","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"help","translations":[{"type":"dictionary","text":"يساعد","phonetic":null},{"type":"verb","name":{"t":"to help","m":"يساعد","phonetic":"to help"},"id":43,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ","text":"I help","phonetic":"","audio_updated_at":1543438179},"m":{"text":"أنا أساعد"}},{"t":{"key":"MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv","text":"You help","phonetic":"","audio_updated_at":1543438180},"m":{"text":"أنت تساعد"}},{"t":{"key":"5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s","text":"He helps","phonetic":"","audio_updated_at":1543438181},"m":{"text":"هو يساعد"}},{"t":{"key":"87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9","text":"She helps","phonetic":"","audio_updated_at":1543438182},"m":{"text":"هي تساعد"}},{"t":{"key":"ParYyqadRkg9qMwprdEQvUHplzqHyMbk","text":"We help","phonetic":"","audio_updated_at":1543438184},"m":{"text":"نحن نساعد"}},{"t":{"key":"LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU","text":"You help","phonetic":"","audio_updated_at":1541547555},"m":{"text":"أنتم تساعدون"}},{"t":{"key":"VGuPZI4vdq97_VnJzetW08suAOSYkP2G","text":"They help","phonetic":"","audio_updated_at":1543438185},"m":{"text":"هم يساعدون"}}],"pa":[{"t":{"key":"250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr","text":"I helped","phonetic":"","audio_updated_at":1541547558},"m":{"text":"أنا ساعدت"}},{"t":{"key":"SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN","text":"You helped","phonetic":"","audio_updated_at":1541547559},"m":{"text":"أنت ساعدت"}},{"t":{"key":"Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q","text":"He helped","phonetic":"","audio_updated_at":1541547559},"m":{"text":"هو ساعد"}},{"t":{"key":"2w3NgLuoTBE72ZkltxnWThvOeartBWAR","text":"She helped","phonetic":"","audio_updated_at":1541547560},"m":{"text":"هي ساعدت"}},{"t":{"key":"ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO","text":"We helped","phonetic":"","audio_updated_at":1541547562},"m":{"text":"نحن ساعدنا"}},{"t":{"key":"-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR","text":"You helped","phonetic":"","audio_updated_at":1541547563},"m":{"text":"أنتم ساعدتم"}},{"t":{"key":"lBh1FKOForCy2PzDsi5BgfFStNWI1fim","text":"They helped","phonetic":"","audio_updated_at":1541547564},"m":{"text":"هم ساعدوا"}}],"fu":[{"t":{"key":"S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm","text":"I will help","phonetic":"","audio_updated_at":1541547565},"m":{"text":"أنا سأساعد"}},{"t":{"key":"fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy","text":"You will help","phonetic":"","audio_updated_at":1541547567},"m":{"text":"أنت ستساعد"}},{"t":{"key":"5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn","text":"He will help","phonetic":"","audio_updated_at":1541547567},"m":{"text":"هو سيساعد"}},{"t":{"key":"1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr","text":"She will help","phonetic":"","audio_updated_at":1541547568},"m":{"text":"هي ستساعد"}},{"t":{"key":"SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i","text":"We will help","phonetic":"","audio_updated_at":1541547570},"m":{"text":"نحن سنساعد"}},{"t":{"key":"aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6","text":"You will help","phonetic":"","audio_updated_at":1541547571},"m":{"text":"أنتم ستساعدون"}},{"t":{"key":"be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto","text":"They will help","phonetic":"","audio_updated_at":1541547572},"m":{"text":"هم سيساعدون"}}]}}]}]}],"audio_updated_at":1639519568},{"id":10140,"vocabulary":1701,"wordID":15395,"key":"w8-NddjNw09nMFd0CCFUV9ymOZmxr0aZ","sols":[{"key":"w8-NddjNw09nMFd0CCFUV9ymOZmxr0aZ","text":"يذهب","dictionary":[{"raw":"يذهب","translations":[{"type":"verb","name":{"t":"to go","m":"يذهب","phonetic":"to go"},"id":40,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"7bNI0RboiqsVM_WilX2otoK_sq_OOnIh","text":"I go","phonetic":"","audio_updated_at":1543438139},"m":{"text":"أنا أذهب"}},{"t":{"key":"cacr7_SGG3dzVO-mSG6-3JGMo1QHNnfI","text":"You go","phonetic":"","audio_updated_at":1543438141},"m":{"text":"أنت تذهب"}},{"t":{"key":"bZGv2l3B-K6XJzrbpRcL8BGFxmSL9E41","text":"He goes","phonetic":"","audio_updated_at":1543438142},"m":{"text":"هو يذهب"}},{"t":{"key":"VUXmsiBF52fp9UFoJJbYzXtzSOqd70KL","text":"She goes","phonetic":"","audio_updated_at":1543438143},"m":{"text":"هي تذهب"}},{"t":{"key":"TzT3zhHftJuiDg8yys-D6vI22jJTYXt-","text":"We go","phonetic":"","audio_updated_at":1543438145},"m":{"text":"نحن نذهب"}},{"t":{"key":"vFAnGTkaIgwCphxih4TEtrC1wpds6Ja9","text":"You go","phonetic":"","audio_updated_at":1543438146},"m":{"text":"أنتم تذهبون"}},{"t":{"key":"as-vTrtT2jT-Oo2pJIEXATWc8NGNHyHy","text":"They go","phonetic":"","audio_updated_at":1543438147},"m":{"text":"هم يذهبون"}}],"pa":[{"t":{"key":"ecfE6_usDqBDEgKqLf6lszCSyS6LchO2","text":"I went","phonetic":"","audio_updated_at":1543438148},"m":{"text":"أنا ذهبت"}},{"t":{"key":"EQmuVdiG1ooEYpqZiH9fvnxiX5xa7UCr","text":"You went","phonetic":"","audio_updated_at":1543438149},"m":{"text":"أنت ذهبت"}},{"t":{"key":"qO6qMBah2gqVpJ7TCH0OI-km7Mnjm9AB","text":"He went","phonetic":"","audio_updated_at":1543438151},"m":{"text":"هو ذهب"}},{"t":{"key":"ykHNySLcbj_Rduz8EyjcvdnPK0wlkrz2","text":"She went","phonetic":"","audio_updated_at":1543438152},"m":{"text":"هي ذهبت"}},{"t":{"key":"akN_HA9flK2VWcjlkhPYg3DjSnZZd1oi","text":"We went","phonetic":"","audio_updated_at":1543438153},"m":{"text":"نحن ذهبنا"}},{"t":{"key":"kpGUD063dV_rZBSxR2DvQxiM-k_NPNBS","text":"You went","phonetic":"","audio_updated_at":1541547489},"m":{"text":"أنتم ذهبتم"}},{"t":{"key":"WmZAvV4rAVPbwBgM0_rJ8bu7OG6Qt5Iw","text":"They went","phonetic":"","audio_updated_at":1543438154},"m":{"text":"هم ذهبوا"}}],"fu":[{"t":{"key":"JgvAgyiXF7jLKauYYG7d98AS4yIPb30q","text":"I will go","phonetic":"","audio_updated_at":1543438155},"m":{"text":"أنا سأذهب"}},{"t":{"key":"NWaLgXoxuA-0UioEcTD3PBAgWYUPSj-K","text":"You will go","phonetic":"","audio_updated_at":1543438157},"m":{"text":"أنت ستذهب"}},{"t":{"key":"rg4yVFoVEyzsFbtgrGuEUFJQQPSBkfen","text":"He will go","phonetic":"","audio_updated_at":1543438158},"m":{"text":"هو سيذهب"}},{"t":{"key":"RnFE7AbFeD6gZxaYheN83Gj_HscOn2Cz","text":"She will go","phonetic":"","audio_updated_at":1543438159},"m":{"text":"هي ستذهب"}},{"t":{"key":"fuwQr7AE3vDfvwem4z9cSXVaUBgvvKyy","text":"We will go","phonetic":"","audio_updated_at":1543438160},"m":{"text":"نحن سنذهب"}},{"t":{"key":"ySfGaRO2p3GrKGHH10VcD3XFDi2-Nxa_","text":"You will go","phonetic":"","audio_updated_at":1541547498},"m":{"text":"أنتم ستذهبون"}},{"t":{"key":"dEJvrp2XZNvhxyWlesxvM4ypFeJyU6Ad","text":"They will go","phonetic":"","audio_updated_at":1543438161},"m":{"text":"هم سيذهبون"}}]}}]}]},{"key":"w8-NddjNw09nMFd0CCFUV9ymOZmxr0aZ","text":"to go","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"go","translations":[{"type":"dictionary","text":"يذهب","phonetic":null},{"type":"verb","name":{"t":"to go","m":"يذهب","phonetic":"to go"},"id":40,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"7bNI0RboiqsVM_WilX2otoK_sq_OOnIh","text":"I go","phonetic":"","audio_updated_at":1543438139},"m":{"text":"أنا أذهب"}},{"t":{"key":"cacr7_SGG3dzVO-mSG6-3JGMo1QHNnfI","text":"You go","phonetic":"","audio_updated_at":1543438141},"m":{"text":"أنت تذهب"}},{"t":{"key":"bZGv2l3B-K6XJzrbpRcL8BGFxmSL9E41","text":"He goes","phonetic":"","audio_updated_at":1543438142},"m":{"text":"هو يذهب"}},{"t":{"key":"VUXmsiBF52fp9UFoJJbYzXtzSOqd70KL","text":"She goes","phonetic":"","audio_updated_at":1543438143},"m":{"text":"هي تذهب"}},{"t":{"key":"TzT3zhHftJuiDg8yys-D6vI22jJTYXt-","text":"We go","phonetic":"","audio_updated_at":1543438145},"m":{"text":"نحن نذهب"}},{"t":{"key":"vFAnGTkaIgwCphxih4TEtrC1wpds6Ja9","text":"You go","phonetic":"","audio_updated_at":1543438146},"m":{"text":"أنتم تذهبون"}},{"t":{"key":"as-vTrtT2jT-Oo2pJIEXATWc8NGNHyHy","text":"They go","phonetic":"","audio_updated_at":1543438147},"m":{"text":"هم يذهبون"}}],"pa":[{"t":{"key":"ecfE6_usDqBDEgKqLf6lszCSyS6LchO2","text":"I went","phonetic":"","audio_updated_at":1543438148},"m":{"text":"أنا ذهبت"}},{"t":{"key":"EQmuVdiG1ooEYpqZiH9fvnxiX5xa7UCr","text":"You went","phonetic":"","audio_updated_at":1543438149},"m":{"text":"أنت ذهبت"}},{"t":{"key":"qO6qMBah2gqVpJ7TCH0OI-km7Mnjm9AB","text":"He went","phonetic":"","audio_updated_at":1543438151},"m":{"text":"هو ذهب"}},{"t":{"key":"ykHNySLcbj_Rduz8EyjcvdnPK0wlkrz2","text":"She went","phonetic":"","audio_updated_at":1543438152},"m":{"text":"هي ذهبت"}},{"t":{"key":"akN_HA9flK2VWcjlkhPYg3DjSnZZd1oi","text":"We went","phonetic":"","audio_updated_at":1543438153},"m":{"text":"نحن ذهبنا"}},{"t":{"key":"kpGUD063dV_rZBSxR2DvQxiM-k_NPNBS","text":"You went","phonetic":"","audio_updated_at":1541547489},"m":{"text":"أنتم ذهبتم"}},{"t":{"key":"WmZAvV4rAVPbwBgM0_rJ8bu7OG6Qt5Iw","text":"They went","phonetic":"","audio_updated_at":1543438154},"m":{"text":"هم ذهبوا"}}],"fu":[{"t":{"key":"JgvAgyiXF7jLKauYYG7d98AS4yIPb30q","text":"I will go","phonetic":"","audio_updated_at":1543438155},"m":{"text":"أنا سأذهب"}},{"t":{"key":"NWaLgXoxuA-0UioEcTD3PBAgWYUPSj-K","text":"You will go","phonetic":"","audio_updated_at":1543438157},"m":{"text":"أنت ستذهب"}},{"t":{"key":"rg4yVFoVEyzsFbtgrGuEUFJQQPSBkfen","text":"He will go","phonetic":"","audio_updated_at":1543438158},"m":{"text":"هو سيذهب"}},{"t":{"key":"RnFE7AbFeD6gZxaYheN83Gj_HscOn2Cz","text":"She will go","phonetic":"","audio_updated_at":1543438159},"m":{"text":"هي ستذهب"}},{"t":{"key":"fuwQr7AE3vDfvwem4z9cSXVaUBgvvKyy","text":"We will go","phonetic":"","audio_updated_at":1543438160},"m":{"text":"نحن سنذهب"}},{"t":{"key":"ySfGaRO2p3GrKGHH10VcD3XFDi2-Nxa_","text":"You will go","phonetic":"","audio_updated_at":1541547498},"m":{"text":"أنتم ستذهبون"}},{"t":{"key":"dEJvrp2XZNvhxyWlesxvM4ypFeJyU6Ad","text":"They will go","phonetic":"","audio_updated_at":1543438161},"m":{"text":"هم سيذهبون"}}]}}]}]}],"audio_updated_at":1639520294},{"id":10141,"vocabulary":1701,"wordID":24619,"key":"iJ92Nx3nDPZOp9PmgmvBweXGbdN-wHKi","sols":[{"key":"iJ92Nx3nDPZOp9PmgmvBweXGbdN-wHKi","text":"ينهي","dictionary":[{"raw":"ينهي","translations":[]}]},{"key":"iJ92Nx3nDPZOp9PmgmvBweXGbdN-wHKi","text":"to finish","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"finish","translations":[]}]}],"audio_updated_at":1688291586}]}
+{
+  "vocabulary": {
+    "id": 1701,
+    "index": 1,
+    "category": 17,
+    "categoryID": 17,
+    "unifiedUnitId": 17,
+    "unifiedCategoryId": 17,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 11,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10132, 10133, 10134, 10135, 10136, 10137, 10138, 10139, 10140, 10141
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10132,
+      "vocabulary": 1701,
+      "wordID": 19259,
+      "key": "gUxLMEiAHm-3lB6OZ_PlG_LNHTNWDGT9",
+      "sols": [
+        {
+          "key": "gUxLMEiAHm-3lB6OZ_PlG_LNHTNWDGT9",
+          "text": "سريع",
+          "dictionary": [{ "raw": "سريع", "translations": [] }]
+        },
+        {
+          "key": "gUxLMEiAHm-3lB6OZ_PlG_LNHTNWDGT9",
+          "text": "fast",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "fast",
+              "translations": [
+                { "type": "dictionary", "text": "سريع", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436697
+    },
+    {
+      "id": 10133,
+      "vocabulary": 1701,
+      "wordID": 19232,
+      "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+      "sols": [
+        {
+          "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+          "text": "جميل",
+          "dictionary": [{ "raw": "جميل", "translations": [] }]
+        },
+        {
+          "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+          "text": "beautiful",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "beautiful",
+              "translations": [
+                { "type": "dictionary", "text": "جميل", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436679
+    },
+    {
+      "id": 10134,
+      "vocabulary": 1701,
+      "wordID": 19253,
+      "key": "SLVlWDBj8GwANy1ctBA3uW59Oq3CVf46",
+      "sols": [
+        {
+          "key": "SLVlWDBj8GwANy1ctBA3uW59Oq3CVf46",
+          "text": "طويل",
+          "dictionary": [{ "raw": "طويل", "translations": [] }]
+        },
+        {
+          "key": "SLVlWDBj8GwANy1ctBA3uW59Oq3CVf46",
+          "text": "tall",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "tall",
+              "translations": [
+                { "type": "dictionary", "text": "طويل", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436735
+    },
+    {
+      "id": 10135,
+      "vocabulary": 1701,
+      "wordID": 19257,
+      "key": "lbA_971nVx6oYV0H65LxbaMu-SWB83sT",
+      "sols": [
+        {
+          "key": "lbA_971nVx6oYV0H65LxbaMu-SWB83sT",
+          "text": "مريح",
+          "dictionary": [{ "raw": "مريح", "translations": [] }]
+        },
+        {
+          "key": "lbA_971nVx6oYV0H65LxbaMu-SWB83sT",
+          "text": "comfortable",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "comfortable",
+              "translations": [
+                { "type": "dictionary", "text": "مريح", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436687
+    },
+    {
+      "id": 10136,
+      "vocabulary": 1701,
+      "wordID": 23669,
+      "key": "o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh",
+      "sols": [
+        {
+          "key": "o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh",
+          "text": "مشوق",
+          "dictionary": [{ "raw": "مشوق", "translations": [] }]
+        },
+        {
+          "key": "o-3V0CUNe8PWO9o9ZZagqV72bKkUJqxh",
+          "text": "interesting",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "interesting",
+              "translations": [
+                { "type": "dictionary", "text": "مشوق", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290515
+    },
+    {
+      "id": 10137,
+      "vocabulary": 1701,
+      "wordID": 23797,
+      "key": "a2mtsLb08llpWITo_svO35Rry5gtrwzv",
+      "sols": [
+        {
+          "key": "a2mtsLb08llpWITo_svO35Rry5gtrwzv",
+          "text": "تثلج",
+          "dictionary": [{ "raw": "تثلج", "translations": [] }]
+        },
+        {
+          "key": "a2mtsLb08llpWITo_svO35Rry5gtrwzv",
+          "text": "to snow",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "snow",
+              "translations": [
+                { "type": "dictionary", "text": "تثلج", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290662
+    },
+    {
+      "id": 10138,
+      "vocabulary": 1701,
+      "wordID": 23796,
+      "key": "O8ie8FSdrbrHagn9N0IiXU00O02x7LwN",
+      "sols": [
+        {
+          "key": "O8ie8FSdrbrHagn9N0IiXU00O02x7LwN",
+          "text": "تمطر",
+          "dictionary": [{ "raw": "تمطر", "translations": [] }]
+        },
+        {
+          "key": "O8ie8FSdrbrHagn9N0IiXU00O02x7LwN",
+          "text": "to rain",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "rain",
+              "translations": [
+                { "type": "dictionary", "text": "تمطر", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290661
+    },
+    {
+      "id": 10139,
+      "vocabulary": 1701,
+      "wordID": 13320,
+      "key": "8B8g1auV489wQtx4fhkh8zhu-W92TQR2",
+      "sols": [
+        {
+          "key": "8B8g1auV489wQtx4fhkh8zhu-W92TQR2",
+          "text": "يساعد",
+          "dictionary": [
+            {
+              "raw": "يساعد",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to help",
+                    "m": "يساعد",
+                    "phonetic": "to help"
+                  },
+                  "id": 43,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ",
+                          "text": "I help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438179
+                        },
+                        "m": { "text": "أنا أساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438180
+                        },
+                        "m": { "text": "أنت تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s",
+                          "text": "He helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438181
+                        },
+                        "m": { "text": "هو يساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9",
+                          "text": "She helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438182
+                        },
+                        "m": { "text": "هي تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ParYyqadRkg9qMwprdEQvUHplzqHyMbk",
+                          "text": "We help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438184
+                        },
+                        "m": { "text": "نحن نساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547555
+                        },
+                        "m": { "text": "أنتم تساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "VGuPZI4vdq97_VnJzetW08suAOSYkP2G",
+                          "text": "They help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438185
+                        },
+                        "m": { "text": "هم يساعدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr",
+                          "text": "I helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547558
+                        },
+                        "m": { "text": "أنا ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "أنت ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q",
+                          "text": "He helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "هو ساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "2w3NgLuoTBE72ZkltxnWThvOeartBWAR",
+                          "text": "She helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547560
+                        },
+                        "m": { "text": "هي ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO",
+                          "text": "We helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547562
+                        },
+                        "m": { "text": "نحن ساعدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547563
+                        },
+                        "m": { "text": "أنتم ساعدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "lBh1FKOForCy2PzDsi5BgfFStNWI1fim",
+                          "text": "They helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547564
+                        },
+                        "m": { "text": "هم ساعدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm",
+                          "text": "I will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547565
+                        },
+                        "m": { "text": "أنا سأساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "أنت ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn",
+                          "text": "He will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "هو سيساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr",
+                          "text": "She will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547568
+                        },
+                        "m": { "text": "هي ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i",
+                          "text": "We will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547570
+                        },
+                        "m": { "text": "نحن سنساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547571
+                        },
+                        "m": { "text": "أنتم ستساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto",
+                          "text": "They will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547572
+                        },
+                        "m": { "text": "هم سيساعدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "8B8g1auV489wQtx4fhkh8zhu-W92TQR2",
+          "text": "to help",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "help",
+              "translations": [
+                { "type": "dictionary", "text": "يساعد", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to help",
+                    "m": "يساعد",
+                    "phonetic": "to help"
+                  },
+                  "id": 43,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ",
+                          "text": "I help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438179
+                        },
+                        "m": { "text": "أنا أساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438180
+                        },
+                        "m": { "text": "أنت تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s",
+                          "text": "He helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438181
+                        },
+                        "m": { "text": "هو يساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9",
+                          "text": "She helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438182
+                        },
+                        "m": { "text": "هي تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ParYyqadRkg9qMwprdEQvUHplzqHyMbk",
+                          "text": "We help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438184
+                        },
+                        "m": { "text": "نحن نساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547555
+                        },
+                        "m": { "text": "أنتم تساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "VGuPZI4vdq97_VnJzetW08suAOSYkP2G",
+                          "text": "They help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438185
+                        },
+                        "m": { "text": "هم يساعدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr",
+                          "text": "I helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547558
+                        },
+                        "m": { "text": "أنا ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "أنت ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q",
+                          "text": "He helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "هو ساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "2w3NgLuoTBE72ZkltxnWThvOeartBWAR",
+                          "text": "She helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547560
+                        },
+                        "m": { "text": "هي ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO",
+                          "text": "We helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547562
+                        },
+                        "m": { "text": "نحن ساعدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547563
+                        },
+                        "m": { "text": "أنتم ساعدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "lBh1FKOForCy2PzDsi5BgfFStNWI1fim",
+                          "text": "They helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547564
+                        },
+                        "m": { "text": "هم ساعدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm",
+                          "text": "I will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547565
+                        },
+                        "m": { "text": "أنا سأساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "أنت ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn",
+                          "text": "He will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "هو سيساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr",
+                          "text": "She will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547568
+                        },
+                        "m": { "text": "هي ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i",
+                          "text": "We will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547570
+                        },
+                        "m": { "text": "نحن سنساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547571
+                        },
+                        "m": { "text": "أنتم ستساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto",
+                          "text": "They will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547572
+                        },
+                        "m": { "text": "هم سيساعدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639519568
+    },
+    {
+      "id": 10140,
+      "vocabulary": 1701,
+      "wordID": 15395,
+      "key": "w8-NddjNw09nMFd0CCFUV9ymOZmxr0aZ",
+      "sols": [
+        {
+          "key": "w8-NddjNw09nMFd0CCFUV9ymOZmxr0aZ",
+          "text": "يذهب",
+          "dictionary": [
+            {
+              "raw": "يذهب",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to go", "m": "يذهب", "phonetic": "to go" },
+                  "id": 40,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "7bNI0RboiqsVM_WilX2otoK_sq_OOnIh",
+                          "text": "I go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438139
+                        },
+                        "m": { "text": "أنا أذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "cacr7_SGG3dzVO-mSG6-3JGMo1QHNnfI",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438141
+                        },
+                        "m": { "text": "أنت تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "bZGv2l3B-K6XJzrbpRcL8BGFxmSL9E41",
+                          "text": "He goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438142
+                        },
+                        "m": { "text": "هو يذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VUXmsiBF52fp9UFoJJbYzXtzSOqd70KL",
+                          "text": "She goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438143
+                        },
+                        "m": { "text": "هي تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "TzT3zhHftJuiDg8yys-D6vI22jJTYXt-",
+                          "text": "We go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438145
+                        },
+                        "m": { "text": "نحن نذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "vFAnGTkaIgwCphxih4TEtrC1wpds6Ja9",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438146
+                        },
+                        "m": { "text": "أنتم تذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "as-vTrtT2jT-Oo2pJIEXATWc8NGNHyHy",
+                          "text": "They go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438147
+                        },
+                        "m": { "text": "هم يذهبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "ecfE6_usDqBDEgKqLf6lszCSyS6LchO2",
+                          "text": "I went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438148
+                        },
+                        "m": { "text": "أنا ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "EQmuVdiG1ooEYpqZiH9fvnxiX5xa7UCr",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438149
+                        },
+                        "m": { "text": "أنت ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qO6qMBah2gqVpJ7TCH0OI-km7Mnjm9AB",
+                          "text": "He went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438151
+                        },
+                        "m": { "text": "هو ذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ykHNySLcbj_Rduz8EyjcvdnPK0wlkrz2",
+                          "text": "She went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438152
+                        },
+                        "m": { "text": "هي ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "akN_HA9flK2VWcjlkhPYg3DjSnZZd1oi",
+                          "text": "We went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438153
+                        },
+                        "m": { "text": "نحن ذهبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "kpGUD063dV_rZBSxR2DvQxiM-k_NPNBS",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547489
+                        },
+                        "m": { "text": "أنتم ذهبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "WmZAvV4rAVPbwBgM0_rJ8bu7OG6Qt5Iw",
+                          "text": "They went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438154
+                        },
+                        "m": { "text": "هم ذهبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "JgvAgyiXF7jLKauYYG7d98AS4yIPb30q",
+                          "text": "I will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438155
+                        },
+                        "m": { "text": "أنا سأذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "NWaLgXoxuA-0UioEcTD3PBAgWYUPSj-K",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438157
+                        },
+                        "m": { "text": "أنت ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "rg4yVFoVEyzsFbtgrGuEUFJQQPSBkfen",
+                          "text": "He will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438158
+                        },
+                        "m": { "text": "هو سيذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "RnFE7AbFeD6gZxaYheN83Gj_HscOn2Cz",
+                          "text": "She will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438159
+                        },
+                        "m": { "text": "هي ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "fuwQr7AE3vDfvwem4z9cSXVaUBgvvKyy",
+                          "text": "We will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438160
+                        },
+                        "m": { "text": "نحن سنذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ySfGaRO2p3GrKGHH10VcD3XFDi2-Nxa_",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547498
+                        },
+                        "m": { "text": "أنتم ستذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "dEJvrp2XZNvhxyWlesxvM4ypFeJyU6Ad",
+                          "text": "They will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438161
+                        },
+                        "m": { "text": "هم سيذهبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "w8-NddjNw09nMFd0CCFUV9ymOZmxr0aZ",
+          "text": "to go",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "go",
+              "translations": [
+                { "type": "dictionary", "text": "يذهب", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to go", "m": "يذهب", "phonetic": "to go" },
+                  "id": 40,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "7bNI0RboiqsVM_WilX2otoK_sq_OOnIh",
+                          "text": "I go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438139
+                        },
+                        "m": { "text": "أنا أذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "cacr7_SGG3dzVO-mSG6-3JGMo1QHNnfI",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438141
+                        },
+                        "m": { "text": "أنت تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "bZGv2l3B-K6XJzrbpRcL8BGFxmSL9E41",
+                          "text": "He goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438142
+                        },
+                        "m": { "text": "هو يذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VUXmsiBF52fp9UFoJJbYzXtzSOqd70KL",
+                          "text": "She goes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438143
+                        },
+                        "m": { "text": "هي تذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "TzT3zhHftJuiDg8yys-D6vI22jJTYXt-",
+                          "text": "We go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438145
+                        },
+                        "m": { "text": "نحن نذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "vFAnGTkaIgwCphxih4TEtrC1wpds6Ja9",
+                          "text": "You go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438146
+                        },
+                        "m": { "text": "أنتم تذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "as-vTrtT2jT-Oo2pJIEXATWc8NGNHyHy",
+                          "text": "They go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438147
+                        },
+                        "m": { "text": "هم يذهبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "ecfE6_usDqBDEgKqLf6lszCSyS6LchO2",
+                          "text": "I went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438148
+                        },
+                        "m": { "text": "أنا ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "EQmuVdiG1ooEYpqZiH9fvnxiX5xa7UCr",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438149
+                        },
+                        "m": { "text": "أنت ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qO6qMBah2gqVpJ7TCH0OI-km7Mnjm9AB",
+                          "text": "He went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438151
+                        },
+                        "m": { "text": "هو ذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ykHNySLcbj_Rduz8EyjcvdnPK0wlkrz2",
+                          "text": "She went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438152
+                        },
+                        "m": { "text": "هي ذهبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "akN_HA9flK2VWcjlkhPYg3DjSnZZd1oi",
+                          "text": "We went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438153
+                        },
+                        "m": { "text": "نحن ذهبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "kpGUD063dV_rZBSxR2DvQxiM-k_NPNBS",
+                          "text": "You went",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547489
+                        },
+                        "m": { "text": "أنتم ذهبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "WmZAvV4rAVPbwBgM0_rJ8bu7OG6Qt5Iw",
+                          "text": "They went",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438154
+                        },
+                        "m": { "text": "هم ذهبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "JgvAgyiXF7jLKauYYG7d98AS4yIPb30q",
+                          "text": "I will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438155
+                        },
+                        "m": { "text": "أنا سأذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "NWaLgXoxuA-0UioEcTD3PBAgWYUPSj-K",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438157
+                        },
+                        "m": { "text": "أنت ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "rg4yVFoVEyzsFbtgrGuEUFJQQPSBkfen",
+                          "text": "He will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438158
+                        },
+                        "m": { "text": "هو سيذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "RnFE7AbFeD6gZxaYheN83Gj_HscOn2Cz",
+                          "text": "She will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438159
+                        },
+                        "m": { "text": "هي ستذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "fuwQr7AE3vDfvwem4z9cSXVaUBgvvKyy",
+                          "text": "We will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438160
+                        },
+                        "m": { "text": "نحن سنذهب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ySfGaRO2p3GrKGHH10VcD3XFDi2-Nxa_",
+                          "text": "You will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547498
+                        },
+                        "m": { "text": "أنتم ستذهبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "dEJvrp2XZNvhxyWlesxvM4ypFeJyU6Ad",
+                          "text": "They will go",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438161
+                        },
+                        "m": { "text": "هم سيذهبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639520294
+    },
+    {
+      "id": 10141,
+      "vocabulary": 1701,
+      "wordID": 24619,
+      "key": "iJ92Nx3nDPZOp9PmgmvBweXGbdN-wHKi",
+      "sols": [
+        {
+          "key": "iJ92Nx3nDPZOp9PmgmvBweXGbdN-wHKi",
+          "text": "ينهي",
+          "dictionary": [{ "raw": "ينهي", "translations": [] }]
+        },
+        {
+          "key": "iJ92Nx3nDPZOp9PmgmvBweXGbdN-wHKi",
+          "text": "to finish",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "finish", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291586
+    }
+  ]
+}

@@ -1,1 +1,3088 @@
-{"lesson":{"id":2205,"index":5,"unitNumber":null,"unitType":0,"unitStyle":0,"unitScope":0,"category":22,"categoryID":22,"unifiedUnitId":132,"unifiedCategoryId":22,"name":"أنا أحتاج إلى ...","isCourse":false,"disabled":false,"done":false,"stars":false,"difficulty":"beginner","countQuiz":28,"countWords":10,"countPhrases":7,"countDone":0,"quizzes":[644012,644013,644014,644015,644016,644017,644018,644019,644020,644021,644022,644023,644024,644025,644026,644027,644028,644029,644030,644031,644032,644033,644034,644035,644036,644037,644038,644039]},"quizzes":[{"id":644012,"lesson":2205,"type":"D","modifiers":327,"wordID":16400,"alternates":[17465,18920,16319],"sols":[{"key":"zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8","audio_updated_at":1543437262,"text":"فندق"},{"key":"wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z","audio_updated_at":1688290324,"text":"هاتف"},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text":"خريطة"},{"key":"T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg","audio_updated_at":1543437669,"text":"سيارة أجرة"}],"alts":[{"key":"zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8","audio_updated_at":1543437262,"image":"X8_-OKJrupuztdipWsdB_gX05vDakPHt","image_updated_at":1689159063,"text":"hotel","phonetic":"","article_text":"a","article_phonetic":""},{"key":"wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z","audio_updated_at":1688290324,"image":"gA6eh3fKRxQF0zxSYp5-SjLOoKsUAySQ","image_updated_at":1689159002,"text":"phone","phonetic":"","article_text":"a","article_phonetic":""},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text":"map","phonetic":"","article_text":"a","article_phonetic":"","image":"_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT","image_updated_at":1689159013},{"key":"T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg","audio_updated_at":1543437669,"image":"cxTd0lMzOkoPDfqv82oMlR9mo9KIlWSG","image_updated_at":1689159169,"text":"taxi","phonetic":"","article_text":"a","article_phonetic":""}]},{"id":644013,"lesson":2205,"type":"F","modifiers":71,"wordID":16400,"alternates":[16319],"sols":[{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text":"خريطة"},{"key":"wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z","audio_updated_at":1688290324,"text":"هاتف"}],"alts":[{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text":"map","phonetic":"","article_text":"a","article_phonetic":"","image":"_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT","image_updated_at":1689159013},{"key":"wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z","audio_updated_at":1688290324,"image":"gA6eh3fKRxQF0zxSYp5-SjLOoKsUAySQ","image_updated_at":1689159002,"text":"phone","phonetic":"","article_text":"a","article_phonetic":""}]},{"id":644014,"lesson":2205,"type":"C1b","modifiers":72,"wordID":16515,"alternates":[16400],"tokens":[{"key":"tNfp95HAKpF","text":"map.","raw":{"text":"map","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":12,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"tm2g7aH9ONp","text":"want","raw":{"text":"want","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tz8dd2YF9do","text":"look.","raw":{"text":"look","location":13,"length":4},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"tOejzHqIVhV","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t3rR7NCXhAr","text":"a","raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"tuQ3i-lT6Xv","text":"new","raw":{"text":"new","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tg44xqxNaJ8","text":"need","raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}}],"tokensEqualSize":false,"ord":["tOejzHqIVhV","tg44xqxNaJ8","t3rR7NCXhAr","tNfp95HAKpF"],"completeToken":"tNfp95HAKpF","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"أنا أحتاج إلى خريطة.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"خريطة","translations":[{"type":"dictionary","text":"map","phonetic":"map"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"خريطة","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":13,"length":1}}]},{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"I need a map.","phonetic":""}]},{"id":644015,"lesson":2205,"type":"T1","modifiers":40,"wordID":19335,"alternates":[],"tokens":[{"key":"tWcjKPql0gE","text":"هاتفك؟","raw":{"text":"هاتفك","location":18,"length":5},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"؟","location":23,"length":1},"linker":{"text":" ","location":17,"length":1}},{"key":"t-ShLLv4m0X","text":"استخدام","raw":{"text":"استخدام","location":10,"length":7},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"tJHuf17IlMr","text":"هاتف.","raw":{"text":"هاتف","location":14,"length":4},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":13,"length":1}},{"key":"t_c-yKxWv8b","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tdpJaB4K2Bb","text":"أحتاج","raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"trX4WssZlwI","text":"يمكنني","raw":{"text":"يمكنني","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tjSqja_DKm2","text":"هل","raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tdfTtmEimdp","text":"إلى","raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}}],"tokensEqualSize":true,"ord":["t_c-yKxWv8b","tdpJaB4K2Bb","tdfTtmEimdp","tJHuf17IlMr"],"sols":[{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","audio_updated_at":1688290364,"text":"I need a phone.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"need","translations":[{"type":"dictionary","text":"أحتاج","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"phone","translations":[{"type":"dictionary","text":"هاتف","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"phone","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","audio_updated_at":1688290364,"text":"أنا أحتاج إلى هاتف."}]},{"id":644016,"lesson":2205,"type":"P","modifiers":65,"wordID":18920,"alternates":[17465,16319,16400],"sols":[{"key":"T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg","audio_updated_at":1543437669,"text":"سيارة أجرة"},{"key":"zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8","text":"فندق"},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","text":"خريطة"},{"key":"wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z","text":"هاتف"}],"alts":[{"key":"T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg","audio_updated_at":1543437669,"text":"taxi","phonetic":"","article_text":"a","article_phonetic":"","image":"cxTd0lMzOkoPDfqv82oMlR9mo9KIlWSG","image_updated_at":1689159169},{"key":"zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8","audio_updated_at":1543437262,"text":"hotel","phonetic":"","article_text":"a","article_phonetic":"","image":"X8_-OKJrupuztdipWsdB_gX05vDakPHt","image_updated_at":1689159063},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text":"map","phonetic":"","article_text":"a","article_phonetic":"","image":"_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT","image_updated_at":1689159013},{"key":"wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z","audio_updated_at":1688290324,"text":"phone","phonetic":"","article_text":"a","article_phonetic":"","image":"gA6eh3fKRxQF0zxSYp5-SjLOoKsUAySQ","image_updated_at":1689159002}]},{"id":644017,"lesson":2205,"type":"T1b","modifiers":72,"wordID":16516,"alternates":[],"tokens":[{"key":"tEEMJ1hoP7s","text":"a","raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"t8OPIDrpwVe","text":"who","raw":{"text":"who","location":21,"length":3},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":20,"length":1}},{"key":"t_KH_nfY-Y7","text":"like","raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tDFfEyw3ITd","text":"taxi.","raw":{"text":"taxi","location":9,"length":4},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"tGnbNq2j9Hw","text":"guide","raw":{"text":"guide","location":15,"length":5},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":14,"length":1}},{"key":"tYVV79WyozL","text":"need","raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tAAI4Nsc-qA","text":"would","raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tl2vRXr6Kr7","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":false,"ord":["tl2vRXr6Kr7","tYVV79WyozL","tEEMJ1hoP7s","tDFfEyw3ITd"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","audio_updated_at":1543435351,"text":"أنا ‫أحتاج إلى سيارة أجرة.‬","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"سيارة","translations":[]},{"raw":"أجرة","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":5,"length":5},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":"","location":5,"length":0}},{"raw":{"text":"إلى","location":11,"length":3},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"سيارة","location":15,"length":5},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":14,"length":1}},{"raw":{"text":"أجرة","location":21,"length":4},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":20,"length":1}}]},{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","audio_updated_at":1543435351,"text":"I need a taxi.","phonetic":""}]},{"id":644018,"lesson":2205,"type":"T1","modifiers":40,"wordID":17514,"alternates":[],"tokens":[{"key":"tBfpIQCL-3z","text":"فندق.","raw":{"text":"فندق","location":14,"length":4},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":13,"length":1}},{"key":"tv_hHlnGL9N","text":"إلى","raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"tmmjTtRhcxR","text":"إطلالة.","raw":{"text":"إطلالة","location":22,"length":6},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":".","location":28,"length":1},"linker":{"text":" ","location":21,"length":1}},{"key":"txYtnhfqHOV","text":"غرفة","raw":{"text":"غرفة","location":14,"length":4},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":13,"length":1}},{"key":"tqSft4NhXTB","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t_hRJGDuwdM","text":"مع","raw":{"text":"مع","location":19,"length":2},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":18,"length":1}},{"key":"tsW60PqKP0p","text":"أحتاج","raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}}],"tokensEqualSize":true,"ord":["tqSft4NhXTB","tsW60PqKP0p","tv_hHlnGL9N","tBfpIQCL-3z"],"sols":[{"key":"rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw","audio_updated_at":1543435354,"text":"I need a hotel.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"need","translations":[{"type":"dictionary","text":"أحتاج","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"hotel","translations":[{"type":"dictionary","text":"فندق","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"hotel","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw","audio_updated_at":1543435354,"text":"أنا أحتاج إلى فندق."}]},{"id":644019,"lesson":2205,"type":"F","modifiers":71,"wordID":18921,"alternates":[19101],"sols":[{"key":"W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD","audio_updated_at":1543437384,"text":"تذكرة"},{"key":"qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC","audio_updated_at":1543436741,"text":"حاسوب"}],"alts":[{"key":"W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD","audio_updated_at":1543437384,"text":"ticket","phonetic":"","article_text":"a","article_phonetic":"","image":"TzYmw145RIwKhI42l8vQT-TeWH6YR3C0","image_updated_at":1689159169},{"key":"qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC","audio_updated_at":1543436741,"image":"YxwqXickRhh4JCLUJQw0DzA4G6Y6ocBF","image_updated_at":1689159174,"text":"computer","phonetic":"","article_text":"a","article_phonetic":""}]},{"id":644020,"lesson":2205,"type":"C1b","modifiers":72,"wordID":23726,"alternates":[18921],"tokens":[{"key":"t-WySExZqBd","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tGpp5Lmh8RH","text":"how","raw":{"text":"how","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t6MhoPrkVPy","text":"many","raw":{"text":"many","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tG8SZPPePtn","text":"need","raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"taVYjRtNWCK","text":"a","raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"tpd00S7Q2yK","text":"people?","raw":{"text":"people","location":13,"length":6},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"?","location":19,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"tF0EAhek6C8","text":"For","raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tZqHjgPCEnD","text":"ticket.","raw":{"text":"ticket","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":8,"length":1}}],"tokensEqualSize":false,"ord":["t-WySExZqBd","tG8SZPPePtn","taVYjRtNWCK","tZqHjgPCEnD"],"completeToken":"tZqHjgPCEnD","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J","audio_updated_at":1688290581,"text":"أنا أحتاج إلى تذكرة.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"تذكرة","translations":[{"type":"dictionary","text":"ticket","phonetic":"ticket"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"تذكرة","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":13,"length":1}}]},{"key":"cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J","audio_updated_at":1688290581,"text":"I need a ticket.","phonetic":""}]},{"id":644021,"lesson":2205,"type":"T1","modifiers":40,"wordID":19332,"alternates":[],"tokens":[{"key":"teeUyQaaFWb","text":"أحتاج","raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t_al8xAhNgg","text":"حاسوب.","raw":{"text":"حاسوب","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":13,"length":1}},{"key":"t55DUnVkYed","text":"يمكنني","raw":{"text":"يمكنني","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tSZSHM07iFW","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tY_NL-ntquH","text":"إلى","raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"tzOU7y9_WeH","text":"أن","raw":{"text":"أن","location":10,"length":2},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"t2GTfAjIvte","text":"هل","raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tdGlkY0WsHf","text":"اسألك","raw":{"text":"اسألك","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":12,"length":1}}],"tokensEqualSize":true,"ord":["tSZSHM07iFW","teeUyQaaFWb","tY_NL-ntquH","t_al8xAhNgg"],"sols":[{"key":"WenS8Y41EciY4ImeV8IPDp4jJz9oe25K","audio_updated_at":1543436015,"text":"I need a computer.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"need","translations":[{"type":"dictionary","text":"أحتاج","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"computer","translations":[{"type":"dictionary","text":"حاسوب","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"computer","location":9,"length":8},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"WenS8Y41EciY4ImeV8IPDp4jJz9oe25K","audio_updated_at":1543436015,"text":"أنا أحتاج إلى حاسوب."}]},{"id":644022,"lesson":2205,"type":"T1b","modifiers":72,"wordID":19334,"alternates":[],"tokens":[{"key":"tnAj3PKbR9G","text":"tell","raw":{"text":"tell","location":6,"length":4},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":5,"length":1}},{"key":"tD_uQVWtxPQ","text":"something?","raw":{"text":"something","location":15,"length":9},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"?","location":24,"length":1},"linker":{"text":" ","location":14,"length":1}},{"key":"tSkEdfbAPl6","text":"you","raw":{"text":"you","location":11,"length":3},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tn7mwPacLp7","text":"May","raw":{"text":"May","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tExESSnQYQ0","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"toa3KWAXG8j","text":"pen.","raw":{"text":"pen","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":12,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"tQe5DCocosC","text":"need","raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tcRFJwGXAUH","text":"a","raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}}],"tokensEqualSize":false,"ord":["tExESSnQYQ0","tQe5DCocosC","tcRFJwGXAUH","toa3KWAXG8j"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC","audio_updated_at":1543436017,"text":"أنا أحتاج إلى قلم.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"قلم","translations":[{"type":"dictionary","text":"pen","phonetic":"pen"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"قلم","location":14,"length":3},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":13,"length":1}}]},{"key":"EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC","audio_updated_at":1543436017,"text":"I need a pen.","phonetic":""}]},{"id":644023,"lesson":2205,"type":"T1b","modifiers":72,"wordID":16515,"alternates":[],"tokens":[{"key":"tYdq-fIDR0t","text":"map.","raw":{"text":"map","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":12,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"t-93WSWLkPs","text":"a","raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"toUR0FwDGmi","text":"please.","raw":{"text":"please","location":20,"length":6},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":".","location":26,"length":1},"linker":{"text":" ","location":19,"length":1}},{"key":"trdIwAMciA4","text":"like","raw":{"text":"like","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tIVgTtqozaH","text":"need","raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tpTfsnm0BAS","text":"I'd","raw":{"text":"I'd","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tcH0CV9fkdA","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tzWLN8EJvUn","text":"haircut,","raw":{"text":"haircut","location":11,"length":7},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":",","location":18,"length":1},"linker":{"text":" ","location":10,"length":1}}],"tokensEqualSize":false,"ord":["tcH0CV9fkdA","tIVgTtqozaH","t-93WSWLkPs","tYdq-fIDR0t"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"أنا أحتاج إلى خريطة.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"خريطة","translations":[{"type":"dictionary","text":"map","phonetic":"map"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"خريطة","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":13,"length":1}}]},{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"I need a map.","phonetic":""}]},{"id":644024,"lesson":2205,"type":"Q","modifiers":41,"wordID":19335,"alternates":[16515,16516],"sols":[{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","audio_updated_at":1688290364,"text":"I need a phone.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"need","translations":[{"type":"dictionary","text":"أحتاج","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"phone","translations":[{"type":"dictionary","text":"هاتف","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"phone","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","text":"I need a map.","phonetic":""},{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","text":"I need a taxi.","phonetic":""}],"alts":[{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","audio_updated_at":1688290364,"text":"أنا أحتاج إلى هاتف."},{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"أنا أحتاج إلى خريطة."},{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","audio_updated_at":1543435351,"text":"أنا ‫أحتاج إلى سيارة أجرة.‬"}]},{"id":644025,"lesson":2205,"type":"C2b","modifiers":92,"wordID":16516,"alternates":[18920],"tokens":[{"key":"tVYjTDjNgok","text":"i","group":3},{"key":"tRpe2aLVvUY","text":"x","group":3},{"key":"t6J5VFYG2qm","text":" ","specialChar":true},{"key":"tK-cWHvXC1L","text":"a","group":3},{"key":"tVNqU_mB8WY","text":"t","group":3},{"key":"tNlSJ--Ci76","text":".","specialChar":true}],"tokensEqualSize":false,"ord":["t6J5VFYG2qm","tVNqU_mB8WY","tK-cWHvXC1L","tRpe2aLVvUY","tVYjTDjNgok","tNlSJ--Ci76"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","audio_updated_at":1543435351,"text":"أنا ‫أحتاج إلى سيارة أجرة.‬","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"سيارة","translations":[]},{"raw":"أجرة","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":5,"length":5},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":"","location":5,"length":0}},{"raw":{"text":"إلى","location":11,"length":3},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"سيارة","location":15,"length":5},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":14,"length":1}},{"raw":{"text":"أجرة","location":21,"length":4},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":20,"length":1}}]},{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","audio_updated_at":1543435351,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"taxi","location":9,"length":4},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[],"text":"I need a taxi.","phonetic":""}]},{"id":644026,"lesson":2205,"type":"W1b","modifiers":68,"wordID":17465,"alternates":[],"tokens":[{"key":"t5ENck5Zrzv","text":"o","group":0},{"key":"tTx-swwgGa2","text":"e","group":0},{"key":"t4yhqPAl7BV","text":"h","group":0},{"key":"tVTimCm20rE","text":"t","group":0},{"key":"tdKyvoMnznm","text":"l","group":0}],"tokensEqualSize":false,"ord":["t4yhqPAl7BV","t5ENck5Zrzv","tVTimCm20rE","tTx-swwgGa2","tdKyvoMnznm"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8","audio_updated_at":1543437262,"text":"فندق","dictionary":[{"raw":"فندق","translations":[{"type":"dictionary","text":"hotel","phonetic":"hotel"}]}],"phraseType":0,"text_tokens":[{"raw":{"text":"فندق","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}]},{"key":"zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8","audio_updated_at":1543437262,"text_tokens":[{"raw":{"text":"hotel","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[],"text":"hotel","phonetic":"","article_text":"a","article_phonetic":"","image":"X8_-OKJrupuztdipWsdB_gX05vDakPHt","image_updated_at":1689159063}]},{"id":644027,"lesson":2205,"type":"T1b","modifiers":72,"wordID":17514,"alternates":[],"tokens":[{"key":"tHOhIxofqrr","text":"arrive","raw":{"text":"arrive","location":7,"length":6},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"tGU358To9hH","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tYnqqtyN0QV","text":"need","raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tkhPjE9TNLz","text":"on","raw":{"text":"on","location":14,"length":2},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":16,"length":0},"linker":{"text":" ","location":13,"length":1}},{"key":"t7NMs2k49wf","text":"Tuesday.","raw":{"text":"Tuesday","location":17,"length":7},"prefix":{"text":"","location":17,"length":0},"suffix":{"text":".","location":24,"length":1},"linker":{"text":" ","location":16,"length":1}},{"key":"tbenq1pzHSE","text":"hotel.","raw":{"text":"hotel","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"t32ry-1zbq-","text":"will","raw":{"text":"will","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tu0OoNzZkeN","text":"a","raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}}],"tokensEqualSize":false,"ord":["tGU358To9hH","tYnqqtyN0QV","tu0OoNzZkeN","tbenq1pzHSE"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw","audio_updated_at":1543435354,"text":"أنا أحتاج إلى فندق.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"فندق","translations":[{"type":"dictionary","text":"hotel","phonetic":"hotel"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"فندق","location":14,"length":4},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":13,"length":1}}]},{"key":"rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw","audio_updated_at":1543435354,"text":"I need a hotel.","phonetic":""}]},{"id":644028,"lesson":2205,"type":"Q","modifiers":41,"wordID":19334,"alternates":[17514,23726],"sols":[{"key":"EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC","audio_updated_at":1543436017,"text":"I need a pen.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"need","translations":[{"type":"dictionary","text":"أحتاج","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"pen","translations":[{"type":"dictionary","text":"قلم","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"pen","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":12,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw","text":"I need a hotel.","phonetic":""},{"key":"cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J","text":"I need a ticket.","phonetic":""}],"alts":[{"key":"EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC","audio_updated_at":1543436017,"text":"أنا أحتاج إلى قلم."},{"key":"rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw","audio_updated_at":1543435354,"text":"أنا أحتاج إلى فندق."},{"key":"cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J","audio_updated_at":1688290581,"text":"أنا أحتاج إلى تذكرة."}]},{"id":644029,"lesson":2205,"type":"Q","modifiers":41,"wordID":18921,"alternates":[19101,16400],"sols":[{"key":"W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD","audio_updated_at":1543437384,"text":"ticket","phonetic":"","article_text":"a","article_phonetic":"","dictionary":[{"raw":"ticket","translations":[{"type":"dictionary","text":"تذكرة","phonetic":null}]}],"phraseType":0,"text_tokens":[{"raw":{"text":"ticket","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[]},{"key":"qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC","text":"computer","phonetic":"","article_text":"a","article_phonetic":""},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","text":"map","phonetic":"","article_text":"a","article_phonetic":""}],"alts":[{"key":"W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD","audio_updated_at":1543437384,"text":"تذكرة"},{"key":"qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC","audio_updated_at":1543436741,"text":"حاسوب"},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text":"خريطة"}]},{"id":644030,"lesson":2205,"type":"T1","modifiers":40,"wordID":23726,"alternates":[],"tokens":[{"key":"tMHUz6Owx1h","text":"نحن","raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tooeEfLvIij","text":"نفتح","raw":{"text":"نفتح","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t6Asze-x584","text":"في","raw":{"text":"في","location":9,"length":2},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tPbXjt0aWrG","text":"أحتاج","raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tTH2AVXcXTJ","text":"الساعة","raw":{"text":"الساعة","location":12,"length":6},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":11,"length":1}},{"key":"tlVyXw2Wmft","text":"تذكرة.","raw":{"text":"تذكرة","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":13,"length":1}},{"key":"tcFiRwkDfyl","text":"إلى","raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"tDj6ritxoGb","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tDj6ritxoGb","tPbXjt0aWrG","tcFiRwkDfyl","tlVyXw2Wmft"],"sols":[{"key":"cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J","audio_updated_at":1688290581,"text":"I need a ticket.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"need","translations":[{"type":"dictionary","text":"أحتاج","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"ticket","translations":[{"type":"dictionary","text":"تذكرة","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"ticket","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J","audio_updated_at":1688290581,"text":"أنا أحتاج إلى تذكرة."}]},{"id":644031,"lesson":2205,"type":"T1b","modifiers":72,"wordID":19101,"alternates":[],"tokens":[{"key":"tS1iyWqFA5f","text":"dancer","raw":{"text":"dancer","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tEECI0UisBV","text":"computer","raw":{"text":"computer","location":0,"length":8},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":false,"ord":["tEECI0UisBV"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC","audio_updated_at":1543436741,"text":"حاسوب","dictionary":[],"phraseType":0,"text_tokens":[{"raw":{"text":"حاسوب","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":"","location":0,"length":0}}]},{"key":"qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC","audio_updated_at":1543436741,"text":"computer","phonetic":"","article_text":"a","article_phonetic":""}]},{"id":644032,"lesson":2205,"type":"T1b","modifiers":72,"wordID":19332,"alternates":[],"tokens":[{"key":"tJQnEFiozYL","text":"want","raw":{"text":"want","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tjmQGagg1cB","text":"a","raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"tbGGUG3nGpC","text":"write","raw":{"text":"write","location":10,"length":5},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"tHoV9reqMNJ","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tyJEneIhT-n","text":"to","raw":{"text":"to","location":7,"length":2},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"ts5LXTv2FvY","text":"computer.","raw":{"text":"computer","location":9,"length":8},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"tngF2p4gg0R","text":"need","raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tBetcbCZf3F","text":"something.","raw":{"text":"something","location":16,"length":9},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":".","location":25,"length":1},"linker":{"text":" ","location":15,"length":1}}],"tokensEqualSize":false,"ord":["tHoV9reqMNJ","tngF2p4gg0R","tjmQGagg1cB","ts5LXTv2FvY"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"WenS8Y41EciY4ImeV8IPDp4jJz9oe25K","audio_updated_at":1543436015,"text":"أنا أحتاج إلى حاسوب.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"حاسوب","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"حاسوب","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":13,"length":1}}]},{"key":"WenS8Y41EciY4ImeV8IPDp4jJz9oe25K","audio_updated_at":1543436015,"text":"I need a computer.","phonetic":""}]},{"id":644033,"lesson":2205,"type":"R","modifiers":636,"wordID":16515,"alternates":[],"tokens":[{"key":"t95mJmlPkea","text":"خريطة.","raw":{"text":"خريطة","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":13,"length":1}},{"key":"tveEbmtyvZ-","text":"أريد","raw":{"text":"أريد","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t7barlnSXAN","text":"أحتاج","raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tNew5aEgN27","text":"بعض","raw":{"text":"بعض","location":18,"length":3},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":17,"length":1}},{"key":"tHVwJuIdwR7","text":"أشتري","raw":{"text":"أشتري","location":12,"length":5},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":11,"length":1}},{"key":"tvLS-Z8oVn1","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tsJNNRNeBNQ","text":"أن","raw":{"text":"أن","location":9,"length":2},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tgriF-iLvHC","text":"إلى","raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}}],"tokensEqualSize":true,"ord":["tvLS-Z8oVn1","t7barlnSXAN","tgriF-iLvHC","t95mJmlPkea"],"sols":[{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"I need a map.","phonetic":null,"dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"need","translations":[{"type":"dictionary","text":"أحتاج","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"map","translations":[{"type":"dictionary","text":"خريطة","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"map","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":12,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"أنا أحتاج إلى خريطة."}],"quizSkipData":{"type":"T1","modifiers":40,"tokens":[{"key":"tUCDiv3-gil","text":"يتحدث","raw":{"text":"يتحدث","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"tE4hMFc-t6C","text":"الإسبانية.","raw":{"text":"الإسبانية","location":19,"length":9},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":".","location":28,"length":1},"linker":{"text":" ","location":18,"length":1}},{"key":"tkVkSL3XjNh","text":"أحتاج","raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tNRj_19iylq","text":"خريطة.","raw":{"text":"خريطة","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":13,"length":1}},{"key":"tqY--6y1ZJ7","text":"أود","raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tHQKZFrmKEo","text":"إلى","raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"toAlVj1BsDc","text":"مرشد","raw":{"text":"مرشد","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tC55abmlZ4M","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tC55abmlZ4M","tkVkSL3XjNh","tHQKZFrmKEo","tNRj_19iylq"],"sols":[{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"I need a map.","phonetic":null,"dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"need","translations":[{"type":"dictionary","text":"أحتاج","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"map","translations":[{"type":"dictionary","text":"خريطة","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"map","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":12,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"أنا أحتاج إلى خريطة."}]}},{"id":644034,"lesson":2205,"type":"Qb","modifiers":73,"wordID":19335,"alternates":[16516,16515],"sols":[{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","audio_updated_at":1688290364,"text":"أنا أحتاج إلى هاتف.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"هاتف","translations":[{"type":"dictionary","text":"phone","phonetic":"phone"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"هاتف","location":14,"length":4},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":13,"length":1}}]},{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","text":"أنا ‫أحتاج إلى سيارة أجرة.‬"},{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","text":"أنا أحتاج إلى خريطة."}],"alts":[{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","audio_updated_at":1688290364,"text":"I need a phone.","phonetic":""},{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","audio_updated_at":1543435351,"text":"I need a taxi.","phonetic":""},{"key":"TrCThi4y0el7uFMwqVvxkFROCp-WxGb3","audio_updated_at":1593554371,"text":"I need a map.","phonetic":""}]},{"id":644035,"lesson":2205,"type":"L1","modifiers":42,"wordID":16516,"alternates":[],"tokens":[{"key":"tn0KD8sP16F","text":"سيارة","raw":{"text":"سيارة","location":15,"length":5},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":14,"length":1}},{"key":"t2bGXtMjxw1","text":"أحتاج","raw":{"text":"أحتاج","location":5,"length":5},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":"","location":5,"length":0}},{"key":"tVs0zud0Cbt","text":"أجرة","raw":{"text":"أجرة","location":21,"length":4},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":20,"length":1}},{"key":"tRlf5kec2Mk","text":"أود","raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tOIL53YP0u1","text":"محطة","raw":{"text":"محطة","location":19,"length":4},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":18,"length":1}},{"key":"tFM9-2DjEi1","text":"إلى","raw":{"text":"إلى","location":11,"length":3},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"t_fww21rvNb","text":"الذهاب","raw":{"text":"الذهاب","location":8,"length":6},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tTcb-nodshH","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tTcb-nodshH","t2bGXtMjxw1","tFM9-2DjEi1","tn0KD8sP16F","tVs0zud0Cbt"],"sols":[{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","audio_updated_at":1543435351,"text":"I need a taxi.","phonetic":""},{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","audio_updated_at":1543435351,"text":"أنا ‫أحتاج إلى سيارة أجرة.‬"}]},{"id":644036,"lesson":2205,"type":"C2b","modifiers":92,"wordID":17514,"alternates":[17465],"tokens":[{"key":"tlS2MFZJgTf","text":".","specialChar":true},{"key":"ty5_blTh0zC","text":" ","specialChar":true},{"key":"t9Ttj5KS9eO","text":"l","group":3},{"key":"tSvrPsmmvYz","text":"e","group":3},{"key":"t1mJhz1WEET","text":"t","group":3},{"key":"tS8cinB4I-i","text":"o","group":3},{"key":"tTasOZ79f1M","text":"h","group":3}],"tokensEqualSize":false,"ord":["ty5_blTh0zC","tTasOZ79f1M","tS8cinB4I-i","t1mJhz1WEET","tSvrPsmmvYz","t9Ttj5KS9eO","tlS2MFZJgTf"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw","audio_updated_at":1543435354,"text":"أنا أحتاج إلى فندق.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"فندق","translations":[{"type":"dictionary","text":"hotel","phonetic":"hotel"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"فندق","location":14,"length":4},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":13,"length":1}}]},{"key":"rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw","audio_updated_at":1543435354,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"hotel","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[],"text":"I need a hotel.","phonetic":""}]},{"id":644037,"lesson":2205,"type":"Qb","modifiers":73,"wordID":19334,"alternates":[19335,19332],"sols":[{"key":"EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC","audio_updated_at":1543436017,"text":"أنا أحتاج إلى قلم.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أحتاج","translations":[{"type":"dictionary","text":"I need","phonetic":"I need"}]},{"raw":"إلى","translations":[]},{"raw":"قلم","translations":[{"type":"dictionary","text":"pen","phonetic":"pen"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"قلم","location":14,"length":3},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":13,"length":1}}]},{"key":"WenS8Y41EciY4ImeV8IPDp4jJz9oe25K","text":"أنا أحتاج إلى حاسوب."},{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","text":"أنا أحتاج إلى هاتف."}],"alts":[{"key":"EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC","audio_updated_at":1543436017,"text":"I need a pen.","phonetic":""},{"key":"WenS8Y41EciY4ImeV8IPDp4jJz9oe25K","audio_updated_at":1543436015,"text":"I need a computer.","phonetic":""},{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","audio_updated_at":1688290364,"text":"I need a phone.","phonetic":""}]},{"id":644038,"lesson":2205,"type":"L1","modifiers":42,"wordID":23726,"alternates":[],"tokens":[{"key":"tZFuK9aXsqq","text":"إلى","raw":{"text":"إلى","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"t9jhvzjiYA9","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"thYhFA-dV3c","text":"أحتاج","raw":{"text":"أحتاج","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tcGufQ4SWkc","text":"أود","raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tNtVcWvhLDf","text":"غرفة","raw":{"text":"غرفة","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tHw_s75AO2P","text":"فردية.","raw":{"text":"فردية","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"t0Qhnhk2VLB","text":"تذكرة.","raw":{"text":"تذكرة","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":13,"length":1}}],"tokensEqualSize":true,"ord":["t9jhvzjiYA9","thYhFA-dV3c","tZFuK9aXsqq","t0Qhnhk2VLB"],"sols":[{"key":"cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J","audio_updated_at":1688290581,"text":"I need a ticket.","phonetic":""},{"key":"cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J","audio_updated_at":1688290581,"text":"أنا أحتاج إلى تذكرة."}]},{"id":644039,"lesson":2205,"type":"Q","modifiers":41,"wordID":19332,"alternates":[16516,19335],"sols":[{"key":"WenS8Y41EciY4ImeV8IPDp4jJz9oe25K","audio_updated_at":1543436015,"text":"I need a computer.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"need","translations":[{"type":"dictionary","text":"أحتاج","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"computer","translations":[{"type":"dictionary","text":"حاسوب","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"need","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"a","location":7,"length":1},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"computer","location":9,"length":8},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","text":"I need a phone.","phonetic":""},{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","text":"I need a taxi.","phonetic":""}],"alts":[{"key":"WenS8Y41EciY4ImeV8IPDp4jJz9oe25K","audio_updated_at":1543436015,"text":"أنا أحتاج إلى حاسوب."},{"key":"dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI","audio_updated_at":1688290364,"text":"أنا أحتاج إلى هاتف."},{"key":"yJUQEB0n93sm0gREeEvuzB2-6jkpklRG","audio_updated_at":1543435351,"text":"أنا ‫أحتاج إلى سيارة أجرة.‬"}]}]}
+{
+  "lesson": {
+    "id": 2205,
+    "index": 5,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 22,
+    "categoryID": 22,
+    "unifiedUnitId": 132,
+    "unifiedCategoryId": 22,
+    "name": "أنا أحتاج إلى ...",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 28,
+    "countWords": 10,
+    "countPhrases": 7,
+    "countDone": 0,
+    "quizzes": [
+      644012, 644013, 644014, 644015, 644016, 644017, 644018, 644019, 644020,
+      644021, 644022, 644023, 644024, 644025, 644026, 644027, 644028, 644029,
+      644030, 644031, 644032, 644033, 644034, 644035, 644036, 644037, 644038,
+      644039
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 644012,
+      "lesson": 2205,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 16400,
+      "alternates": [17465, 18920, 16319],
+      "sols": [
+        {
+          "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8",
+          "audio_updated_at": 1543437262,
+          "text": "فندق"
+        },
+        {
+          "key": "wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z",
+          "audio_updated_at": 1688290324,
+          "text": "هاتف"
+        },
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text": "خريطة"
+        },
+        {
+          "key": "T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg",
+          "audio_updated_at": 1543437669,
+          "text": "سيارة أجرة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8",
+          "audio_updated_at": 1543437262,
+          "image": "X8_-OKJrupuztdipWsdB_gX05vDakPHt",
+          "image_updated_at": 1689159063,
+          "text": "hotel",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z",
+          "audio_updated_at": 1688290324,
+          "image": "gA6eh3fKRxQF0zxSYp5-SjLOoKsUAySQ",
+          "image_updated_at": 1689159002,
+          "text": "phone",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text": "map",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT",
+          "image_updated_at": 1689159013
+        },
+        {
+          "key": "T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg",
+          "audio_updated_at": 1543437669,
+          "image": "cxTd0lMzOkoPDfqv82oMlR9mo9KIlWSG",
+          "image_updated_at": 1689159169,
+          "text": "taxi",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644013,
+      "lesson": 2205,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 16400,
+      "alternates": [16319],
+      "sols": [
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text": "خريطة"
+        },
+        {
+          "key": "wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z",
+          "audio_updated_at": 1688290324,
+          "text": "هاتف"
+        }
+      ],
+      "alts": [
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text": "map",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT",
+          "image_updated_at": 1689159013
+        },
+        {
+          "key": "wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z",
+          "audio_updated_at": 1688290324,
+          "image": "gA6eh3fKRxQF0zxSYp5-SjLOoKsUAySQ",
+          "image_updated_at": 1689159002,
+          "text": "phone",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644014,
+      "lesson": 2205,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16515,
+      "alternates": [16400],
+      "tokens": [
+        {
+          "key": "tNfp95HAKpF",
+          "text": "map.",
+          "raw": { "text": "map", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 12, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tm2g7aH9ONp",
+          "text": "want",
+          "raw": { "text": "want", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tz8dd2YF9do",
+          "text": "look.",
+          "raw": { "text": "look", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tOejzHqIVhV",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t3rR7NCXhAr",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tuQ3i-lT6Xv",
+          "text": "new",
+          "raw": { "text": "new", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tg44xqxNaJ8",
+          "text": "need",
+          "raw": { "text": "need", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tOejzHqIVhV", "tg44xqxNaJ8", "t3rR7NCXhAr", "tNfp95HAKpF"],
+      "completeToken": "tNfp95HAKpF",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "audio_updated_at": 1593554371,
+          "text": "أنا أحتاج إلى خريطة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            {
+              "raw": "خريطة",
+              "translations": [
+                { "type": "dictionary", "text": "map", "phonetic": "map" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "خريطة", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "audio_updated_at": 1593554371,
+          "text": "I need a map.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644015,
+      "lesson": 2205,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 19335,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tWcjKPql0gE",
+          "text": "هاتفك؟",
+          "raw": { "text": "هاتفك", "location": 18, "length": 5 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "؟", "location": 23, "length": 1 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "t-ShLLv4m0X",
+          "text": "استخدام",
+          "raw": { "text": "استخدام", "location": 10, "length": 7 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tJHuf17IlMr",
+          "text": "هاتف.",
+          "raw": { "text": "هاتف", "location": 14, "length": 4 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t_c-yKxWv8b",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tdpJaB4K2Bb",
+          "text": "أحتاج",
+          "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "trX4WssZlwI",
+          "text": "يمكنني",
+          "raw": { "text": "يمكنني", "location": 3, "length": 6 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tjSqja_DKm2",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tdfTtmEimdp",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t_c-yKxWv8b", "tdpJaB4K2Bb", "tdfTtmEimdp", "tJHuf17IlMr"],
+      "sols": [
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "audio_updated_at": 1688290364,
+          "text": "I need a phone.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "need",
+              "translations": [
+                { "type": "dictionary", "text": "أحتاج", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "phone",
+              "translations": [
+                { "type": "dictionary", "text": "هاتف", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "phone", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "audio_updated_at": 1688290364,
+          "text": "أنا أحتاج إلى هاتف."
+        }
+      ]
+    },
+    {
+      "id": 644016,
+      "lesson": 2205,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 18920,
+      "alternates": [17465, 16319, 16400],
+      "sols": [
+        {
+          "key": "T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg",
+          "audio_updated_at": 1543437669,
+          "text": "سيارة أجرة"
+        },
+        { "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8", "text": "فندق" },
+        { "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI", "text": "خريطة" },
+        { "key": "wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z", "text": "هاتف" }
+      ],
+      "alts": [
+        {
+          "key": "T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg",
+          "audio_updated_at": 1543437669,
+          "text": "taxi",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "cxTd0lMzOkoPDfqv82oMlR9mo9KIlWSG",
+          "image_updated_at": 1689159169
+        },
+        {
+          "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8",
+          "audio_updated_at": 1543437262,
+          "text": "hotel",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "X8_-OKJrupuztdipWsdB_gX05vDakPHt",
+          "image_updated_at": 1689159063
+        },
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text": "map",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT",
+          "image_updated_at": 1689159013
+        },
+        {
+          "key": "wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z",
+          "audio_updated_at": 1688290324,
+          "text": "phone",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "gA6eh3fKRxQF0zxSYp5-SjLOoKsUAySQ",
+          "image_updated_at": 1689159002
+        }
+      ]
+    },
+    {
+      "id": 644017,
+      "lesson": 2205,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16516,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tEEMJ1hoP7s",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t8OPIDrpwVe",
+          "text": "who",
+          "raw": { "text": "who", "location": 21, "length": 3 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 24, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "t_KH_nfY-Y7",
+          "text": "like",
+          "raw": { "text": "like", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tDFfEyw3ITd",
+          "text": "taxi.",
+          "raw": { "text": "taxi", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tGnbNq2j9Hw",
+          "text": "guide",
+          "raw": { "text": "guide", "location": 15, "length": 5 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tYVV79WyozL",
+          "text": "need",
+          "raw": { "text": "need", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tAAI4Nsc-qA",
+          "text": "would",
+          "raw": { "text": "would", "location": 2, "length": 5 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tl2vRXr6Kr7",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tl2vRXr6Kr7", "tYVV79WyozL", "tEEMJ1hoP7s", "tDFfEyw3ITd"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "audio_updated_at": 1543435351,
+          "text": "أنا ‫أحتاج إلى سيارة أجرة.‬",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "سيارة", "translations": [] },
+            { "raw": "أجرة", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 5, "length": 5 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": "", "location": 5, "length": 0 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 11, "length": 3 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "سيارة", "location": 15, "length": 5 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            },
+            {
+              "raw": { "text": "أجرة", "location": 21, "length": 4 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "audio_updated_at": 1543435351,
+          "text": "I need a taxi.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644018,
+      "lesson": 2205,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 17514,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tBfpIQCL-3z",
+          "text": "فندق.",
+          "raw": { "text": "فندق", "location": 14, "length": 4 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tv_hHlnGL9N",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tmmjTtRhcxR",
+          "text": "إطلالة.",
+          "raw": { "text": "إطلالة", "location": 22, "length": 6 },
+          "prefix": { "text": "", "location": 22, "length": 0 },
+          "suffix": { "text": ".", "location": 28, "length": 1 },
+          "linker": { "text": " ", "location": 21, "length": 1 }
+        },
+        {
+          "key": "txYtnhfqHOV",
+          "text": "غرفة",
+          "raw": { "text": "غرفة", "location": 14, "length": 4 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tqSft4NhXTB",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t_hRJGDuwdM",
+          "text": "مع",
+          "raw": { "text": "مع", "location": 19, "length": 2 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tsW60PqKP0p",
+          "text": "أحتاج",
+          "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tqSft4NhXTB", "tsW60PqKP0p", "tv_hHlnGL9N", "tBfpIQCL-3z"],
+      "sols": [
+        {
+          "key": "rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw",
+          "audio_updated_at": 1543435354,
+          "text": "I need a hotel.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "need",
+              "translations": [
+                { "type": "dictionary", "text": "أحتاج", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "hotel",
+              "translations": [
+                { "type": "dictionary", "text": "فندق", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "hotel", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw",
+          "audio_updated_at": 1543435354,
+          "text": "أنا أحتاج إلى فندق."
+        }
+      ]
+    },
+    {
+      "id": 644019,
+      "lesson": 2205,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 18921,
+      "alternates": [19101],
+      "sols": [
+        {
+          "key": "W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD",
+          "audio_updated_at": 1543437384,
+          "text": "تذكرة"
+        },
+        {
+          "key": "qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC",
+          "audio_updated_at": 1543436741,
+          "text": "حاسوب"
+        }
+      ],
+      "alts": [
+        {
+          "key": "W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD",
+          "audio_updated_at": 1543437384,
+          "text": "ticket",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "TzYmw145RIwKhI42l8vQT-TeWH6YR3C0",
+          "image_updated_at": 1689159169
+        },
+        {
+          "key": "qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC",
+          "audio_updated_at": 1543436741,
+          "image": "YxwqXickRhh4JCLUJQw0DzA4G6Y6ocBF",
+          "image_updated_at": 1689159174,
+          "text": "computer",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644020,
+      "lesson": 2205,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 23726,
+      "alternates": [18921],
+      "tokens": [
+        {
+          "key": "t-WySExZqBd",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGpp5Lmh8RH",
+          "text": "how",
+          "raw": { "text": "how", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t6MhoPrkVPy",
+          "text": "many",
+          "raw": { "text": "many", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tG8SZPPePtn",
+          "text": "need",
+          "raw": { "text": "need", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "taVYjRtNWCK",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tpd00S7Q2yK",
+          "text": "people?",
+          "raw": { "text": "people", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tF0EAhek6C8",
+          "text": "For",
+          "raw": { "text": "For", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tZqHjgPCEnD",
+          "text": "ticket.",
+          "raw": { "text": "ticket", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t-WySExZqBd", "tG8SZPPePtn", "taVYjRtNWCK", "tZqHjgPCEnD"],
+      "completeToken": "tZqHjgPCEnD",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J",
+          "audio_updated_at": 1688290581,
+          "text": "أنا أحتاج إلى تذكرة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            {
+              "raw": "تذكرة",
+              "translations": [
+                { "type": "dictionary", "text": "ticket", "phonetic": "ticket" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "تذكرة", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J",
+          "audio_updated_at": 1688290581,
+          "text": "I need a ticket.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644021,
+      "lesson": 2205,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 19332,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "teeUyQaaFWb",
+          "text": "أحتاج",
+          "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t_al8xAhNgg",
+          "text": "حاسوب.",
+          "raw": { "text": "حاسوب", "location": 14, "length": 5 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t55DUnVkYed",
+          "text": "يمكنني",
+          "raw": { "text": "يمكنني", "location": 3, "length": 6 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tSZSHM07iFW",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tY_NL-ntquH",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tzOU7y9_WeH",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t2GTfAjIvte",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tdGlkY0WsHf",
+          "text": "اسألك",
+          "raw": { "text": "اسألك", "location": 13, "length": 5 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tSZSHM07iFW", "teeUyQaaFWb", "tY_NL-ntquH", "t_al8xAhNgg"],
+      "sols": [
+        {
+          "key": "WenS8Y41EciY4ImeV8IPDp4jJz9oe25K",
+          "audio_updated_at": 1543436015,
+          "text": "I need a computer.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "need",
+              "translations": [
+                { "type": "dictionary", "text": "أحتاج", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "computer",
+              "translations": [
+                { "type": "dictionary", "text": "حاسوب", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "computer", "location": 9, "length": 8 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "WenS8Y41EciY4ImeV8IPDp4jJz9oe25K",
+          "audio_updated_at": 1543436015,
+          "text": "أنا أحتاج إلى حاسوب."
+        }
+      ]
+    },
+    {
+      "id": 644022,
+      "lesson": 2205,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 19334,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tnAj3PKbR9G",
+          "text": "tell",
+          "raw": { "text": "tell", "location": 6, "length": 4 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tD_uQVWtxPQ",
+          "text": "something?",
+          "raw": { "text": "something", "location": 15, "length": 9 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "?", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tSkEdfbAPl6",
+          "text": "you",
+          "raw": { "text": "you", "location": 11, "length": 3 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tn7mwPacLp7",
+          "text": "May",
+          "raw": { "text": "May", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tExESSnQYQ0",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "toa3KWAXG8j",
+          "text": "pen.",
+          "raw": { "text": "pen", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 12, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tQe5DCocosC",
+          "text": "need",
+          "raw": { "text": "need", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tcRFJwGXAUH",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tExESSnQYQ0", "tQe5DCocosC", "tcRFJwGXAUH", "toa3KWAXG8j"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC",
+          "audio_updated_at": 1543436017,
+          "text": "أنا أحتاج إلى قلم.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            {
+              "raw": "قلم",
+              "translations": [
+                { "type": "dictionary", "text": "pen", "phonetic": "pen" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "قلم", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC",
+          "audio_updated_at": 1543436017,
+          "text": "I need a pen.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644023,
+      "lesson": 2205,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16515,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tYdq-fIDR0t",
+          "text": "map.",
+          "raw": { "text": "map", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 12, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t-93WSWLkPs",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "toUR0FwDGmi",
+          "text": "please.",
+          "raw": { "text": "please", "location": 20, "length": 6 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": ".", "location": 26, "length": 1 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "trdIwAMciA4",
+          "text": "like",
+          "raw": { "text": "like", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tIVgTtqozaH",
+          "text": "need",
+          "raw": { "text": "need", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tpTfsnm0BAS",
+          "text": "I'd",
+          "raw": { "text": "I'd", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tcH0CV9fkdA",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tzWLN8EJvUn",
+          "text": "haircut,",
+          "raw": { "text": "haircut", "location": 11, "length": 7 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": ",", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tcH0CV9fkdA", "tIVgTtqozaH", "t-93WSWLkPs", "tYdq-fIDR0t"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "audio_updated_at": 1593554371,
+          "text": "أنا أحتاج إلى خريطة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            {
+              "raw": "خريطة",
+              "translations": [
+                { "type": "dictionary", "text": "map", "phonetic": "map" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "خريطة", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "audio_updated_at": 1593554371,
+          "text": "I need a map.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644024,
+      "lesson": 2205,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 19335,
+      "alternates": [16515, 16516],
+      "sols": [
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "audio_updated_at": 1688290364,
+          "text": "I need a phone.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "need",
+              "translations": [
+                { "type": "dictionary", "text": "أحتاج", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "phone",
+              "translations": [
+                { "type": "dictionary", "text": "هاتف", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "phone", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "text": "I need a map.",
+          "phonetic": ""
+        },
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "text": "I need a taxi.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "audio_updated_at": 1688290364,
+          "text": "أنا أحتاج إلى هاتف."
+        },
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "audio_updated_at": 1593554371,
+          "text": "أنا أحتاج إلى خريطة."
+        },
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "audio_updated_at": 1543435351,
+          "text": "أنا ‫أحتاج إلى سيارة أجرة.‬"
+        }
+      ]
+    },
+    {
+      "id": 644025,
+      "lesson": 2205,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 16516,
+      "alternates": [18920],
+      "tokens": [
+        { "key": "tVYjTDjNgok", "text": "i", "group": 3 },
+        { "key": "tRpe2aLVvUY", "text": "x", "group": 3 },
+        { "key": "t6J5VFYG2qm", "text": " ", "specialChar": true },
+        { "key": "tK-cWHvXC1L", "text": "a", "group": 3 },
+        { "key": "tVNqU_mB8WY", "text": "t", "group": 3 },
+        { "key": "tNlSJ--Ci76", "text": ".", "specialChar": true }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t6J5VFYG2qm",
+        "tVNqU_mB8WY",
+        "tK-cWHvXC1L",
+        "tRpe2aLVvUY",
+        "tVYjTDjNgok",
+        "tNlSJ--Ci76"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "audio_updated_at": 1543435351,
+          "text": "أنا ‫أحتاج إلى سيارة أجرة.‬",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "سيارة", "translations": [] },
+            { "raw": "أجرة", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 5, "length": 5 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": "", "location": 5, "length": 0 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 11, "length": 3 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "سيارة", "location": 15, "length": 5 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            },
+            {
+              "raw": { "text": "أجرة", "location": 21, "length": 4 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "audio_updated_at": 1543435351,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "taxi", "location": 9, "length": 4 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "I need a taxi.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644026,
+      "lesson": 2205,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 17465,
+      "alternates": [],
+      "tokens": [
+        { "key": "t5ENck5Zrzv", "text": "o", "group": 0 },
+        { "key": "tTx-swwgGa2", "text": "e", "group": 0 },
+        { "key": "t4yhqPAl7BV", "text": "h", "group": 0 },
+        { "key": "tVTimCm20rE", "text": "t", "group": 0 },
+        { "key": "tdKyvoMnznm", "text": "l", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t4yhqPAl7BV",
+        "t5ENck5Zrzv",
+        "tVTimCm20rE",
+        "tTx-swwgGa2",
+        "tdKyvoMnznm"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8",
+          "audio_updated_at": 1543437262,
+          "text": "فندق",
+          "dictionary": [
+            {
+              "raw": "فندق",
+              "translations": [
+                { "type": "dictionary", "text": "hotel", "phonetic": "hotel" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "فندق", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "zNeubTN7P-YEZHz3MtM174Yj8L1I3Ts8",
+          "audio_updated_at": 1543437262,
+          "text_tokens": [
+            {
+              "raw": { "text": "hotel", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "hotel",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "X8_-OKJrupuztdipWsdB_gX05vDakPHt",
+          "image_updated_at": 1689159063
+        }
+      ]
+    },
+    {
+      "id": 644027,
+      "lesson": 2205,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 17514,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tHOhIxofqrr",
+          "text": "arrive",
+          "raw": { "text": "arrive", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tGU358To9hH",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tYnqqtyN0QV",
+          "text": "need",
+          "raw": { "text": "need", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tkhPjE9TNLz",
+          "text": "on",
+          "raw": { "text": "on", "location": 14, "length": 2 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t7NMs2k49wf",
+          "text": "Tuesday.",
+          "raw": { "text": "Tuesday", "location": 17, "length": 7 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": ".", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "tbenq1pzHSE",
+          "text": "hotel.",
+          "raw": { "text": "hotel", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t32ry-1zbq-",
+          "text": "will",
+          "raw": { "text": "will", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tu0OoNzZkeN",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tGU358To9hH", "tYnqqtyN0QV", "tu0OoNzZkeN", "tbenq1pzHSE"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw",
+          "audio_updated_at": 1543435354,
+          "text": "أنا أحتاج إلى فندق.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            {
+              "raw": "فندق",
+              "translations": [
+                { "type": "dictionary", "text": "hotel", "phonetic": "hotel" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "فندق", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw",
+          "audio_updated_at": 1543435354,
+          "text": "I need a hotel.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644028,
+      "lesson": 2205,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 19334,
+      "alternates": [17514, 23726],
+      "sols": [
+        {
+          "key": "EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC",
+          "audio_updated_at": 1543436017,
+          "text": "I need a pen.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "need",
+              "translations": [
+                { "type": "dictionary", "text": "أحتاج", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "pen",
+              "translations": [
+                { "type": "dictionary", "text": "قلم", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "pen", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 12, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw",
+          "text": "I need a hotel.",
+          "phonetic": ""
+        },
+        {
+          "key": "cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J",
+          "text": "I need a ticket.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC",
+          "audio_updated_at": 1543436017,
+          "text": "أنا أحتاج إلى قلم."
+        },
+        {
+          "key": "rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw",
+          "audio_updated_at": 1543435354,
+          "text": "أنا أحتاج إلى فندق."
+        },
+        {
+          "key": "cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J",
+          "audio_updated_at": 1688290581,
+          "text": "أنا أحتاج إلى تذكرة."
+        }
+      ]
+    },
+    {
+      "id": 644029,
+      "lesson": 2205,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 18921,
+      "alternates": [19101, 16400],
+      "sols": [
+        {
+          "key": "W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD",
+          "audio_updated_at": 1543437384,
+          "text": "ticket",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "dictionary": [
+            {
+              "raw": "ticket",
+              "translations": [
+                { "type": "dictionary", "text": "تذكرة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "ticket", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC",
+          "text": "computer",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "text": "map",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD",
+          "audio_updated_at": 1543437384,
+          "text": "تذكرة"
+        },
+        {
+          "key": "qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC",
+          "audio_updated_at": 1543436741,
+          "text": "حاسوب"
+        },
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text": "خريطة"
+        }
+      ]
+    },
+    {
+      "id": 644030,
+      "lesson": 2205,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23726,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tMHUz6Owx1h",
+          "text": "نحن",
+          "raw": { "text": "نحن", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tooeEfLvIij",
+          "text": "نفتح",
+          "raw": { "text": "نفتح", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t6Asze-x584",
+          "text": "في",
+          "raw": { "text": "في", "location": 9, "length": 2 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tPbXjt0aWrG",
+          "text": "أحتاج",
+          "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tTH2AVXcXTJ",
+          "text": "الساعة",
+          "raw": { "text": "الساعة", "location": 12, "length": 6 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tlVyXw2Wmft",
+          "text": "تذكرة.",
+          "raw": { "text": "تذكرة", "location": 14, "length": 5 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tcFiRwkDfyl",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tDj6ritxoGb",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tDj6ritxoGb", "tPbXjt0aWrG", "tcFiRwkDfyl", "tlVyXw2Wmft"],
+      "sols": [
+        {
+          "key": "cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J",
+          "audio_updated_at": 1688290581,
+          "text": "I need a ticket.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "need",
+              "translations": [
+                { "type": "dictionary", "text": "أحتاج", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "ticket",
+              "translations": [
+                { "type": "dictionary", "text": "تذكرة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "ticket", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J",
+          "audio_updated_at": 1688290581,
+          "text": "أنا أحتاج إلى تذكرة."
+        }
+      ]
+    },
+    {
+      "id": 644031,
+      "lesson": 2205,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 19101,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tS1iyWqFA5f",
+          "text": "dancer",
+          "raw": { "text": "dancer", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tEECI0UisBV",
+          "text": "computer",
+          "raw": { "text": "computer", "location": 0, "length": 8 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tEECI0UisBV"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC",
+          "audio_updated_at": 1543436741,
+          "text": "حاسوب",
+          "dictionary": [],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "حاسوب", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "qN-85Xg9_nZzo2ut4PaCthXgMibHuFJC",
+          "audio_updated_at": 1543436741,
+          "text": "computer",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644032,
+      "lesson": 2205,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 19332,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tJQnEFiozYL",
+          "text": "want",
+          "raw": { "text": "want", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tjmQGagg1cB",
+          "text": "a",
+          "raw": { "text": "a", "location": 7, "length": 1 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tbGGUG3nGpC",
+          "text": "write",
+          "raw": { "text": "write", "location": 10, "length": 5 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tHoV9reqMNJ",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tyJEneIhT-n",
+          "text": "to",
+          "raw": { "text": "to", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "ts5LXTv2FvY",
+          "text": "computer.",
+          "raw": { "text": "computer", "location": 9, "length": 8 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tngF2p4gg0R",
+          "text": "need",
+          "raw": { "text": "need", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tBetcbCZf3F",
+          "text": "something.",
+          "raw": { "text": "something", "location": 16, "length": 9 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": ".", "location": 25, "length": 1 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tHoV9reqMNJ", "tngF2p4gg0R", "tjmQGagg1cB", "ts5LXTv2FvY"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "WenS8Y41EciY4ImeV8IPDp4jJz9oe25K",
+          "audio_updated_at": 1543436015,
+          "text": "أنا أحتاج إلى حاسوب.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            { "raw": "حاسوب", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "حاسوب", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "WenS8Y41EciY4ImeV8IPDp4jJz9oe25K",
+          "audio_updated_at": 1543436015,
+          "text": "I need a computer.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644033,
+      "lesson": 2205,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 16515,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t95mJmlPkea",
+          "text": "خريطة.",
+          "raw": { "text": "خريطة", "location": 14, "length": 5 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tveEbmtyvZ-",
+          "text": "أريد",
+          "raw": { "text": "أريد", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t7barlnSXAN",
+          "text": "أحتاج",
+          "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tNew5aEgN27",
+          "text": "بعض",
+          "raw": { "text": "بعض", "location": 18, "length": 3 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tHVwJuIdwR7",
+          "text": "أشتري",
+          "raw": { "text": "أشتري", "location": 12, "length": 5 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tvLS-Z8oVn1",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tsJNNRNeBNQ",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 9, "length": 2 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tgriF-iLvHC",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tvLS-Z8oVn1", "t7barlnSXAN", "tgriF-iLvHC", "t95mJmlPkea"],
+      "sols": [
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "audio_updated_at": 1593554371,
+          "text": "I need a map.",
+          "phonetic": null,
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "need",
+              "translations": [
+                { "type": "dictionary", "text": "أحتاج", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "map",
+              "translations": [
+                { "type": "dictionary", "text": "خريطة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "map", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 12, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "audio_updated_at": 1593554371,
+          "text": "أنا أحتاج إلى خريطة."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tUCDiv3-gil",
+            "text": "يتحدث",
+            "raw": { "text": "يتحدث", "location": 13, "length": 5 },
+            "prefix": { "text": "", "location": 13, "length": 0 },
+            "suffix": { "text": "", "location": 18, "length": 0 },
+            "linker": { "text": " ", "location": 12, "length": 1 }
+          },
+          {
+            "key": "tE4hMFc-t6C",
+            "text": "الإسبانية.",
+            "raw": { "text": "الإسبانية", "location": 19, "length": 9 },
+            "prefix": { "text": "", "location": 19, "length": 0 },
+            "suffix": { "text": ".", "location": 28, "length": 1 },
+            "linker": { "text": " ", "location": 18, "length": 1 }
+          },
+          {
+            "key": "tkVkSL3XjNh",
+            "text": "أحتاج",
+            "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 9, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tNRj_19iylq",
+            "text": "خريطة.",
+            "raw": { "text": "خريطة", "location": 14, "length": 5 },
+            "prefix": { "text": "", "location": 14, "length": 0 },
+            "suffix": { "text": ".", "location": 19, "length": 1 },
+            "linker": { "text": " ", "location": 13, "length": 1 }
+          },
+          {
+            "key": "tqY--6y1ZJ7",
+            "text": "أود",
+            "raw": { "text": "أود", "location": 4, "length": 3 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 7, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tHQKZFrmKEo",
+            "text": "إلى",
+            "raw": { "text": "إلى", "location": 10, "length": 3 },
+            "prefix": { "text": "", "location": 10, "length": 0 },
+            "suffix": { "text": "", "location": 13, "length": 0 },
+            "linker": { "text": " ", "location": 9, "length": 1 }
+          },
+          {
+            "key": "toAlVj1BsDc",
+            "text": "مرشد",
+            "raw": { "text": "مرشد", "location": 8, "length": 4 },
+            "prefix": { "text": "", "location": 8, "length": 0 },
+            "suffix": { "text": "", "location": 12, "length": 0 },
+            "linker": { "text": " ", "location": 7, "length": 1 }
+          },
+          {
+            "key": "tC55abmlZ4M",
+            "text": "أنا",
+            "raw": { "text": "أنا", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["tC55abmlZ4M", "tkVkSL3XjNh", "tHQKZFrmKEo", "tNRj_19iylq"],
+        "sols": [
+          {
+            "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+            "audio_updated_at": 1593554371,
+            "text": "I need a map.",
+            "phonetic": null,
+            "dictionary": [
+              {
+                "raw": "I",
+                "translations": [
+                  { "type": "dictionary", "text": "أنا", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "need",
+                "translations": [
+                  { "type": "dictionary", "text": "أحتاج", "phonetic": null }
+                ]
+              },
+              { "raw": "a", "translations": [] },
+              {
+                "raw": "map",
+                "translations": [
+                  { "type": "dictionary", "text": "خريطة", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "I", "location": 0, "length": 1 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 1, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "need", "location": 2, "length": 4 },
+                "prefix": { "text": "", "location": 2, "length": 0 },
+                "suffix": { "text": "", "location": 6, "length": 0 },
+                "linker": { "text": " ", "location": 1, "length": 1 }
+              },
+              {
+                "raw": { "text": "a", "location": 7, "length": 1 },
+                "prefix": { "text": "", "location": 7, "length": 0 },
+                "suffix": { "text": "", "location": 8, "length": 0 },
+                "linker": { "text": " ", "location": 6, "length": 1 }
+              },
+              {
+                "raw": { "text": "map", "location": 9, "length": 3 },
+                "prefix": { "text": "", "location": 9, "length": 0 },
+                "suffix": { "text": ".", "location": 12, "length": 1 },
+                "linker": { "text": " ", "location": 8, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+            "audio_updated_at": 1593554371,
+            "text": "أنا أحتاج إلى خريطة."
+          }
+        ]
+      }
+    },
+    {
+      "id": 644034,
+      "lesson": 2205,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 19335,
+      "alternates": [16516, 16515],
+      "sols": [
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "audio_updated_at": 1688290364,
+          "text": "أنا أحتاج إلى هاتف.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            {
+              "raw": "هاتف",
+              "translations": [
+                { "type": "dictionary", "text": "phone", "phonetic": "phone" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "هاتف", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "text": "أنا ‫أحتاج إلى سيارة أجرة.‬"
+        },
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "text": "أنا أحتاج إلى خريطة."
+        }
+      ],
+      "alts": [
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "audio_updated_at": 1688290364,
+          "text": "I need a phone.",
+          "phonetic": ""
+        },
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "audio_updated_at": 1543435351,
+          "text": "I need a taxi.",
+          "phonetic": ""
+        },
+        {
+          "key": "TrCThi4y0el7uFMwqVvxkFROCp-WxGb3",
+          "audio_updated_at": 1593554371,
+          "text": "I need a map.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644035,
+      "lesson": 2205,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 16516,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tn0KD8sP16F",
+          "text": "سيارة",
+          "raw": { "text": "سيارة", "location": 15, "length": 5 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "t2bGXtMjxw1",
+          "text": "أحتاج",
+          "raw": { "text": "أحتاج", "location": 5, "length": 5 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": "", "location": 5, "length": 0 }
+        },
+        {
+          "key": "tVs0zud0Cbt",
+          "text": "أجرة",
+          "raw": { "text": "أجرة", "location": 21, "length": 4 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 25, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tRlf5kec2Mk",
+          "text": "أود",
+          "raw": { "text": "أود", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tOIL53YP0u1",
+          "text": "محطة",
+          "raw": { "text": "محطة", "location": 19, "length": 4 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tFM9-2DjEi1",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 11, "length": 3 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "t_fww21rvNb",
+          "text": "الذهاب",
+          "raw": { "text": "الذهاب", "location": 8, "length": 6 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tTcb-nodshH",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tTcb-nodshH",
+        "t2bGXtMjxw1",
+        "tFM9-2DjEi1",
+        "tn0KD8sP16F",
+        "tVs0zud0Cbt"
+      ],
+      "sols": [
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "audio_updated_at": 1543435351,
+          "text": "I need a taxi.",
+          "phonetic": ""
+        },
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "audio_updated_at": 1543435351,
+          "text": "أنا ‫أحتاج إلى سيارة أجرة.‬"
+        }
+      ]
+    },
+    {
+      "id": 644036,
+      "lesson": 2205,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 17514,
+      "alternates": [17465],
+      "tokens": [
+        { "key": "tlS2MFZJgTf", "text": ".", "specialChar": true },
+        { "key": "ty5_blTh0zC", "text": " ", "specialChar": true },
+        { "key": "t9Ttj5KS9eO", "text": "l", "group": 3 },
+        { "key": "tSvrPsmmvYz", "text": "e", "group": 3 },
+        { "key": "t1mJhz1WEET", "text": "t", "group": 3 },
+        { "key": "tS8cinB4I-i", "text": "o", "group": 3 },
+        { "key": "tTasOZ79f1M", "text": "h", "group": 3 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "ty5_blTh0zC",
+        "tTasOZ79f1M",
+        "tS8cinB4I-i",
+        "t1mJhz1WEET",
+        "tSvrPsmmvYz",
+        "t9Ttj5KS9eO",
+        "tlS2MFZJgTf"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw",
+          "audio_updated_at": 1543435354,
+          "text": "أنا أحتاج إلى فندق.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            {
+              "raw": "فندق",
+              "translations": [
+                { "type": "dictionary", "text": "hotel", "phonetic": "hotel" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "فندق", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "rAvzReOo1-3VXgbFzL0zGhb8-RuhU_Xw",
+          "audio_updated_at": 1543435354,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "hotel", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "I need a hotel.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644037,
+      "lesson": 2205,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 19334,
+      "alternates": [19335, 19332],
+      "sols": [
+        {
+          "key": "EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC",
+          "audio_updated_at": 1543436017,
+          "text": "أنا أحتاج إلى قلم.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أحتاج",
+              "translations": [
+                { "type": "dictionary", "text": "I need", "phonetic": "I need" }
+              ]
+            },
+            { "raw": "إلى", "translations": [] },
+            {
+              "raw": "قلم",
+              "translations": [
+                { "type": "dictionary", "text": "pen", "phonetic": "pen" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "قلم", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "WenS8Y41EciY4ImeV8IPDp4jJz9oe25K",
+          "text": "أنا أحتاج إلى حاسوب."
+        },
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "text": "أنا أحتاج إلى هاتف."
+        }
+      ],
+      "alts": [
+        {
+          "key": "EoLgWd-dVLh3OnLX3fvEp5mu7UOVG6BC",
+          "audio_updated_at": 1543436017,
+          "text": "I need a pen.",
+          "phonetic": ""
+        },
+        {
+          "key": "WenS8Y41EciY4ImeV8IPDp4jJz9oe25K",
+          "audio_updated_at": 1543436015,
+          "text": "I need a computer.",
+          "phonetic": ""
+        },
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "audio_updated_at": 1688290364,
+          "text": "I need a phone.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 644038,
+      "lesson": 2205,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 23726,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tZFuK9aXsqq",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t9jhvzjiYA9",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "thYhFA-dV3c",
+          "text": "أحتاج",
+          "raw": { "text": "أحتاج", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tcGufQ4SWkc",
+          "text": "أود",
+          "raw": { "text": "أود", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tNtVcWvhLDf",
+          "text": "غرفة",
+          "raw": { "text": "غرفة", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tHw_s75AO2P",
+          "text": "فردية.",
+          "raw": { "text": "فردية", "location": 13, "length": 5 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "t0Qhnhk2VLB",
+          "text": "تذكرة.",
+          "raw": { "text": "تذكرة", "location": 14, "length": 5 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t9jhvzjiYA9", "thYhFA-dV3c", "tZFuK9aXsqq", "t0Qhnhk2VLB"],
+      "sols": [
+        {
+          "key": "cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J",
+          "audio_updated_at": 1688290581,
+          "text": "I need a ticket.",
+          "phonetic": ""
+        },
+        {
+          "key": "cwGjg1z_wkLsA7OOLahsAxt-xZ49i17J",
+          "audio_updated_at": 1688290581,
+          "text": "أنا أحتاج إلى تذكرة."
+        }
+      ]
+    },
+    {
+      "id": 644039,
+      "lesson": 2205,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 19332,
+      "alternates": [16516, 19335],
+      "sols": [
+        {
+          "key": "WenS8Y41EciY4ImeV8IPDp4jJz9oe25K",
+          "audio_updated_at": 1543436015,
+          "text": "I need a computer.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "need",
+              "translations": [
+                { "type": "dictionary", "text": "أحتاج", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "computer",
+              "translations": [
+                { "type": "dictionary", "text": "حاسوب", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "need", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 7, "length": 1 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "computer", "location": 9, "length": 8 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "text": "I need a phone.",
+          "phonetic": ""
+        },
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "text": "I need a taxi.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "WenS8Y41EciY4ImeV8IPDp4jJz9oe25K",
+          "audio_updated_at": 1543436015,
+          "text": "أنا أحتاج إلى حاسوب."
+        },
+        {
+          "key": "dFAPeELHRFjDwrq1IMWU6Dfi0Og2eNsI",
+          "audio_updated_at": 1688290364,
+          "text": "أنا أحتاج إلى هاتف."
+        },
+        {
+          "key": "yJUQEB0n93sm0gREeEvuzB2-6jkpklRG",
+          "audio_updated_at": 1543435351,
+          "text": "أنا ‫أحتاج إلى سيارة أجرة.‬"
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,299 @@
-{"vocabulary":{"id":3001,"index":1,"category":30,"categoryID":30,"unifiedUnitId":30,"unifiedCategoryId":30,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":11,"countPhrases":0,"countDone":0,"vItems":[10512,10513,10514,10515,10516,10517,10518,10519,10520,10521]},"vItems":[{"id":10512,"vocabulary":3001,"wordID":23758,"key":"cYmmg8WkisD3skb8KV7-sr3CQiAr3PPn","sols":[{"key":"cYmmg8WkisD3skb8KV7-sr3CQiAr3PPn","text":"حجز","dictionary":[{"raw":"حجز","translations":[]}]},{"key":"cYmmg8WkisD3skb8KV7-sr3CQiAr3PPn","text":"reservation","phonetic":"","dictionary":[{"raw":"reservation","translations":[{"type":"dictionary","text":"حجز","phonetic":null}]}]}],"audio_updated_at":1688290617},{"id":10513,"vocabulary":3001,"wordID":16317,"key":"C5zNkb_YgjUgj0RR8npNStg9IFRr_AFh","sols":[{"key":"C5zNkb_YgjUgj0RR8npNStg9IFRr_AFh","text":"طاولة","dictionary":[{"raw":"طاولة","translations":[]}]},{"key":"C5zNkb_YgjUgj0RR8npNStg9IFRr_AFh","text":"table","phonetic":"","dictionary":[{"raw":"table","translations":[{"type":"dictionary","text":"طاولة","phonetic":null}]}]}],"audio_updated_at":1543436958},{"id":10514,"vocabulary":3001,"wordID":24071,"key":"bMq3kiFzkcfEeomgWPLZ10Y9-KSSfx59","sols":[{"key":"bMq3kiFzkcfEeomgWPLZ10Y9-KSSfx59","text":"قائمة طعام","dictionary":[{"raw":"قائمة","translations":[]},{"raw":"طعام","translations":[]}]},{"key":"bMq3kiFzkcfEeomgWPLZ10Y9-KSSfx59","text":"menu","phonetic":"","dictionary":[{"raw":"menu","translations":[{"type":"dictionary","text":"قائمة","phonetic":null}]}]}],"audio_updated_at":1688290970},{"id":10515,"vocabulary":3001,"wordID":16862,"key":"j1afrHecV_LjP3yljU2C61B3Na9wQtHy","sols":[{"key":"j1afrHecV_LjP3yljU2C61B3Na9wQtHy","text":"شاي","dictionary":[{"raw":"شاي","translations":[]}]},{"key":"j1afrHecV_LjP3yljU2C61B3Na9wQtHy","text":"tea","phonetic":"","dictionary":[{"raw":"tea","translations":[{"type":"dictionary","text":"شاي","phonetic":null}]}]}],"audio_updated_at":1607004576},{"id":10516,"vocabulary":3001,"wordID":24076,"key":"s2Azo9jJ3Lax-e4uQw7ngxw6-9E8Cs21","sols":[{"key":"s2Azo9jJ3Lax-e4uQw7ngxw6-9E8Cs21","text":"كابتشينو","dictionary":[{"raw":"كابتشينو","translations":[]}]},{"key":"s2Azo9jJ3Lax-e4uQw7ngxw6-9E8Cs21","text":"cappuccino","phonetic":"","dictionary":[{"raw":"cappuccino","translations":[{"type":"dictionary","text":"كابتشينو","phonetic":null}]}]}],"audio_updated_at":1688290976},{"id":10517,"vocabulary":3001,"wordID":16819,"key":"IHvR-cHShFes8rMvcKe-4LleyaOZYKCC","sols":[{"key":"IHvR-cHShFes8rMvcKe-4LleyaOZYKCC","text":"عصير","dictionary":[{"raw":"عصير","translations":[]}]},{"key":"IHvR-cHShFes8rMvcKe-4LleyaOZYKCC","text":"juice","phonetic":"","dictionary":[{"raw":"juice","translations":[{"type":"dictionary","text":"عصير","phonetic":null}]}]}],"audio_updated_at":1607004590},{"id":10518,"vocabulary":3001,"wordID":16850,"key":"9FF1mBVCxHnzky331iRwPCGPyL8s5lyR","sols":[{"key":"9FF1mBVCxHnzky331iRwPCGPyL8s5lyR","text":"سلطة","dictionary":[{"raw":"سلطة","translations":[]}]},{"key":"9FF1mBVCxHnzky331iRwPCGPyL8s5lyR","text":"salad","phonetic":"","dictionary":[{"raw":"salad","translations":[{"type":"dictionary","text":"سلطة","phonetic":null}]}]}],"audio_updated_at":1543436856},{"id":10519,"vocabulary":3001,"wordID":23881,"key":"t5yKTweSmgaswrgPDvocJTD8xe4tvdEp","sols":[{"key":"t5yKTweSmgaswrgPDvocJTD8xe4tvdEp","text":"برغر","dictionary":[{"raw":"برغر","translations":[]}]},{"key":"t5yKTweSmgaswrgPDvocJTD8xe4tvdEp","text":"burger","phonetic":"","dictionary":[{"raw":"burger","translations":[{"type":"dictionary","text":"برغر","phonetic":null}]}]}],"audio_updated_at":1688290757},{"id":10520,"vocabulary":3001,"wordID":24072,"key":"VTYTRPIbrZt5hmO983pHCJUhfAFM-Jy6","sols":[{"key":"VTYTRPIbrZt5hmO983pHCJUhfAFM-Jy6","text":"يوصي","dictionary":[{"raw":"يوصي","translations":[]}]},{"key":"VTYTRPIbrZt5hmO983pHCJUhfAFM-Jy6","text":"to recommend","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"recommend","translations":[{"type":"dictionary","text":"يوصي","phonetic":null}]}]}],"audio_updated_at":1688290971},{"id":10521,"vocabulary":3001,"wordID":24073,"key":"Qy5_86L2WkyrKz8fqNTLMjhk-8xekbZs","sols":[{"key":"Qy5_86L2WkyrKz8fqNTLMjhk-8xekbZs","text":"يطلب","dictionary":[{"raw":"يطلب","translations":[]}]},{"key":"Qy5_86L2WkyrKz8fqNTLMjhk-8xekbZs","text":"to order","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"order","translations":[{"type":"dictionary","text":"يطلب","phonetic":null}]}]}],"audio_updated_at":1688290972}]}
+{
+  "vocabulary": {
+    "id": 3001,
+    "index": 1,
+    "category": 30,
+    "categoryID": 30,
+    "unifiedUnitId": 30,
+    "unifiedCategoryId": 30,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 11,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10512, 10513, 10514, 10515, 10516, 10517, 10518, 10519, 10520, 10521
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10512,
+      "vocabulary": 3001,
+      "wordID": 23758,
+      "key": "cYmmg8WkisD3skb8KV7-sr3CQiAr3PPn",
+      "sols": [
+        {
+          "key": "cYmmg8WkisD3skb8KV7-sr3CQiAr3PPn",
+          "text": "حجز",
+          "dictionary": [{ "raw": "حجز", "translations": [] }]
+        },
+        {
+          "key": "cYmmg8WkisD3skb8KV7-sr3CQiAr3PPn",
+          "text": "reservation",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "reservation",
+              "translations": [
+                { "type": "dictionary", "text": "حجز", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290617
+    },
+    {
+      "id": 10513,
+      "vocabulary": 3001,
+      "wordID": 16317,
+      "key": "C5zNkb_YgjUgj0RR8npNStg9IFRr_AFh",
+      "sols": [
+        {
+          "key": "C5zNkb_YgjUgj0RR8npNStg9IFRr_AFh",
+          "text": "طاولة",
+          "dictionary": [{ "raw": "طاولة", "translations": [] }]
+        },
+        {
+          "key": "C5zNkb_YgjUgj0RR8npNStg9IFRr_AFh",
+          "text": "table",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "table",
+              "translations": [
+                { "type": "dictionary", "text": "طاولة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436958
+    },
+    {
+      "id": 10514,
+      "vocabulary": 3001,
+      "wordID": 24071,
+      "key": "bMq3kiFzkcfEeomgWPLZ10Y9-KSSfx59",
+      "sols": [
+        {
+          "key": "bMq3kiFzkcfEeomgWPLZ10Y9-KSSfx59",
+          "text": "قائمة طعام",
+          "dictionary": [
+            { "raw": "قائمة", "translations": [] },
+            { "raw": "طعام", "translations": [] }
+          ]
+        },
+        {
+          "key": "bMq3kiFzkcfEeomgWPLZ10Y9-KSSfx59",
+          "text": "menu",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "menu",
+              "translations": [
+                { "type": "dictionary", "text": "قائمة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290970
+    },
+    {
+      "id": 10515,
+      "vocabulary": 3001,
+      "wordID": 16862,
+      "key": "j1afrHecV_LjP3yljU2C61B3Na9wQtHy",
+      "sols": [
+        {
+          "key": "j1afrHecV_LjP3yljU2C61B3Na9wQtHy",
+          "text": "شاي",
+          "dictionary": [{ "raw": "شاي", "translations": [] }]
+        },
+        {
+          "key": "j1afrHecV_LjP3yljU2C61B3Na9wQtHy",
+          "text": "tea",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "tea",
+              "translations": [
+                { "type": "dictionary", "text": "شاي", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1607004576
+    },
+    {
+      "id": 10516,
+      "vocabulary": 3001,
+      "wordID": 24076,
+      "key": "s2Azo9jJ3Lax-e4uQw7ngxw6-9E8Cs21",
+      "sols": [
+        {
+          "key": "s2Azo9jJ3Lax-e4uQw7ngxw6-9E8Cs21",
+          "text": "كابتشينو",
+          "dictionary": [{ "raw": "كابتشينو", "translations": [] }]
+        },
+        {
+          "key": "s2Azo9jJ3Lax-e4uQw7ngxw6-9E8Cs21",
+          "text": "cappuccino",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "cappuccino",
+              "translations": [
+                { "type": "dictionary", "text": "كابتشينو", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290976
+    },
+    {
+      "id": 10517,
+      "vocabulary": 3001,
+      "wordID": 16819,
+      "key": "IHvR-cHShFes8rMvcKe-4LleyaOZYKCC",
+      "sols": [
+        {
+          "key": "IHvR-cHShFes8rMvcKe-4LleyaOZYKCC",
+          "text": "عصير",
+          "dictionary": [{ "raw": "عصير", "translations": [] }]
+        },
+        {
+          "key": "IHvR-cHShFes8rMvcKe-4LleyaOZYKCC",
+          "text": "juice",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "juice",
+              "translations": [
+                { "type": "dictionary", "text": "عصير", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1607004590
+    },
+    {
+      "id": 10518,
+      "vocabulary": 3001,
+      "wordID": 16850,
+      "key": "9FF1mBVCxHnzky331iRwPCGPyL8s5lyR",
+      "sols": [
+        {
+          "key": "9FF1mBVCxHnzky331iRwPCGPyL8s5lyR",
+          "text": "سلطة",
+          "dictionary": [{ "raw": "سلطة", "translations": [] }]
+        },
+        {
+          "key": "9FF1mBVCxHnzky331iRwPCGPyL8s5lyR",
+          "text": "salad",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "salad",
+              "translations": [
+                { "type": "dictionary", "text": "سلطة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436856
+    },
+    {
+      "id": 10519,
+      "vocabulary": 3001,
+      "wordID": 23881,
+      "key": "t5yKTweSmgaswrgPDvocJTD8xe4tvdEp",
+      "sols": [
+        {
+          "key": "t5yKTweSmgaswrgPDvocJTD8xe4tvdEp",
+          "text": "برغر",
+          "dictionary": [{ "raw": "برغر", "translations": [] }]
+        },
+        {
+          "key": "t5yKTweSmgaswrgPDvocJTD8xe4tvdEp",
+          "text": "burger",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "burger",
+              "translations": [
+                { "type": "dictionary", "text": "برغر", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290757
+    },
+    {
+      "id": 10520,
+      "vocabulary": 3001,
+      "wordID": 24072,
+      "key": "VTYTRPIbrZt5hmO983pHCJUhfAFM-Jy6",
+      "sols": [
+        {
+          "key": "VTYTRPIbrZt5hmO983pHCJUhfAFM-Jy6",
+          "text": "يوصي",
+          "dictionary": [{ "raw": "يوصي", "translations": [] }]
+        },
+        {
+          "key": "VTYTRPIbrZt5hmO983pHCJUhfAFM-Jy6",
+          "text": "to recommend",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "recommend",
+              "translations": [
+                { "type": "dictionary", "text": "يوصي", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290971
+    },
+    {
+      "id": 10521,
+      "vocabulary": 3001,
+      "wordID": 24073,
+      "key": "Qy5_86L2WkyrKz8fqNTLMjhk-8xekbZs",
+      "sols": [
+        {
+          "key": "Qy5_86L2WkyrKz8fqNTLMjhk-8xekbZs",
+          "text": "يطلب",
+          "dictionary": [{ "raw": "يطلب", "translations": [] }]
+        },
+        {
+          "key": "Qy5_86L2WkyrKz8fqNTLMjhk-8xekbZs",
+          "text": "to order",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "order",
+              "translations": [
+                { "type": "dictionary", "text": "يطلب", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290972
+    }
+  ]
+}

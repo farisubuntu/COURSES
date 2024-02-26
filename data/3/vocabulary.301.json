@@ -1,1 +1,294 @@
-{"vocabulary":{"id":301,"index":1,"category":3,"categoryID":3,"unifiedUnitId":3,"unifiedCategoryId":3,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":10,"countPhrases":10,"countDone":0,"vItems":[10532,10533,10534,10535,10536,10537,10538,10539,10540,10541]},"vItems":[{"id":10532,"vocabulary":301,"wordID":23552,"key":"CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF","sols":[{"key":"CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF","text":"الإسبانية","dictionary":[{"raw":"الإسبانية","translations":[]}]},{"key":"CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF","text":"Spanish","phonetic":"","dictionary":[{"raw":"Spanish","translations":[{"type":"dictionary","text":"الإسبانية","phonetic":null}]}]}],"audio_updated_at":1688290375},{"id":10533,"vocabulary":301,"wordID":23553,"key":"b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7","sols":[{"key":"b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7","text":"الصينية","dictionary":[{"raw":"الصينية","translations":[]}]},{"key":"b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7","text":"Chinese","phonetic":"","dictionary":[{"raw":"Chinese","translations":[{"type":"dictionary","text":"الصينية","phonetic":null}]}]}],"audio_updated_at":1688290376},{"id":10534,"vocabulary":301,"wordID":23558,"key":"GufhW6Rd1XBnUIfEimYHSs-LWKVToIdh","sols":[{"key":"GufhW6Rd1XBnUIfEimYHSs-LWKVToIdh","text":"الألمانية","dictionary":[{"raw":"الألمانية","translations":[]}]},{"key":"GufhW6Rd1XBnUIfEimYHSs-LWKVToIdh","text":"German","phonetic":"","dictionary":[{"raw":"German","translations":[{"type":"dictionary","text":"الألمانية","phonetic":null}]}]}],"audio_updated_at":1688290382},{"id":10535,"vocabulary":301,"wordID":23559,"key":"_RIqTaTmciCsyvPCGTQ0jV8MtgLYCZ4v","sols":[{"key":"_RIqTaTmciCsyvPCGTQ0jV8MtgLYCZ4v","text":"البرتغالية","dictionary":[{"raw":"البرتغالية","translations":[]}]},{"key":"_RIqTaTmciCsyvPCGTQ0jV8MtgLYCZ4v","text":"Portuguese","phonetic":"","dictionary":[{"raw":"Portuguese","translations":[{"type":"dictionary","text":"البرتغالية","phonetic":null}]}]}],"audio_updated_at":1688290384},{"id":10536,"vocabulary":301,"wordID":23568,"key":"GLDuJbR6geC4cFdAHumRY8Z-RRUFBj3i","sols":[{"key":"GLDuJbR6geC4cFdAHumRY8Z-RRUFBj3i","text":"العربية","dictionary":[{"raw":"العربية","translations":[]}]},{"key":"GLDuJbR6geC4cFdAHumRY8Z-RRUFBj3i","text":"Arabic","phonetic":"","dictionary":[{"raw":"Arabic","translations":[{"type":"dictionary","text":"العربية","phonetic":null}]}]}],"audio_updated_at":1688290394},{"id":10537,"vocabulary":301,"wordID":23584,"key":"2XDeeUaLulHJP1kpk5fn2yCyuTU4I8E8","sols":[{"key":"2XDeeUaLulHJP1kpk5fn2yCyuTU4I8E8","text":"كندا","dictionary":[{"raw":"كندا","translations":[]}]},{"key":"2XDeeUaLulHJP1kpk5fn2yCyuTU4I8E8","text":"Canada","phonetic":"","dictionary":[{"raw":"Canada","translations":[{"type":"dictionary","text":"كندا","phonetic":null}]}]}],"audio_updated_at":1688290412},{"id":10538,"vocabulary":301,"wordID":23583,"key":"hgMTBym-lp2215nIHQxNwH5nlfJVv8Ch","sols":[{"key":"hgMTBym-lp2215nIHQxNwH5nlfJVv8Ch","text":"إنجلترا","dictionary":[{"raw":"إنجلترا","translations":[]}]},{"key":"hgMTBym-lp2215nIHQxNwH5nlfJVv8Ch","text":"England","phonetic":"","dictionary":[{"raw":"England","translations":[{"type":"dictionary","text":"إنجلترا","phonetic":null}]}]}],"audio_updated_at":1688290411},{"id":10539,"vocabulary":301,"wordID":23586,"key":"aPULeM-L3sLk6www1t886Syylgeua3Lk","sols":[{"key":"aPULeM-L3sLk6www1t886Syylgeua3Lk","text":"الهند","dictionary":[{"raw":"الهند","translations":[]}]},{"key":"aPULeM-L3sLk6www1t886Syylgeua3Lk","text":"India","phonetic":"","dictionary":[{"raw":"India","translations":[{"type":"dictionary","text":"الهند","phonetic":null}]}]}],"audio_updated_at":1688290415},{"id":10540,"vocabulary":301,"wordID":23585,"key":"2mJHFtleUuq13UtAGnQJEAYcvvmeyD0X","sols":[{"key":"2mJHFtleUuq13UtAGnQJEAYcvvmeyD0X","text":"اليابان","dictionary":[{"raw":"اليابان","translations":[]}]},{"key":"2mJHFtleUuq13UtAGnQJEAYcvvmeyD0X","text":"Japan","phonetic":"","dictionary":[{"raw":"Japan","translations":[{"type":"dictionary","text":"اليابان","phonetic":null}]}]}],"audio_updated_at":1688290414},{"id":10541,"vocabulary":301,"wordID":23582,"key":"FJz4G3IhDtQFSF1i-e4XFe43EwcPdpcR","sols":[{"key":"FJz4G3IhDtQFSF1i-e4XFe43EwcPdpcR","text":"إيطاليا","dictionary":[{"raw":"إيطاليا","translations":[]}]},{"key":"FJz4G3IhDtQFSF1i-e4XFe43EwcPdpcR","text":"Italy","phonetic":"","dictionary":[{"raw":"Italy","translations":[{"type":"dictionary","text":"إيطاليا","phonetic":null}]}]}],"audio_updated_at":1688290410}]}
+{
+  "vocabulary": {
+    "id": 301,
+    "index": 1,
+    "category": 3,
+    "categoryID": 3,
+    "unifiedUnitId": 3,
+    "unifiedCategoryId": 3,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 10,
+    "countPhrases": 10,
+    "countDone": 0,
+    "vItems": [
+      10532, 10533, 10534, 10535, 10536, 10537, 10538, 10539, 10540, 10541
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10532,
+      "vocabulary": 301,
+      "wordID": 23552,
+      "key": "CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF",
+      "sols": [
+        {
+          "key": "CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF",
+          "text": "الإسبانية",
+          "dictionary": [{ "raw": "الإسبانية", "translations": [] }]
+        },
+        {
+          "key": "CxVOgMfvO3M7_-FS9IP4yQ1nyDnoFzyF",
+          "text": "Spanish",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Spanish",
+              "translations": [
+                { "type": "dictionary", "text": "الإسبانية", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290375
+    },
+    {
+      "id": 10533,
+      "vocabulary": 301,
+      "wordID": 23553,
+      "key": "b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7",
+      "sols": [
+        {
+          "key": "b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7",
+          "text": "الصينية",
+          "dictionary": [{ "raw": "الصينية", "translations": [] }]
+        },
+        {
+          "key": "b8wn0bBZ_V8oetEYxDAcV4USh-0nVKt7",
+          "text": "Chinese",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Chinese",
+              "translations": [
+                { "type": "dictionary", "text": "الصينية", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290376
+    },
+    {
+      "id": 10534,
+      "vocabulary": 301,
+      "wordID": 23558,
+      "key": "GufhW6Rd1XBnUIfEimYHSs-LWKVToIdh",
+      "sols": [
+        {
+          "key": "GufhW6Rd1XBnUIfEimYHSs-LWKVToIdh",
+          "text": "الألمانية",
+          "dictionary": [{ "raw": "الألمانية", "translations": [] }]
+        },
+        {
+          "key": "GufhW6Rd1XBnUIfEimYHSs-LWKVToIdh",
+          "text": "German",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "German",
+              "translations": [
+                { "type": "dictionary", "text": "الألمانية", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290382
+    },
+    {
+      "id": 10535,
+      "vocabulary": 301,
+      "wordID": 23559,
+      "key": "_RIqTaTmciCsyvPCGTQ0jV8MtgLYCZ4v",
+      "sols": [
+        {
+          "key": "_RIqTaTmciCsyvPCGTQ0jV8MtgLYCZ4v",
+          "text": "البرتغالية",
+          "dictionary": [{ "raw": "البرتغالية", "translations": [] }]
+        },
+        {
+          "key": "_RIqTaTmciCsyvPCGTQ0jV8MtgLYCZ4v",
+          "text": "Portuguese",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Portuguese",
+              "translations": [
+                { "type": "dictionary", "text": "البرتغالية", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290384
+    },
+    {
+      "id": 10536,
+      "vocabulary": 301,
+      "wordID": 23568,
+      "key": "GLDuJbR6geC4cFdAHumRY8Z-RRUFBj3i",
+      "sols": [
+        {
+          "key": "GLDuJbR6geC4cFdAHumRY8Z-RRUFBj3i",
+          "text": "العربية",
+          "dictionary": [{ "raw": "العربية", "translations": [] }]
+        },
+        {
+          "key": "GLDuJbR6geC4cFdAHumRY8Z-RRUFBj3i",
+          "text": "Arabic",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Arabic",
+              "translations": [
+                { "type": "dictionary", "text": "العربية", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290394
+    },
+    {
+      "id": 10537,
+      "vocabulary": 301,
+      "wordID": 23584,
+      "key": "2XDeeUaLulHJP1kpk5fn2yCyuTU4I8E8",
+      "sols": [
+        {
+          "key": "2XDeeUaLulHJP1kpk5fn2yCyuTU4I8E8",
+          "text": "كندا",
+          "dictionary": [{ "raw": "كندا", "translations": [] }]
+        },
+        {
+          "key": "2XDeeUaLulHJP1kpk5fn2yCyuTU4I8E8",
+          "text": "Canada",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Canada",
+              "translations": [
+                { "type": "dictionary", "text": "كندا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290412
+    },
+    {
+      "id": 10538,
+      "vocabulary": 301,
+      "wordID": 23583,
+      "key": "hgMTBym-lp2215nIHQxNwH5nlfJVv8Ch",
+      "sols": [
+        {
+          "key": "hgMTBym-lp2215nIHQxNwH5nlfJVv8Ch",
+          "text": "إنجلترا",
+          "dictionary": [{ "raw": "إنجلترا", "translations": [] }]
+        },
+        {
+          "key": "hgMTBym-lp2215nIHQxNwH5nlfJVv8Ch",
+          "text": "England",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "England",
+              "translations": [
+                { "type": "dictionary", "text": "إنجلترا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290411
+    },
+    {
+      "id": 10539,
+      "vocabulary": 301,
+      "wordID": 23586,
+      "key": "aPULeM-L3sLk6www1t886Syylgeua3Lk",
+      "sols": [
+        {
+          "key": "aPULeM-L3sLk6www1t886Syylgeua3Lk",
+          "text": "الهند",
+          "dictionary": [{ "raw": "الهند", "translations": [] }]
+        },
+        {
+          "key": "aPULeM-L3sLk6www1t886Syylgeua3Lk",
+          "text": "India",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "India",
+              "translations": [
+                { "type": "dictionary", "text": "الهند", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290415
+    },
+    {
+      "id": 10540,
+      "vocabulary": 301,
+      "wordID": 23585,
+      "key": "2mJHFtleUuq13UtAGnQJEAYcvvmeyD0X",
+      "sols": [
+        {
+          "key": "2mJHFtleUuq13UtAGnQJEAYcvvmeyD0X",
+          "text": "اليابان",
+          "dictionary": [{ "raw": "اليابان", "translations": [] }]
+        },
+        {
+          "key": "2mJHFtleUuq13UtAGnQJEAYcvvmeyD0X",
+          "text": "Japan",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Japan",
+              "translations": [
+                { "type": "dictionary", "text": "اليابان", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290414
+    },
+    {
+      "id": 10541,
+      "vocabulary": 301,
+      "wordID": 23582,
+      "key": "FJz4G3IhDtQFSF1i-e4XFe43EwcPdpcR",
+      "sols": [
+        {
+          "key": "FJz4G3IhDtQFSF1i-e4XFe43EwcPdpcR",
+          "text": "إيطاليا",
+          "dictionary": [{ "raw": "إيطاليا", "translations": [] }]
+        },
+        {
+          "key": "FJz4G3IhDtQFSF1i-e4XFe43EwcPdpcR",
+          "text": "Italy",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Italy",
+              "translations": [
+                { "type": "dictionary", "text": "إيطاليا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290410
+    }
+  ]
+}

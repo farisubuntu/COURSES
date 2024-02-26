@@ -1,1 +1,740 @@
-{"vocabulary":{"id":3701,"index":1,"category":37,"categoryID":37,"unifiedUnitId":37,"unifiedCategoryId":37,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":12,"countPhrases":0,"countDone":0,"vItems":[10382,10383,10384,10385,10386,10387,10388,10389,10390,10391]},"vItems":[{"id":10382,"vocabulary":3701,"wordID":17718,"key":"in9RPksMggmoHhqLPclNuo08UtCflpWm","sols":[{"key":"in9RPksMggmoHhqLPclNuo08UtCflpWm","text":"أوبرا","dictionary":[{"raw":"أوبرا","translations":[]}]},{"key":"in9RPksMggmoHhqLPclNuo08UtCflpWm","text":"opera","phonetic":"","dictionary":[{"raw":"opera","translations":[{"type":"dictionary","text":"أوبرا","phonetic":null}]}]}],"audio_updated_at":1543437529},{"id":10383,"vocabulary":3701,"wordID":17663,"key":"7PQYse-su6lZcMv67UCXJRrrxhr4e6Ag","sols":[{"key":"7PQYse-su6lZcMv67UCXJRrrxhr4e6Ag","text":"فيلم","dictionary":[{"raw":"فيلم","translations":[]}]},{"key":"7PQYse-su6lZcMv67UCXJRrrxhr4e6Ag","text":"film","phonetic":"","dictionary":[{"raw":"film","translations":[{"type":"dictionary","text":"فيلم","phonetic":null}]}]}],"audio_updated_at":1543437165},{"id":10384,"vocabulary":3701,"wordID":15186,"key":"mdr6fVFjsnxcLDfN6sPI-o3u8UN5UP-G","sols":[{"key":"mdr6fVFjsnxcLDfN6sPI-o3u8UN5UP-G","text":"يسترخي","dictionary":[{"raw":"يسترخي","translations":[{"type":"verb","name":{"t":"to relax","m":"يسترخي","phonetic":"to relax"},"id":66,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"2hMXw-mGfkNX2B956fbqRXUhuZ-v6bdO","text":"I relax","phonetic":"","audio_updated_at":1543438360},"m":{"text":"أنا أسترخي"}},{"t":{"key":"SJyBbLVNHuMIe0ad3sVMQQaNKvHm6Oe9","text":"You relax","phonetic":"","audio_updated_at":1543438361},"m":{"text":"أنت تسترخي"}},{"t":{"key":"G3rBQMBeLsk93KSkTOQo4Cbu6mentm65","text":"He relaxes","phonetic":"","audio_updated_at":1543438363},"m":{"text":"هو يسترخي"}},{"t":{"key":"1bZEbgRZYV_Jc_ewpr8YPWG0uyQTRkk4","text":"She relaxes","phonetic":"","audio_updated_at":1543438364},"m":{"text":"هي تسترخي"}},{"t":{"key":"nlf0doe6Eaj9xhN36Xqtut890HvCL0Vq","text":"We relax","phonetic":"","audio_updated_at":1543438365},"m":{"text":"نحن نسترخي"}},{"t":{"key":"aab1tRHMINF7gysw7q_J9dbVz-DFsdeo","text":"You relax","phonetic":"","audio_updated_at":1541548131},"m":{"text":"أنتم تسترخون"}},{"t":{"key":"_VGOQUWFo_CLGmq3ZY7VeU0timaFIauA","text":"They relax","phonetic":"","audio_updated_at":1543438367},"m":{"text":"هم يسترخون"}}],"pa":[{"t":{"key":"KUjItDDl9EDXb_JNBO87InU-DfXeDM8F","text":"I relaxed","phonetic":"","audio_updated_at":1541548133},"m":{"text":"أنا استرخيت"}},{"t":{"key":"SoA7hzefZQdYp69OTcTjRziu-QCmLo4D","text":"You relaxed","phonetic":"","audio_updated_at":1541548134},"m":{"text":"أنت استرخيت"}},{"t":{"key":"hTxaxqJ8B-pgx62yL-Fl28v2mjrwvAO1","text":"He relaxed","phonetic":"","audio_updated_at":1541548135},"m":{"text":"هو استرخى"}},{"t":{"key":"8M8ULZ0fNpPJDUQMKZGZ4ccXJDzpV1Zk","text":"She relaxed","phonetic":"","audio_updated_at":1541548136},"m":{"text":"هي استرخت"}},{"t":{"key":"YROSgY8J8ot6aGVaFVvQE9LKt42RZkhK","text":"We relaxed","phonetic":"","audio_updated_at":1541548138},"m":{"text":"نحن استرخينا"}},{"t":{"key":"cFAOv-6mWWoZMVjIOImu9LMXlgw05hE0","text":"You relaxed","phonetic":"","audio_updated_at":1541548139},"m":{"text":"أنتم استرخيتم"}},{"t":{"key":"73-9t3qtvv5z5jMIHWdFpkZqLFV0jEUg","text":"They relaxed","phonetic":"","audio_updated_at":1541548141},"m":{"text":"هم استرخوا"}}],"fu":[{"t":{"key":"fu6pKUllxRCQ-YHv7FoL9dutRatOmpX8","text":"I will relax","phonetic":"","audio_updated_at":1541548142},"m":{"text":"أنا سأسترخي"}},{"t":{"key":"lF1sGT8KxQrl9zURI5PcYNg81WJ4xP8m","text":"You will relax","phonetic":"","audio_updated_at":1541548143},"m":{"text":"أنت ستسترخي"}},{"t":{"key":"auMlSzWbdGAa6llqkcMHlq-qGj7MAkKi","text":"He will relax","phonetic":"","audio_updated_at":1541548144},"m":{"text":"هو سيسترخي"}},{"t":{"key":"sHCxooQWT7PKQlrxvml9o068dUVsNNDo","text":"She will relax","phonetic":"","audio_updated_at":1541548145},"m":{"text":"هي ستسترخي"}},{"t":{"key":"zkKawzApcky3Cvh1sm8cRPEAmQsgYEGi","text":"We will relax","phonetic":"","audio_updated_at":1541548147},"m":{"text":"نحن سنسترخي"}},{"t":{"key":"x3HRCuemini50yZz-jwBlGJvDW3noQIQ","text":"You will relax","phonetic":"","audio_updated_at":1541548148},"m":{"text":"أنتم ستسترخون"}},{"t":{"key":"TrQCIcvnRH9_bH8sribS-tVm6cyPCXWo","text":"They will relax","phonetic":"","audio_updated_at":1541548149},"m":{"text":"هم سيسترخون"}}]}}]}]},{"key":"mdr6fVFjsnxcLDfN6sPI-o3u8UN5UP-G","text":"to relax","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"relax","translations":[{"type":"dictionary","text":"يسترخي","phonetic":null},{"type":"verb","name":{"t":"to relax","m":"يسترخي","phonetic":"to relax"},"id":66,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"2hMXw-mGfkNX2B956fbqRXUhuZ-v6bdO","text":"I relax","phonetic":"","audio_updated_at":1543438360},"m":{"text":"أنا أسترخي"}},{"t":{"key":"SJyBbLVNHuMIe0ad3sVMQQaNKvHm6Oe9","text":"You relax","phonetic":"","audio_updated_at":1543438361},"m":{"text":"أنت تسترخي"}},{"t":{"key":"G3rBQMBeLsk93KSkTOQo4Cbu6mentm65","text":"He relaxes","phonetic":"","audio_updated_at":1543438363},"m":{"text":"هو يسترخي"}},{"t":{"key":"1bZEbgRZYV_Jc_ewpr8YPWG0uyQTRkk4","text":"She relaxes","phonetic":"","audio_updated_at":1543438364},"m":{"text":"هي تسترخي"}},{"t":{"key":"nlf0doe6Eaj9xhN36Xqtut890HvCL0Vq","text":"We relax","phonetic":"","audio_updated_at":1543438365},"m":{"text":"نحن نسترخي"}},{"t":{"key":"aab1tRHMINF7gysw7q_J9dbVz-DFsdeo","text":"You relax","phonetic":"","audio_updated_at":1541548131},"m":{"text":"أنتم تسترخون"}},{"t":{"key":"_VGOQUWFo_CLGmq3ZY7VeU0timaFIauA","text":"They relax","phonetic":"","audio_updated_at":1543438367},"m":{"text":"هم يسترخون"}}],"pa":[{"t":{"key":"KUjItDDl9EDXb_JNBO87InU-DfXeDM8F","text":"I relaxed","phonetic":"","audio_updated_at":1541548133},"m":{"text":"أنا استرخيت"}},{"t":{"key":"SoA7hzefZQdYp69OTcTjRziu-QCmLo4D","text":"You relaxed","phonetic":"","audio_updated_at":1541548134},"m":{"text":"أنت استرخيت"}},{"t":{"key":"hTxaxqJ8B-pgx62yL-Fl28v2mjrwvAO1","text":"He relaxed","phonetic":"","audio_updated_at":1541548135},"m":{"text":"هو استرخى"}},{"t":{"key":"8M8ULZ0fNpPJDUQMKZGZ4ccXJDzpV1Zk","text":"She relaxed","phonetic":"","audio_updated_at":1541548136},"m":{"text":"هي استرخت"}},{"t":{"key":"YROSgY8J8ot6aGVaFVvQE9LKt42RZkhK","text":"We relaxed","phonetic":"","audio_updated_at":1541548138},"m":{"text":"نحن استرخينا"}},{"t":{"key":"cFAOv-6mWWoZMVjIOImu9LMXlgw05hE0","text":"You relaxed","phonetic":"","audio_updated_at":1541548139},"m":{"text":"أنتم استرخيتم"}},{"t":{"key":"73-9t3qtvv5z5jMIHWdFpkZqLFV0jEUg","text":"They relaxed","phonetic":"","audio_updated_at":1541548141},"m":{"text":"هم استرخوا"}}],"fu":[{"t":{"key":"fu6pKUllxRCQ-YHv7FoL9dutRatOmpX8","text":"I will relax","phonetic":"","audio_updated_at":1541548142},"m":{"text":"أنا سأسترخي"}},{"t":{"key":"lF1sGT8KxQrl9zURI5PcYNg81WJ4xP8m","text":"You will relax","phonetic":"","audio_updated_at":1541548143},"m":{"text":"أنت ستسترخي"}},{"t":{"key":"auMlSzWbdGAa6llqkcMHlq-qGj7MAkKi","text":"He will relax","phonetic":"","audio_updated_at":1541548144},"m":{"text":"هو سيسترخي"}},{"t":{"key":"sHCxooQWT7PKQlrxvml9o068dUVsNNDo","text":"She will relax","phonetic":"","audio_updated_at":1541548145},"m":{"text":"هي ستسترخي"}},{"t":{"key":"zkKawzApcky3Cvh1sm8cRPEAmQsgYEGi","text":"We will relax","phonetic":"","audio_updated_at":1541548147},"m":{"text":"نحن سنسترخي"}},{"t":{"key":"x3HRCuemini50yZz-jwBlGJvDW3noQIQ","text":"You will relax","phonetic":"","audio_updated_at":1541548148},"m":{"text":"أنتم ستسترخون"}},{"t":{"key":"TrQCIcvnRH9_bH8sribS-tVm6cyPCXWo","text":"They will relax","phonetic":"","audio_updated_at":1541548149},"m":{"text":"هم سيسترخون"}}]}}]}]}],"audio_updated_at":1639520251},{"id":10385,"vocabulary":3701,"wordID":24118,"key":"GSRr35kxUk3mBjWy3mazu9taDjHkNDAi","sols":[{"key":"GSRr35kxUk3mBjWy3mazu9taDjHkNDAi","text":"يتزلج","dictionary":[{"raw":"يتزلج","translations":[]}]},{"key":"GSRr35kxUk3mBjWy3mazu9taDjHkNDAi","text":"to ski","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"ski","translations":[{"type":"dictionary","text":"يتزلج","phonetic":null}]}]}],"audio_updated_at":1688291022},{"id":10386,"vocabulary":3701,"wordID":24119,"key":"_nWyFbRwY9-jyXgnjDMSPdz2-GH98Yy3","sols":[{"key":"_nWyFbRwY9-jyXgnjDMSPdz2-GH98Yy3","text":"يصيد السمك","dictionary":[{"raw":"يصيد","translations":[]},{"raw":"السمك","translations":[]}]},{"key":"_nWyFbRwY9-jyXgnjDMSPdz2-GH98Yy3","text":"to fish","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"fish","translations":[{"type":"dictionary","text":"السمك","phonetic":null}]}]}],"audio_updated_at":1688291023},{"id":10387,"vocabulary":3701,"wordID":23789,"key":"Qx4mezvGVE6h-FTZgj4CZIkOdVufxjoB","sols":[{"key":"Qx4mezvGVE6h-FTZgj4CZIkOdVufxjoB","text":"يرقص","dictionary":[{"raw":"يرقص","translations":[]}]},{"key":"Qx4mezvGVE6h-FTZgj4CZIkOdVufxjoB","text":"to dance","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"dance","translations":[{"type":"dictionary","text":"يرقص","phonetic":null}]}]}],"audio_updated_at":1688290653},{"id":10388,"vocabulary":3701,"wordID":13955,"key":"obuYa2H9n8U5S7cHNxn1lrpcFI_OgqOY","sols":[{"key":"obuYa2H9n8U5S7cHNxn1lrpcFI_OgqOY","text":"يلون","dictionary":[{"raw":"يلون","translations":[]}]},{"key":"obuYa2H9n8U5S7cHNxn1lrpcFI_OgqOY","text":"to paint","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"paint","translations":[{"type":"dictionary","text":"يلون","phonetic":null}]}]}],"audio_updated_at":1639519817},{"id":10389,"vocabulary":3701,"wordID":13002,"key":"HYedrXpJKJ7H5dEBGZWDEYsfuaAm9arE","sols":[{"key":"HYedrXpJKJ7H5dEBGZWDEYsfuaAm9arE","text":"يطبخ","dictionary":[{"raw":"يطبخ","translations":[]}]},{"key":"HYedrXpJKJ7H5dEBGZWDEYsfuaAm9arE","text":"to cook","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"cook","translations":[{"type":"dictionary","text":"يطبخ","phonetic":null}]}]}],"audio_updated_at":1639520175},{"id":10390,"vocabulary":3701,"wordID":17771,"key":"Zw7PJZSj-UiGfzj8Y-IROMaiPuLZWep6","sols":[{"key":"Zw7PJZSj-UiGfzj8Y-IROMaiPuLZWep6","text":"لعبة فيديو","dictionary":[{"raw":"لعبة","translations":[]},{"raw":"فيديو","translations":[]}]},{"key":"Zw7PJZSj-UiGfzj8Y-IROMaiPuLZWep6","text":"video game","phonetic":"","dictionary":[{"raw":"video","translations":[{"type":"dictionary","text":"فيديو","phonetic":null}]},{"raw":"game","translations":[{"type":"dictionary","text":"لعبة","phonetic":null}]}]}],"audio_updated_at":1543437176},{"id":10391,"vocabulary":3701,"wordID":17725,"key":"s6yx8Jt_98TdRSMeuZVfRk0q7oSxx296","sols":[{"key":"s6yx8Jt_98TdRSMeuZVfRk0q7oSxx296","text":"حفلة","dictionary":[{"raw":"حفلة","translations":[]}]},{"key":"s6yx8Jt_98TdRSMeuZVfRk0q7oSxx296","text":"party","phonetic":"","dictionary":[{"raw":"party","translations":[{"type":"dictionary","text":"حفلة","phonetic":null}]}]}],"audio_updated_at":1543436597}]}
+{
+  "vocabulary": {
+    "id": 3701,
+    "index": 1,
+    "category": 37,
+    "categoryID": 37,
+    "unifiedUnitId": 37,
+    "unifiedCategoryId": 37,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 12,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10382, 10383, 10384, 10385, 10386, 10387, 10388, 10389, 10390, 10391
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10382,
+      "vocabulary": 3701,
+      "wordID": 17718,
+      "key": "in9RPksMggmoHhqLPclNuo08UtCflpWm",
+      "sols": [
+        {
+          "key": "in9RPksMggmoHhqLPclNuo08UtCflpWm",
+          "text": "أوبرا",
+          "dictionary": [{ "raw": "أوبرا", "translations": [] }]
+        },
+        {
+          "key": "in9RPksMggmoHhqLPclNuo08UtCflpWm",
+          "text": "opera",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "opera",
+              "translations": [
+                { "type": "dictionary", "text": "أوبرا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437529
+    },
+    {
+      "id": 10383,
+      "vocabulary": 3701,
+      "wordID": 17663,
+      "key": "7PQYse-su6lZcMv67UCXJRrrxhr4e6Ag",
+      "sols": [
+        {
+          "key": "7PQYse-su6lZcMv67UCXJRrrxhr4e6Ag",
+          "text": "فيلم",
+          "dictionary": [{ "raw": "فيلم", "translations": [] }]
+        },
+        {
+          "key": "7PQYse-su6lZcMv67UCXJRrrxhr4e6Ag",
+          "text": "film",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "film",
+              "translations": [
+                { "type": "dictionary", "text": "فيلم", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437165
+    },
+    {
+      "id": 10384,
+      "vocabulary": 3701,
+      "wordID": 15186,
+      "key": "mdr6fVFjsnxcLDfN6sPI-o3u8UN5UP-G",
+      "sols": [
+        {
+          "key": "mdr6fVFjsnxcLDfN6sPI-o3u8UN5UP-G",
+          "text": "يسترخي",
+          "dictionary": [
+            {
+              "raw": "يسترخي",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to relax",
+                    "m": "يسترخي",
+                    "phonetic": "to relax"
+                  },
+                  "id": 66,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "2hMXw-mGfkNX2B956fbqRXUhuZ-v6bdO",
+                          "text": "I relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438360
+                        },
+                        "m": { "text": "أنا أسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "SJyBbLVNHuMIe0ad3sVMQQaNKvHm6Oe9",
+                          "text": "You relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438361
+                        },
+                        "m": { "text": "أنت تسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "G3rBQMBeLsk93KSkTOQo4Cbu6mentm65",
+                          "text": "He relaxes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438363
+                        },
+                        "m": { "text": "هو يسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "1bZEbgRZYV_Jc_ewpr8YPWG0uyQTRkk4",
+                          "text": "She relaxes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438364
+                        },
+                        "m": { "text": "هي تسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "nlf0doe6Eaj9xhN36Xqtut890HvCL0Vq",
+                          "text": "We relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438365
+                        },
+                        "m": { "text": "نحن نسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "aab1tRHMINF7gysw7q_J9dbVz-DFsdeo",
+                          "text": "You relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548131
+                        },
+                        "m": { "text": "أنتم تسترخون" }
+                      },
+                      {
+                        "t": {
+                          "key": "_VGOQUWFo_CLGmq3ZY7VeU0timaFIauA",
+                          "text": "They relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438367
+                        },
+                        "m": { "text": "هم يسترخون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "KUjItDDl9EDXb_JNBO87InU-DfXeDM8F",
+                          "text": "I relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548133
+                        },
+                        "m": { "text": "أنا استرخيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SoA7hzefZQdYp69OTcTjRziu-QCmLo4D",
+                          "text": "You relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548134
+                        },
+                        "m": { "text": "أنت استرخيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "hTxaxqJ8B-pgx62yL-Fl28v2mjrwvAO1",
+                          "text": "He relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548135
+                        },
+                        "m": { "text": "هو استرخى" }
+                      },
+                      {
+                        "t": {
+                          "key": "8M8ULZ0fNpPJDUQMKZGZ4ccXJDzpV1Zk",
+                          "text": "She relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548136
+                        },
+                        "m": { "text": "هي استرخت" }
+                      },
+                      {
+                        "t": {
+                          "key": "YROSgY8J8ot6aGVaFVvQE9LKt42RZkhK",
+                          "text": "We relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548138
+                        },
+                        "m": { "text": "نحن استرخينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "cFAOv-6mWWoZMVjIOImu9LMXlgw05hE0",
+                          "text": "You relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548139
+                        },
+                        "m": { "text": "أنتم استرخيتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "73-9t3qtvv5z5jMIHWdFpkZqLFV0jEUg",
+                          "text": "They relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548141
+                        },
+                        "m": { "text": "هم استرخوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "fu6pKUllxRCQ-YHv7FoL9dutRatOmpX8",
+                          "text": "I will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548142
+                        },
+                        "m": { "text": "أنا سأسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "lF1sGT8KxQrl9zURI5PcYNg81WJ4xP8m",
+                          "text": "You will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548143
+                        },
+                        "m": { "text": "أنت ستسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "auMlSzWbdGAa6llqkcMHlq-qGj7MAkKi",
+                          "text": "He will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548144
+                        },
+                        "m": { "text": "هو سيسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "sHCxooQWT7PKQlrxvml9o068dUVsNNDo",
+                          "text": "She will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548145
+                        },
+                        "m": { "text": "هي ستسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "zkKawzApcky3Cvh1sm8cRPEAmQsgYEGi",
+                          "text": "We will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548147
+                        },
+                        "m": { "text": "نحن سنسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "x3HRCuemini50yZz-jwBlGJvDW3noQIQ",
+                          "text": "You will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548148
+                        },
+                        "m": { "text": "أنتم ستسترخون" }
+                      },
+                      {
+                        "t": {
+                          "key": "TrQCIcvnRH9_bH8sribS-tVm6cyPCXWo",
+                          "text": "They will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548149
+                        },
+                        "m": { "text": "هم سيسترخون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mdr6fVFjsnxcLDfN6sPI-o3u8UN5UP-G",
+          "text": "to relax",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "relax",
+              "translations": [
+                { "type": "dictionary", "text": "يسترخي", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to relax",
+                    "m": "يسترخي",
+                    "phonetic": "to relax"
+                  },
+                  "id": 66,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "2hMXw-mGfkNX2B956fbqRXUhuZ-v6bdO",
+                          "text": "I relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438360
+                        },
+                        "m": { "text": "أنا أسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "SJyBbLVNHuMIe0ad3sVMQQaNKvHm6Oe9",
+                          "text": "You relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438361
+                        },
+                        "m": { "text": "أنت تسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "G3rBQMBeLsk93KSkTOQo4Cbu6mentm65",
+                          "text": "He relaxes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438363
+                        },
+                        "m": { "text": "هو يسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "1bZEbgRZYV_Jc_ewpr8YPWG0uyQTRkk4",
+                          "text": "She relaxes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438364
+                        },
+                        "m": { "text": "هي تسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "nlf0doe6Eaj9xhN36Xqtut890HvCL0Vq",
+                          "text": "We relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438365
+                        },
+                        "m": { "text": "نحن نسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "aab1tRHMINF7gysw7q_J9dbVz-DFsdeo",
+                          "text": "You relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548131
+                        },
+                        "m": { "text": "أنتم تسترخون" }
+                      },
+                      {
+                        "t": {
+                          "key": "_VGOQUWFo_CLGmq3ZY7VeU0timaFIauA",
+                          "text": "They relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438367
+                        },
+                        "m": { "text": "هم يسترخون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "KUjItDDl9EDXb_JNBO87InU-DfXeDM8F",
+                          "text": "I relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548133
+                        },
+                        "m": { "text": "أنا استرخيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SoA7hzefZQdYp69OTcTjRziu-QCmLo4D",
+                          "text": "You relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548134
+                        },
+                        "m": { "text": "أنت استرخيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "hTxaxqJ8B-pgx62yL-Fl28v2mjrwvAO1",
+                          "text": "He relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548135
+                        },
+                        "m": { "text": "هو استرخى" }
+                      },
+                      {
+                        "t": {
+                          "key": "8M8ULZ0fNpPJDUQMKZGZ4ccXJDzpV1Zk",
+                          "text": "She relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548136
+                        },
+                        "m": { "text": "هي استرخت" }
+                      },
+                      {
+                        "t": {
+                          "key": "YROSgY8J8ot6aGVaFVvQE9LKt42RZkhK",
+                          "text": "We relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548138
+                        },
+                        "m": { "text": "نحن استرخينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "cFAOv-6mWWoZMVjIOImu9LMXlgw05hE0",
+                          "text": "You relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548139
+                        },
+                        "m": { "text": "أنتم استرخيتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "73-9t3qtvv5z5jMIHWdFpkZqLFV0jEUg",
+                          "text": "They relaxed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548141
+                        },
+                        "m": { "text": "هم استرخوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "fu6pKUllxRCQ-YHv7FoL9dutRatOmpX8",
+                          "text": "I will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548142
+                        },
+                        "m": { "text": "أنا سأسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "lF1sGT8KxQrl9zURI5PcYNg81WJ4xP8m",
+                          "text": "You will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548143
+                        },
+                        "m": { "text": "أنت ستسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "auMlSzWbdGAa6llqkcMHlq-qGj7MAkKi",
+                          "text": "He will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548144
+                        },
+                        "m": { "text": "هو سيسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "sHCxooQWT7PKQlrxvml9o068dUVsNNDo",
+                          "text": "She will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548145
+                        },
+                        "m": { "text": "هي ستسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "zkKawzApcky3Cvh1sm8cRPEAmQsgYEGi",
+                          "text": "We will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548147
+                        },
+                        "m": { "text": "نحن سنسترخي" }
+                      },
+                      {
+                        "t": {
+                          "key": "x3HRCuemini50yZz-jwBlGJvDW3noQIQ",
+                          "text": "You will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548148
+                        },
+                        "m": { "text": "أنتم ستسترخون" }
+                      },
+                      {
+                        "t": {
+                          "key": "TrQCIcvnRH9_bH8sribS-tVm6cyPCXWo",
+                          "text": "They will relax",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548149
+                        },
+                        "m": { "text": "هم سيسترخون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639520251
+    },
+    {
+      "id": 10385,
+      "vocabulary": 3701,
+      "wordID": 24118,
+      "key": "GSRr35kxUk3mBjWy3mazu9taDjHkNDAi",
+      "sols": [
+        {
+          "key": "GSRr35kxUk3mBjWy3mazu9taDjHkNDAi",
+          "text": "يتزلج",
+          "dictionary": [{ "raw": "يتزلج", "translations": [] }]
+        },
+        {
+          "key": "GSRr35kxUk3mBjWy3mazu9taDjHkNDAi",
+          "text": "to ski",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "ski",
+              "translations": [
+                { "type": "dictionary", "text": "يتزلج", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291022
+    },
+    {
+      "id": 10386,
+      "vocabulary": 3701,
+      "wordID": 24119,
+      "key": "_nWyFbRwY9-jyXgnjDMSPdz2-GH98Yy3",
+      "sols": [
+        {
+          "key": "_nWyFbRwY9-jyXgnjDMSPdz2-GH98Yy3",
+          "text": "يصيد السمك",
+          "dictionary": [
+            { "raw": "يصيد", "translations": [] },
+            { "raw": "السمك", "translations": [] }
+          ]
+        },
+        {
+          "key": "_nWyFbRwY9-jyXgnjDMSPdz2-GH98Yy3",
+          "text": "to fish",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "fish",
+              "translations": [
+                { "type": "dictionary", "text": "السمك", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291023
+    },
+    {
+      "id": 10387,
+      "vocabulary": 3701,
+      "wordID": 23789,
+      "key": "Qx4mezvGVE6h-FTZgj4CZIkOdVufxjoB",
+      "sols": [
+        {
+          "key": "Qx4mezvGVE6h-FTZgj4CZIkOdVufxjoB",
+          "text": "يرقص",
+          "dictionary": [{ "raw": "يرقص", "translations": [] }]
+        },
+        {
+          "key": "Qx4mezvGVE6h-FTZgj4CZIkOdVufxjoB",
+          "text": "to dance",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "dance",
+              "translations": [
+                { "type": "dictionary", "text": "يرقص", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290653
+    },
+    {
+      "id": 10388,
+      "vocabulary": 3701,
+      "wordID": 13955,
+      "key": "obuYa2H9n8U5S7cHNxn1lrpcFI_OgqOY",
+      "sols": [
+        {
+          "key": "obuYa2H9n8U5S7cHNxn1lrpcFI_OgqOY",
+          "text": "يلون",
+          "dictionary": [{ "raw": "يلون", "translations": [] }]
+        },
+        {
+          "key": "obuYa2H9n8U5S7cHNxn1lrpcFI_OgqOY",
+          "text": "to paint",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "paint",
+              "translations": [
+                { "type": "dictionary", "text": "يلون", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639519817
+    },
+    {
+      "id": 10389,
+      "vocabulary": 3701,
+      "wordID": 13002,
+      "key": "HYedrXpJKJ7H5dEBGZWDEYsfuaAm9arE",
+      "sols": [
+        {
+          "key": "HYedrXpJKJ7H5dEBGZWDEYsfuaAm9arE",
+          "text": "يطبخ",
+          "dictionary": [{ "raw": "يطبخ", "translations": [] }]
+        },
+        {
+          "key": "HYedrXpJKJ7H5dEBGZWDEYsfuaAm9arE",
+          "text": "to cook",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "cook",
+              "translations": [
+                { "type": "dictionary", "text": "يطبخ", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639520175
+    },
+    {
+      "id": 10390,
+      "vocabulary": 3701,
+      "wordID": 17771,
+      "key": "Zw7PJZSj-UiGfzj8Y-IROMaiPuLZWep6",
+      "sols": [
+        {
+          "key": "Zw7PJZSj-UiGfzj8Y-IROMaiPuLZWep6",
+          "text": "لعبة فيديو",
+          "dictionary": [
+            { "raw": "لعبة", "translations": [] },
+            { "raw": "فيديو", "translations": [] }
+          ]
+        },
+        {
+          "key": "Zw7PJZSj-UiGfzj8Y-IROMaiPuLZWep6",
+          "text": "video game",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "video",
+              "translations": [
+                { "type": "dictionary", "text": "فيديو", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "game",
+              "translations": [
+                { "type": "dictionary", "text": "لعبة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437176
+    },
+    {
+      "id": 10391,
+      "vocabulary": 3701,
+      "wordID": 17725,
+      "key": "s6yx8Jt_98TdRSMeuZVfRk0q7oSxx296",
+      "sols": [
+        {
+          "key": "s6yx8Jt_98TdRSMeuZVfRk0q7oSxx296",
+          "text": "حفلة",
+          "dictionary": [{ "raw": "حفلة", "translations": [] }]
+        },
+        {
+          "key": "s6yx8Jt_98TdRSMeuZVfRk0q7oSxx296",
+          "text": "party",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "party",
+              "translations": [
+                { "type": "dictionary", "text": "حفلة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436597
+    }
+  ]
+}

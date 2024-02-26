@@ -1,1 +1,715 @@
-{"vocabulary":{"id":3801,"index":1,"category":38,"categoryID":38,"unifiedUnitId":38,"unifiedCategoryId":38,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":11,"countPhrases":0,"countDone":0,"vItems":[10282,10283,10284,10285,10286,10287,10288,10289,10290,10291]},"vItems":[{"id":10282,"vocabulary":3801,"wordID":13320,"key":"8B8g1auV489wQtx4fhkh8zhu-W92TQR2","sols":[{"key":"8B8g1auV489wQtx4fhkh8zhu-W92TQR2","text":"يساعد","dictionary":[{"raw":"يساعد","translations":[{"type":"verb","name":{"t":"to help","m":"يساعد","phonetic":"to help"},"id":43,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ","text":"I help","phonetic":"","audio_updated_at":1543438179},"m":{"text":"أنا أساعد"}},{"t":{"key":"MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv","text":"You help","phonetic":"","audio_updated_at":1543438180},"m":{"text":"أنت تساعد"}},{"t":{"key":"5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s","text":"He helps","phonetic":"","audio_updated_at":1543438181},"m":{"text":"هو يساعد"}},{"t":{"key":"87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9","text":"She helps","phonetic":"","audio_updated_at":1543438182},"m":{"text":"هي تساعد"}},{"t":{"key":"ParYyqadRkg9qMwprdEQvUHplzqHyMbk","text":"We help","phonetic":"","audio_updated_at":1543438184},"m":{"text":"نحن نساعد"}},{"t":{"key":"LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU","text":"You help","phonetic":"","audio_updated_at":1541547555},"m":{"text":"أنتم تساعدون"}},{"t":{"key":"VGuPZI4vdq97_VnJzetW08suAOSYkP2G","text":"They help","phonetic":"","audio_updated_at":1543438185},"m":{"text":"هم يساعدون"}}],"pa":[{"t":{"key":"250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr","text":"I helped","phonetic":"","audio_updated_at":1541547558},"m":{"text":"أنا ساعدت"}},{"t":{"key":"SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN","text":"You helped","phonetic":"","audio_updated_at":1541547559},"m":{"text":"أنت ساعدت"}},{"t":{"key":"Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q","text":"He helped","phonetic":"","audio_updated_at":1541547559},"m":{"text":"هو ساعد"}},{"t":{"key":"2w3NgLuoTBE72ZkltxnWThvOeartBWAR","text":"She helped","phonetic":"","audio_updated_at":1541547560},"m":{"text":"هي ساعدت"}},{"t":{"key":"ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO","text":"We helped","phonetic":"","audio_updated_at":1541547562},"m":{"text":"نحن ساعدنا"}},{"t":{"key":"-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR","text":"You helped","phonetic":"","audio_updated_at":1541547563},"m":{"text":"أنتم ساعدتم"}},{"t":{"key":"lBh1FKOForCy2PzDsi5BgfFStNWI1fim","text":"They helped","phonetic":"","audio_updated_at":1541547564},"m":{"text":"هم ساعدوا"}}],"fu":[{"t":{"key":"S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm","text":"I will help","phonetic":"","audio_updated_at":1541547565},"m":{"text":"أنا سأساعد"}},{"t":{"key":"fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy","text":"You will help","phonetic":"","audio_updated_at":1541547567},"m":{"text":"أنت ستساعد"}},{"t":{"key":"5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn","text":"He will help","phonetic":"","audio_updated_at":1541547567},"m":{"text":"هو سيساعد"}},{"t":{"key":"1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr","text":"She will help","phonetic":"","audio_updated_at":1541547568},"m":{"text":"هي ستساعد"}},{"t":{"key":"SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i","text":"We will help","phonetic":"","audio_updated_at":1541547570},"m":{"text":"نحن سنساعد"}},{"t":{"key":"aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6","text":"You will help","phonetic":"","audio_updated_at":1541547571},"m":{"text":"أنتم ستساعدون"}},{"t":{"key":"be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto","text":"They will help","phonetic":"","audio_updated_at":1541547572},"m":{"text":"هم سيساعدون"}}]}}]}]},{"key":"8B8g1auV489wQtx4fhkh8zhu-W92TQR2","text":"to help","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"help","translations":[{"type":"dictionary","text":"يساعد","phonetic":null},{"type":"verb","name":{"t":"to help","m":"يساعد","phonetic":"to help"},"id":43,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ","text":"I help","phonetic":"","audio_updated_at":1543438179},"m":{"text":"أنا أساعد"}},{"t":{"key":"MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv","text":"You help","phonetic":"","audio_updated_at":1543438180},"m":{"text":"أنت تساعد"}},{"t":{"key":"5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s","text":"He helps","phonetic":"","audio_updated_at":1543438181},"m":{"text":"هو يساعد"}},{"t":{"key":"87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9","text":"She helps","phonetic":"","audio_updated_at":1543438182},"m":{"text":"هي تساعد"}},{"t":{"key":"ParYyqadRkg9qMwprdEQvUHplzqHyMbk","text":"We help","phonetic":"","audio_updated_at":1543438184},"m":{"text":"نحن نساعد"}},{"t":{"key":"LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU","text":"You help","phonetic":"","audio_updated_at":1541547555},"m":{"text":"أنتم تساعدون"}},{"t":{"key":"VGuPZI4vdq97_VnJzetW08suAOSYkP2G","text":"They help","phonetic":"","audio_updated_at":1543438185},"m":{"text":"هم يساعدون"}}],"pa":[{"t":{"key":"250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr","text":"I helped","phonetic":"","audio_updated_at":1541547558},"m":{"text":"أنا ساعدت"}},{"t":{"key":"SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN","text":"You helped","phonetic":"","audio_updated_at":1541547559},"m":{"text":"أنت ساعدت"}},{"t":{"key":"Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q","text":"He helped","phonetic":"","audio_updated_at":1541547559},"m":{"text":"هو ساعد"}},{"t":{"key":"2w3NgLuoTBE72ZkltxnWThvOeartBWAR","text":"She helped","phonetic":"","audio_updated_at":1541547560},"m":{"text":"هي ساعدت"}},{"t":{"key":"ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO","text":"We helped","phonetic":"","audio_updated_at":1541547562},"m":{"text":"نحن ساعدنا"}},{"t":{"key":"-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR","text":"You helped","phonetic":"","audio_updated_at":1541547563},"m":{"text":"أنتم ساعدتم"}},{"t":{"key":"lBh1FKOForCy2PzDsi5BgfFStNWI1fim","text":"They helped","phonetic":"","audio_updated_at":1541547564},"m":{"text":"هم ساعدوا"}}],"fu":[{"t":{"key":"S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm","text":"I will help","phonetic":"","audio_updated_at":1541547565},"m":{"text":"أنا سأساعد"}},{"t":{"key":"fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy","text":"You will help","phonetic":"","audio_updated_at":1541547567},"m":{"text":"أنت ستساعد"}},{"t":{"key":"5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn","text":"He will help","phonetic":"","audio_updated_at":1541547567},"m":{"text":"هو سيساعد"}},{"t":{"key":"1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr","text":"She will help","phonetic":"","audio_updated_at":1541547568},"m":{"text":"هي ستساعد"}},{"t":{"key":"SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i","text":"We will help","phonetic":"","audio_updated_at":1541547570},"m":{"text":"نحن سنساعد"}},{"t":{"key":"aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6","text":"You will help","phonetic":"","audio_updated_at":1541547571},"m":{"text":"أنتم ستساعدون"}},{"t":{"key":"be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto","text":"They will help","phonetic":"","audio_updated_at":1541547572},"m":{"text":"هم سيساعدون"}}]}}]}]}],"audio_updated_at":1639519568},{"id":10283,"vocabulary":3801,"wordID":24168,"key":"jTgg0bmSaPHfTWotCKgrkE_zi4v3axaX","sols":[{"key":"jTgg0bmSaPHfTWotCKgrkE_zi4v3axaX","text":"يفقد","dictionary":[{"raw":"يفقد","translations":[]}]},{"key":"jTgg0bmSaPHfTWotCKgrkE_zi4v3axaX","text":"to lose","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"lose","translations":[{"type":"dictionary","text":"يفقد","phonetic":null}]}]}],"audio_updated_at":1688291077},{"id":10284,"vocabulary":3801,"wordID":24167,"key":"oaTEVeQ4VxxBuMnokyJav_Fu21td0YX7","sols":[{"key":"oaTEVeQ4VxxBuMnokyJav_Fu21td0YX7","text":"يتحقق","dictionary":[{"raw":"يتحقق","translations":[]}]},{"key":"oaTEVeQ4VxxBuMnokyJav_Fu21td0YX7","text":"to validate","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"validate","translations":[]}]}],"audio_updated_at":1688291076},{"id":10285,"vocabulary":3801,"wordID":23939,"key":"AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA","sols":[{"key":"AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA","text":"يستأجر","dictionary":[{"raw":"يستأجر","translations":[]}]},{"key":"AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA","text":"to rent","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"rent","translations":[]}]}],"audio_updated_at":1688290822},{"id":10286,"vocabulary":3801,"wordID":24172,"key":"B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn","sols":[{"key":"B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn","text":"يشحن","dictionary":[{"raw":"يشحن","translations":[]}]},{"key":"B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn","text":"to charge","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"charge","translations":[]}]}],"audio_updated_at":1688291081},{"id":10287,"vocabulary":3801,"wordID":18400,"key":"t4U973-9NQYZqLHx54EDKnp4Su6f2CPP","sols":[{"key":"t4U973-9NQYZqLHx54EDKnp4Su6f2CPP","text":"حقيبة الظهر","dictionary":[{"raw":"حقيبة","translations":[]},{"raw":"الظهر","translations":[]}]},{"key":"t4U973-9NQYZqLHx54EDKnp4Su6f2CPP","text":"backpack","phonetic":"","dictionary":[{"raw":"backpack","translations":[{"type":"dictionary","text":"حقيبة الظهر","phonetic":null}]}]}],"audio_updated_at":1560250151},{"id":10288,"vocabulary":3801,"wordID":16319,"key":"wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z","sols":[{"key":"wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z","text":"هاتف","dictionary":[{"raw":"هاتف","translations":[]}]},{"key":"wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z","text":"phone","phonetic":"","dictionary":[{"raw":"phone","translations":[{"type":"dictionary","text":"هاتف","phonetic":null}]}]}],"audio_updated_at":1688290324},{"id":10289,"vocabulary":3801,"wordID":16400,"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","sols":[{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","text":"خريطة","dictionary":[{"raw":"خريطة","translations":[]}]},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","text":"map","phonetic":"","dictionary":[{"raw":"map","translations":[{"type":"dictionary","text":"خريطة","phonetic":null}]}]}],"audio_updated_at":1543437549},{"id":10290,"vocabulary":3801,"wordID":24183,"key":"1aKY3riQ9Z6IqG8BsYRzzY3sh_-GnJkU","sols":[{"key":"1aKY3riQ9Z6IqG8BsYRzzY3sh_-GnJkU","text":"رمز بريدي","dictionary":[{"raw":"رمز","translations":[]},{"raw":"بريدي","translations":[]}]},{"key":"1aKY3riQ9Z6IqG8BsYRzzY3sh_-GnJkU","text":"postcode","phonetic":"","dictionary":[{"raw":"postcode","translations":[]}]}],"audio_updated_at":1688291094},{"id":10291,"vocabulary":3801,"wordID":24029,"key":"TT2CDAsu_nPrTUsxMZGnzkyQ0trbX5LO","sols":[{"key":"TT2CDAsu_nPrTUsxMZGnzkyQ0trbX5LO","text":"طابور","dictionary":[{"raw":"طابور","translations":[]}]},{"key":"TT2CDAsu_nPrTUsxMZGnzkyQ0trbX5LO","text":"queue","phonetic":"","dictionary":[{"raw":"queue","translations":[{"type":"dictionary","text":"طابور","phonetic":null}]}]}],"audio_updated_at":1688290924}]}
+{
+  "vocabulary": {
+    "id": 3801,
+    "index": 1,
+    "category": 38,
+    "categoryID": 38,
+    "unifiedUnitId": 38,
+    "unifiedCategoryId": 38,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 11,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10282, 10283, 10284, 10285, 10286, 10287, 10288, 10289, 10290, 10291
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10282,
+      "vocabulary": 3801,
+      "wordID": 13320,
+      "key": "8B8g1auV489wQtx4fhkh8zhu-W92TQR2",
+      "sols": [
+        {
+          "key": "8B8g1auV489wQtx4fhkh8zhu-W92TQR2",
+          "text": "يساعد",
+          "dictionary": [
+            {
+              "raw": "يساعد",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to help",
+                    "m": "يساعد",
+                    "phonetic": "to help"
+                  },
+                  "id": 43,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ",
+                          "text": "I help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438179
+                        },
+                        "m": { "text": "أنا أساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438180
+                        },
+                        "m": { "text": "أنت تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s",
+                          "text": "He helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438181
+                        },
+                        "m": { "text": "هو يساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9",
+                          "text": "She helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438182
+                        },
+                        "m": { "text": "هي تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ParYyqadRkg9qMwprdEQvUHplzqHyMbk",
+                          "text": "We help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438184
+                        },
+                        "m": { "text": "نحن نساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547555
+                        },
+                        "m": { "text": "أنتم تساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "VGuPZI4vdq97_VnJzetW08suAOSYkP2G",
+                          "text": "They help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438185
+                        },
+                        "m": { "text": "هم يساعدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr",
+                          "text": "I helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547558
+                        },
+                        "m": { "text": "أنا ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "أنت ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q",
+                          "text": "He helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "هو ساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "2w3NgLuoTBE72ZkltxnWThvOeartBWAR",
+                          "text": "She helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547560
+                        },
+                        "m": { "text": "هي ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO",
+                          "text": "We helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547562
+                        },
+                        "m": { "text": "نحن ساعدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547563
+                        },
+                        "m": { "text": "أنتم ساعدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "lBh1FKOForCy2PzDsi5BgfFStNWI1fim",
+                          "text": "They helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547564
+                        },
+                        "m": { "text": "هم ساعدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm",
+                          "text": "I will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547565
+                        },
+                        "m": { "text": "أنا سأساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "أنت ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn",
+                          "text": "He will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "هو سيساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr",
+                          "text": "She will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547568
+                        },
+                        "m": { "text": "هي ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i",
+                          "text": "We will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547570
+                        },
+                        "m": { "text": "نحن سنساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547571
+                        },
+                        "m": { "text": "أنتم ستساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto",
+                          "text": "They will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547572
+                        },
+                        "m": { "text": "هم سيساعدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "8B8g1auV489wQtx4fhkh8zhu-W92TQR2",
+          "text": "to help",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "help",
+              "translations": [
+                { "type": "dictionary", "text": "يساعد", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to help",
+                    "m": "يساعد",
+                    "phonetic": "to help"
+                  },
+                  "id": 43,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "uqB3oqJf1b-7N34oFTLFF1RU17fPnffZ",
+                          "text": "I help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438179
+                        },
+                        "m": { "text": "أنا أساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "MP4I3cUC_a0PH4tKWrvenlQ6_56bFPAv",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438180
+                        },
+                        "m": { "text": "أنت تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5WiyKiUlnNu_cVsdk5kcYqywm6guuy-s",
+                          "text": "He helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438181
+                        },
+                        "m": { "text": "هو يساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "87mLRDb6qSGrLznBTZOKdz8mYM9sX_d9",
+                          "text": "She helps",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438182
+                        },
+                        "m": { "text": "هي تساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ParYyqadRkg9qMwprdEQvUHplzqHyMbk",
+                          "text": "We help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438184
+                        },
+                        "m": { "text": "نحن نساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLJPD_nbn4mBraBfktBkP92tOdJ8B5cU",
+                          "text": "You help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547555
+                        },
+                        "m": { "text": "أنتم تساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "VGuPZI4vdq97_VnJzetW08suAOSYkP2G",
+                          "text": "They help",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438185
+                        },
+                        "m": { "text": "هم يساعدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "250tmWtHl_Ct1vQV5hOzrMnNpcyR6sJr",
+                          "text": "I helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547558
+                        },
+                        "m": { "text": "أنا ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SHoaFtO-xeRLtA2VAWNwFNZvRj5aRGtN",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "أنت ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Q6elLPzpP-1GiB1WkX7XVitX5ZEIyf1q",
+                          "text": "He helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547559
+                        },
+                        "m": { "text": "هو ساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "2w3NgLuoTBE72ZkltxnWThvOeartBWAR",
+                          "text": "She helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547560
+                        },
+                        "m": { "text": "هي ساعدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZnYnOQwofgQ-ma-jdJ7fW3j7QVGeq3nO",
+                          "text": "We helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547562
+                        },
+                        "m": { "text": "نحن ساعدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-Fmr5TvPdCbhX_MEsUv6StzD2KEYGnrR",
+                          "text": "You helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547563
+                        },
+                        "m": { "text": "أنتم ساعدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "lBh1FKOForCy2PzDsi5BgfFStNWI1fim",
+                          "text": "They helped",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547564
+                        },
+                        "m": { "text": "هم ساعدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "S9-eIwEx1QQBv3WaOAjkS7B_0gtji-rm",
+                          "text": "I will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547565
+                        },
+                        "m": { "text": "أنا سأساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "fyeugK13hnffkIUv3Rtyfn2YtA-ArpTy",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "أنت ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5TBrSfnybGAuHSkl7eW8pVYbXp7d1URn",
+                          "text": "He will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547567
+                        },
+                        "m": { "text": "هو سيساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "1P6Lo2ayaoDJfUblHCBGgoqCOj-msdlr",
+                          "text": "She will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547568
+                        },
+                        "m": { "text": "هي ستساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "SSd4fLN7TcaXb-87XwAxEkXjDMfSFS2i",
+                          "text": "We will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547570
+                        },
+                        "m": { "text": "نحن سنساعد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aFpkXvSow_uTjRlrcbCoiT8cU-F2wWw6",
+                          "text": "You will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547571
+                        },
+                        "m": { "text": "أنتم ستساعدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "be0R9rsOiRbxSvPqj4SeDKZI-I_xJQto",
+                          "text": "They will help",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547572
+                        },
+                        "m": { "text": "هم سيساعدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639519568
+    },
+    {
+      "id": 10283,
+      "vocabulary": 3801,
+      "wordID": 24168,
+      "key": "jTgg0bmSaPHfTWotCKgrkE_zi4v3axaX",
+      "sols": [
+        {
+          "key": "jTgg0bmSaPHfTWotCKgrkE_zi4v3axaX",
+          "text": "يفقد",
+          "dictionary": [{ "raw": "يفقد", "translations": [] }]
+        },
+        {
+          "key": "jTgg0bmSaPHfTWotCKgrkE_zi4v3axaX",
+          "text": "to lose",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "lose",
+              "translations": [
+                { "type": "dictionary", "text": "يفقد", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291077
+    },
+    {
+      "id": 10284,
+      "vocabulary": 3801,
+      "wordID": 24167,
+      "key": "oaTEVeQ4VxxBuMnokyJav_Fu21td0YX7",
+      "sols": [
+        {
+          "key": "oaTEVeQ4VxxBuMnokyJav_Fu21td0YX7",
+          "text": "يتحقق",
+          "dictionary": [{ "raw": "يتحقق", "translations": [] }]
+        },
+        {
+          "key": "oaTEVeQ4VxxBuMnokyJav_Fu21td0YX7",
+          "text": "to validate",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "validate", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291076
+    },
+    {
+      "id": 10285,
+      "vocabulary": 3801,
+      "wordID": 23939,
+      "key": "AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA",
+      "sols": [
+        {
+          "key": "AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA",
+          "text": "يستأجر",
+          "dictionary": [{ "raw": "يستأجر", "translations": [] }]
+        },
+        {
+          "key": "AwJBvrSoGW1b6MyMUc_u7cjUcOjumniA",
+          "text": "to rent",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "rent", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290822
+    },
+    {
+      "id": 10286,
+      "vocabulary": 3801,
+      "wordID": 24172,
+      "key": "B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn",
+      "sols": [
+        {
+          "key": "B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn",
+          "text": "يشحن",
+          "dictionary": [{ "raw": "يشحن", "translations": [] }]
+        },
+        {
+          "key": "B3Ns2FT0ufn4u3LZxrJe7BWJnfFDgMGn",
+          "text": "to charge",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "charge", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291081
+    },
+    {
+      "id": 10287,
+      "vocabulary": 3801,
+      "wordID": 18400,
+      "key": "t4U973-9NQYZqLHx54EDKnp4Su6f2CPP",
+      "sols": [
+        {
+          "key": "t4U973-9NQYZqLHx54EDKnp4Su6f2CPP",
+          "text": "حقيبة الظهر",
+          "dictionary": [
+            { "raw": "حقيبة", "translations": [] },
+            { "raw": "الظهر", "translations": [] }
+          ]
+        },
+        {
+          "key": "t4U973-9NQYZqLHx54EDKnp4Su6f2CPP",
+          "text": "backpack",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "backpack",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "حقيبة الظهر",
+                  "phonetic": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1560250151
+    },
+    {
+      "id": 10288,
+      "vocabulary": 3801,
+      "wordID": 16319,
+      "key": "wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z",
+      "sols": [
+        {
+          "key": "wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z",
+          "text": "هاتف",
+          "dictionary": [{ "raw": "هاتف", "translations": [] }]
+        },
+        {
+          "key": "wBhUaEol0XRyMLrfhcOYmQNFq1S3u59z",
+          "text": "phone",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "phone",
+              "translations": [
+                { "type": "dictionary", "text": "هاتف", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290324
+    },
+    {
+      "id": 10289,
+      "vocabulary": 3801,
+      "wordID": 16400,
+      "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+      "sols": [
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "text": "خريطة",
+          "dictionary": [{ "raw": "خريطة", "translations": [] }]
+        },
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "text": "map",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "map",
+              "translations": [
+                { "type": "dictionary", "text": "خريطة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437549
+    },
+    {
+      "id": 10290,
+      "vocabulary": 3801,
+      "wordID": 24183,
+      "key": "1aKY3riQ9Z6IqG8BsYRzzY3sh_-GnJkU",
+      "sols": [
+        {
+          "key": "1aKY3riQ9Z6IqG8BsYRzzY3sh_-GnJkU",
+          "text": "رمز بريدي",
+          "dictionary": [
+            { "raw": "رمز", "translations": [] },
+            { "raw": "بريدي", "translations": [] }
+          ]
+        },
+        {
+          "key": "1aKY3riQ9Z6IqG8BsYRzzY3sh_-GnJkU",
+          "text": "postcode",
+          "phonetic": "",
+          "dictionary": [{ "raw": "postcode", "translations": [] }]
+        }
+      ],
+      "audio_updated_at": 1688291094
+    },
+    {
+      "id": 10291,
+      "vocabulary": 3801,
+      "wordID": 24029,
+      "key": "TT2CDAsu_nPrTUsxMZGnzkyQ0trbX5LO",
+      "sols": [
+        {
+          "key": "TT2CDAsu_nPrTUsxMZGnzkyQ0trbX5LO",
+          "text": "طابور",
+          "dictionary": [{ "raw": "طابور", "translations": [] }]
+        },
+        {
+          "key": "TT2CDAsu_nPrTUsxMZGnzkyQ0trbX5LO",
+          "text": "queue",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "queue",
+              "translations": [
+                { "type": "dictionary", "text": "طابور", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290924
+    }
+  ]
+}

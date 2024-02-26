@@ -1,1 +1,2910 @@
-{"lesson":{"id":2601,"index":1,"unitNumber":null,"unitType":0,"unitStyle":0,"unitScope":0,"category":26,"categoryID":26,"unifiedUnitId":152,"unifiedCategoryId":26,"name":"حجز رحلة طيران 1","isCourse":false,"disabled":false,"done":false,"stars":false,"difficulty":"beginner","countQuiz":22,"countWords":17,"countPhrases":7,"countDone":0,"quizzes":[656641,656642,656643,656644,656645,656646,656647,656648,656649,656650,656651,656652,656653,656654,656655,656656,656657,656658,656659,656660,656661,656662]},"quizzes":[{"id":656641,"lesson":2601,"type":"D","modifiers":327,"wordID":23863,"alternates":[16710,24009,23931],"sols":[{"key":"WayaUbCfdTYX8kRPaL8pvSId9IIOmoJ8","audio_updated_at":1688290737,"text":"يحجز"},{"key":"owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I","audio_updated_at":1688290901,"text":"رحلة طيران"},{"key":"715GNLxtCvB2-gFUUmayNiZ88K7BIcW_","audio_updated_at":1541565964,"text":"القاهرة"},{"key":"aFT1RDynB81fihlclykVvk_YWTIgd0vh","audio_updated_at":1688290813,"text":"مقعد"}],"alts":[{"key":"WayaUbCfdTYX8kRPaL8pvSId9IIOmoJ8","audio_updated_at":1688290737,"text":"to book","phonetic":"","image":"xZ-2obdzAcr1Y3Pn6yZAgdggNdlZXQNu","image_updated_at":1689159218},{"key":"owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I","audio_updated_at":1688290901,"image":"DvDZ9-XW2ylwVpPuMSJsMKHOKlZCv10v","image_updated_at":1689170881,"text":"flight","phonetic":"","article_text":"a","article_phonetic":""},{"key":"715GNLxtCvB2-gFUUmayNiZ88K7BIcW_","audio_updated_at":1541565964,"image":"asYtThqVf2GInmG8QiDuHgtsMCQaRSDq","image_updated_at":1689159028,"text":"Cairo","phonetic":""},{"key":"aFT1RDynB81fihlclykVvk_YWTIgd0vh","audio_updated_at":1688290813,"image":"x-XxYNA09ThSBn8LFG1Anvbj7mY50d78","image_updated_at":1689159223,"text":"seat","phonetic":"","article_text":"a","article_phonetic":""}]},{"id":656642,"lesson":2601,"type":"C1b","modifiers":72,"wordID":16170,"alternates":[23863,23931],"tokens":[{"key":"tYJVwvnU0y2","text":"two","raw":{"text":"two","location":21,"length":3},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":20,"length":1}},{"key":"t2Lkiq6_FoS","text":"book","raw":{"text":"book","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":15,"length":1}},{"key":"tekIsC0aGik","text":"like","raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tedpuJyuSD7","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t3LhAPCE7JT","text":"seats.","raw":{"text":"seats","location":25,"length":5},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":".","location":30,"length":1},"linker":{"text":" ","location":24,"length":1}},{"key":"tadg56z7L7N","text":"I'd","raw":{"text":"I'd","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tKB4iMtheNm","text":"would","raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tGKMjXi381u","text":"to","raw":{"text":"to","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}}],"tokensEqualSize":false,"ord":["tedpuJyuSD7","tKB4iMtheNm","tekIsC0aGik","tGKMjXi381u","t2Lkiq6_FoS","tYJVwvnU0y2","t3LhAPCE7JT"],"completeToken":"t2Lkiq6_FoS","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text":"أنا أود أن أحجز مقعدين.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أود","translations":[{"type":"dictionary","text":"I would like","phonetic":"I would like"}]},{"raw":"أن","translations":[]},{"raw":"أحجز","translations":[{"type":"dictionary","text":"book","phonetic":"book"}]},{"raw":"مقعدين","translations":[{"type":"dictionary","text":"two seats","phonetic":"two seats"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"مقعدين","location":16,"length":6},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":".","location":22,"length":1},"linker":{"text":" ","location":15,"length":1}}]},{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text":"I would like to book two seats.","phonetic":""}]},{"id":656643,"lesson":2601,"type":"F","modifiers":71,"wordID":24009,"alternates":[16710],"sols":[{"key":"owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I","audio_updated_at":1688290901,"text":"رحلة طيران"},{"key":"715GNLxtCvB2-gFUUmayNiZ88K7BIcW_","audio_updated_at":1541565964,"text":"القاهرة"}],"alts":[{"key":"owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I","audio_updated_at":1688290901,"text":"flight","phonetic":"","article_text":"a","article_phonetic":"","image":"DvDZ9-XW2ylwVpPuMSJsMKHOKlZCv10v","image_updated_at":1689170881},{"key":"715GNLxtCvB2-gFUUmayNiZ88K7BIcW_","audio_updated_at":1541565964,"image":"asYtThqVf2GInmG8QiDuHgtsMCQaRSDq","image_updated_at":1689159028,"text":"Cairo","phonetic":""}]},{"id":656644,"lesson":2601,"type":"C1b","modifiers":72,"wordID":24010,"alternates":[24009],"tokens":[{"key":"thSF08ACh5k","text":"to","raw":{"text":"to","location":45,"length":2},"prefix":{"text":"","location":45,"length":0},"suffix":{"text":"","location":47,"length":0},"linker":{"text":" ","location":44,"length":1}},{"key":"t9PEh_Td-69","text":"to","raw":{"text":"to","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"tY7huWeAZPK","text":"would","raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"taoZ6uem8LM","text":"the","raw":{"text":"the","location":34,"length":3},"prefix":{"text":"","location":34,"length":0},"suffix":{"text":"","location":37,"length":0},"linker":{"text":" ","location":33,"length":1}},{"key":"tbR3T0zRO4t","text":"seats","raw":{"text":"seats","location":25,"length":5},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":"","location":30,"length":0},"linker":{"text":" ","location":24,"length":1}},{"key":"tdmY0qDCr0U","text":"on","raw":{"text":"on","location":31,"length":2},"prefix":{"text":"","location":31,"length":0},"suffix":{"text":"","location":33,"length":0},"linker":{"text":" ","location":30,"length":1}},{"key":"tJ8TkP8G6jS","text":"Cairo.","raw":{"text":"Cairo","location":48,"length":5},"prefix":{"text":"","location":48,"length":0},"suffix":{"text":".","location":53,"length":1},"linker":{"text":" ","location":47,"length":1}},{"key":"t71IhHRtq6u","text":"two","raw":{"text":"two","location":21,"length":3},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":20,"length":1}},{"key":"t0AEOarGzyp","text":"flight","raw":{"text":"flight","location":38,"length":6},"prefix":{"text":"","location":38,"length":0},"suffix":{"text":"","location":44,"length":0},"linker":{"text":" ","location":37,"length":1}},{"key":"tgzu4Ou_sl8","text":"like","raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tJhAvU-jMBt","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tQPBxSknRi7","text":"book","raw":{"text":"book","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":15,"length":1}}],"tokensEqualSize":false,"ord":["tJhAvU-jMBt","tY7huWeAZPK","tgzu4Ou_sl8","t9PEh_Td-69","tQPBxSknRi7","t71IhHRtq6u","tbR3T0zRO4t","tdmY0qDCr0U","taoZ6uem8LM","t0AEOarGzyp","thSF08ACh5k","tJ8TkP8G6jS"],"completeToken":"t0AEOarGzyp","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT","audio_updated_at":1688290902,"text":"أنا أود أن أحجز مقعدين على رحلة الطيران إلى القاهرة.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أود","translations":[{"type":"dictionary","text":"I would like","phonetic":"I would like"}]},{"raw":"أن","translations":[]},{"raw":"أحجز","translations":[{"type":"dictionary","text":"book","phonetic":"book"}]},{"raw":"مقعدين","translations":[{"type":"dictionary","text":"two seats","phonetic":"two seats"}]},{"raw":"على","translations":[{"type":"dictionary","text":"on","phonetic":"on"}]},{"raw":"رحلة","translations":[{"type":"dictionary","text":"flight","phonetic":"flight"}]},{"raw":"الطيران","translations":[]},{"raw":"إلى","translations":[{"type":"dictionary","text":"to","phonetic":"to"}]},{"raw":"القاهرة","translations":[{"type":"dictionary","text":"Cairo","phonetic":"Cairo"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"مقعدين","location":16,"length":6},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"على","location":23,"length":3},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":"","location":26,"length":0},"linker":{"text":" ","location":22,"length":1}},{"raw":{"text":"رحلة","location":27,"length":4},"prefix":{"text":"","location":27,"length":0},"suffix":{"text":"","location":31,"length":0},"linker":{"text":" ","location":26,"length":1}},{"raw":{"text":"الطيران","location":32,"length":7},"prefix":{"text":"","location":32,"length":0},"suffix":{"text":"","location":39,"length":0},"linker":{"text":" ","location":31,"length":1}},{"raw":{"text":"إلى","location":40,"length":3},"prefix":{"text":"","location":40,"length":0},"suffix":{"text":"","location":43,"length":0},"linker":{"text":" ","location":39,"length":1}},{"raw":{"text":"القاهرة","location":44,"length":7},"prefix":{"text":"","location":44,"length":0},"suffix":{"text":".","location":51,"length":1},"linker":{"text":" ","location":43,"length":1}}]},{"key":"_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT","audio_updated_at":1688290902,"text":"I would like to book two seats on the flight to Cairo.","phonetic":""}]},{"id":656645,"lesson":2601,"type":"T1b","modifiers":72,"wordID":16141,"alternates":[],"tokens":[{"key":"tDO5hrPQPQa","text":"first","raw":{"text":"first","location":22,"length":5},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":"","location":27,"length":0},"linker":{"text":" ","location":21,"length":1}},{"key":"tjp_mHFI96W","text":"business,","raw":{"text":"business","location":9,"length":8},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":",","location":17,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"tizvldbJ7CV","text":"am","raw":{"text":"am","location":2,"length":2},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"t4Lx0NdAnbV","text":"or","raw":{"text":"or","location":19,"length":2},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":18,"length":1}},{"key":"tUGQPDSxxAJ","text":"class?","raw":{"text":"class","location":28,"length":5},"prefix":{"text":"","location":28,"length":0},"suffix":{"text":"?","location":33,"length":1},"linker":{"text":" ","location":27,"length":1}},{"key":"tPed7_uY__j","text":"afraid","raw":{"text":"afraid","location":5,"length":6},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":4,"length":1}},{"key":"twZ9MPgv4FT","text":"Economy,","raw":{"text":"Economy","location":0,"length":7},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":",","location":7,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"tRgK5Hfigyh","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":false,"ord":["twZ9MPgv4FT","tjp_mHFI96W","t4Lx0NdAnbV","tDO5hrPQPQa","tUGQPDSxxAJ"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG","audio_updated_at":1543440242,"text":"السياحية، رجال الأعمال، أو الدرجة الأولى؟","dictionary":[{"raw":"السياحية","translations":[]},{"raw":"رجال","translations":[]},{"raw":"الأعمال","translations":[{"type":"dictionary","text":"business","phonetic":"business"}]},{"raw":"أو","translations":[{"type":"dictionary","text":"or","phonetic":"or"}]},{"raw":"الدرجة","translations":[{"type":"dictionary","text":"class","phonetic":"class"}]},{"raw":"الأولى","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"السياحية","location":0,"length":8},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"،","location":8,"length":1},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"رجال","location":10,"length":4},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"الأعمال","location":15,"length":7},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"،","location":22,"length":1},"linker":{"text":" ","location":14,"length":1}},{"raw":{"text":"أو","location":24,"length":2},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":26,"length":0},"linker":{"text":" ","location":23,"length":1}},{"raw":{"text":"الدرجة","location":27,"length":6},"prefix":{"text":"","location":27,"length":0},"suffix":{"text":"","location":33,"length":0},"linker":{"text":" ","location":26,"length":1}},{"raw":{"text":"الأولى","location":34,"length":6},"prefix":{"text":"","location":34,"length":0},"suffix":{"text":"؟","location":40,"length":1},"linker":{"text":" ","location":33,"length":1}}]},{"key":"nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG","audio_updated_at":1543440242,"text":"Economy, business, or first class?","phonetic":""}]},{"id":656646,"lesson":2601,"type":"T1","modifiers":40,"wordID":16143,"alternates":[],"tokens":[{"key":"tt7VODx0kib","text":"سأجهزك","raw":{"text":"سأجهزك","location":4,"length":6},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tnaJlV2mz4h","text":"سيدي.","raw":{"text":"سيدي","location":24,"length":4},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":".","location":28,"length":1},"linker":{"text":" ","location":23,"length":1}},{"key":"tn578h4ssCt","text":"للصعود","raw":{"text":"للصعود","location":11,"length":6},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tTqWVnoWdNE","text":"الدرجة","raw":{"text":"الدرجة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tUPaFAj8qxs","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t2nBrmIFA8P","text":"السياحية.","raw":{"text":"السياحية","location":7,"length":8},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":6,"length":1}},{"key":"tSFGAPNWWuq","text":"الآن،","raw":{"text":"الآن","location":18,"length":4},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"،","location":22,"length":1},"linker":{"text":" ","location":17,"length":1}}],"tokensEqualSize":true,"ord":["tTqWVnoWdNE","t2nBrmIFA8P"],"sols":[{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"Economy class.","phonetic":"","dictionary":[{"raw":"Economy","translations":[]},{"raw":"class","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Economy","location":0,"length":7},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"class","location":8,"length":5},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":7,"length":1}}],"phonetic_tokens":[]},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"الدرجة السياحية."}]},{"id":656647,"lesson":2601,"type":"T1b","modifiers":72,"wordID":16142,"alternates":[],"tokens":[{"key":"tl3jz6iDDGX","text":"lost.","raw":{"text":"lost","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":".","location":9,"length":1},"linker":{"text":" ","location":4,"length":1}},{"key":"tERuuOrL6q8","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tpDK4PNmo8B","text":"Business","raw":{"text":"Business","location":0,"length":8},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t0p5T4wN3eX","text":"am","raw":{"text":"am","location":2,"length":2},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tCbbhcF_qPb","text":"class.","raw":{"text":"class","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":8,"length":1}}],"tokensEqualSize":false,"ord":["tpDK4PNmo8B","tCbbhcF_qPb"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu","audio_updated_at":1543439301,"text":"درجة رجال الأعمال.","dictionary":[{"raw":"درجة","translations":[]},{"raw":"رجال","translations":[]},{"raw":"الأعمال","translations":[{"type":"dictionary","text":"Business","phonetic":"Business"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"درجة","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"رجال","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"raw":{"text":"الأعمال","location":10,"length":7},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":9,"length":1}}]},{"key":"uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu","audio_updated_at":1543439301,"text":"Business class.","phonetic":""}]},{"id":656648,"lesson":2601,"type":"T1","modifiers":40,"wordID":16144,"alternates":[],"tokens":[{"key":"tmuZNAmMFqW","text":"الدرجة","raw":{"text":"الدرجة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tTkOc5rLJiP","text":"تائه.","raw":{"text":"تائه","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":".","location":8,"length":1},"linker":{"text":" ","location":3,"length":1}},{"key":"tFRDqeViUCM","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tu99azUU22J","text":"الأولى.","raw":{"text":"الأولى","location":7,"length":6},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":6,"length":1}}],"tokensEqualSize":true,"ord":["tmuZNAmMFqW","tu99azUU22J"],"sols":[{"key":"KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx","audio_updated_at":1543439302,"text":"First class.","phonetic":"","dictionary":[{"raw":"First","translations":[{"type":"dictionary","text":"الأولى","phonetic":null}]},{"raw":"class","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"First","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"class","location":6,"length":5},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":".","location":11,"length":1},"linker":{"text":" ","location":5,"length":1}}],"phonetic_tokens":[]},{"key":"KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx","audio_updated_at":1543439302,"text":"الدرجة الأولى."}]},{"id":656649,"lesson":2601,"type":"W1b","modifiers":68,"wordID":23931,"alternates":[],"tokens":[{"key":"tsKMf_mrYRH","text":"t","group":0},{"key":"td4MpFhpCOj","text":"a","group":0},{"key":"tDc7ExGTmTK","text":"s","group":0},{"key":"tDmgbrMIsvq","text":"e","group":0}],"tokensEqualSize":false,"ord":["tDc7ExGTmTK","tDmgbrMIsvq","td4MpFhpCOj","tsKMf_mrYRH"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"aFT1RDynB81fihlclykVvk_YWTIgd0vh","audio_updated_at":1688290813,"text":"مقعد","dictionary":[{"raw":"مقعد","translations":[{"type":"dictionary","text":"seat","phonetic":"seat"}]}],"phraseType":0,"text_tokens":[{"raw":{"text":"مقعد","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}]},{"key":"aFT1RDynB81fihlclykVvk_YWTIgd0vh","audio_updated_at":1688290813,"text_tokens":[{"raw":{"text":"seat","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[],"text":"seat","phonetic":"","article_text":"a","article_phonetic":"","image":"x-XxYNA09ThSBn8LFG1Anvbj7mY50d78","image_updated_at":1689159223}]},{"id":656650,"lesson":2601,"type":"C2b","modifiers":92,"wordID":16170,"alternates":[23931],"tokens":[{"key":"tl9MDVB0qkw","text":" ","specialChar":true},{"key":"t_w1fZueKzs","text":"t","group":6},{"key":"tgRVY_ifdwV","text":"s","group":6},{"key":"tRCRcWIoAL0","text":"e","group":6},{"key":"tnOcH_PEErE","text":".","specialChar":true},{"key":"toroNWRLkp-","text":"s","group":6},{"key":"t1FGqFxTvIn","text":"a","group":6}],"tokensEqualSize":false,"ord":["tl9MDVB0qkw","toroNWRLkp-","tRCRcWIoAL0","t1FGqFxTvIn","t_w1fZueKzs","tgRVY_ifdwV","tnOcH_PEErE"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text":"أنا أود أن أحجز مقعدين.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أود","translations":[{"type":"dictionary","text":"I would like","phonetic":"I would like"}]},{"raw":"أن","translations":[]},{"raw":"أحجز","translations":[{"type":"dictionary","text":"book","phonetic":"book"}]},{"raw":"مقعدين","translations":[{"type":"dictionary","text":"two seats","phonetic":"two seats"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"مقعدين","location":16,"length":6},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":".","location":22,"length":1},"linker":{"text":" ","location":15,"length":1}}]},{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"to","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"book","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"two","location":21,"length":3},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":20,"length":1}},{"raw":{"text":"seats","location":25,"length":5},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":".","location":30,"length":1},"linker":{"text":" ","location":24,"length":1}}],"phonetic_tokens":[],"text":"I would like to book two seats.","phonetic":""}]},{"id":656651,"lesson":2601,"type":"P","modifiers":65,"wordID":23863,"alternates":[16710,24009,23931],"sols":[{"key":"WayaUbCfdTYX8kRPaL8pvSId9IIOmoJ8","audio_updated_at":1688290737,"text":"يحجز"},{"key":"aFT1RDynB81fihlclykVvk_YWTIgd0vh","text":"مقعد"},{"key":"715GNLxtCvB2-gFUUmayNiZ88K7BIcW_","text":"القاهرة"},{"key":"owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I","text":"رحلة طيران"}],"alts":[{"key":"WayaUbCfdTYX8kRPaL8pvSId9IIOmoJ8","audio_updated_at":1688290737,"text":"to book","phonetic":"","image":"xZ-2obdzAcr1Y3Pn6yZAgdggNdlZXQNu","image_updated_at":1689159218},{"key":"aFT1RDynB81fihlclykVvk_YWTIgd0vh","audio_updated_at":1688290813,"text":"seat","phonetic":"","article_text":"a","article_phonetic":"","image":"x-XxYNA09ThSBn8LFG1Anvbj7mY50d78","image_updated_at":1689159223},{"key":"715GNLxtCvB2-gFUUmayNiZ88K7BIcW_","audio_updated_at":1541565964,"text":"Cairo","phonetic":"","image":"asYtThqVf2GInmG8QiDuHgtsMCQaRSDq","image_updated_at":1689159028},{"key":"owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I","audio_updated_at":1688290901,"text":"flight","phonetic":"","article_text":"a","article_phonetic":"","image":"DvDZ9-XW2ylwVpPuMSJsMKHOKlZCv10v","image_updated_at":1689170881}]},{"id":656652,"lesson":2601,"type":"Qb","modifiers":73,"wordID":24010,"alternates":[16170,16143],"sols":[{"key":"_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT","audio_updated_at":1688290902,"text":"أنا أود أن أحجز مقعدين على رحلة الطيران إلى القاهرة.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أود","translations":[{"type":"dictionary","text":"I would like","phonetic":"I would like"}]},{"raw":"أن","translations":[]},{"raw":"أحجز","translations":[{"type":"dictionary","text":"book","phonetic":"book"}]},{"raw":"مقعدين","translations":[{"type":"dictionary","text":"two seats","phonetic":"two seats"}]},{"raw":"على","translations":[{"type":"dictionary","text":"on","phonetic":"on"}]},{"raw":"رحلة","translations":[{"type":"dictionary","text":"flight","phonetic":"flight"}]},{"raw":"الطيران","translations":[]},{"raw":"إلى","translations":[{"type":"dictionary","text":"to","phonetic":"to"}]},{"raw":"القاهرة","translations":[{"type":"dictionary","text":"Cairo","phonetic":"Cairo"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"مقعدين","location":16,"length":6},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"على","location":23,"length":3},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":"","location":26,"length":0},"linker":{"text":" ","location":22,"length":1}},{"raw":{"text":"رحلة","location":27,"length":4},"prefix":{"text":"","location":27,"length":0},"suffix":{"text":"","location":31,"length":0},"linker":{"text":" ","location":26,"length":1}},{"raw":{"text":"الطيران","location":32,"length":7},"prefix":{"text":"","location":32,"length":0},"suffix":{"text":"","location":39,"length":0},"linker":{"text":" ","location":31,"length":1}},{"raw":{"text":"إلى","location":40,"length":3},"prefix":{"text":"","location":40,"length":0},"suffix":{"text":"","location":43,"length":0},"linker":{"text":" ","location":39,"length":1}},{"raw":{"text":"القاهرة","location":44,"length":7},"prefix":{"text":"","location":44,"length":0},"suffix":{"text":".","location":51,"length":1},"linker":{"text":" ","location":43,"length":1}}]},{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","text":"أنا أود أن أحجز مقعدين."},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","text":"الدرجة السياحية."}],"alts":[{"key":"_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT","audio_updated_at":1688290902,"text":"I would like to book two seats on the flight to Cairo.","phonetic":""},{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text":"I would like to book two seats.","phonetic":""},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"Economy class.","phonetic":""}]},{"id":656653,"lesson":2601,"type":"L1","modifiers":42,"wordID":16141,"alternates":[],"tokens":[{"key":"tPqjviVr9KF","text":"الأعمال،","raw":{"text":"الأعمال","location":15,"length":7},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"،","location":22,"length":1},"linker":{"text":" ","location":14,"length":1}},{"key":"t3F7NOB0mTA","text":"الدرجة","raw":{"text":"الدرجة","location":27,"length":6},"prefix":{"text":"","location":27,"length":0},"suffix":{"text":"","location":33,"length":0},"linker":{"text":" ","location":26,"length":1}},{"key":"tTpHGLGGpvw","text":"رجال","raw":{"text":"رجال","location":10,"length":4},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"txsHULWYjeP","text":"السياحية،","raw":{"text":"السياحية","location":0,"length":8},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"،","location":8,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"tCLTCErPZ88","text":"الأولى؟","raw":{"text":"الأولى","location":34,"length":6},"prefix":{"text":"","location":34,"length":0},"suffix":{"text":"؟","location":40,"length":1},"linker":{"text":" ","location":33,"length":1}},{"key":"tZtnLxsL6s6","text":"أو","raw":{"text":"أو","location":24,"length":2},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":26,"length":0},"linker":{"text":" ","location":23,"length":1}}],"tokensEqualSize":true,"ord":["txsHULWYjeP","tTpHGLGGpvw","tPqjviVr9KF","tZtnLxsL6s6","t3F7NOB0mTA","tCLTCErPZ88"],"sols":[{"key":"nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG","audio_updated_at":1543440242,"text":"Economy, business, or first class?","phonetic":""},{"key":"nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG","audio_updated_at":1543440242,"text":"السياحية، رجال الأعمال، أو الدرجة الأولى؟"}]},{"id":656654,"lesson":2601,"type":"T1b","modifiers":72,"wordID":16143,"alternates":[],"tokens":[{"key":"t3Xw2pg5tmr","text":"Economy","raw":{"text":"Economy","location":0,"length":7},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tOshRw17ttA","text":"hurry.","raw":{"text":"hurry","location":20,"length":5},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":".","location":25,"length":1},"linker":{"text":" ","location":19,"length":1}},{"key":"tK8EKjuRtVK","text":"Excuse","raw":{"text":"Excuse","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t_Sq9XpeOHf","text":"class.","raw":{"text":"class","location":8,"length":5},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":7,"length":1}},{"key":"tmCo6TjhX5M","text":"in","raw":{"text":"in","location":15,"length":2},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":14,"length":1}},{"key":"tL7j4y5t5HA","text":"I'm","raw":{"text":"I'm","location":11,"length":3},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tJL2tDR0XTI","text":"me,","raw":{"text":"me","location":7,"length":2},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":",","location":9,"length":1},"linker":{"text":" ","location":6,"length":1}},{"key":"tY4w7RExyxG","text":"a","raw":{"text":"a","location":18,"length":1},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":17,"length":1}}],"tokensEqualSize":false,"ord":["t3Xw2pg5tmr","t_Sq9XpeOHf"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"الدرجة السياحية.","dictionary":[{"raw":"الدرجة","translations":[{"type":"dictionary","text":"class","phonetic":"class"}]},{"raw":"السياحية","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"الدرجة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"السياحية","location":7,"length":8},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":6,"length":1}}]},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"Economy class.","phonetic":""}]},{"id":656655,"lesson":2601,"type":"Qb","modifiers":73,"wordID":16142,"alternates":[24010,16143],"sols":[{"key":"uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu","audio_updated_at":1543439301,"text":"درجة رجال الأعمال.","dictionary":[{"raw":"درجة","translations":[]},{"raw":"رجال","translations":[]},{"raw":"الأعمال","translations":[{"type":"dictionary","text":"Business","phonetic":"Business"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"درجة","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"رجال","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"raw":{"text":"الأعمال","location":10,"length":7},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":9,"length":1}}]},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","text":"الدرجة السياحية."},{"key":"_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT","text":"أنا أود أن أحجز مقعدين على رحلة الطيران إلى القاهرة."}],"alts":[{"key":"uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu","audio_updated_at":1543439301,"text":"Business class.","phonetic":""},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"Economy class.","phonetic":""},{"key":"_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT","audio_updated_at":1688290902,"text":"I would like to book two seats on the flight to Cairo.","phonetic":""}]},{"id":656656,"lesson":2601,"type":"Q","modifiers":41,"wordID":16144,"alternates":[16170,16143],"sols":[{"key":"KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx","audio_updated_at":1543439302,"text":"First class.","phonetic":"","dictionary":[{"raw":"First","translations":[{"type":"dictionary","text":"الأولى","phonetic":null}]},{"raw":"class","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"First","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"class","location":6,"length":5},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":".","location":11,"length":1},"linker":{"text":" ","location":5,"length":1}}],"phonetic_tokens":[]},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","text":"Economy class.","phonetic":""},{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","text":"I would like to book two seats.","phonetic":""}],"alts":[{"key":"KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx","audio_updated_at":1543439302,"text":"الدرجة الأولى."},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"الدرجة السياحية."},{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text":"أنا أود أن أحجز مقعدين."}]},{"id":656657,"lesson":2601,"type":"R","modifiers":636,"wordID":16170,"alternates":[],"tokens":[{"key":"tW06XN8guHc","text":"أود","raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tJE4oHmutB5","text":"رحلة","raw":{"text":"رحلة","location":23,"length":4},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":"","location":27,"length":0},"linker":{"text":" ","location":22,"length":1}},{"key":"t7Jyk02g50M","text":"أن","raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"t3e-bWumR9s","text":"على","raw":{"text":"على","location":19,"length":3},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":18,"length":1}},{"key":"t1-X4U6F3L1","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t-Kw0gdMPlx","text":"أحجز","raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tfpIaQe-ip-","text":"مقعدين.","raw":{"text":"مقعدين","location":16,"length":6},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":".","location":22,"length":1},"linker":{"text":" ","location":15,"length":1}},{"key":"tJgDl7BRdgm","text":"حجز","raw":{"text":"حجز","location":8,"length":3},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":7,"length":1}}],"tokensEqualSize":true,"ord":["t1-X4U6F3L1","tW06XN8guHc","t7Jyk02g50M","t-Kw0gdMPlx","tfpIaQe-ip-"],"sols":[{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text":"I would like to book two seats.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"would","translations":[]},{"raw":"like","translations":[{"type":"verb","name":{"t":"to like","m":"يعجب","phonetic":"to like"},"id":55,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"CZ11KLNIIQz1-wQ050pStug_G6gnw76v","text":"I like","phonetic":"","audio_updated_at":1543438281},"m":{"text":"أنا أعجب"}},{"t":{"key":"iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u","text":"You like","phonetic":"","audio_updated_at":1543438282},"m":{"text":"أنت تعجب"}},{"t":{"key":"8pa24QiVNcHXrWq1YIY-9mmS66wqDarm","text":"He likes","phonetic":"","audio_updated_at":1543438283},"m":{"text":"هو يعجب"}},{"t":{"key":"77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_","text":"She likes","phonetic":"","audio_updated_at":1543438285},"m":{"text":"هي تعجب"}},{"t":{"key":"HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f","text":"We like","phonetic":"","audio_updated_at":1543438287},"m":{"text":"نحن نعجب"}},{"t":{"key":"lvDR6EetmqeHLFLndSaB8uhBtftJSpHp","text":"You like","phonetic":"","audio_updated_at":1541547854},"m":{"text":"أنتم تعجبون"}},{"t":{"key":"wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB","text":"They like","phonetic":"","audio_updated_at":1543438289},"m":{"text":"هم يعجبون"}}],"pa":[{"t":{"key":"e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN","text":"I liked","phonetic":"","audio_updated_at":1541547856},"m":{"text":"أنا أعجبت"}},{"t":{"key":"fw72VYXGPg6eiRTJmMzdswfCheHwivGm","text":"You liked","phonetic":"","audio_updated_at":1541547857},"m":{"text":"أنت أعجبت"}},{"t":{"key":"yTwI6DTT4suslTuf_q6FGLikaKxg5-_2","text":"He liked","phonetic":"","audio_updated_at":1541547858},"m":{"text":"هو أعجب"}},{"t":{"key":"V28glyoN5Q99QV_JtoJpkkPxNiFosIa6","text":"She liked","phonetic":"","audio_updated_at":1541547859},"m":{"text":"هي أعجبت"}},{"t":{"key":"ciFdGkCIocX27--2HnmHtAG0BTB--L7j","text":"We liked","phonetic":"","audio_updated_at":1541547861},"m":{"text":"نحن أعجبنا"}},{"t":{"key":"QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF","text":"You liked","phonetic":"","audio_updated_at":1541547862},"m":{"text":"أنتم أعجبتم"}},{"t":{"key":"t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI","text":"They liked","phonetic":"","audio_updated_at":1541547863},"m":{"text":"هم أعجبوا"}}],"fu":[{"t":{"key":"Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV","text":"I will like","phonetic":"","audio_updated_at":1541547865},"m":{"text":"أنا سأعجب"}},{"t":{"key":"PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO","text":"You will like","phonetic":"","audio_updated_at":1541547866},"m":{"text":"أنت ستعجب"}},{"t":{"key":"Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5","text":"He will like","phonetic":"","audio_updated_at":1541547867},"m":{"text":"هو سيعجب"}},{"t":{"key":"D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK","text":"She will like","phonetic":"","audio_updated_at":1541547868},"m":{"text":"هي ستعجب"}},{"t":{"key":"A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r","text":"We will like","phonetic":"","audio_updated_at":1541547870},"m":{"text":"نحن سنعجب"}},{"t":{"key":"yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1","text":"You will like","phonetic":"","audio_updated_at":1541547871},"m":{"text":"أنتم ستعجبون"}},{"t":{"key":"NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC","text":"They will like","phonetic":"","audio_updated_at":1541547872},"m":{"text":"هم سيعجبون"}}]}}]},{"raw":"to","translations":[]},{"raw":"book","translations":[]},{"raw":"two","translations":[]},{"raw":"seats","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"to","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"book","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"two","location":21,"length":3},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":20,"length":1}},{"raw":{"text":"seats","location":25,"length":5},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":".","location":30,"length":1},"linker":{"text":" ","location":24,"length":1}}],"phonetic_tokens":[]},{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text":"أنا أود أن أحجز مقعدين."}],"quizSkipData":{"type":"T1","modifiers":40,"tokens":[{"key":"t5001X7fmJ8","text":"هل","raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tPdNDcXi8z4","text":"رحلة","raw":{"text":"رحلة","location":6,"length":4},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":5,"length":1}},{"key":"tGC6JiYc_Et","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tuiSDLxBYch","text":"أحجز","raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tPXCGYja61k","text":"هي","raw":{"text":"هي","location":3,"length":2},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tg1lwk-47dO","text":"مقعدين.","raw":{"text":"مقعدين","location":16,"length":6},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":".","location":22,"length":1},"linker":{"text":" ","location":15,"length":1}},{"key":"tildsnZnsX2","text":"أود","raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tX4GmOzGGgv","text":"أن","raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}}],"tokensEqualSize":true,"ord":["tGC6JiYc_Et","tildsnZnsX2","tX4GmOzGGgv","tuiSDLxBYch","tg1lwk-47dO"],"sols":[{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text":"I would like to book two seats.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"would","translations":[]},{"raw":"like","translations":[{"type":"verb","name":{"t":"to like","m":"يعجب","phonetic":"to like"},"id":55,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"CZ11KLNIIQz1-wQ050pStug_G6gnw76v","text":"I like","phonetic":"","audio_updated_at":1543438281},"m":{"text":"أنا أعجب"}},{"t":{"key":"iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u","text":"You like","phonetic":"","audio_updated_at":1543438282},"m":{"text":"أنت تعجب"}},{"t":{"key":"8pa24QiVNcHXrWq1YIY-9mmS66wqDarm","text":"He likes","phonetic":"","audio_updated_at":1543438283},"m":{"text":"هو يعجب"}},{"t":{"key":"77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_","text":"She likes","phonetic":"","audio_updated_at":1543438285},"m":{"text":"هي تعجب"}},{"t":{"key":"HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f","text":"We like","phonetic":"","audio_updated_at":1543438287},"m":{"text":"نحن نعجب"}},{"t":{"key":"lvDR6EetmqeHLFLndSaB8uhBtftJSpHp","text":"You like","phonetic":"","audio_updated_at":1541547854},"m":{"text":"أنتم تعجبون"}},{"t":{"key":"wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB","text":"They like","phonetic":"","audio_updated_at":1543438289},"m":{"text":"هم يعجبون"}}],"pa":[{"t":{"key":"e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN","text":"I liked","phonetic":"","audio_updated_at":1541547856},"m":{"text":"أنا أعجبت"}},{"t":{"key":"fw72VYXGPg6eiRTJmMzdswfCheHwivGm","text":"You liked","phonetic":"","audio_updated_at":1541547857},"m":{"text":"أنت أعجبت"}},{"t":{"key":"yTwI6DTT4suslTuf_q6FGLikaKxg5-_2","text":"He liked","phonetic":"","audio_updated_at":1541547858},"m":{"text":"هو أعجب"}},{"t":{"key":"V28glyoN5Q99QV_JtoJpkkPxNiFosIa6","text":"She liked","phonetic":"","audio_updated_at":1541547859},"m":{"text":"هي أعجبت"}},{"t":{"key":"ciFdGkCIocX27--2HnmHtAG0BTB--L7j","text":"We liked","phonetic":"","audio_updated_at":1541547861},"m":{"text":"نحن أعجبنا"}},{"t":{"key":"QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF","text":"You liked","phonetic":"","audio_updated_at":1541547862},"m":{"text":"أنتم أعجبتم"}},{"t":{"key":"t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI","text":"They liked","phonetic":"","audio_updated_at":1541547863},"m":{"text":"هم أعجبوا"}}],"fu":[{"t":{"key":"Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV","text":"I will like","phonetic":"","audio_updated_at":1541547865},"m":{"text":"أنا سأعجب"}},{"t":{"key":"PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO","text":"You will like","phonetic":"","audio_updated_at":1541547866},"m":{"text":"أنت ستعجب"}},{"t":{"key":"Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5","text":"He will like","phonetic":"","audio_updated_at":1541547867},"m":{"text":"هو سيعجب"}},{"t":{"key":"D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK","text":"She will like","phonetic":"","audio_updated_at":1541547868},"m":{"text":"هي ستعجب"}},{"t":{"key":"A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r","text":"We will like","phonetic":"","audio_updated_at":1541547870},"m":{"text":"نحن سنعجب"}},{"t":{"key":"yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1","text":"You will like","phonetic":"","audio_updated_at":1541547871},"m":{"text":"أنتم ستعجبون"}},{"t":{"key":"NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC","text":"They will like","phonetic":"","audio_updated_at":1541547872},"m":{"text":"هم سيعجبون"}}]}}]},{"raw":"to","translations":[]},{"raw":"book","translations":[]},{"raw":"two","translations":[]},{"raw":"seats","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"to","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"book","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"two","location":21,"length":3},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":20,"length":1}},{"raw":{"text":"seats","location":25,"length":5},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":".","location":30,"length":1},"linker":{"text":" ","location":24,"length":1}}],"phonetic_tokens":[]},{"key":"F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc","audio_updated_at":1688290318,"text":"أنا أود أن أحجز مقعدين."}]}},{"id":656658,"lesson":2601,"type":"L1","modifiers":42,"wordID":24010,"alternates":[],"tokens":[{"key":"t2DJ01DCRbA","text":"الطيران","raw":{"text":"الطيران","location":32,"length":7},"prefix":{"text":"","location":32,"length":0},"suffix":{"text":"","location":39,"length":0},"linker":{"text":" ","location":31,"length":1}},{"key":"trvyOSq7JUv","text":"على","raw":{"text":"على","location":23,"length":3},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":"","location":26,"length":0},"linker":{"text":" ","location":22,"length":1}},{"key":"ts5Uwpg-cKI","text":"أود","raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tvaHy01Pj_i","text":"أن","raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"t_SKPbgHw8b","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t-z1QiwmTOd","text":"رحلة","raw":{"text":"رحلة","location":27,"length":4},"prefix":{"text":"","location":27,"length":0},"suffix":{"text":"","location":31,"length":0},"linker":{"text":" ","location":26,"length":1}},{"key":"t7spYct-FXD","text":"إلى","raw":{"text":"إلى","location":40,"length":3},"prefix":{"text":"","location":40,"length":0},"suffix":{"text":"","location":43,"length":0},"linker":{"text":" ","location":39,"length":1}},{"key":"tzaqRstH4lY","text":"أحجز","raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tvLie08qAVY","text":"القاهرة.","raw":{"text":"القاهرة","location":44,"length":7},"prefix":{"text":"","location":44,"length":0},"suffix":{"text":".","location":51,"length":1},"linker":{"text":" ","location":43,"length":1}},{"key":"tMTYhqPU8rN","text":"مقعدين","raw":{"text":"مقعدين","location":16,"length":6},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":15,"length":1}}],"tokensEqualSize":true,"ord":["t_SKPbgHw8b","ts5Uwpg-cKI","tvaHy01Pj_i","tzaqRstH4lY","tMTYhqPU8rN","trvyOSq7JUv","t-z1QiwmTOd","t2DJ01DCRbA","t7spYct-FXD","tvLie08qAVY"],"sols":[{"key":"_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT","audio_updated_at":1688290902,"text":"I would like to book two seats on the flight to Cairo.","phonetic":""},{"key":"_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT","audio_updated_at":1688290902,"text":"أنا أود أن أحجز مقعدين على رحلة الطيران إلى القاهرة."}]},{"id":656659,"lesson":2601,"type":"T2","modifiers":60,"wordID":16141,"alternates":[],"sols":[{"key":"nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG","audio_updated_at":1543440242,"text":"Economy, business, or first class?","phonetic":"","dictionary":[{"raw":"Economy","translations":[]},{"raw":"business","translations":[{"type":"dictionary","text":"الأعمال","phonetic":null}]},{"raw":"or","translations":[{"type":"dictionary","text":"أو","phonetic":null}]},{"raw":"first","translations":[{"type":"dictionary","text":"أو","phonetic":null}]},{"raw":"class","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Economy","location":0,"length":7},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":",","location":7,"length":1},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"business","location":9,"length":8},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":",","location":17,"length":1},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"or","location":19,"length":2},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":18,"length":1}},{"raw":{"text":"first","location":22,"length":5},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":"","location":27,"length":0},"linker":{"text":" ","location":21,"length":1}},{"raw":{"text":"class","location":28,"length":5},"prefix":{"text":"","location":28,"length":0},"suffix":{"text":"?","location":33,"length":1},"linker":{"text":" ","location":27,"length":1}}],"phonetic_tokens":[]},{"key":"nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG","audio_updated_at":1543440242,"text":"السياحية، رجال الأعمال، أو الدرجة الأولى؟"}]},{"id":656660,"lesson":2601,"type":"T2b","modifiers":92,"wordID":16143,"alternates":[],"sols":[{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"الدرجة السياحية.","dictionary":[{"raw":"الدرجة","translations":[{"type":"dictionary","text":"class","phonetic":"class"}]},{"raw":"السياحية","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"الدرجة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"السياحية","location":7,"length":8},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":6,"length":1}}]},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"Economy class.","phonetic":""}]},{"id":656661,"lesson":2601,"type":"Q","modifiers":41,"wordID":16142,"alternates":[16144,16143],"sols":[{"key":"uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu","audio_updated_at":1543439301,"text":"Business class.","phonetic":"","dictionary":[{"raw":"Business","translations":[{"type":"dictionary","text":"الأعمال","phonetic":null}]},{"raw":"class","translations":[{"type":"dictionary","text":"درجة","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Business","location":0,"length":8},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"class","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","text":"Economy class.","phonetic":""},{"key":"KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx","text":"First class.","phonetic":""}],"alts":[{"key":"uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu","audio_updated_at":1543439301,"text":"درجة رجال الأعمال."},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"الدرجة السياحية."},{"key":"KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx","audio_updated_at":1543439302,"text":"الدرجة الأولى."}]},{"id":656662,"lesson":2601,"type":"Qb","modifiers":73,"wordID":16144,"alternates":[16143,16142],"sols":[{"key":"KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx","audio_updated_at":1543439302,"text":"الدرجة الأولى.","dictionary":[{"raw":"الدرجة","translations":[{"type":"dictionary","text":"class","phonetic":"class"}]},{"raw":"الأولى","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"الدرجة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"الأولى","location":7,"length":6},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":6,"length":1}}]},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","text":"الدرجة السياحية."},{"key":"uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu","text":"درجة رجال الأعمال."}],"alts":[{"key":"KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx","audio_updated_at":1543439302,"text":"First class.","phonetic":""},{"key":"pU0aBUS607pCnHtNMRdUjVntOEpERosN","audio_updated_at":1543439300,"text":"Economy class.","phonetic":""},{"key":"uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu","audio_updated_at":1543439301,"text":"Business class.","phonetic":""}]}]}
+{
+  "lesson": {
+    "id": 2601,
+    "index": 1,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 26,
+    "categoryID": 26,
+    "unifiedUnitId": 152,
+    "unifiedCategoryId": 26,
+    "name": "حجز رحلة طيران 1",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 22,
+    "countWords": 17,
+    "countPhrases": 7,
+    "countDone": 0,
+    "quizzes": [
+      656641, 656642, 656643, 656644, 656645, 656646, 656647, 656648, 656649,
+      656650, 656651, 656652, 656653, 656654, 656655, 656656, 656657, 656658,
+      656659, 656660, 656661, 656662
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 656641,
+      "lesson": 2601,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 23863,
+      "alternates": [16710, 24009, 23931],
+      "sols": [
+        {
+          "key": "WayaUbCfdTYX8kRPaL8pvSId9IIOmoJ8",
+          "audio_updated_at": 1688290737,
+          "text": "يحجز"
+        },
+        {
+          "key": "owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I",
+          "audio_updated_at": 1688290901,
+          "text": "رحلة طيران"
+        },
+        {
+          "key": "715GNLxtCvB2-gFUUmayNiZ88K7BIcW_",
+          "audio_updated_at": 1541565964,
+          "text": "القاهرة"
+        },
+        {
+          "key": "aFT1RDynB81fihlclykVvk_YWTIgd0vh",
+          "audio_updated_at": 1688290813,
+          "text": "مقعد"
+        }
+      ],
+      "alts": [
+        {
+          "key": "WayaUbCfdTYX8kRPaL8pvSId9IIOmoJ8",
+          "audio_updated_at": 1688290737,
+          "text": "to book",
+          "phonetic": "",
+          "image": "xZ-2obdzAcr1Y3Pn6yZAgdggNdlZXQNu",
+          "image_updated_at": 1689159218
+        },
+        {
+          "key": "owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I",
+          "audio_updated_at": 1688290901,
+          "image": "DvDZ9-XW2ylwVpPuMSJsMKHOKlZCv10v",
+          "image_updated_at": 1689170881,
+          "text": "flight",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "715GNLxtCvB2-gFUUmayNiZ88K7BIcW_",
+          "audio_updated_at": 1541565964,
+          "image": "asYtThqVf2GInmG8QiDuHgtsMCQaRSDq",
+          "image_updated_at": 1689159028,
+          "text": "Cairo",
+          "phonetic": ""
+        },
+        {
+          "key": "aFT1RDynB81fihlclykVvk_YWTIgd0vh",
+          "audio_updated_at": 1688290813,
+          "image": "x-XxYNA09ThSBn8LFG1Anvbj7mY50d78",
+          "image_updated_at": 1689159223,
+          "text": "seat",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656642,
+      "lesson": 2601,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16170,
+      "alternates": [23863, 23931],
+      "tokens": [
+        {
+          "key": "tYJVwvnU0y2",
+          "text": "two",
+          "raw": { "text": "two", "location": 21, "length": 3 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 24, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "t2Lkiq6_FoS",
+          "text": "book",
+          "raw": { "text": "book", "location": 16, "length": 4 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tekIsC0aGik",
+          "text": "like",
+          "raw": { "text": "like", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tedpuJyuSD7",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t3LhAPCE7JT",
+          "text": "seats.",
+          "raw": { "text": "seats", "location": 25, "length": 5 },
+          "prefix": { "text": "", "location": 25, "length": 0 },
+          "suffix": { "text": ".", "location": 30, "length": 1 },
+          "linker": { "text": " ", "location": 24, "length": 1 }
+        },
+        {
+          "key": "tadg56z7L7N",
+          "text": "I'd",
+          "raw": { "text": "I'd", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tKB4iMtheNm",
+          "text": "would",
+          "raw": { "text": "would", "location": 2, "length": 5 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tGKMjXi381u",
+          "text": "to",
+          "raw": { "text": "to", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tedpuJyuSD7",
+        "tKB4iMtheNm",
+        "tekIsC0aGik",
+        "tGKMjXi381u",
+        "t2Lkiq6_FoS",
+        "tYJVwvnU0y2",
+        "t3LhAPCE7JT"
+      ],
+      "completeToken": "t2Lkiq6_FoS",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "audio_updated_at": 1688290318,
+          "text": "أنا أود أن أحجز مقعدين.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أود",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I would like",
+                  "phonetic": "I would like"
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أحجز",
+              "translations": [
+                { "type": "dictionary", "text": "book", "phonetic": "book" }
+              ]
+            },
+            {
+              "raw": "مقعدين",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "two seats",
+                  "phonetic": "two seats"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أود", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "أحجز", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "مقعدين", "location": 16, "length": 6 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": ".", "location": 22, "length": 1 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "audio_updated_at": 1688290318,
+          "text": "I would like to book two seats.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656643,
+      "lesson": 2601,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 24009,
+      "alternates": [16710],
+      "sols": [
+        {
+          "key": "owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I",
+          "audio_updated_at": 1688290901,
+          "text": "رحلة طيران"
+        },
+        {
+          "key": "715GNLxtCvB2-gFUUmayNiZ88K7BIcW_",
+          "audio_updated_at": 1541565964,
+          "text": "القاهرة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I",
+          "audio_updated_at": 1688290901,
+          "text": "flight",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "DvDZ9-XW2ylwVpPuMSJsMKHOKlZCv10v",
+          "image_updated_at": 1689170881
+        },
+        {
+          "key": "715GNLxtCvB2-gFUUmayNiZ88K7BIcW_",
+          "audio_updated_at": 1541565964,
+          "image": "asYtThqVf2GInmG8QiDuHgtsMCQaRSDq",
+          "image_updated_at": 1689159028,
+          "text": "Cairo",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656644,
+      "lesson": 2601,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24010,
+      "alternates": [24009],
+      "tokens": [
+        {
+          "key": "thSF08ACh5k",
+          "text": "to",
+          "raw": { "text": "to", "location": 45, "length": 2 },
+          "prefix": { "text": "", "location": 45, "length": 0 },
+          "suffix": { "text": "", "location": 47, "length": 0 },
+          "linker": { "text": " ", "location": 44, "length": 1 }
+        },
+        {
+          "key": "t9PEh_Td-69",
+          "text": "to",
+          "raw": { "text": "to", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tY7huWeAZPK",
+          "text": "would",
+          "raw": { "text": "would", "location": 2, "length": 5 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "taoZ6uem8LM",
+          "text": "the",
+          "raw": { "text": "the", "location": 34, "length": 3 },
+          "prefix": { "text": "", "location": 34, "length": 0 },
+          "suffix": { "text": "", "location": 37, "length": 0 },
+          "linker": { "text": " ", "location": 33, "length": 1 }
+        },
+        {
+          "key": "tbR3T0zRO4t",
+          "text": "seats",
+          "raw": { "text": "seats", "location": 25, "length": 5 },
+          "prefix": { "text": "", "location": 25, "length": 0 },
+          "suffix": { "text": "", "location": 30, "length": 0 },
+          "linker": { "text": " ", "location": 24, "length": 1 }
+        },
+        {
+          "key": "tdmY0qDCr0U",
+          "text": "on",
+          "raw": { "text": "on", "location": 31, "length": 2 },
+          "prefix": { "text": "", "location": 31, "length": 0 },
+          "suffix": { "text": "", "location": 33, "length": 0 },
+          "linker": { "text": " ", "location": 30, "length": 1 }
+        },
+        {
+          "key": "tJ8TkP8G6jS",
+          "text": "Cairo.",
+          "raw": { "text": "Cairo", "location": 48, "length": 5 },
+          "prefix": { "text": "", "location": 48, "length": 0 },
+          "suffix": { "text": ".", "location": 53, "length": 1 },
+          "linker": { "text": " ", "location": 47, "length": 1 }
+        },
+        {
+          "key": "t71IhHRtq6u",
+          "text": "two",
+          "raw": { "text": "two", "location": 21, "length": 3 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "", "location": 24, "length": 0 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "t0AEOarGzyp",
+          "text": "flight",
+          "raw": { "text": "flight", "location": 38, "length": 6 },
+          "prefix": { "text": "", "location": 38, "length": 0 },
+          "suffix": { "text": "", "location": 44, "length": 0 },
+          "linker": { "text": " ", "location": 37, "length": 1 }
+        },
+        {
+          "key": "tgzu4Ou_sl8",
+          "text": "like",
+          "raw": { "text": "like", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tJhAvU-jMBt",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tQPBxSknRi7",
+          "text": "book",
+          "raw": { "text": "book", "location": 16, "length": 4 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tJhAvU-jMBt",
+        "tY7huWeAZPK",
+        "tgzu4Ou_sl8",
+        "t9PEh_Td-69",
+        "tQPBxSknRi7",
+        "t71IhHRtq6u",
+        "tbR3T0zRO4t",
+        "tdmY0qDCr0U",
+        "taoZ6uem8LM",
+        "t0AEOarGzyp",
+        "thSF08ACh5k",
+        "tJ8TkP8G6jS"
+      ],
+      "completeToken": "t0AEOarGzyp",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT",
+          "audio_updated_at": 1688290902,
+          "text": "أنا أود أن أحجز مقعدين على رحلة الطيران إلى القاهرة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أود",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I would like",
+                  "phonetic": "I would like"
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أحجز",
+              "translations": [
+                { "type": "dictionary", "text": "book", "phonetic": "book" }
+              ]
+            },
+            {
+              "raw": "مقعدين",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "two seats",
+                  "phonetic": "two seats"
+                }
+              ]
+            },
+            {
+              "raw": "على",
+              "translations": [
+                { "type": "dictionary", "text": "on", "phonetic": "on" }
+              ]
+            },
+            {
+              "raw": "رحلة",
+              "translations": [
+                { "type": "dictionary", "text": "flight", "phonetic": "flight" }
+              ]
+            },
+            { "raw": "الطيران", "translations": [] },
+            {
+              "raw": "إلى",
+              "translations": [
+                { "type": "dictionary", "text": "to", "phonetic": "to" }
+              ]
+            },
+            {
+              "raw": "القاهرة",
+              "translations": [
+                { "type": "dictionary", "text": "Cairo", "phonetic": "Cairo" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أود", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "أحجز", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "مقعدين", "location": 16, "length": 6 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "على", "location": 23, "length": 3 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": "", "location": 26, "length": 0 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            },
+            {
+              "raw": { "text": "رحلة", "location": 27, "length": 4 },
+              "prefix": { "text": "", "location": 27, "length": 0 },
+              "suffix": { "text": "", "location": 31, "length": 0 },
+              "linker": { "text": " ", "location": 26, "length": 1 }
+            },
+            {
+              "raw": { "text": "الطيران", "location": 32, "length": 7 },
+              "prefix": { "text": "", "location": 32, "length": 0 },
+              "suffix": { "text": "", "location": 39, "length": 0 },
+              "linker": { "text": " ", "location": 31, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 40, "length": 3 },
+              "prefix": { "text": "", "location": 40, "length": 0 },
+              "suffix": { "text": "", "location": 43, "length": 0 },
+              "linker": { "text": " ", "location": 39, "length": 1 }
+            },
+            {
+              "raw": { "text": "القاهرة", "location": 44, "length": 7 },
+              "prefix": { "text": "", "location": 44, "length": 0 },
+              "suffix": { "text": ".", "location": 51, "length": 1 },
+              "linker": { "text": " ", "location": 43, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT",
+          "audio_updated_at": 1688290902,
+          "text": "I would like to book two seats on the flight to Cairo.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656645,
+      "lesson": 2601,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16141,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tDO5hrPQPQa",
+          "text": "first",
+          "raw": { "text": "first", "location": 22, "length": 5 },
+          "prefix": { "text": "", "location": 22, "length": 0 },
+          "suffix": { "text": "", "location": 27, "length": 0 },
+          "linker": { "text": " ", "location": 21, "length": 1 }
+        },
+        {
+          "key": "tjp_mHFI96W",
+          "text": "business,",
+          "raw": { "text": "business", "location": 9, "length": 8 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ",", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tizvldbJ7CV",
+          "text": "am",
+          "raw": { "text": "am", "location": 2, "length": 2 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "t4Lx0NdAnbV",
+          "text": "or",
+          "raw": { "text": "or", "location": 19, "length": 2 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tUGQPDSxxAJ",
+          "text": "class?",
+          "raw": { "text": "class", "location": 28, "length": 5 },
+          "prefix": { "text": "", "location": 28, "length": 0 },
+          "suffix": { "text": "?", "location": 33, "length": 1 },
+          "linker": { "text": " ", "location": 27, "length": 1 }
+        },
+        {
+          "key": "tPed7_uY__j",
+          "text": "afraid",
+          "raw": { "text": "afraid", "location": 5, "length": 6 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "twZ9MPgv4FT",
+          "text": "Economy,",
+          "raw": { "text": "Economy", "location": 0, "length": 7 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ",", "location": 7, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tRgK5Hfigyh",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "twZ9MPgv4FT",
+        "tjp_mHFI96W",
+        "t4Lx0NdAnbV",
+        "tDO5hrPQPQa",
+        "tUGQPDSxxAJ"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG",
+          "audio_updated_at": 1543440242,
+          "text": "السياحية، رجال الأعمال، أو الدرجة الأولى؟",
+          "dictionary": [
+            { "raw": "السياحية", "translations": [] },
+            { "raw": "رجال", "translations": [] },
+            {
+              "raw": "الأعمال",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "business",
+                  "phonetic": "business"
+                }
+              ]
+            },
+            {
+              "raw": "أو",
+              "translations": [
+                { "type": "dictionary", "text": "or", "phonetic": "or" }
+              ]
+            },
+            {
+              "raw": "الدرجة",
+              "translations": [
+                { "type": "dictionary", "text": "class", "phonetic": "class" }
+              ]
+            },
+            { "raw": "الأولى", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "السياحية", "location": 0, "length": 8 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "،", "location": 8, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "رجال", "location": 10, "length": 4 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأعمال", "location": 15, "length": 7 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": "،", "location": 22, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            },
+            {
+              "raw": { "text": "أو", "location": 24, "length": 2 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 26, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "الدرجة", "location": 27, "length": 6 },
+              "prefix": { "text": "", "location": 27, "length": 0 },
+              "suffix": { "text": "", "location": 33, "length": 0 },
+              "linker": { "text": " ", "location": 26, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأولى", "location": 34, "length": 6 },
+              "prefix": { "text": "", "location": 34, "length": 0 },
+              "suffix": { "text": "؟", "location": 40, "length": 1 },
+              "linker": { "text": " ", "location": 33, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG",
+          "audio_updated_at": 1543440242,
+          "text": "Economy, business, or first class?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656646,
+      "lesson": 2601,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16143,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tt7VODx0kib",
+          "text": "سأجهزك",
+          "raw": { "text": "سأجهزك", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tnaJlV2mz4h",
+          "text": "سيدي.",
+          "raw": { "text": "سيدي", "location": 24, "length": 4 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": ".", "location": 28, "length": 1 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tn578h4ssCt",
+          "text": "للصعود",
+          "raw": { "text": "للصعود", "location": 11, "length": 6 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tTqWVnoWdNE",
+          "text": "الدرجة",
+          "raw": { "text": "الدرجة", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tUPaFAj8qxs",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t2nBrmIFA8P",
+          "text": "السياحية.",
+          "raw": { "text": "السياحية", "location": 7, "length": 8 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tSFGAPNWWuq",
+          "text": "الآن،",
+          "raw": { "text": "الآن", "location": 18, "length": 4 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "،", "location": 22, "length": 1 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tTqWVnoWdNE", "t2nBrmIFA8P"],
+      "sols": [
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "Economy class.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Economy", "translations": [] },
+            { "raw": "class", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Economy", "location": 0, "length": 7 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "class", "location": 8, "length": 5 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "الدرجة السياحية."
+        }
+      ]
+    },
+    {
+      "id": 656647,
+      "lesson": 2601,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16142,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tl3jz6iDDGX",
+          "text": "lost.",
+          "raw": { "text": "lost", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": ".", "location": 9, "length": 1 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tERuuOrL6q8",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tpDK4PNmo8B",
+          "text": "Business",
+          "raw": { "text": "Business", "location": 0, "length": 8 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t0p5T4wN3eX",
+          "text": "am",
+          "raw": { "text": "am", "location": 2, "length": 2 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tCbbhcF_qPb",
+          "text": "class.",
+          "raw": { "text": "class", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tpDK4PNmo8B", "tCbbhcF_qPb"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu",
+          "audio_updated_at": 1543439301,
+          "text": "درجة رجال الأعمال.",
+          "dictionary": [
+            { "raw": "درجة", "translations": [] },
+            { "raw": "رجال", "translations": [] },
+            {
+              "raw": "الأعمال",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "Business",
+                  "phonetic": "Business"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "درجة", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "رجال", "location": 5, "length": 4 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأعمال", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu",
+          "audio_updated_at": 1543439301,
+          "text": "Business class.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656648,
+      "lesson": 2601,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16144,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tmuZNAmMFqW",
+          "text": "الدرجة",
+          "raw": { "text": "الدرجة", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tTkOc5rLJiP",
+          "text": "تائه.",
+          "raw": { "text": "تائه", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": ".", "location": 8, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tFRDqeViUCM",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tu99azUU22J",
+          "text": "الأولى.",
+          "raw": { "text": "الأولى", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tmuZNAmMFqW", "tu99azUU22J"],
+      "sols": [
+        {
+          "key": "KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx",
+          "audio_updated_at": 1543439302,
+          "text": "First class.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "First",
+              "translations": [
+                { "type": "dictionary", "text": "الأولى", "phonetic": null }
+              ]
+            },
+            { "raw": "class", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "First", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "class", "location": 6, "length": 5 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": ".", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx",
+          "audio_updated_at": 1543439302,
+          "text": "الدرجة الأولى."
+        }
+      ]
+    },
+    {
+      "id": 656649,
+      "lesson": 2601,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 23931,
+      "alternates": [],
+      "tokens": [
+        { "key": "tsKMf_mrYRH", "text": "t", "group": 0 },
+        { "key": "td4MpFhpCOj", "text": "a", "group": 0 },
+        { "key": "tDc7ExGTmTK", "text": "s", "group": 0 },
+        { "key": "tDmgbrMIsvq", "text": "e", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tDc7ExGTmTK", "tDmgbrMIsvq", "td4MpFhpCOj", "tsKMf_mrYRH"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "aFT1RDynB81fihlclykVvk_YWTIgd0vh",
+          "audio_updated_at": 1688290813,
+          "text": "مقعد",
+          "dictionary": [
+            {
+              "raw": "مقعد",
+              "translations": [
+                { "type": "dictionary", "text": "seat", "phonetic": "seat" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "مقعد", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "aFT1RDynB81fihlclykVvk_YWTIgd0vh",
+          "audio_updated_at": 1688290813,
+          "text_tokens": [
+            {
+              "raw": { "text": "seat", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "seat",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "x-XxYNA09ThSBn8LFG1Anvbj7mY50d78",
+          "image_updated_at": 1689159223
+        }
+      ]
+    },
+    {
+      "id": 656650,
+      "lesson": 2601,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 16170,
+      "alternates": [23931],
+      "tokens": [
+        { "key": "tl9MDVB0qkw", "text": " ", "specialChar": true },
+        { "key": "t_w1fZueKzs", "text": "t", "group": 6 },
+        { "key": "tgRVY_ifdwV", "text": "s", "group": 6 },
+        { "key": "tRCRcWIoAL0", "text": "e", "group": 6 },
+        { "key": "tnOcH_PEErE", "text": ".", "specialChar": true },
+        { "key": "toroNWRLkp-", "text": "s", "group": 6 },
+        { "key": "t1FGqFxTvIn", "text": "a", "group": 6 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tl9MDVB0qkw",
+        "toroNWRLkp-",
+        "tRCRcWIoAL0",
+        "t1FGqFxTvIn",
+        "t_w1fZueKzs",
+        "tgRVY_ifdwV",
+        "tnOcH_PEErE"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "audio_updated_at": 1688290318,
+          "text": "أنا أود أن أحجز مقعدين.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أود",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I would like",
+                  "phonetic": "I would like"
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أحجز",
+              "translations": [
+                { "type": "dictionary", "text": "book", "phonetic": "book" }
+              ]
+            },
+            {
+              "raw": "مقعدين",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "two seats",
+                  "phonetic": "two seats"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أود", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "أحجز", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "مقعدين", "location": 16, "length": 6 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": ".", "location": 22, "length": 1 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "audio_updated_at": 1688290318,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "would", "location": 2, "length": 5 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "like", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 13, "length": 2 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "book", "location": 16, "length": 4 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "two", "location": 21, "length": 3 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "", "location": 24, "length": 0 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            },
+            {
+              "raw": { "text": "seats", "location": 25, "length": 5 },
+              "prefix": { "text": "", "location": 25, "length": 0 },
+              "suffix": { "text": ".", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 24, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "I would like to book two seats.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656651,
+      "lesson": 2601,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 23863,
+      "alternates": [16710, 24009, 23931],
+      "sols": [
+        {
+          "key": "WayaUbCfdTYX8kRPaL8pvSId9IIOmoJ8",
+          "audio_updated_at": 1688290737,
+          "text": "يحجز"
+        },
+        { "key": "aFT1RDynB81fihlclykVvk_YWTIgd0vh", "text": "مقعد" },
+        { "key": "715GNLxtCvB2-gFUUmayNiZ88K7BIcW_", "text": "القاهرة" },
+        { "key": "owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I", "text": "رحلة طيران" }
+      ],
+      "alts": [
+        {
+          "key": "WayaUbCfdTYX8kRPaL8pvSId9IIOmoJ8",
+          "audio_updated_at": 1688290737,
+          "text": "to book",
+          "phonetic": "",
+          "image": "xZ-2obdzAcr1Y3Pn6yZAgdggNdlZXQNu",
+          "image_updated_at": 1689159218
+        },
+        {
+          "key": "aFT1RDynB81fihlclykVvk_YWTIgd0vh",
+          "audio_updated_at": 1688290813,
+          "text": "seat",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "x-XxYNA09ThSBn8LFG1Anvbj7mY50d78",
+          "image_updated_at": 1689159223
+        },
+        {
+          "key": "715GNLxtCvB2-gFUUmayNiZ88K7BIcW_",
+          "audio_updated_at": 1541565964,
+          "text": "Cairo",
+          "phonetic": "",
+          "image": "asYtThqVf2GInmG8QiDuHgtsMCQaRSDq",
+          "image_updated_at": 1689159028
+        },
+        {
+          "key": "owyvln0Bd2Ck2wvbJAF590g_PUO_KO1I",
+          "audio_updated_at": 1688290901,
+          "text": "flight",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "DvDZ9-XW2ylwVpPuMSJsMKHOKlZCv10v",
+          "image_updated_at": 1689170881
+        }
+      ]
+    },
+    {
+      "id": 656652,
+      "lesson": 2601,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24010,
+      "alternates": [16170, 16143],
+      "sols": [
+        {
+          "key": "_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT",
+          "audio_updated_at": 1688290902,
+          "text": "أنا أود أن أحجز مقعدين على رحلة الطيران إلى القاهرة.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أود",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I would like",
+                  "phonetic": "I would like"
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أحجز",
+              "translations": [
+                { "type": "dictionary", "text": "book", "phonetic": "book" }
+              ]
+            },
+            {
+              "raw": "مقعدين",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "two seats",
+                  "phonetic": "two seats"
+                }
+              ]
+            },
+            {
+              "raw": "على",
+              "translations": [
+                { "type": "dictionary", "text": "on", "phonetic": "on" }
+              ]
+            },
+            {
+              "raw": "رحلة",
+              "translations": [
+                { "type": "dictionary", "text": "flight", "phonetic": "flight" }
+              ]
+            },
+            { "raw": "الطيران", "translations": [] },
+            {
+              "raw": "إلى",
+              "translations": [
+                { "type": "dictionary", "text": "to", "phonetic": "to" }
+              ]
+            },
+            {
+              "raw": "القاهرة",
+              "translations": [
+                { "type": "dictionary", "text": "Cairo", "phonetic": "Cairo" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أود", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "أحجز", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "مقعدين", "location": 16, "length": 6 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "على", "location": 23, "length": 3 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": "", "location": 26, "length": 0 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            },
+            {
+              "raw": { "text": "رحلة", "location": 27, "length": 4 },
+              "prefix": { "text": "", "location": 27, "length": 0 },
+              "suffix": { "text": "", "location": 31, "length": 0 },
+              "linker": { "text": " ", "location": 26, "length": 1 }
+            },
+            {
+              "raw": { "text": "الطيران", "location": 32, "length": 7 },
+              "prefix": { "text": "", "location": 32, "length": 0 },
+              "suffix": { "text": "", "location": 39, "length": 0 },
+              "linker": { "text": " ", "location": 31, "length": 1 }
+            },
+            {
+              "raw": { "text": "إلى", "location": 40, "length": 3 },
+              "prefix": { "text": "", "location": 40, "length": 0 },
+              "suffix": { "text": "", "location": 43, "length": 0 },
+              "linker": { "text": " ", "location": 39, "length": 1 }
+            },
+            {
+              "raw": { "text": "القاهرة", "location": 44, "length": 7 },
+              "prefix": { "text": "", "location": 44, "length": 0 },
+              "suffix": { "text": ".", "location": 51, "length": 1 },
+              "linker": { "text": " ", "location": 43, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "text": "أنا أود أن أحجز مقعدين."
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "text": "الدرجة السياحية."
+        }
+      ],
+      "alts": [
+        {
+          "key": "_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT",
+          "audio_updated_at": 1688290902,
+          "text": "I would like to book two seats on the flight to Cairo.",
+          "phonetic": ""
+        },
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "audio_updated_at": 1688290318,
+          "text": "I would like to book two seats.",
+          "phonetic": ""
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "Economy class.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656653,
+      "lesson": 2601,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 16141,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tPqjviVr9KF",
+          "text": "الأعمال،",
+          "raw": { "text": "الأعمال", "location": 15, "length": 7 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "،", "location": 22, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "t3F7NOB0mTA",
+          "text": "الدرجة",
+          "raw": { "text": "الدرجة", "location": 27, "length": 6 },
+          "prefix": { "text": "", "location": 27, "length": 0 },
+          "suffix": { "text": "", "location": 33, "length": 0 },
+          "linker": { "text": " ", "location": 26, "length": 1 }
+        },
+        {
+          "key": "tTpHGLGGpvw",
+          "text": "رجال",
+          "raw": { "text": "رجال", "location": 10, "length": 4 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "txsHULWYjeP",
+          "text": "السياحية،",
+          "raw": { "text": "السياحية", "location": 0, "length": 8 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "،", "location": 8, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tCLTCErPZ88",
+          "text": "الأولى؟",
+          "raw": { "text": "الأولى", "location": 34, "length": 6 },
+          "prefix": { "text": "", "location": 34, "length": 0 },
+          "suffix": { "text": "؟", "location": 40, "length": 1 },
+          "linker": { "text": " ", "location": 33, "length": 1 }
+        },
+        {
+          "key": "tZtnLxsL6s6",
+          "text": "أو",
+          "raw": { "text": "أو", "location": 24, "length": 2 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 26, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "txsHULWYjeP",
+        "tTpHGLGGpvw",
+        "tPqjviVr9KF",
+        "tZtnLxsL6s6",
+        "t3F7NOB0mTA",
+        "tCLTCErPZ88"
+      ],
+      "sols": [
+        {
+          "key": "nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG",
+          "audio_updated_at": 1543440242,
+          "text": "Economy, business, or first class?",
+          "phonetic": ""
+        },
+        {
+          "key": "nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG",
+          "audio_updated_at": 1543440242,
+          "text": "السياحية، رجال الأعمال، أو الدرجة الأولى؟"
+        }
+      ]
+    },
+    {
+      "id": 656654,
+      "lesson": 2601,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16143,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t3Xw2pg5tmr",
+          "text": "Economy",
+          "raw": { "text": "Economy", "location": 0, "length": 7 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tOshRw17ttA",
+          "text": "hurry.",
+          "raw": { "text": "hurry", "location": 20, "length": 5 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": ".", "location": 25, "length": 1 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "tK8EKjuRtVK",
+          "text": "Excuse",
+          "raw": { "text": "Excuse", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t_Sq9XpeOHf",
+          "text": "class.",
+          "raw": { "text": "class", "location": 8, "length": 5 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tmCo6TjhX5M",
+          "text": "in",
+          "raw": { "text": "in", "location": 15, "length": 2 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tL7j4y5t5HA",
+          "text": "I'm",
+          "raw": { "text": "I'm", "location": 11, "length": 3 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tJL2tDR0XTI",
+          "text": "me,",
+          "raw": { "text": "me", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ",", "location": 9, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tY4w7RExyxG",
+          "text": "a",
+          "raw": { "text": "a", "location": 18, "length": 1 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t3Xw2pg5tmr", "t_Sq9XpeOHf"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "الدرجة السياحية.",
+          "dictionary": [
+            {
+              "raw": "الدرجة",
+              "translations": [
+                { "type": "dictionary", "text": "class", "phonetic": "class" }
+              ]
+            },
+            { "raw": "السياحية", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الدرجة", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "السياحية", "location": 7, "length": 8 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "Economy class.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656655,
+      "lesson": 2601,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 16142,
+      "alternates": [24010, 16143],
+      "sols": [
+        {
+          "key": "uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu",
+          "audio_updated_at": 1543439301,
+          "text": "درجة رجال الأعمال.",
+          "dictionary": [
+            { "raw": "درجة", "translations": [] },
+            { "raw": "رجال", "translations": [] },
+            {
+              "raw": "الأعمال",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "Business",
+                  "phonetic": "Business"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "درجة", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "رجال", "location": 5, "length": 4 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأعمال", "location": 10, "length": 7 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": ".", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "text": "الدرجة السياحية."
+        },
+        {
+          "key": "_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT",
+          "text": "أنا أود أن أحجز مقعدين على رحلة الطيران إلى القاهرة."
+        }
+      ],
+      "alts": [
+        {
+          "key": "uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu",
+          "audio_updated_at": 1543439301,
+          "text": "Business class.",
+          "phonetic": ""
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "Economy class.",
+          "phonetic": ""
+        },
+        {
+          "key": "_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT",
+          "audio_updated_at": 1688290902,
+          "text": "I would like to book two seats on the flight to Cairo.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656656,
+      "lesson": 2601,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 16144,
+      "alternates": [16170, 16143],
+      "sols": [
+        {
+          "key": "KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx",
+          "audio_updated_at": 1543439302,
+          "text": "First class.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "First",
+              "translations": [
+                { "type": "dictionary", "text": "الأولى", "phonetic": null }
+              ]
+            },
+            { "raw": "class", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "First", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "class", "location": 6, "length": 5 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": ".", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "text": "Economy class.",
+          "phonetic": ""
+        },
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "text": "I would like to book two seats.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx",
+          "audio_updated_at": 1543439302,
+          "text": "الدرجة الأولى."
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "الدرجة السياحية."
+        },
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "audio_updated_at": 1688290318,
+          "text": "أنا أود أن أحجز مقعدين."
+        }
+      ]
+    },
+    {
+      "id": 656657,
+      "lesson": 2601,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 16170,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tW06XN8guHc",
+          "text": "أود",
+          "raw": { "text": "أود", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tJE4oHmutB5",
+          "text": "رحلة",
+          "raw": { "text": "رحلة", "location": 23, "length": 4 },
+          "prefix": { "text": "", "location": 23, "length": 0 },
+          "suffix": { "text": "", "location": 27, "length": 0 },
+          "linker": { "text": " ", "location": 22, "length": 1 }
+        },
+        {
+          "key": "t7Jyk02g50M",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 8, "length": 2 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t3e-bWumR9s",
+          "text": "على",
+          "raw": { "text": "على", "location": 19, "length": 3 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 22, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "t1-X4U6F3L1",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t-Kw0gdMPlx",
+          "text": "أحجز",
+          "raw": { "text": "أحجز", "location": 11, "length": 4 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tfpIaQe-ip-",
+          "text": "مقعدين.",
+          "raw": { "text": "مقعدين", "location": 16, "length": 6 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": ".", "location": 22, "length": 1 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tJgDl7BRdgm",
+          "text": "حجز",
+          "raw": { "text": "حجز", "location": 8, "length": 3 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "t1-X4U6F3L1",
+        "tW06XN8guHc",
+        "t7Jyk02g50M",
+        "t-Kw0gdMPlx",
+        "tfpIaQe-ip-"
+      ],
+      "sols": [
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "audio_updated_at": 1688290318,
+          "text": "I would like to book two seats.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            { "raw": "would", "translations": [] },
+            {
+              "raw": "like",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to like",
+                    "m": "يعجب",
+                    "phonetic": "to like"
+                  },
+                  "id": 55,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                          "text": "I like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438281
+                        },
+                        "m": { "text": "أنا أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438282
+                        },
+                        "m": { "text": "أنت تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                          "text": "He likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438283
+                        },
+                        "m": { "text": "هو يعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                          "text": "She likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438285
+                        },
+                        "m": { "text": "هي تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                          "text": "We like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438287
+                        },
+                        "m": { "text": "نحن نعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547854
+                        },
+                        "m": { "text": "أنتم تعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                          "text": "They like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438289
+                        },
+                        "m": { "text": "هم يعجبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                          "text": "I liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547856
+                        },
+                        "m": { "text": "أنا أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547857
+                        },
+                        "m": { "text": "أنت أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                          "text": "He liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547858
+                        },
+                        "m": { "text": "هو أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                          "text": "She liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547859
+                        },
+                        "m": { "text": "هي أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                          "text": "We liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547861
+                        },
+                        "m": { "text": "نحن أعجبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547862
+                        },
+                        "m": { "text": "أنتم أعجبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                          "text": "They liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547863
+                        },
+                        "m": { "text": "هم أعجبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                          "text": "I will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547865
+                        },
+                        "m": { "text": "أنا سأعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547866
+                        },
+                        "m": { "text": "أنت ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                          "text": "He will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547867
+                        },
+                        "m": { "text": "هو سيعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                          "text": "She will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547868
+                        },
+                        "m": { "text": "هي ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                          "text": "We will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547870
+                        },
+                        "m": { "text": "نحن سنعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547871
+                        },
+                        "m": { "text": "أنتم ستعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                          "text": "They will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547872
+                        },
+                        "m": { "text": "هم سيعجبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            { "raw": "book", "translations": [] },
+            { "raw": "two", "translations": [] },
+            { "raw": "seats", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "would", "location": 2, "length": 5 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "like", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 13, "length": 2 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "book", "location": 16, "length": 4 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "two", "location": 21, "length": 3 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "", "location": 24, "length": 0 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            },
+            {
+              "raw": { "text": "seats", "location": 25, "length": 5 },
+              "prefix": { "text": "", "location": 25, "length": 0 },
+              "suffix": { "text": ".", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 24, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+          "audio_updated_at": 1688290318,
+          "text": "أنا أود أن أحجز مقعدين."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "t5001X7fmJ8",
+            "text": "هل",
+            "raw": { "text": "هل", "location": 0, "length": 2 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 2, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tPdNDcXi8z4",
+            "text": "رحلة",
+            "raw": { "text": "رحلة", "location": 6, "length": 4 },
+            "prefix": { "text": "", "location": 6, "length": 0 },
+            "suffix": { "text": "", "location": 10, "length": 0 },
+            "linker": { "text": " ", "location": 5, "length": 1 }
+          },
+          {
+            "key": "tGC6JiYc_Et",
+            "text": "أنا",
+            "raw": { "text": "أنا", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tuiSDLxBYch",
+            "text": "أحجز",
+            "raw": { "text": "أحجز", "location": 11, "length": 4 },
+            "prefix": { "text": "", "location": 11, "length": 0 },
+            "suffix": { "text": "", "location": 15, "length": 0 },
+            "linker": { "text": " ", "location": 10, "length": 1 }
+          },
+          {
+            "key": "tPXCGYja61k",
+            "text": "هي",
+            "raw": { "text": "هي", "location": 3, "length": 2 },
+            "prefix": { "text": "", "location": 3, "length": 0 },
+            "suffix": { "text": "", "location": 5, "length": 0 },
+            "linker": { "text": " ", "location": 2, "length": 1 }
+          },
+          {
+            "key": "tg1lwk-47dO",
+            "text": "مقعدين.",
+            "raw": { "text": "مقعدين", "location": 16, "length": 6 },
+            "prefix": { "text": "", "location": 16, "length": 0 },
+            "suffix": { "text": ".", "location": 22, "length": 1 },
+            "linker": { "text": " ", "location": 15, "length": 1 }
+          },
+          {
+            "key": "tildsnZnsX2",
+            "text": "أود",
+            "raw": { "text": "أود", "location": 4, "length": 3 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 7, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tX4GmOzGGgv",
+            "text": "أن",
+            "raw": { "text": "أن", "location": 8, "length": 2 },
+            "prefix": { "text": "", "location": 8, "length": 0 },
+            "suffix": { "text": "", "location": 10, "length": 0 },
+            "linker": { "text": " ", "location": 7, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": [
+          "tGC6JiYc_Et",
+          "tildsnZnsX2",
+          "tX4GmOzGGgv",
+          "tuiSDLxBYch",
+          "tg1lwk-47dO"
+        ],
+        "sols": [
+          {
+            "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+            "audio_updated_at": 1688290318,
+            "text": "I would like to book two seats.",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "I",
+                "translations": [
+                  { "type": "dictionary", "text": "أنا", "phonetic": null }
+                ]
+              },
+              { "raw": "would", "translations": [] },
+              {
+                "raw": "like",
+                "translations": [
+                  {
+                    "type": "verb",
+                    "name": {
+                      "t": "to like",
+                      "m": "يعجب",
+                      "phonetic": "to like"
+                    },
+                    "id": 55,
+                    "tenseNames": {
+                      "pr": "الحاضر",
+                      "pa": "ماضي",
+                      "fu": "مستقبل"
+                    },
+                    "conj": {
+                      "pr": [
+                        {
+                          "t": {
+                            "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                            "text": "I like",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438281
+                          },
+                          "m": { "text": "أنا أعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                            "text": "You like",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438282
+                          },
+                          "m": { "text": "أنت تعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                            "text": "He likes",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438283
+                          },
+                          "m": { "text": "هو يعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                            "text": "She likes",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438285
+                          },
+                          "m": { "text": "هي تعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                            "text": "We like",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438287
+                          },
+                          "m": { "text": "نحن نعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                            "text": "You like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547854
+                          },
+                          "m": { "text": "أنتم تعجبون" }
+                        },
+                        {
+                          "t": {
+                            "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                            "text": "They like",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438289
+                          },
+                          "m": { "text": "هم يعجبون" }
+                        }
+                      ],
+                      "pa": [
+                        {
+                          "t": {
+                            "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                            "text": "I liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547856
+                          },
+                          "m": { "text": "أنا أعجبت" }
+                        },
+                        {
+                          "t": {
+                            "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                            "text": "You liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547857
+                          },
+                          "m": { "text": "أنت أعجبت" }
+                        },
+                        {
+                          "t": {
+                            "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                            "text": "He liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547858
+                          },
+                          "m": { "text": "هو أعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                            "text": "She liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547859
+                          },
+                          "m": { "text": "هي أعجبت" }
+                        },
+                        {
+                          "t": {
+                            "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                            "text": "We liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547861
+                          },
+                          "m": { "text": "نحن أعجبنا" }
+                        },
+                        {
+                          "t": {
+                            "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                            "text": "You liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547862
+                          },
+                          "m": { "text": "أنتم أعجبتم" }
+                        },
+                        {
+                          "t": {
+                            "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                            "text": "They liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547863
+                          },
+                          "m": { "text": "هم أعجبوا" }
+                        }
+                      ],
+                      "fu": [
+                        {
+                          "t": {
+                            "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                            "text": "I will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547865
+                          },
+                          "m": { "text": "أنا سأعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                            "text": "You will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547866
+                          },
+                          "m": { "text": "أنت ستعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                            "text": "He will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547867
+                          },
+                          "m": { "text": "هو سيعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                            "text": "She will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547868
+                          },
+                          "m": { "text": "هي ستعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                            "text": "We will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547870
+                          },
+                          "m": { "text": "نحن سنعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                            "text": "You will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547871
+                          },
+                          "m": { "text": "أنتم ستعجبون" }
+                        },
+                        {
+                          "t": {
+                            "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                            "text": "They will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547872
+                          },
+                          "m": { "text": "هم سيعجبون" }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              { "raw": "to", "translations": [] },
+              { "raw": "book", "translations": [] },
+              { "raw": "two", "translations": [] },
+              { "raw": "seats", "translations": [] }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "I", "location": 0, "length": 1 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 1, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "would", "location": 2, "length": 5 },
+                "prefix": { "text": "", "location": 2, "length": 0 },
+                "suffix": { "text": "", "location": 7, "length": 0 },
+                "linker": { "text": " ", "location": 1, "length": 1 }
+              },
+              {
+                "raw": { "text": "like", "location": 8, "length": 4 },
+                "prefix": { "text": "", "location": 8, "length": 0 },
+                "suffix": { "text": "", "location": 12, "length": 0 },
+                "linker": { "text": " ", "location": 7, "length": 1 }
+              },
+              {
+                "raw": { "text": "to", "location": 13, "length": 2 },
+                "prefix": { "text": "", "location": 13, "length": 0 },
+                "suffix": { "text": "", "location": 15, "length": 0 },
+                "linker": { "text": " ", "location": 12, "length": 1 }
+              },
+              {
+                "raw": { "text": "book", "location": 16, "length": 4 },
+                "prefix": { "text": "", "location": 16, "length": 0 },
+                "suffix": { "text": "", "location": 20, "length": 0 },
+                "linker": { "text": " ", "location": 15, "length": 1 }
+              },
+              {
+                "raw": { "text": "two", "location": 21, "length": 3 },
+                "prefix": { "text": "", "location": 21, "length": 0 },
+                "suffix": { "text": "", "location": 24, "length": 0 },
+                "linker": { "text": " ", "location": 20, "length": 1 }
+              },
+              {
+                "raw": { "text": "seats", "location": 25, "length": 5 },
+                "prefix": { "text": "", "location": 25, "length": 0 },
+                "suffix": { "text": ".", "location": 30, "length": 1 },
+                "linker": { "text": " ", "location": 24, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "F-lQgGJuFA-kEsI5WY-KKi0azxTUt9Qc",
+            "audio_updated_at": 1688290318,
+            "text": "أنا أود أن أحجز مقعدين."
+          }
+        ]
+      }
+    },
+    {
+      "id": 656658,
+      "lesson": 2601,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 24010,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t2DJ01DCRbA",
+          "text": "الطيران",
+          "raw": { "text": "الطيران", "location": 32, "length": 7 },
+          "prefix": { "text": "", "location": 32, "length": 0 },
+          "suffix": { "text": "", "location": 39, "length": 0 },
+          "linker": { "text": " ", "location": 31, "length": 1 }
+        },
+        {
+          "key": "trvyOSq7JUv",
+          "text": "على",
+          "raw": { "text": "على", "location": 23, "length": 3 },
+          "prefix": { "text": "", "location": 23, "length": 0 },
+          "suffix": { "text": "", "location": 26, "length": 0 },
+          "linker": { "text": " ", "location": 22, "length": 1 }
+        },
+        {
+          "key": "ts5Uwpg-cKI",
+          "text": "أود",
+          "raw": { "text": "أود", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tvaHy01Pj_i",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 8, "length": 2 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t_SKPbgHw8b",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t-z1QiwmTOd",
+          "text": "رحلة",
+          "raw": { "text": "رحلة", "location": 27, "length": 4 },
+          "prefix": { "text": "", "location": 27, "length": 0 },
+          "suffix": { "text": "", "location": 31, "length": 0 },
+          "linker": { "text": " ", "location": 26, "length": 1 }
+        },
+        {
+          "key": "t7spYct-FXD",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 40, "length": 3 },
+          "prefix": { "text": "", "location": 40, "length": 0 },
+          "suffix": { "text": "", "location": 43, "length": 0 },
+          "linker": { "text": " ", "location": 39, "length": 1 }
+        },
+        {
+          "key": "tzaqRstH4lY",
+          "text": "أحجز",
+          "raw": { "text": "أحجز", "location": 11, "length": 4 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tvLie08qAVY",
+          "text": "القاهرة.",
+          "raw": { "text": "القاهرة", "location": 44, "length": 7 },
+          "prefix": { "text": "", "location": 44, "length": 0 },
+          "suffix": { "text": ".", "location": 51, "length": 1 },
+          "linker": { "text": " ", "location": 43, "length": 1 }
+        },
+        {
+          "key": "tMTYhqPU8rN",
+          "text": "مقعدين",
+          "raw": { "text": "مقعدين", "location": 16, "length": 6 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 22, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "t_SKPbgHw8b",
+        "ts5Uwpg-cKI",
+        "tvaHy01Pj_i",
+        "tzaqRstH4lY",
+        "tMTYhqPU8rN",
+        "trvyOSq7JUv",
+        "t-z1QiwmTOd",
+        "t2DJ01DCRbA",
+        "t7spYct-FXD",
+        "tvLie08qAVY"
+      ],
+      "sols": [
+        {
+          "key": "_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT",
+          "audio_updated_at": 1688290902,
+          "text": "I would like to book two seats on the flight to Cairo.",
+          "phonetic": ""
+        },
+        {
+          "key": "_AMwyn-VSIHQpxiWUweLevYr1oB_hUWT",
+          "audio_updated_at": 1688290902,
+          "text": "أنا أود أن أحجز مقعدين على رحلة الطيران إلى القاهرة."
+        }
+      ]
+    },
+    {
+      "id": 656659,
+      "lesson": 2601,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 16141,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG",
+          "audio_updated_at": 1543440242,
+          "text": "Economy, business, or first class?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Economy", "translations": [] },
+            {
+              "raw": "business",
+              "translations": [
+                { "type": "dictionary", "text": "الأعمال", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "or",
+              "translations": [
+                { "type": "dictionary", "text": "أو", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "first",
+              "translations": [
+                { "type": "dictionary", "text": "أو", "phonetic": null }
+              ]
+            },
+            { "raw": "class", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Economy", "location": 0, "length": 7 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": ",", "location": 7, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "business", "location": 9, "length": 8 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ",", "location": 17, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "or", "location": 19, "length": 2 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 21, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "first", "location": 22, "length": 5 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": "", "location": 27, "length": 0 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            },
+            {
+              "raw": { "text": "class", "location": 28, "length": 5 },
+              "prefix": { "text": "", "location": 28, "length": 0 },
+              "suffix": { "text": "?", "location": 33, "length": 1 },
+              "linker": { "text": " ", "location": 27, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "nRY5gDpgKVgYJQMarZWWz3_EoCeUQ2YG",
+          "audio_updated_at": 1543440242,
+          "text": "السياحية، رجال الأعمال، أو الدرجة الأولى؟"
+        }
+      ]
+    },
+    {
+      "id": 656660,
+      "lesson": 2601,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 16143,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "الدرجة السياحية.",
+          "dictionary": [
+            {
+              "raw": "الدرجة",
+              "translations": [
+                { "type": "dictionary", "text": "class", "phonetic": "class" }
+              ]
+            },
+            { "raw": "السياحية", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الدرجة", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "السياحية", "location": 7, "length": 8 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "Economy class.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 656661,
+      "lesson": 2601,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 16142,
+      "alternates": [16144, 16143],
+      "sols": [
+        {
+          "key": "uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu",
+          "audio_updated_at": 1543439301,
+          "text": "Business class.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Business",
+              "translations": [
+                { "type": "dictionary", "text": "الأعمال", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "class",
+              "translations": [
+                { "type": "dictionary", "text": "درجة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Business", "location": 0, "length": 8 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "class", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "text": "Economy class.",
+          "phonetic": ""
+        },
+        {
+          "key": "KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx",
+          "text": "First class.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu",
+          "audio_updated_at": 1543439301,
+          "text": "درجة رجال الأعمال."
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "الدرجة السياحية."
+        },
+        {
+          "key": "KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx",
+          "audio_updated_at": 1543439302,
+          "text": "الدرجة الأولى."
+        }
+      ]
+    },
+    {
+      "id": 656662,
+      "lesson": 2601,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 16144,
+      "alternates": [16143, 16142],
+      "sols": [
+        {
+          "key": "KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx",
+          "audio_updated_at": 1543439302,
+          "text": "الدرجة الأولى.",
+          "dictionary": [
+            {
+              "raw": "الدرجة",
+              "translations": [
+                { "type": "dictionary", "text": "class", "phonetic": "class" }
+              ]
+            },
+            { "raw": "الأولى", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الدرجة", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "الأولى", "location": 7, "length": 6 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "text": "الدرجة السياحية."
+        },
+        {
+          "key": "uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu",
+          "text": "درجة رجال الأعمال."
+        }
+      ],
+      "alts": [
+        {
+          "key": "KtKLJXPDVjOTFXjypaUWwgvtUrteMFfx",
+          "audio_updated_at": 1543439302,
+          "text": "First class.",
+          "phonetic": ""
+        },
+        {
+          "key": "pU0aBUS607pCnHtNMRdUjVntOEpERosN",
+          "audio_updated_at": 1543439300,
+          "text": "Economy class.",
+          "phonetic": ""
+        },
+        {
+          "key": "uty7w6xcoILF6QIKQCL4EgEsLtJKwbxu",
+          "audio_updated_at": 1543439301,
+          "text": "Business class.",
+          "phonetic": ""
+        }
+      ]
+    }
+  ]
+}

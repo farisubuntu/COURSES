@@ -1,1 +1,303 @@
-{"vocabulary":{"id":4001,"index":1,"category":40,"categoryID":40,"unifiedUnitId":40,"unifiedCategoryId":40,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":10,"countPhrases":0,"countDone":0,"vItems":[10302,10303,10304,10305,10306,10307,10308,10309,10310,10311]},"vItems":[{"id":10302,"vocabulary":4001,"wordID":19246,"key":"Kigwhdpy1ks0fG6_MU8gYHmgdNFjfNCm","sols":[{"key":"Kigwhdpy1ks0fG6_MU8gYHmgdNFjfNCm","text":"مريض","dictionary":[{"raw":"مريض","translations":[]}]},{"key":"Kigwhdpy1ks0fG6_MU8gYHmgdNFjfNCm","text":"sick","phonetic":"","dictionary":[{"raw":"sick","translations":[{"type":"dictionary","text":"مريض","phonetic":null}]}]}],"audio_updated_at":1543436728},{"id":10303,"vocabulary":4001,"wordID":19110,"key":"ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP","sols":[{"key":"ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP","text":"طبيب","dictionary":[{"raw":"طبيب","translations":[]}]},{"key":"ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP","text":"doctor","phonetic":"","dictionary":[{"raw":"doctor","translations":[{"type":"dictionary","text":"طبيب","phonetic":null}]}]}],"audio_updated_at":1543440175},{"id":10304,"vocabulary":4001,"wordID":17214,"key":"wLboOGaUFmiBz7_UhStci4bYslDpwz2x","sols":[{"key":"wLboOGaUFmiBz7_UhStci4bYslDpwz2x","text":"سيارة إسعاف","dictionary":[{"raw":"سيارة","translations":[]},{"raw":"إسعاف","translations":[]}]},{"key":"wLboOGaUFmiBz7_UhStci4bYslDpwz2x","text":"ambulance","phonetic":"","dictionary":[{"raw":"ambulance","translations":[{"type":"dictionary","text":"سيارة","phonetic":null}]}]}],"audio_updated_at":1543437036},{"id":10305,"vocabulary":4001,"wordID":16397,"key":"zXuc3J-kdKDjVmL5OmA0KC8BMMeta5La","sols":[{"key":"zXuc3J-kdKDjVmL5OmA0KC8BMMeta5La","text":"مستشفى","dictionary":[{"raw":"مستشفى","translations":[]}]},{"key":"zXuc3J-kdKDjVmL5OmA0KC8BMMeta5La","text":"hospital","phonetic":"","dictionary":[{"raw":"hospital","translations":[{"type":"dictionary","text":"مستشفى","phonetic":null}]}]}],"audio_updated_at":1543436511},{"id":10306,"vocabulary":4001,"wordID":19108,"key":"zg9KY9aVirElI1z18heXXHucKbkWrqAv","sols":[{"key":"zg9KY9aVirElI1z18heXXHucKbkWrqAv","text":"طبيب أسنان","dictionary":[{"raw":"طبيب","translations":[]},{"raw":"أسنان","translations":[]}]},{"key":"zg9KY9aVirElI1z18heXXHucKbkWrqAv","text":"dentist","phonetic":"","dictionary":[{"raw":"dentist","translations":[{"type":"dictionary","text":"طبيب أسنان","phonetic":null}]}]}],"audio_updated_at":1543437905},{"id":10307,"vocabulary":4001,"wordID":24302,"key":"SGmEG4tIR2ewVbud3B9QB8_raIf7CyWG","sols":[{"key":"SGmEG4tIR2ewVbud3B9QB8_raIf7CyWG","text":"تجويف","dictionary":[{"raw":"تجويف","translations":[]}]},{"key":"SGmEG4tIR2ewVbud3B9QB8_raIf7CyWG","text":"cavity","phonetic":"","dictionary":[{"raw":"cavity","translations":[{"type":"dictionary","text":"تجويف","phonetic":null}]}]}],"audio_updated_at":1688291229},{"id":10308,"vocabulary":4001,"wordID":24322,"key":"jlq63-8cXpZrk90eHXrj-INZ6vnW9WLt","sols":[{"key":"jlq63-8cXpZrk90eHXrj-INZ6vnW9WLt","text":"إنفلوانزا","dictionary":[{"raw":"إنفلوانزا","translations":[]}]},{"key":"jlq63-8cXpZrk90eHXrj-INZ6vnW9WLt","text":"flu","phonetic":"","dictionary":[{"raw":"flu","translations":[{"type":"dictionary","text":"إنفلوانزا","phonetic":null}]}]}],"audio_updated_at":1688291251},{"id":10309,"vocabulary":4001,"wordID":17267,"key":"_R-ut-vvyMoFJJ6DbJbH9TpR5HylxuUl","sols":[{"key":"_R-ut-vvyMoFJJ6DbJbH9TpR5HylxuUl","text":"فيتامين","dictionary":[{"raw":"فيتامين","translations":[]}]},{"key":"_R-ut-vvyMoFJJ6DbJbH9TpR5HylxuUl","text":"vitamin","phonetic":"","dictionary":[{"raw":"vitamin","translations":[{"type":"dictionary","text":"فيتامين","phonetic":null}]}]}],"audio_updated_at":1543437049},{"id":10310,"vocabulary":4001,"wordID":17247,"key":"sMH7m11PTAEoCemuFk6CBViNum9x83NW","sols":[{"key":"sMH7m11PTAEoCemuFk6CBViNum9x83NW","text":"دواء","dictionary":[{"raw":"دواء","translations":[]}]},{"key":"sMH7m11PTAEoCemuFk6CBViNum9x83NW","text":"medicine","phonetic":"","dictionary":[{"raw":"medicine","translations":[{"type":"dictionary","text":"دواء","phonetic":null}]}]}],"audio_updated_at":1543437043},{"id":10311,"vocabulary":4001,"wordID":24321,"key":"-aRh2lCgDT8J3FBjxcUcE1N13vKF9ID2","sols":[{"key":"-aRh2lCgDT8J3FBjxcUcE1N13vKF9ID2","text":"وصفة طبية","dictionary":[{"raw":"وصفة","translations":[]},{"raw":"طبية","translations":[]}]},{"key":"-aRh2lCgDT8J3FBjxcUcE1N13vKF9ID2","text":"prescription","phonetic":"","dictionary":[{"raw":"prescription","translations":[{"type":"dictionary","text":"وصفة","phonetic":null}]}]}],"audio_updated_at":1688291250}]}
+{
+  "vocabulary": {
+    "id": 4001,
+    "index": 1,
+    "category": 40,
+    "categoryID": 40,
+    "unifiedUnitId": 40,
+    "unifiedCategoryId": 40,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 10,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10302, 10303, 10304, 10305, 10306, 10307, 10308, 10309, 10310, 10311
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10302,
+      "vocabulary": 4001,
+      "wordID": 19246,
+      "key": "Kigwhdpy1ks0fG6_MU8gYHmgdNFjfNCm",
+      "sols": [
+        {
+          "key": "Kigwhdpy1ks0fG6_MU8gYHmgdNFjfNCm",
+          "text": "مريض",
+          "dictionary": [{ "raw": "مريض", "translations": [] }]
+        },
+        {
+          "key": "Kigwhdpy1ks0fG6_MU8gYHmgdNFjfNCm",
+          "text": "sick",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "sick",
+              "translations": [
+                { "type": "dictionary", "text": "مريض", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436728
+    },
+    {
+      "id": 10303,
+      "vocabulary": 4001,
+      "wordID": 19110,
+      "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP",
+      "sols": [
+        {
+          "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP",
+          "text": "طبيب",
+          "dictionary": [{ "raw": "طبيب", "translations": [] }]
+        },
+        {
+          "key": "ydWnPCiHQ0XzdHFII3XYybM6m5tRfsCP",
+          "text": "doctor",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "doctor",
+              "translations": [
+                { "type": "dictionary", "text": "طبيب", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543440175
+    },
+    {
+      "id": 10304,
+      "vocabulary": 4001,
+      "wordID": 17214,
+      "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x",
+      "sols": [
+        {
+          "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x",
+          "text": "سيارة إسعاف",
+          "dictionary": [
+            { "raw": "سيارة", "translations": [] },
+            { "raw": "إسعاف", "translations": [] }
+          ]
+        },
+        {
+          "key": "wLboOGaUFmiBz7_UhStci4bYslDpwz2x",
+          "text": "ambulance",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "ambulance",
+              "translations": [
+                { "type": "dictionary", "text": "سيارة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437036
+    },
+    {
+      "id": 10305,
+      "vocabulary": 4001,
+      "wordID": 16397,
+      "key": "zXuc3J-kdKDjVmL5OmA0KC8BMMeta5La",
+      "sols": [
+        {
+          "key": "zXuc3J-kdKDjVmL5OmA0KC8BMMeta5La",
+          "text": "مستشفى",
+          "dictionary": [{ "raw": "مستشفى", "translations": [] }]
+        },
+        {
+          "key": "zXuc3J-kdKDjVmL5OmA0KC8BMMeta5La",
+          "text": "hospital",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "hospital",
+              "translations": [
+                { "type": "dictionary", "text": "مستشفى", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436511
+    },
+    {
+      "id": 10306,
+      "vocabulary": 4001,
+      "wordID": 19108,
+      "key": "zg9KY9aVirElI1z18heXXHucKbkWrqAv",
+      "sols": [
+        {
+          "key": "zg9KY9aVirElI1z18heXXHucKbkWrqAv",
+          "text": "طبيب أسنان",
+          "dictionary": [
+            { "raw": "طبيب", "translations": [] },
+            { "raw": "أسنان", "translations": [] }
+          ]
+        },
+        {
+          "key": "zg9KY9aVirElI1z18heXXHucKbkWrqAv",
+          "text": "dentist",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "dentist",
+              "translations": [
+                { "type": "dictionary", "text": "طبيب أسنان", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437905
+    },
+    {
+      "id": 10307,
+      "vocabulary": 4001,
+      "wordID": 24302,
+      "key": "SGmEG4tIR2ewVbud3B9QB8_raIf7CyWG",
+      "sols": [
+        {
+          "key": "SGmEG4tIR2ewVbud3B9QB8_raIf7CyWG",
+          "text": "تجويف",
+          "dictionary": [{ "raw": "تجويف", "translations": [] }]
+        },
+        {
+          "key": "SGmEG4tIR2ewVbud3B9QB8_raIf7CyWG",
+          "text": "cavity",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "cavity",
+              "translations": [
+                { "type": "dictionary", "text": "تجويف", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291229
+    },
+    {
+      "id": 10308,
+      "vocabulary": 4001,
+      "wordID": 24322,
+      "key": "jlq63-8cXpZrk90eHXrj-INZ6vnW9WLt",
+      "sols": [
+        {
+          "key": "jlq63-8cXpZrk90eHXrj-INZ6vnW9WLt",
+          "text": "إنفلوانزا",
+          "dictionary": [{ "raw": "إنفلوانزا", "translations": [] }]
+        },
+        {
+          "key": "jlq63-8cXpZrk90eHXrj-INZ6vnW9WLt",
+          "text": "flu",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "flu",
+              "translations": [
+                { "type": "dictionary", "text": "إنفلوانزا", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291251
+    },
+    {
+      "id": 10309,
+      "vocabulary": 4001,
+      "wordID": 17267,
+      "key": "_R-ut-vvyMoFJJ6DbJbH9TpR5HylxuUl",
+      "sols": [
+        {
+          "key": "_R-ut-vvyMoFJJ6DbJbH9TpR5HylxuUl",
+          "text": "فيتامين",
+          "dictionary": [{ "raw": "فيتامين", "translations": [] }]
+        },
+        {
+          "key": "_R-ut-vvyMoFJJ6DbJbH9TpR5HylxuUl",
+          "text": "vitamin",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "vitamin",
+              "translations": [
+                { "type": "dictionary", "text": "فيتامين", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437049
+    },
+    {
+      "id": 10310,
+      "vocabulary": 4001,
+      "wordID": 17247,
+      "key": "sMH7m11PTAEoCemuFk6CBViNum9x83NW",
+      "sols": [
+        {
+          "key": "sMH7m11PTAEoCemuFk6CBViNum9x83NW",
+          "text": "دواء",
+          "dictionary": [{ "raw": "دواء", "translations": [] }]
+        },
+        {
+          "key": "sMH7m11PTAEoCemuFk6CBViNum9x83NW",
+          "text": "medicine",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "medicine",
+              "translations": [
+                { "type": "dictionary", "text": "دواء", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437043
+    },
+    {
+      "id": 10311,
+      "vocabulary": 4001,
+      "wordID": 24321,
+      "key": "-aRh2lCgDT8J3FBjxcUcE1N13vKF9ID2",
+      "sols": [
+        {
+          "key": "-aRh2lCgDT8J3FBjxcUcE1N13vKF9ID2",
+          "text": "وصفة طبية",
+          "dictionary": [
+            { "raw": "وصفة", "translations": [] },
+            { "raw": "طبية", "translations": [] }
+          ]
+        },
+        {
+          "key": "-aRh2lCgDT8J3FBjxcUcE1N13vKF9ID2",
+          "text": "prescription",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "prescription",
+              "translations": [
+                { "type": "dictionary", "text": "وصفة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291250
+    }
+  ]
+}

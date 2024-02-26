@@ -1,1 +1,1136 @@
-{"vocabulary":{"id":401,"index":1,"category":4,"categoryID":4,"unifiedUnitId":4,"unifiedCategoryId":4,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":11,"countPhrases":0,"countDone":0,"vItems":[10352,10353,10354,10355,10356,10357,10358,10359,10360,10361]},"vItems":[{"id":10352,"vocabulary":401,"wordID":19232,"key":"8wBBav97BsG0L8IWIbQSW6COBJIkKQoi","sols":[{"key":"8wBBav97BsG0L8IWIbQSW6COBJIkKQoi","text":"جميل","dictionary":[{"raw":"جميل","translations":[]}]},{"key":"8wBBav97BsG0L8IWIbQSW6COBJIkKQoi","text":"beautiful","phonetic":"","dictionary":[{"raw":"beautiful","translations":[{"type":"dictionary","text":"جميل","phonetic":null}]}]}],"audio_updated_at":1543436679},{"id":10353,"vocabulary":401,"wordID":23765,"key":"4VhUk8J68Pk5WkSRuytB0TguswngkWnV","sols":[{"key":"4VhUk8J68Pk5WkSRuytB0TguswngkWnV","text":"طيب","dictionary":[{"raw":"طيب","translations":[]}]},{"key":"4VhUk8J68Pk5WkSRuytB0TguswngkWnV","text":"kind","phonetic":"","dictionary":[{"raw":"kind","translations":[]}]}],"audio_updated_at":1688290625},{"id":10354,"vocabulary":401,"wordID":23764,"key":"4IkNE8AEYHIyuwS9woFjLn76jK8hzu-A","sols":[{"key":"4IkNE8AEYHIyuwS9woFjLn76jK8hzu-A","text":"ذكي","dictionary":[{"raw":"ذكي","translations":[]}]},{"key":"4IkNE8AEYHIyuwS9woFjLn76jK8hzu-A","text":"smart","phonetic":"","dictionary":[{"raw":"smart","translations":[{"type":"dictionary","text":"ذكي","phonetic":null}]}]}],"audio_updated_at":1688290624},{"id":10355,"vocabulary":401,"wordID":23771,"key":"mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5","sols":[{"key":"mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5","text":"يحب","dictionary":[{"raw":"يحب","translations":[{"type":"verb","name":{"t":"to love","m":"يحب","phonetic":"to love"},"id":58,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w","text":"I love","phonetic":"","audio_updated_at":1543438307},"m":{"text":"أنا أحب"}},{"t":{"key":"ZbdD957eBfe5DVSUMPuoTh25jwRviHsT","text":"You love","phonetic":"","audio_updated_at":1543438308},"m":{"text":"أنت تحب"}},{"t":{"key":"CQosgGKVIPvpBknZghaZS6M3uVLLCTx2","text":"He loves","phonetic":"","audio_updated_at":1543438309},"m":{"text":"هو يحب"}},{"t":{"key":"VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf","text":"She loves","phonetic":"","audio_updated_at":1543438310},"m":{"text":"هي تحب"}},{"t":{"key":"_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9","text":"We love","phonetic":"","audio_updated_at":1543438312},"m":{"text":"نحن نحب"}},{"t":{"key":"7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1","text":"You love","phonetic":"","audio_updated_at":1541547931},"m":{"text":"أنتم تحبون"}},{"t":{"key":"jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI","text":"They love","phonetic":"","audio_updated_at":1543438313},"m":{"text":"هم يحبون"}}],"pa":[{"t":{"key":"wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN","text":"I loved","phonetic":"","audio_updated_at":1541547934},"m":{"text":"أنا أحببت"}},{"t":{"key":"2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F","text":"You loved","phonetic":"","audio_updated_at":1541547935},"m":{"text":"أنت أحببت"}},{"t":{"key":"BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6","text":"He loved","phonetic":"","audio_updated_at":1541547936},"m":{"text":"هو أحب"}},{"t":{"key":"oK1f29mKlUPwJULzK7MBGND9wPwnA_sP","text":"She loved","phonetic":"","audio_updated_at":1541547937},"m":{"text":"هي أحبت"}},{"t":{"key":"C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl","text":"We loved","phonetic":"","audio_updated_at":1541547939},"m":{"text":"نحن أحببنا"}},{"t":{"key":"pst4YkDM2N0D6G9SEeJoejgKt6yo417z","text":"You loved","phonetic":"","audio_updated_at":1541547940},"m":{"text":"أنتم أحببتم"}},{"t":{"key":"8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--","text":"They loved","phonetic":"","audio_updated_at":1541547941},"m":{"text":"هم أحبوا"}}],"fu":[{"t":{"key":"XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF","text":"I will love","phonetic":"","audio_updated_at":1541547942},"m":{"text":"أنا سأحب"}},{"t":{"key":"GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14","text":"You will love","phonetic":"","audio_updated_at":1541547943},"m":{"text":"أنت ستحب"}},{"t":{"key":"M-mmoXRxd5adfoEpeyKo71yP2FT8quos","text":"He will love","phonetic":"","audio_updated_at":1541547944},"m":{"text":"هو سيحب"}},{"t":{"key":"AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5","text":"She will love","phonetic":"","audio_updated_at":1541547945},"m":{"text":"هي ستحب"}},{"t":{"key":"R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh","text":"We will love","phonetic":"","audio_updated_at":1541547947},"m":{"text":"نحن سنحب"}},{"t":{"key":"9XM483iuYBl4PasYjZEmzLzVzhsUS9kA","text":"You will love","phonetic":"","audio_updated_at":1541547948},"m":{"text":"أنتم ستحبون"}},{"t":{"key":"YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj","text":"They will love","phonetic":"","audio_updated_at":1541547949},"m":{"text":"هم سيحبون"}}]}}]}]},{"key":"mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5","text":"to love","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"love","translations":[{"type":"verb","name":{"t":"to love","m":"يحب","phonetic":"to love"},"id":58,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w","text":"I love","phonetic":"","audio_updated_at":1543438307},"m":{"text":"أنا أحب"}},{"t":{"key":"ZbdD957eBfe5DVSUMPuoTh25jwRviHsT","text":"You love","phonetic":"","audio_updated_at":1543438308},"m":{"text":"أنت تحب"}},{"t":{"key":"CQosgGKVIPvpBknZghaZS6M3uVLLCTx2","text":"He loves","phonetic":"","audio_updated_at":1543438309},"m":{"text":"هو يحب"}},{"t":{"key":"VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf","text":"She loves","phonetic":"","audio_updated_at":1543438310},"m":{"text":"هي تحب"}},{"t":{"key":"_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9","text":"We love","phonetic":"","audio_updated_at":1543438312},"m":{"text":"نحن نحب"}},{"t":{"key":"7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1","text":"You love","phonetic":"","audio_updated_at":1541547931},"m":{"text":"أنتم تحبون"}},{"t":{"key":"jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI","text":"They love","phonetic":"","audio_updated_at":1543438313},"m":{"text":"هم يحبون"}}],"pa":[{"t":{"key":"wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN","text":"I loved","phonetic":"","audio_updated_at":1541547934},"m":{"text":"أنا أحببت"}},{"t":{"key":"2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F","text":"You loved","phonetic":"","audio_updated_at":1541547935},"m":{"text":"أنت أحببت"}},{"t":{"key":"BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6","text":"He loved","phonetic":"","audio_updated_at":1541547936},"m":{"text":"هو أحب"}},{"t":{"key":"oK1f29mKlUPwJULzK7MBGND9wPwnA_sP","text":"She loved","phonetic":"","audio_updated_at":1541547937},"m":{"text":"هي أحبت"}},{"t":{"key":"C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl","text":"We loved","phonetic":"","audio_updated_at":1541547939},"m":{"text":"نحن أحببنا"}},{"t":{"key":"pst4YkDM2N0D6G9SEeJoejgKt6yo417z","text":"You loved","phonetic":"","audio_updated_at":1541547940},"m":{"text":"أنتم أحببتم"}},{"t":{"key":"8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--","text":"They loved","phonetic":"","audio_updated_at":1541547941},"m":{"text":"هم أحبوا"}}],"fu":[{"t":{"key":"XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF","text":"I will love","phonetic":"","audio_updated_at":1541547942},"m":{"text":"أنا سأحب"}},{"t":{"key":"GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14","text":"You will love","phonetic":"","audio_updated_at":1541547943},"m":{"text":"أنت ستحب"}},{"t":{"key":"M-mmoXRxd5adfoEpeyKo71yP2FT8quos","text":"He will love","phonetic":"","audio_updated_at":1541547944},"m":{"text":"هو سيحب"}},{"t":{"key":"AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5","text":"She will love","phonetic":"","audio_updated_at":1541547945},"m":{"text":"هي ستحب"}},{"t":{"key":"R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh","text":"We will love","phonetic":"","audio_updated_at":1541547947},"m":{"text":"نحن سنحب"}},{"t":{"key":"9XM483iuYBl4PasYjZEmzLzVzhsUS9kA","text":"You will love","phonetic":"","audio_updated_at":1541547948},"m":{"text":"أنتم ستحبون"}},{"t":{"key":"YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj","text":"They will love","phonetic":"","audio_updated_at":1541547949},"m":{"text":"هم سيحبون"}}]}}]}]}],"audio_updated_at":1688290632},{"id":10356,"vocabulary":401,"wordID":13471,"key":"A17_brUjDgLK1pLjjULaV8Hy4HvEYJow","sols":[{"key":"A17_brUjDgLK1pLjjULaV8Hy4HvEYJow","text":"يتزوج","dictionary":[{"raw":"يتزوج","translations":[{"type":"verb","name":{"t":"to marry","m":"يتزوج","phonetic":"to marry"},"id":60,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"7vcZyS_7NiW2TP_upyxOa5nhPub08sT9","text":"I marry","phonetic":"","audio_updated_at":1543438321},"m":{"text":"أنا أتزوج"}},{"t":{"key":"qLLTgG7nG40i1Pb8fVHuzXoI-oLFgWlX","text":"You marry","phonetic":"","audio_updated_at":1543438323},"m":{"text":"أنت تتزوج"}},{"t":{"key":"IdL6sXa1mS7dT0ysMlIUeSdtyHIm4LTi","text":"He marries","phonetic":"","audio_updated_at":1543438324},"m":{"text":"هو يتزوج"}},{"t":{"key":"SNlk3KLgkhXX5pS36xDy0lUFzci5K1yn","text":"She marries","phonetic":"","audio_updated_at":1543438325},"m":{"text":"هي تتزوج"}},{"t":{"key":"zoFOdGcNiz5bW8bjSXcp7cCwp2BMVwEE","text":"We marry","phonetic":"","audio_updated_at":1543438326},"m":{"text":"نحن نتزوج"}},{"t":{"key":"W9mFWM1apQD4jGqY0RbPRMt_0nzmB8w_","text":"You marry","phonetic":"","audio_updated_at":1541547981},"m":{"text":"أنتم تتزوجون"}},{"t":{"key":"GzkXG6pfel8tSeakpVLAN5zWoWnAnb9C","text":"They marry","phonetic":"","audio_updated_at":1543438328},"m":{"text":"هم يتزوجون"}}],"pa":[{"t":{"key":"31Joj2i9X8SrDj3CMzBChuJJX546-MjY","text":"I married","phonetic":"","audio_updated_at":1541547983},"m":{"text":"أنا تزوجت"}},{"t":{"key":"C-VJH8j6FI4Vg9spbJaIaKAfhDI8crPJ","text":"You married","phonetic":"","audio_updated_at":1541547984},"m":{"text":"أنت تزوجت"}},{"t":{"key":"cX2wEt14exROKxnPVETjFTElxK2yn9fJ","text":"He married","phonetic":"","audio_updated_at":1541547985},"m":{"text":"هو تزوج"}},{"t":{"key":"UiJn6zpQhUjw4njyLq1C8WPoaN9VZvlL","text":"She married","phonetic":"","audio_updated_at":1541547986},"m":{"text":"هي تزوجت"}},{"t":{"key":"vYWWMfo3TwLXUK4nDYlp5fqcPcdx2Yly","text":"We married","phonetic":"","audio_updated_at":1541547988},"m":{"text":"نحن تزوجنا"}},{"t":{"key":"4xGUtmJsrv_ufQHgGVKK_ypD9XGq69TP","text":"You married","phonetic":"","audio_updated_at":1541547989},"m":{"text":"أنتم تزوجتم"}},{"t":{"key":"jBd_cX9G9sz_9Fwjhpe7IFyIo4fLOHF7","text":"They married","phonetic":"","audio_updated_at":1541547990},"m":{"text":"هم تزوجوا"}}],"fu":[{"t":{"key":"wx_efGosFt3Ed4r3Ypgz0F2Bw-MQHWhY","text":"I will marry","phonetic":"","audio_updated_at":1541547991},"m":{"text":"أنا سأتزوج"}},{"t":{"key":"tHCb6OOyWhd4v6JzUyAL1OX_MScZWiiv","text":"You will marry","phonetic":"","audio_updated_at":1541547992},"m":{"text":"أنت ستتزوج"}},{"t":{"key":"MnrvsItkrGf6IEt4d9h6TnzjVcsUM671","text":"He will marry","phonetic":"","audio_updated_at":1541547994},"m":{"text":"هو سيتزوج"}},{"t":{"key":"rjuouoQB-Dx4H2IHzOvaWlkp6ZgRs-_k","text":"She will marry","phonetic":"","audio_updated_at":1541547995},"m":{"text":"هي ستتزوج"}},{"t":{"key":"fiY5sRhAdSBHt05kAlYFtBQs2iFGlIdF","text":"We will marry","phonetic":"","audio_updated_at":1541547997},"m":{"text":"نحن سنتزوج"}},{"t":{"key":"HA1-nDUvYa099XLQOBxdwy8ZLKCZNE_-","text":"You will marry","phonetic":"","audio_updated_at":1541547998},"m":{"text":"أنتم ستتزوجون"}},{"t":{"key":"2V_45f92yBULVNQYMV5kZcdNxeVGzzKz","text":"They will marry","phonetic":"","audio_updated_at":1541547999},"m":{"text":"هم سيتزوجون"}}]}}]}]},{"key":"A17_brUjDgLK1pLjjULaV8Hy4HvEYJow","text":"to marry","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"marry","translations":[{"type":"dictionary","text":"يتزوج","phonetic":null},{"type":"verb","name":{"t":"to marry","m":"يتزوج","phonetic":"to marry"},"id":60,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"7vcZyS_7NiW2TP_upyxOa5nhPub08sT9","text":"I marry","phonetic":"","audio_updated_at":1543438321},"m":{"text":"أنا أتزوج"}},{"t":{"key":"qLLTgG7nG40i1Pb8fVHuzXoI-oLFgWlX","text":"You marry","phonetic":"","audio_updated_at":1543438323},"m":{"text":"أنت تتزوج"}},{"t":{"key":"IdL6sXa1mS7dT0ysMlIUeSdtyHIm4LTi","text":"He marries","phonetic":"","audio_updated_at":1543438324},"m":{"text":"هو يتزوج"}},{"t":{"key":"SNlk3KLgkhXX5pS36xDy0lUFzci5K1yn","text":"She marries","phonetic":"","audio_updated_at":1543438325},"m":{"text":"هي تتزوج"}},{"t":{"key":"zoFOdGcNiz5bW8bjSXcp7cCwp2BMVwEE","text":"We marry","phonetic":"","audio_updated_at":1543438326},"m":{"text":"نحن نتزوج"}},{"t":{"key":"W9mFWM1apQD4jGqY0RbPRMt_0nzmB8w_","text":"You marry","phonetic":"","audio_updated_at":1541547981},"m":{"text":"أنتم تتزوجون"}},{"t":{"key":"GzkXG6pfel8tSeakpVLAN5zWoWnAnb9C","text":"They marry","phonetic":"","audio_updated_at":1543438328},"m":{"text":"هم يتزوجون"}}],"pa":[{"t":{"key":"31Joj2i9X8SrDj3CMzBChuJJX546-MjY","text":"I married","phonetic":"","audio_updated_at":1541547983},"m":{"text":"أنا تزوجت"}},{"t":{"key":"C-VJH8j6FI4Vg9spbJaIaKAfhDI8crPJ","text":"You married","phonetic":"","audio_updated_at":1541547984},"m":{"text":"أنت تزوجت"}},{"t":{"key":"cX2wEt14exROKxnPVETjFTElxK2yn9fJ","text":"He married","phonetic":"","audio_updated_at":1541547985},"m":{"text":"هو تزوج"}},{"t":{"key":"UiJn6zpQhUjw4njyLq1C8WPoaN9VZvlL","text":"She married","phonetic":"","audio_updated_at":1541547986},"m":{"text":"هي تزوجت"}},{"t":{"key":"vYWWMfo3TwLXUK4nDYlp5fqcPcdx2Yly","text":"We married","phonetic":"","audio_updated_at":1541547988},"m":{"text":"نحن تزوجنا"}},{"t":{"key":"4xGUtmJsrv_ufQHgGVKK_ypD9XGq69TP","text":"You married","phonetic":"","audio_updated_at":1541547989},"m":{"text":"أنتم تزوجتم"}},{"t":{"key":"jBd_cX9G9sz_9Fwjhpe7IFyIo4fLOHF7","text":"They married","phonetic":"","audio_updated_at":1541547990},"m":{"text":"هم تزوجوا"}}],"fu":[{"t":{"key":"wx_efGosFt3Ed4r3Ypgz0F2Bw-MQHWhY","text":"I will marry","phonetic":"","audio_updated_at":1541547991},"m":{"text":"أنا سأتزوج"}},{"t":{"key":"tHCb6OOyWhd4v6JzUyAL1OX_MScZWiiv","text":"You will marry","phonetic":"","audio_updated_at":1541547992},"m":{"text":"أنت ستتزوج"}},{"t":{"key":"MnrvsItkrGf6IEt4d9h6TnzjVcsUM671","text":"He will marry","phonetic":"","audio_updated_at":1541547994},"m":{"text":"هو سيتزوج"}},{"t":{"key":"rjuouoQB-Dx4H2IHzOvaWlkp6ZgRs-_k","text":"She will marry","phonetic":"","audio_updated_at":1541547995},"m":{"text":"هي ستتزوج"}},{"t":{"key":"fiY5sRhAdSBHt05kAlYFtBQs2iFGlIdF","text":"We will marry","phonetic":"","audio_updated_at":1541547997},"m":{"text":"نحن سنتزوج"}},{"t":{"key":"HA1-nDUvYa099XLQOBxdwy8ZLKCZNE_-","text":"You will marry","phonetic":"","audio_updated_at":1541547998},"m":{"text":"أنتم ستتزوجون"}},{"t":{"key":"2V_45f92yBULVNQYMV5kZcdNxeVGzzKz","text":"They will marry","phonetic":"","audio_updated_at":1541547999},"m":{"text":"هم سيتزوجون"}}]}}]}]}],"audio_updated_at":1639519590},{"id":10357,"vocabulary":401,"wordID":17775,"key":"ZskqcXCwHU38XiQaBqDovKq0yJo2yFOD","sols":[{"key":"ZskqcXCwHU38XiQaBqDovKq0yJo2yFOD","text":"زفاف","dictionary":[{"raw":"زفاف","translations":[]}]},{"key":"ZskqcXCwHU38XiQaBqDovKq0yJo2yFOD","text":"wedding","phonetic":"","dictionary":[{"raw":"wedding","translations":[{"type":"dictionary","text":"زفاف","phonetic":null}]}]}],"audio_updated_at":1543436598},{"id":10358,"vocabulary":401,"wordID":18214,"key":"Aui4KydORGANswtd31IAbgrvaNINiIJa","sols":[{"key":"Aui4KydORGANswtd31IAbgrvaNINiIJa","text":"زوج","dictionary":[{"raw":"زوج","translations":[]}]},{"key":"Aui4KydORGANswtd31IAbgrvaNINiIJa","text":"husband","phonetic":"","dictionary":[{"raw":"husband","translations":[{"type":"dictionary","text":"زوج","phonetic":null}]}]}],"audio_updated_at":1543437424},{"id":10359,"vocabulary":401,"wordID":18238,"key":"RQg6OrmwgAimqTketg0BxfrPU95YlWjZ","sols":[{"key":"RQg6OrmwgAimqTketg0BxfrPU95YlWjZ","text":"زوجة","dictionary":[{"raw":"زوجة","translations":[]}]},{"key":"RQg6OrmwgAimqTketg0BxfrPU95YlWjZ","text":"wife","phonetic":"","dictionary":[{"raw":"wife","translations":[{"type":"dictionary","text":"زوجة","phonetic":null}]}]}],"audio_updated_at":1543437439},{"id":10360,"vocabulary":401,"wordID":18197,"key":"Tb-xMCOgT_dSDjcTpRCBxUZeMk74MhaS","sols":[{"key":"Tb-xMCOgT_dSDjcTpRCBxUZeMk74MhaS","text":"زوجان","dictionary":[{"raw":"زوجان","translations":[]}]},{"key":"Tb-xMCOgT_dSDjcTpRCBxUZeMk74MhaS","text":"couple","phonetic":"","dictionary":[{"raw":"couple","translations":[{"type":"dictionary","text":"زوجان","phonetic":null}]}]}],"audio_updated_at":1543437444},{"id":10361,"vocabulary":401,"wordID":18230,"key":"ELoRcP-g1DkGc2di_RRj_cEqP9HpQIU6","sols":[{"key":"ELoRcP-g1DkGc2di_RRj_cEqP9HpQIU6","text":"أعزب","dictionary":[]},{"key":"ELoRcP-g1DkGc2di_RRj_cEqP9HpQIU6","text":"single","phonetic":"","dictionary":[{"raw":"single","translations":[{"type":"dictionary","text":"أعزب","phonetic":null}]}]}],"audio_updated_at":1543437460}]}
+{
+  "vocabulary": {
+    "id": 401,
+    "index": 1,
+    "category": 4,
+    "categoryID": 4,
+    "unifiedUnitId": 4,
+    "unifiedCategoryId": 4,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 11,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10352, 10353, 10354, 10355, 10356, 10357, 10358, 10359, 10360, 10361
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10352,
+      "vocabulary": 401,
+      "wordID": 19232,
+      "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+      "sols": [
+        {
+          "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+          "text": "جميل",
+          "dictionary": [{ "raw": "جميل", "translations": [] }]
+        },
+        {
+          "key": "8wBBav97BsG0L8IWIbQSW6COBJIkKQoi",
+          "text": "beautiful",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "beautiful",
+              "translations": [
+                { "type": "dictionary", "text": "جميل", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436679
+    },
+    {
+      "id": 10353,
+      "vocabulary": 401,
+      "wordID": 23765,
+      "key": "4VhUk8J68Pk5WkSRuytB0TguswngkWnV",
+      "sols": [
+        {
+          "key": "4VhUk8J68Pk5WkSRuytB0TguswngkWnV",
+          "text": "طيب",
+          "dictionary": [{ "raw": "طيب", "translations": [] }]
+        },
+        {
+          "key": "4VhUk8J68Pk5WkSRuytB0TguswngkWnV",
+          "text": "kind",
+          "phonetic": "",
+          "dictionary": [{ "raw": "kind", "translations": [] }]
+        }
+      ],
+      "audio_updated_at": 1688290625
+    },
+    {
+      "id": 10354,
+      "vocabulary": 401,
+      "wordID": 23764,
+      "key": "4IkNE8AEYHIyuwS9woFjLn76jK8hzu-A",
+      "sols": [
+        {
+          "key": "4IkNE8AEYHIyuwS9woFjLn76jK8hzu-A",
+          "text": "ذكي",
+          "dictionary": [{ "raw": "ذكي", "translations": [] }]
+        },
+        {
+          "key": "4IkNE8AEYHIyuwS9woFjLn76jK8hzu-A",
+          "text": "smart",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "smart",
+              "translations": [
+                { "type": "dictionary", "text": "ذكي", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290624
+    },
+    {
+      "id": 10355,
+      "vocabulary": 401,
+      "wordID": 23771,
+      "key": "mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5",
+      "sols": [
+        {
+          "key": "mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5",
+          "text": "يحب",
+          "dictionary": [
+            {
+              "raw": "يحب",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mxdzfUuhAMlCGa3o501ykzB_GoUgNtl5",
+          "text": "to love",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "love",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to love", "m": "يحب", "phonetic": "to love" },
+                  "id": 58,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "foXf0usGZb2BMOnqMZjVGqOdWdT4Of8w",
+                          "text": "I love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438307
+                        },
+                        "m": { "text": "أنا أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZbdD957eBfe5DVSUMPuoTh25jwRviHsT",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438308
+                        },
+                        "m": { "text": "أنت تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "CQosgGKVIPvpBknZghaZS6M3uVLLCTx2",
+                          "text": "He loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438309
+                        },
+                        "m": { "text": "هو يحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "VMxAosJGoUYKcPTDLVWqZ43aM14mfQIf",
+                          "text": "She loves",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438310
+                        },
+                        "m": { "text": "هي تحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "_cyBk_be0tEdSAOxWIiWx5qLf-sYD4_9",
+                          "text": "We love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438312
+                        },
+                        "m": { "text": "نحن نحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "7-wFL7VN1zGTD-p8Y17DNvMlhdLQd8o1",
+                          "text": "You love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547931
+                        },
+                        "m": { "text": "أنتم تحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "jyLoXxJ7PBd64E1Ui44lcx-HSlX5PxSI",
+                          "text": "They love",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438313
+                        },
+                        "m": { "text": "هم يحبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "wC6xOOvWexMy_r5W1d8AVWRckMqYhFCN",
+                          "text": "I loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547934
+                        },
+                        "m": { "text": "أنا أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "2kxy83n2vO6lv3gftor3Nd9Kwonu7b7F",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547935
+                        },
+                        "m": { "text": "أنت أحببت" }
+                      },
+                      {
+                        "t": {
+                          "key": "BPkLS7zYmG0E9R915IPJRQFIRrsWuZh6",
+                          "text": "He loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547936
+                        },
+                        "m": { "text": "هو أحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "oK1f29mKlUPwJULzK7MBGND9wPwnA_sP",
+                          "text": "She loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547937
+                        },
+                        "m": { "text": "هي أحبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C0oCPJbYtJU3JRWfIZUCdEKdXCTaC1bl",
+                          "text": "We loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547939
+                        },
+                        "m": { "text": "نحن أحببنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "pst4YkDM2N0D6G9SEeJoejgKt6yo417z",
+                          "text": "You loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547940
+                        },
+                        "m": { "text": "أنتم أحببتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "8bknhaBVvGyP7x2FLyGuh0Fg5c5WgK--",
+                          "text": "They loved",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547941
+                        },
+                        "m": { "text": "هم أحبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "XuxcR50RQygOW_UpZeZqV1n2GaXvg_TF",
+                          "text": "I will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547942
+                        },
+                        "m": { "text": "أنا سأحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "GC_0Ifu5AfxOK7CSGhc77DlrUh-qjw14",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547943
+                        },
+                        "m": { "text": "أنت ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "M-mmoXRxd5adfoEpeyKo71yP2FT8quos",
+                          "text": "He will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547944
+                        },
+                        "m": { "text": "هو سيحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "AFVtftJ9Jj0JRbqu9enLKLr9zcmpGzx5",
+                          "text": "She will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547945
+                        },
+                        "m": { "text": "هي ستحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "R6BmreAHwRYRufZ9ueW8Ku22JLdIVpwh",
+                          "text": "We will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547947
+                        },
+                        "m": { "text": "نحن سنحب" }
+                      },
+                      {
+                        "t": {
+                          "key": "9XM483iuYBl4PasYjZEmzLzVzhsUS9kA",
+                          "text": "You will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547948
+                        },
+                        "m": { "text": "أنتم ستحبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "YzFoUO8L5Yhw2ke27oMZ39Ua1u2THLEj",
+                          "text": "They will love",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547949
+                        },
+                        "m": { "text": "هم سيحبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290632
+    },
+    {
+      "id": 10356,
+      "vocabulary": 401,
+      "wordID": 13471,
+      "key": "A17_brUjDgLK1pLjjULaV8Hy4HvEYJow",
+      "sols": [
+        {
+          "key": "A17_brUjDgLK1pLjjULaV8Hy4HvEYJow",
+          "text": "يتزوج",
+          "dictionary": [
+            {
+              "raw": "يتزوج",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to marry",
+                    "m": "يتزوج",
+                    "phonetic": "to marry"
+                  },
+                  "id": 60,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "7vcZyS_7NiW2TP_upyxOa5nhPub08sT9",
+                          "text": "I marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438321
+                        },
+                        "m": { "text": "أنا أتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "qLLTgG7nG40i1Pb8fVHuzXoI-oLFgWlX",
+                          "text": "You marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438323
+                        },
+                        "m": { "text": "أنت تتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "IdL6sXa1mS7dT0ysMlIUeSdtyHIm4LTi",
+                          "text": "He marries",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438324
+                        },
+                        "m": { "text": "هو يتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "SNlk3KLgkhXX5pS36xDy0lUFzci5K1yn",
+                          "text": "She marries",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438325
+                        },
+                        "m": { "text": "هي تتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "zoFOdGcNiz5bW8bjSXcp7cCwp2BMVwEE",
+                          "text": "We marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438326
+                        },
+                        "m": { "text": "نحن نتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9mFWM1apQD4jGqY0RbPRMt_0nzmB8w_",
+                          "text": "You marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547981
+                        },
+                        "m": { "text": "أنتم تتزوجون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GzkXG6pfel8tSeakpVLAN5zWoWnAnb9C",
+                          "text": "They marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438328
+                        },
+                        "m": { "text": "هم يتزوجون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "31Joj2i9X8SrDj3CMzBChuJJX546-MjY",
+                          "text": "I married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547983
+                        },
+                        "m": { "text": "أنا تزوجت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C-VJH8j6FI4Vg9spbJaIaKAfhDI8crPJ",
+                          "text": "You married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547984
+                        },
+                        "m": { "text": "أنت تزوجت" }
+                      },
+                      {
+                        "t": {
+                          "key": "cX2wEt14exROKxnPVETjFTElxK2yn9fJ",
+                          "text": "He married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547985
+                        },
+                        "m": { "text": "هو تزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "UiJn6zpQhUjw4njyLq1C8WPoaN9VZvlL",
+                          "text": "She married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547986
+                        },
+                        "m": { "text": "هي تزوجت" }
+                      },
+                      {
+                        "t": {
+                          "key": "vYWWMfo3TwLXUK4nDYlp5fqcPcdx2Yly",
+                          "text": "We married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547988
+                        },
+                        "m": { "text": "نحن تزوجنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "4xGUtmJsrv_ufQHgGVKK_ypD9XGq69TP",
+                          "text": "You married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547989
+                        },
+                        "m": { "text": "أنتم تزوجتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "jBd_cX9G9sz_9Fwjhpe7IFyIo4fLOHF7",
+                          "text": "They married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547990
+                        },
+                        "m": { "text": "هم تزوجوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "wx_efGosFt3Ed4r3Ypgz0F2Bw-MQHWhY",
+                          "text": "I will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547991
+                        },
+                        "m": { "text": "أنا سأتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "tHCb6OOyWhd4v6JzUyAL1OX_MScZWiiv",
+                          "text": "You will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547992
+                        },
+                        "m": { "text": "أنت ستتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "MnrvsItkrGf6IEt4d9h6TnzjVcsUM671",
+                          "text": "He will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547994
+                        },
+                        "m": { "text": "هو سيتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "rjuouoQB-Dx4H2IHzOvaWlkp6ZgRs-_k",
+                          "text": "She will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547995
+                        },
+                        "m": { "text": "هي ستتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "fiY5sRhAdSBHt05kAlYFtBQs2iFGlIdF",
+                          "text": "We will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547997
+                        },
+                        "m": { "text": "نحن سنتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "HA1-nDUvYa099XLQOBxdwy8ZLKCZNE_-",
+                          "text": "You will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547998
+                        },
+                        "m": { "text": "أنتم ستتزوجون" }
+                      },
+                      {
+                        "t": {
+                          "key": "2V_45f92yBULVNQYMV5kZcdNxeVGzzKz",
+                          "text": "They will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547999
+                        },
+                        "m": { "text": "هم سيتزوجون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "A17_brUjDgLK1pLjjULaV8Hy4HvEYJow",
+          "text": "to marry",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "marry",
+              "translations": [
+                { "type": "dictionary", "text": "يتزوج", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to marry",
+                    "m": "يتزوج",
+                    "phonetic": "to marry"
+                  },
+                  "id": 60,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "7vcZyS_7NiW2TP_upyxOa5nhPub08sT9",
+                          "text": "I marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438321
+                        },
+                        "m": { "text": "أنا أتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "qLLTgG7nG40i1Pb8fVHuzXoI-oLFgWlX",
+                          "text": "You marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438323
+                        },
+                        "m": { "text": "أنت تتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "IdL6sXa1mS7dT0ysMlIUeSdtyHIm4LTi",
+                          "text": "He marries",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438324
+                        },
+                        "m": { "text": "هو يتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "SNlk3KLgkhXX5pS36xDy0lUFzci5K1yn",
+                          "text": "She marries",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438325
+                        },
+                        "m": { "text": "هي تتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "zoFOdGcNiz5bW8bjSXcp7cCwp2BMVwEE",
+                          "text": "We marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438326
+                        },
+                        "m": { "text": "نحن نتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "W9mFWM1apQD4jGqY0RbPRMt_0nzmB8w_",
+                          "text": "You marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547981
+                        },
+                        "m": { "text": "أنتم تتزوجون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GzkXG6pfel8tSeakpVLAN5zWoWnAnb9C",
+                          "text": "They marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438328
+                        },
+                        "m": { "text": "هم يتزوجون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "31Joj2i9X8SrDj3CMzBChuJJX546-MjY",
+                          "text": "I married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547983
+                        },
+                        "m": { "text": "أنا تزوجت" }
+                      },
+                      {
+                        "t": {
+                          "key": "C-VJH8j6FI4Vg9spbJaIaKAfhDI8crPJ",
+                          "text": "You married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547984
+                        },
+                        "m": { "text": "أنت تزوجت" }
+                      },
+                      {
+                        "t": {
+                          "key": "cX2wEt14exROKxnPVETjFTElxK2yn9fJ",
+                          "text": "He married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547985
+                        },
+                        "m": { "text": "هو تزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "UiJn6zpQhUjw4njyLq1C8WPoaN9VZvlL",
+                          "text": "She married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547986
+                        },
+                        "m": { "text": "هي تزوجت" }
+                      },
+                      {
+                        "t": {
+                          "key": "vYWWMfo3TwLXUK4nDYlp5fqcPcdx2Yly",
+                          "text": "We married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547988
+                        },
+                        "m": { "text": "نحن تزوجنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "4xGUtmJsrv_ufQHgGVKK_ypD9XGq69TP",
+                          "text": "You married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547989
+                        },
+                        "m": { "text": "أنتم تزوجتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "jBd_cX9G9sz_9Fwjhpe7IFyIo4fLOHF7",
+                          "text": "They married",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547990
+                        },
+                        "m": { "text": "هم تزوجوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "wx_efGosFt3Ed4r3Ypgz0F2Bw-MQHWhY",
+                          "text": "I will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547991
+                        },
+                        "m": { "text": "أنا سأتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "tHCb6OOyWhd4v6JzUyAL1OX_MScZWiiv",
+                          "text": "You will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547992
+                        },
+                        "m": { "text": "أنت ستتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "MnrvsItkrGf6IEt4d9h6TnzjVcsUM671",
+                          "text": "He will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547994
+                        },
+                        "m": { "text": "هو سيتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "rjuouoQB-Dx4H2IHzOvaWlkp6ZgRs-_k",
+                          "text": "She will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547995
+                        },
+                        "m": { "text": "هي ستتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "fiY5sRhAdSBHt05kAlYFtBQs2iFGlIdF",
+                          "text": "We will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547997
+                        },
+                        "m": { "text": "نحن سنتزوج" }
+                      },
+                      {
+                        "t": {
+                          "key": "HA1-nDUvYa099XLQOBxdwy8ZLKCZNE_-",
+                          "text": "You will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547998
+                        },
+                        "m": { "text": "أنتم ستتزوجون" }
+                      },
+                      {
+                        "t": {
+                          "key": "2V_45f92yBULVNQYMV5kZcdNxeVGzzKz",
+                          "text": "They will marry",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547999
+                        },
+                        "m": { "text": "هم سيتزوجون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639519590
+    },
+    {
+      "id": 10357,
+      "vocabulary": 401,
+      "wordID": 17775,
+      "key": "ZskqcXCwHU38XiQaBqDovKq0yJo2yFOD",
+      "sols": [
+        {
+          "key": "ZskqcXCwHU38XiQaBqDovKq0yJo2yFOD",
+          "text": "زفاف",
+          "dictionary": [{ "raw": "زفاف", "translations": [] }]
+        },
+        {
+          "key": "ZskqcXCwHU38XiQaBqDovKq0yJo2yFOD",
+          "text": "wedding",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "wedding",
+              "translations": [
+                { "type": "dictionary", "text": "زفاف", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436598
+    },
+    {
+      "id": 10358,
+      "vocabulary": 401,
+      "wordID": 18214,
+      "key": "Aui4KydORGANswtd31IAbgrvaNINiIJa",
+      "sols": [
+        {
+          "key": "Aui4KydORGANswtd31IAbgrvaNINiIJa",
+          "text": "زوج",
+          "dictionary": [{ "raw": "زوج", "translations": [] }]
+        },
+        {
+          "key": "Aui4KydORGANswtd31IAbgrvaNINiIJa",
+          "text": "husband",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "husband",
+              "translations": [
+                { "type": "dictionary", "text": "زوج", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437424
+    },
+    {
+      "id": 10359,
+      "vocabulary": 401,
+      "wordID": 18238,
+      "key": "RQg6OrmwgAimqTketg0BxfrPU95YlWjZ",
+      "sols": [
+        {
+          "key": "RQg6OrmwgAimqTketg0BxfrPU95YlWjZ",
+          "text": "زوجة",
+          "dictionary": [{ "raw": "زوجة", "translations": [] }]
+        },
+        {
+          "key": "RQg6OrmwgAimqTketg0BxfrPU95YlWjZ",
+          "text": "wife",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "wife",
+              "translations": [
+                { "type": "dictionary", "text": "زوجة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437439
+    },
+    {
+      "id": 10360,
+      "vocabulary": 401,
+      "wordID": 18197,
+      "key": "Tb-xMCOgT_dSDjcTpRCBxUZeMk74MhaS",
+      "sols": [
+        {
+          "key": "Tb-xMCOgT_dSDjcTpRCBxUZeMk74MhaS",
+          "text": "زوجان",
+          "dictionary": [{ "raw": "زوجان", "translations": [] }]
+        },
+        {
+          "key": "Tb-xMCOgT_dSDjcTpRCBxUZeMk74MhaS",
+          "text": "couple",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "couple",
+              "translations": [
+                { "type": "dictionary", "text": "زوجان", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437444
+    },
+    {
+      "id": 10361,
+      "vocabulary": 401,
+      "wordID": 18230,
+      "key": "ELoRcP-g1DkGc2di_RRj_cEqP9HpQIU6",
+      "sols": [
+        {
+          "key": "ELoRcP-g1DkGc2di_RRj_cEqP9HpQIU6",
+          "text": "أعزب",
+          "dictionary": []
+        },
+        {
+          "key": "ELoRcP-g1DkGc2di_RRj_cEqP9HpQIU6",
+          "text": "single",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "single",
+              "translations": [
+                { "type": "dictionary", "text": "أعزب", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437460
+    }
+  ]
+}

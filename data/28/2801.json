@@ -1,1 +1,2580 @@
-{"lesson":{"id":2801,"index":1,"unitNumber":null,"unitType":0,"unitStyle":0,"unitScope":0,"category":28,"categoryID":28,"unifiedUnitId":164,"unifiedCategoryId":28,"name":"إجراء حجز","isCourse":false,"disabled":false,"done":false,"stars":false,"difficulty":"beginner","countQuiz":22,"countWords":20,"countPhrases":6,"countDone":0,"quizzes":[610282,610283,610284,610285,610286,610287,610288,610289,610290,610291,610292,610293,610294,610295,610296,610297,610298,610299,610300,610301,610302,610303]},"quizzes":[{"id":610282,"lesson":2801,"type":"D","modifiers":327,"wordID":17468,"alternates":[18194,18187,23732],"sols":[{"key":"sQ3I_IjejRrgrm82_qBXXXBOYPUYOdvj","audio_updated_at":1543436549,"text":"غرفة"},{"key":"9dPET3d480zi9erB4zQSY-b8YO0z4on-","audio_updated_at":1543437413,"text":"طفل"},{"key":"rCQJgM1T9mKSMVqDuCSyo1SDUfDYOIUy","audio_updated_at":1543437409,"text":"بالغ"},{"key":"s2PARNGSMmUTsoQEOvb4S03f_s_MB_LX","audio_updated_at":1688290588,"text":"يحجز"}],"alts":[{"key":"sQ3I_IjejRrgrm82_qBXXXBOYPUYOdvj","audio_updated_at":1543436549,"text":"room","phonetic":"","article_text":"a","article_phonetic":"","image":"3FXWrSz87DBICJehqZBctMX9UchsMCtU","image_updated_at":1689159063},{"key":"9dPET3d480zi9erB4zQSY-b8YO0z4on-","audio_updated_at":1543437413,"image":"PoN3ijw7lEYTA6JfwW4A8Hr8E9GuKoS0","image_updated_at":1689159122,"text":"child","phonetic":"","article_text":"a","article_phonetic":""},{"key":"rCQJgM1T9mKSMVqDuCSyo1SDUfDYOIUy","audio_updated_at":1543437409,"image":"lu1-11mZVDgahW2_YmraBi_9Gt0_4MKZ","image_updated_at":1689159120,"text":"adult","phonetic":"","article_text":"an","article_phonetic":""},{"key":"s2PARNGSMmUTsoQEOvb4S03f_s_MB_LX","audio_updated_at":1688290588,"image":"4cVarfIWU6o1NoNpe8LZDMGdCjza_2mn","image_updated_at":1689159210,"text":"to reserve","phonetic":""}]},{"id":610283,"lesson":2801,"type":"C1b","modifiers":72,"wordID":17534,"alternates":[23732,17468],"tokens":[{"key":"tkCpgLAx8w7","text":"would","raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tIEeE312ZKn","text":"to","raw":{"text":"to","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"tS5UmZanzGJ","text":"like","raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tb_88lgxtmb","text":"please.","raw":{"text":"please","location":32,"length":6},"prefix":{"text":"","location":32,"length":0},"suffix":{"text":".","location":38,"length":1},"linker":{"text":" ","location":31,"length":1}},{"key":"tL3ph6X5y6O","text":"a","raw":{"text":"a","location":24,"length":1},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":23,"length":1}},{"key":"tfUaEI36q81","text":"room,","raw":{"text":"room","location":26,"length":4},"prefix":{"text":"","location":26,"length":0},"suffix":{"text":",","location":30,"length":1},"linker":{"text":" ","location":25,"length":1}},{"key":"tX41y7quO_G","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t67p-TP8va7","text":"reserve","raw":{"text":"reserve","location":16,"length":7},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":15,"length":1}}],"tokensEqualSize":false,"ord":["tX41y7quO_G","tkCpgLAx8w7","tS5UmZanzGJ","tIEeE312ZKn","t67p-TP8va7","tL3ph6X5y6O","tfUaEI36q81","tb_88lgxtmb"],"completeToken":"t67p-TP8va7","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","audio_updated_at":1688290345,"text":"أنا أود أن أحجز غرفة، من فضلك.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أود","translations":[{"type":"dictionary","text":"I would like","phonetic":"I would like"}]},{"raw":"أن","translations":[]},{"raw":"أحجز","translations":[]},{"raw":"غرفة","translations":[{"type":"dictionary","text":"room","phonetic":"room"}]},{"raw":"من","translations":[]},{"raw":"فضلك","translations":[{"type":"dictionary","text":"please","phonetic":"please"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"غرفة","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"،","location":20,"length":1},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"من","location":22,"length":2},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":21,"length":1}},{"raw":{"text":"فضلك","location":25,"length":4},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":".","location":29,"length":1},"linker":{"text":" ","location":24,"length":1}}]},{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","audio_updated_at":1688290345,"text":"I would like to reserve a room, please.","phonetic":""}]},{"id":610284,"lesson":2801,"type":"T1","modifiers":40,"wordID":23733,"alternates":[],"tokens":[{"key":"tJhPvvhC9TU","text":"لكم","raw":{"text":"لكم","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tU0dTLUJFeJ","text":"شرفة","raw":{"text":"شرفة","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tCL7-9Lbkbx","text":"شخص؟","raw":{"text":"شخص","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"؟","location":7,"length":1},"linker":{"text":" ","location":3,"length":1}}],"tokensEqualSize":true,"ord":["tJhPvvhC9TU","tCL7-9Lbkbx"],"sols":[{"key":"eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by","audio_updated_at":1688290589,"text":"For how many people?","phonetic":"","dictionary":[{"raw":"For","translations":[]},{"raw":"how","translations":[]},{"raw":"many","translations":[]},{"raw":"people","translations":[{"type":"dictionary","text":"شخص","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"how","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"many","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"people","location":13,"length":6},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"?","location":19,"length":1},"linker":{"text":" ","location":12,"length":1}}],"phonetic_tokens":[]},{"key":"eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by","audio_updated_at":1688290589,"text":"لكم شخص؟"}]},{"id":610285,"lesson":2801,"type":"C1b","modifiers":72,"wordID":17496,"alternates":[],"tokens":[{"key":"tdurF5Vf-tA","text":"people.","raw":{"text":"people","location":8,"length":6},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":7,"length":1}},{"key":"tvQGVPQt0Jd","text":"For","raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tBX54xDb7iK","text":"two","raw":{"text":"two","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t0DRi0Tb7a6","text":"dates?","raw":{"text":"dates","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"?","location":14,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"tJaTLBAE_2d","text":"what","raw":{"text":"what","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}}],"tokensEqualSize":false,"ord":["tvQGVPQt0Jd","tBX54xDb7iK","tdurF5Vf-tA"],"completeToken":"tdurF5Vf-tA","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"لشخصين.","dictionary":[{"raw":"لشخصين","translations":[{"type":"dictionary","text":"For two people","phonetic":"For two people"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"لشخصين","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":6,"length":1},"linker":{"text":"","location":0,"length":0}}]},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"For two people.","phonetic":""}]},{"id":610286,"lesson":2801,"type":"T1","modifiers":40,"wordID":17497,"alternates":[],"tokens":[{"key":"tgh6TBT3CNo","text":"أشخاص.","raw":{"text":"أشخاص","location":7,"length":5},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":12,"length":1},"linker":{"text":" ","location":6,"length":1}},{"key":"tDZhBvpeNY6","text":"الاستقبال.","raw":{"text":"الاستقبال","location":13,"length":9},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":22,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"tBLzo1XKYN8","text":"مكتب","raw":{"text":"مكتب","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"t_ooRu5jP1k","text":"لأربعة","raw":{"text":"لأربعة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tCMJOvw35_D","text":"مرحبًا،","raw":{"text":"مرحبًا","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"،","location":6,"length":1},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["t_ooRu5jP1k","tgh6TBT3CNo"],"sols":[{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","audio_updated_at":1543439795,"text":"For four people.","phonetic":"","dictionary":[{"raw":"For","translations":[]},{"raw":"four","translations":[{"type":"dictionary","text":"لأربعة","phonetic":null}]},{"raw":"people","translations":[{"type":"dictionary","text":"أشخاص","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"four","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"people","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":8,"length":1}}],"phonetic_tokens":[]},{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","audio_updated_at":1543439795,"text":"لأربعة أشخاص."}]},{"id":610287,"lesson":2801,"type":"F","modifiers":71,"wordID":18194,"alternates":[18187],"sols":[{"key":"9dPET3d480zi9erB4zQSY-b8YO0z4on-","audio_updated_at":1543437413,"text":"طفل"},{"key":"rCQJgM1T9mKSMVqDuCSyo1SDUfDYOIUy","audio_updated_at":1543437409,"text":"بالغ"}],"alts":[{"key":"9dPET3d480zi9erB4zQSY-b8YO0z4on-","audio_updated_at":1543437413,"text":"child","phonetic":"","article_text":"a","article_phonetic":"","image":"PoN3ijw7lEYTA6JfwW4A8Hr8E9GuKoS0","image_updated_at":1689159122},{"key":"rCQJgM1T9mKSMVqDuCSyo1SDUfDYOIUy","audio_updated_at":1543437409,"image":"lu1-11mZVDgahW2_YmraBi_9Gt0_4MKZ","image_updated_at":1689159120,"text":"adult","phonetic":"","article_text":"an","article_phonetic":""}]},{"id":610288,"lesson":2801,"type":"T1b","modifiers":72,"wordID":17581,"alternates":[],"tokens":[{"key":"t_oYbMY3zBP","text":"children.","raw":{"text":"children","location":16,"length":8},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":".","location":24,"length":1},"linker":{"text":" ","location":15,"length":1}},{"key":"tpchh9vtFOp","text":"on","raw":{"text":"on","location":15,"length":2},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":14,"length":1}},{"key":"txrTzpPiDhx","text":"will","raw":{"text":"will","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tjmyKW1Z1m1","text":"two","raw":{"text":"two","location":12,"length":3},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":11,"length":1}},{"key":"t3yTtCYl-fA","text":"adults,","raw":{"text":"adults","location":4,"length":6},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":",","location":10,"length":1},"linker":{"text":" ","location":3,"length":1}},{"key":"tukAxdni7dt","text":"arrive","raw":{"text":"arrive","location":8,"length":6},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tLAKJD9-c_n","text":"We","raw":{"text":"We","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t9cr9Xurj7Z","text":"Two","raw":{"text":"Two","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":false,"ord":["t9cr9Xurj7Z","t3yTtCYl-fA","tjmyKW1Z1m1","t_oYbMY3zBP"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp","audio_updated_at":1543439802,"text":"بالغان، وطفلان.","dictionary":[{"raw":"بالغان","translations":[{"type":"dictionary","text":"adults","phonetic":"adults"}]},{"raw":"وطفلان","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"بالغان","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"،","location":6,"length":1},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"وطفلان","location":8,"length":6},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":7,"length":1}}]},{"key":"tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp","audio_updated_at":1543439802,"text":"Two adults, two children.","phonetic":""}]},{"id":610289,"lesson":2801,"type":"F","modifiers":71,"wordID":18777,"alternates":[23732],"sols":[{"key":"s2PARNGSMmUTsoQEOvb4S03f_s_MB_LX","audio_updated_at":1688290588,"text":"يحجز"},{"key":"QQP_etXf_w7l_FlfwysL2EVBEs8R9AI2","audio_updated_at":1607004517,"text":"ليلة"}],"alts":[{"key":"s2PARNGSMmUTsoQEOvb4S03f_s_MB_LX","audio_updated_at":1688290588,"image":"4cVarfIWU6o1NoNpe8LZDMGdCjza_2mn","image_updated_at":1689159210,"text":"to reserve","phonetic":""},{"key":"QQP_etXf_w7l_FlfwysL2EVBEs8R9AI2","audio_updated_at":1607004517,"text":"night","phonetic":"","article_text":"a","article_phonetic":"","image":"OrmjYJHrrUDY6dNVhC420p5BtSa5lTjF","image_updated_at":1689159160}]},{"id":610290,"lesson":2801,"type":"C1b","modifiers":72,"wordID":17498,"alternates":[18777],"tokens":[{"key":"tw7Kt6Cxu2A","text":"night.","raw":{"text":"night","location":8,"length":5},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":7,"length":1}},{"key":"tGp8gejp9XG","text":"cheap","raw":{"text":"cheap","location":20,"length":5},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":19,"length":1}},{"key":"trgRTjdaWFP","text":"looking","raw":{"text":"looking","location":6,"length":7},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":5,"length":1}},{"key":"teIrAcLtzQ9","text":"one","raw":{"text":"one","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tNG_QNshAze","text":"He","raw":{"text":"He","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tnsvNxlQMc7","text":"is","raw":{"text":"is","location":3,"length":2},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"t4fDn4rrCBw","text":"a","raw":{"text":"a","location":18,"length":1},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":17,"length":1}},{"key":"tlWXokT6bzL","text":"For","raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":false,"ord":["tlWXokT6bzL","teIrAcLtzQ9","tw7Kt6Cxu2A"],"completeToken":"tw7Kt6Cxu2A","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"uO-I3AtXsZpoQl6DYe2HHScSig0XW9go","audio_updated_at":1543439796,"text":"لليلة واحدة.","dictionary":[{"raw":"لليلة","translations":[]},{"raw":"واحدة","translations":[{"type":"dictionary","text":"one","phonetic":"one"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"لليلة","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"واحدة","location":6,"length":5},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":".","location":11,"length":1},"linker":{"text":" ","location":5,"length":1}}]},{"key":"uO-I3AtXsZpoQl6DYe2HHScSig0XW9go","audio_updated_at":1543439796,"text":"For one night.","phonetic":""}]},{"id":610291,"lesson":2801,"type":"W1b","modifiers":68,"wordID":17468,"alternates":[],"tokens":[{"key":"tITDwmm4taU","text":"r","group":0},{"key":"tKW1lo_68v2","text":"o","group":0},{"key":"toTz-c4gdkZ","text":"o","group":0},{"key":"tbW1ftfdsdY","text":"m","group":0}],"tokensEqualSize":false,"ord":["tITDwmm4taU","toTz-c4gdkZ","tKW1lo_68v2","tbW1ftfdsdY"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"sQ3I_IjejRrgrm82_qBXXXBOYPUYOdvj","audio_updated_at":1543436549,"text":"غرفة","dictionary":[{"raw":"غرفة","translations":[{"type":"dictionary","text":"room","phonetic":"room"}]}],"phraseType":0,"text_tokens":[{"raw":{"text":"غرفة","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}]},{"key":"sQ3I_IjejRrgrm82_qBXXXBOYPUYOdvj","audio_updated_at":1543436549,"text_tokens":[{"raw":{"text":"room","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[],"text":"room","phonetic":"","article_text":"a","article_phonetic":"","image":"3FXWrSz87DBICJehqZBctMX9UchsMCtU","image_updated_at":1689159063}]},{"id":610292,"lesson":2801,"type":"C2b","modifiers":92,"wordID":17534,"alternates":[17468],"tokens":[{"key":"ttg-Qf85jbW","text":",","specialChar":true},{"key":"tcN2mYtZZL4","text":"r","group":6},{"key":"tU_CYZ3g9_e","text":"m","group":6},{"key":"tPcgTeFJXCx","text":"o","group":6},{"key":"thRI4rmXTBx","text":"o","group":6},{"key":"tTLwrrbafZA","text":" ","specialChar":true}],"tokensEqualSize":false,"ord":["tTLwrrbafZA","tcN2mYtZZL4","tPcgTeFJXCx","thRI4rmXTBx","tU_CYZ3g9_e","ttg-Qf85jbW"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","audio_updated_at":1688290345,"text":"أنا أود أن أحجز غرفة، من فضلك.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أود","translations":[{"type":"dictionary","text":"I would like","phonetic":"I would like"}]},{"raw":"أن","translations":[]},{"raw":"أحجز","translations":[]},{"raw":"غرفة","translations":[{"type":"dictionary","text":"room","phonetic":"room"}]},{"raw":"من","translations":[]},{"raw":"فضلك","translations":[{"type":"dictionary","text":"please","phonetic":"please"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"غرفة","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"،","location":20,"length":1},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"من","location":22,"length":2},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":21,"length":1}},{"raw":{"text":"فضلك","location":25,"length":4},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":".","location":29,"length":1},"linker":{"text":" ","location":24,"length":1}}]},{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","audio_updated_at":1688290345,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"to","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"reserve","location":16,"length":7},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"a","location":24,"length":1},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":23,"length":1}},{"raw":{"text":"room","location":26,"length":4},"prefix":{"text":"","location":26,"length":0},"suffix":{"text":",","location":30,"length":1},"linker":{"text":" ","location":25,"length":1}},{"raw":{"text":"please","location":32,"length":6},"prefix":{"text":"","location":32,"length":0},"suffix":{"text":".","location":38,"length":1},"linker":{"text":" ","location":31,"length":1}}],"phonetic_tokens":[],"text":"I would like to reserve a room, please.","phonetic":""}]},{"id":610293,"lesson":2801,"type":"Qb","modifiers":73,"wordID":23733,"alternates":[17496,17534],"sols":[{"key":"eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by","audio_updated_at":1688290589,"text":"لكم شخص؟","dictionary":[{"raw":"لكم","translations":[]},{"raw":"شخص","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"لكم","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"شخص","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"؟","location":7,"length":1},"linker":{"text":" ","location":3,"length":1}}]},{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","text":"أنا أود أن أحجز غرفة، من فضلك."},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","text":"لشخصين."}],"alts":[{"key":"eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by","audio_updated_at":1688290589,"text":"For how many people?","phonetic":""},{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","audio_updated_at":1688290345,"text":"I would like to reserve a room, please.","phonetic":""},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"For two people.","phonetic":""}]},{"id":610294,"lesson":2801,"type":"T1","modifiers":40,"wordID":17496,"alternates":[],"tokens":[{"key":"trpj0fxssbX","text":"تواريخ؟","raw":{"text":"تواريخ","location":4,"length":6},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"؟","location":10,"length":1},"linker":{"text":" ","location":3,"length":1}},{"key":"tpKSoKDhc3p","text":"لشخصين.","raw":{"text":"لشخصين","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":6,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"tQnssh7Nnr2","text":"لأي","raw":{"text":"لأي","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tpKSoKDhc3p"],"sols":[{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"For two people.","phonetic":"","dictionary":[{"raw":"For","translations":[]},{"raw":"two","translations":[]},{"raw":"people","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"two","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"people","location":8,"length":6},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":7,"length":1}}],"phonetic_tokens":[]},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"لشخصين."}]},{"id":610295,"lesson":2801,"type":"T1b","modifiers":72,"wordID":17497,"alternates":[],"tokens":[{"key":"tNffKKeKgVb","text":"one","raw":{"text":"one","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tEuO709-YmS","text":"For","raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tXtZ9uvek5N","text":"people.","raw":{"text":"people","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"t4LfhoX9f0I","text":"four","raw":{"text":"four","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tdcdVqKmdL5","text":"night.","raw":{"text":"night","location":8,"length":5},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":7,"length":1}}],"tokensEqualSize":false,"ord":["tEuO709-YmS","t4LfhoX9f0I","tXtZ9uvek5N"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","audio_updated_at":1543439795,"text":"لأربعة أشخاص.","dictionary":[{"raw":"أشخاص","translations":[{"type":"dictionary","text":"people","phonetic":"people"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"لأربعة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أشخاص","location":7,"length":5},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":12,"length":1},"linker":{"text":" ","location":6,"length":1}}]},{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","audio_updated_at":1543439795,"text":"For four people.","phonetic":""}]},{"id":610296,"lesson":2801,"type":"Q","modifiers":41,"wordID":17581,"alternates":[17497,17496],"sols":[{"key":"tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp","audio_updated_at":1543439802,"text":"Two adults, two children.","phonetic":"","dictionary":[{"raw":"Two","translations":[]},{"raw":"adults","translations":[]},{"raw":"two","translations":[]},{"raw":"children","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Two","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"adults","location":4,"length":6},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":",","location":10,"length":1},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"two","location":12,"length":3},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":11,"length":1}},{"raw":{"text":"children","location":16,"length":8},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":".","location":24,"length":1},"linker":{"text":" ","location":15,"length":1}}],"phonetic_tokens":[]},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","text":"For two people.","phonetic":""},{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","text":"For four people.","phonetic":""}],"alts":[{"key":"tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp","audio_updated_at":1543439802,"text":"بالغان، وطفلان."},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"لشخصين."},{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","audio_updated_at":1543439795,"text":"لأربعة أشخاص."}]},{"id":610297,"lesson":2801,"type":"T1b","modifiers":72,"wordID":17498,"alternates":[],"tokens":[{"key":"tJ38xZM6n5y","text":"front","raw":{"text":"front","location":7,"length":5},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"tdyj9qD8d5d","text":"For","raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tGnWmWwLlru","text":"desk.","raw":{"text":"desk","location":13,"length":4},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"tUG_x-d6j9z","text":"one","raw":{"text":"one","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"toIclMd-61w","text":"Hello,","raw":{"text":"Hello","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":",","location":5,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"tF2cC1xQ10x","text":"night.","raw":{"text":"night","location":8,"length":5},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":7,"length":1}}],"tokensEqualSize":false,"ord":["tdyj9qD8d5d","tUG_x-d6j9z","tF2cC1xQ10x"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"uO-I3AtXsZpoQl6DYe2HHScSig0XW9go","audio_updated_at":1543439796,"text":"لليلة واحدة.","dictionary":[{"raw":"لليلة","translations":[]},{"raw":"واحدة","translations":[{"type":"dictionary","text":"one","phonetic":"one"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"لليلة","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"واحدة","location":6,"length":5},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":".","location":11,"length":1},"linker":{"text":" ","location":5,"length":1}}]},{"key":"uO-I3AtXsZpoQl6DYe2HHScSig0XW9go","audio_updated_at":1543439796,"text":"For one night.","phonetic":""}]},{"id":610298,"lesson":2801,"type":"R","modifiers":636,"wordID":17534,"alternates":[],"tokens":[{"key":"tzIwqmxO1Hj","text":"أن","raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tfvhZF6Wgc3","text":"هل","raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tG7ezoRAGpL","text":"غرفة،","raw":{"text":"غرفة","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"،","location":20,"length":1},"linker":{"text":" ","location":15,"length":1}},{"key":"tWFn3Mnpaar","text":"أحجز","raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tOt9ufWF3m9","text":"فضلك.","raw":{"text":"فضلك","location":25,"length":4},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":".","location":29,"length":1},"linker":{"text":" ","location":24,"length":1}},{"key":"tt0W7YnRHrG","text":"أود","raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tNGzoXWB-EY","text":"من","raw":{"text":"من","location":22,"length":2},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":21,"length":1}},{"key":"tCvMkgHTIKv","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tCvMkgHTIKv","tt0W7YnRHrG","tzIwqmxO1Hj","tWFn3Mnpaar","tG7ezoRAGpL","tNGzoXWB-EY","tOt9ufWF3m9"],"sols":[{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","audio_updated_at":1688290345,"text":"I would like to reserve a room, please.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"would","translations":[]},{"raw":"like","translations":[{"type":"verb","name":{"t":"to like","m":"يعجب","phonetic":"to like"},"id":55,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"CZ11KLNIIQz1-wQ050pStug_G6gnw76v","text":"I like","phonetic":"","audio_updated_at":1543438281},"m":{"text":"أنا أعجب"}},{"t":{"key":"iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u","text":"You like","phonetic":"","audio_updated_at":1543438282},"m":{"text":"أنت تعجب"}},{"t":{"key":"8pa24QiVNcHXrWq1YIY-9mmS66wqDarm","text":"He likes","phonetic":"","audio_updated_at":1543438283},"m":{"text":"هو يعجب"}},{"t":{"key":"77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_","text":"She likes","phonetic":"","audio_updated_at":1543438285},"m":{"text":"هي تعجب"}},{"t":{"key":"HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f","text":"We like","phonetic":"","audio_updated_at":1543438287},"m":{"text":"نحن نعجب"}},{"t":{"key":"lvDR6EetmqeHLFLndSaB8uhBtftJSpHp","text":"You like","phonetic":"","audio_updated_at":1541547854},"m":{"text":"أنتم تعجبون"}},{"t":{"key":"wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB","text":"They like","phonetic":"","audio_updated_at":1543438289},"m":{"text":"هم يعجبون"}}],"pa":[{"t":{"key":"e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN","text":"I liked","phonetic":"","audio_updated_at":1541547856},"m":{"text":"أنا أعجبت"}},{"t":{"key":"fw72VYXGPg6eiRTJmMzdswfCheHwivGm","text":"You liked","phonetic":"","audio_updated_at":1541547857},"m":{"text":"أنت أعجبت"}},{"t":{"key":"yTwI6DTT4suslTuf_q6FGLikaKxg5-_2","text":"He liked","phonetic":"","audio_updated_at":1541547858},"m":{"text":"هو أعجب"}},{"t":{"key":"V28glyoN5Q99QV_JtoJpkkPxNiFosIa6","text":"She liked","phonetic":"","audio_updated_at":1541547859},"m":{"text":"هي أعجبت"}},{"t":{"key":"ciFdGkCIocX27--2HnmHtAG0BTB--L7j","text":"We liked","phonetic":"","audio_updated_at":1541547861},"m":{"text":"نحن أعجبنا"}},{"t":{"key":"QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF","text":"You liked","phonetic":"","audio_updated_at":1541547862},"m":{"text":"أنتم أعجبتم"}},{"t":{"key":"t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI","text":"They liked","phonetic":"","audio_updated_at":1541547863},"m":{"text":"هم أعجبوا"}}],"fu":[{"t":{"key":"Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV","text":"I will like","phonetic":"","audio_updated_at":1541547865},"m":{"text":"أنا سأعجب"}},{"t":{"key":"PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO","text":"You will like","phonetic":"","audio_updated_at":1541547866},"m":{"text":"أنت ستعجب"}},{"t":{"key":"Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5","text":"He will like","phonetic":"","audio_updated_at":1541547867},"m":{"text":"هو سيعجب"}},{"t":{"key":"D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK","text":"She will like","phonetic":"","audio_updated_at":1541547868},"m":{"text":"هي ستعجب"}},{"t":{"key":"A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r","text":"We will like","phonetic":"","audio_updated_at":1541547870},"m":{"text":"نحن سنعجب"}},{"t":{"key":"yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1","text":"You will like","phonetic":"","audio_updated_at":1541547871},"m":{"text":"أنتم ستعجبون"}},{"t":{"key":"NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC","text":"They will like","phonetic":"","audio_updated_at":1541547872},"m":{"text":"هم سيعجبون"}}]}}]},{"raw":"to","translations":[]},{"raw":"reserve","translations":[]},{"raw":"a","translations":[{"type":"dictionary","text":"من","phonetic":null}]},{"raw":"room","translations":[{"type":"dictionary","text":"غرفة","phonetic":null}]},{"raw":"please","translations":[{"type":"dictionary","text":"فضلك","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"to","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"reserve","location":16,"length":7},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"a","location":24,"length":1},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":23,"length":1}},{"raw":{"text":"room","location":26,"length":4},"prefix":{"text":"","location":26,"length":0},"suffix":{"text":",","location":30,"length":1},"linker":{"text":" ","location":25,"length":1}},{"raw":{"text":"please","location":32,"length":6},"prefix":{"text":"","location":32,"length":0},"suffix":{"text":".","location":38,"length":1},"linker":{"text":" ","location":31,"length":1}}],"phonetic_tokens":[]},{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","audio_updated_at":1688290345,"text":"أنا أود أن أحجز غرفة، من فضلك."}],"quizSkipData":{"type":"T1","modifiers":40,"tokens":[{"key":"t4LfFM7IOFG","text":"هل","raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tPqp8CBFli-","text":"فضلك.","raw":{"text":"فضلك","location":25,"length":4},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":".","location":29,"length":1},"linker":{"text":" ","location":24,"length":1}},{"key":"thcwjggwa7O","text":"غرفة،","raw":{"text":"غرفة","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"،","location":20,"length":1},"linker":{"text":" ","location":15,"length":1}},{"key":"tp_npuzD5tv","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"trRxnOPhZe1","text":"من","raw":{"text":"من","location":22,"length":2},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":21,"length":1}},{"key":"taOzKugJOaL","text":"أحجز","raw":{"text":"أحجز","location":11,"length":4},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tk9Jk3zf3jW","text":"أن","raw":{"text":"أن","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tP6OjKVu-Xm","text":"أود","raw":{"text":"أود","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}}],"tokensEqualSize":true,"ord":["tp_npuzD5tv","tP6OjKVu-Xm","tk9Jk3zf3jW","taOzKugJOaL","thcwjggwa7O","trRxnOPhZe1","tPqp8CBFli-"],"sols":[{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","audio_updated_at":1688290345,"text":"I would like to reserve a room, please.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"would","translations":[]},{"raw":"like","translations":[{"type":"verb","name":{"t":"to like","m":"يعجب","phonetic":"to like"},"id":55,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"CZ11KLNIIQz1-wQ050pStug_G6gnw76v","text":"I like","phonetic":"","audio_updated_at":1543438281},"m":{"text":"أنا أعجب"}},{"t":{"key":"iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u","text":"You like","phonetic":"","audio_updated_at":1543438282},"m":{"text":"أنت تعجب"}},{"t":{"key":"8pa24QiVNcHXrWq1YIY-9mmS66wqDarm","text":"He likes","phonetic":"","audio_updated_at":1543438283},"m":{"text":"هو يعجب"}},{"t":{"key":"77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_","text":"She likes","phonetic":"","audio_updated_at":1543438285},"m":{"text":"هي تعجب"}},{"t":{"key":"HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f","text":"We like","phonetic":"","audio_updated_at":1543438287},"m":{"text":"نحن نعجب"}},{"t":{"key":"lvDR6EetmqeHLFLndSaB8uhBtftJSpHp","text":"You like","phonetic":"","audio_updated_at":1541547854},"m":{"text":"أنتم تعجبون"}},{"t":{"key":"wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB","text":"They like","phonetic":"","audio_updated_at":1543438289},"m":{"text":"هم يعجبون"}}],"pa":[{"t":{"key":"e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN","text":"I liked","phonetic":"","audio_updated_at":1541547856},"m":{"text":"أنا أعجبت"}},{"t":{"key":"fw72VYXGPg6eiRTJmMzdswfCheHwivGm","text":"You liked","phonetic":"","audio_updated_at":1541547857},"m":{"text":"أنت أعجبت"}},{"t":{"key":"yTwI6DTT4suslTuf_q6FGLikaKxg5-_2","text":"He liked","phonetic":"","audio_updated_at":1541547858},"m":{"text":"هو أعجب"}},{"t":{"key":"V28glyoN5Q99QV_JtoJpkkPxNiFosIa6","text":"She liked","phonetic":"","audio_updated_at":1541547859},"m":{"text":"هي أعجبت"}},{"t":{"key":"ciFdGkCIocX27--2HnmHtAG0BTB--L7j","text":"We liked","phonetic":"","audio_updated_at":1541547861},"m":{"text":"نحن أعجبنا"}},{"t":{"key":"QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF","text":"You liked","phonetic":"","audio_updated_at":1541547862},"m":{"text":"أنتم أعجبتم"}},{"t":{"key":"t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI","text":"They liked","phonetic":"","audio_updated_at":1541547863},"m":{"text":"هم أعجبوا"}}],"fu":[{"t":{"key":"Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV","text":"I will like","phonetic":"","audio_updated_at":1541547865},"m":{"text":"أنا سأعجب"}},{"t":{"key":"PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO","text":"You will like","phonetic":"","audio_updated_at":1541547866},"m":{"text":"أنت ستعجب"}},{"t":{"key":"Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5","text":"He will like","phonetic":"","audio_updated_at":1541547867},"m":{"text":"هو سيعجب"}},{"t":{"key":"D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK","text":"She will like","phonetic":"","audio_updated_at":1541547868},"m":{"text":"هي ستعجب"}},{"t":{"key":"A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r","text":"We will like","phonetic":"","audio_updated_at":1541547870},"m":{"text":"نحن سنعجب"}},{"t":{"key":"yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1","text":"You will like","phonetic":"","audio_updated_at":1541547871},"m":{"text":"أنتم ستعجبون"}},{"t":{"key":"NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC","text":"They will like","phonetic":"","audio_updated_at":1541547872},"m":{"text":"هم سيعجبون"}}]}}]},{"raw":"to","translations":[]},{"raw":"reserve","translations":[]},{"raw":"a","translations":[{"type":"dictionary","text":"من","phonetic":null}]},{"raw":"room","translations":[{"type":"dictionary","text":"غرفة","phonetic":null}]},{"raw":"please","translations":[{"type":"dictionary","text":"فضلك","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"would","location":2,"length":5},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"like","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"to","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"reserve","location":16,"length":7},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"a","location":24,"length":1},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":23,"length":1}},{"raw":{"text":"room","location":26,"length":4},"prefix":{"text":"","location":26,"length":0},"suffix":{"text":",","location":30,"length":1},"linker":{"text":" ","location":25,"length":1}},{"raw":{"text":"please","location":32,"length":6},"prefix":{"text":"","location":32,"length":0},"suffix":{"text":".","location":38,"length":1},"linker":{"text":" ","location":31,"length":1}}],"phonetic_tokens":[]},{"key":"LtWyW597mOHllmK5UmqaVdOKzQWimfP-","audio_updated_at":1688290345,"text":"أنا أود أن أحجز غرفة، من فضلك."}]}},{"id":610299,"lesson":2801,"type":"L1","modifiers":42,"wordID":23733,"alternates":[],"tokens":[{"key":"t69ZoATzPWy","text":"هواء","raw":{"text":"هواء","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"key":"tOTjIKpWMH3","text":"لكم","raw":{"text":"لكم","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t5nvcySmStl","text":"شخص؟","raw":{"text":"شخص","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"؟","location":7,"length":1},"linker":{"text":" ","location":3,"length":1}},{"key":"tO9amY97REz","text":"مكيف","raw":{"text":"مكيف","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tOTjIKpWMH3","t5nvcySmStl"],"sols":[{"key":"eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by","audio_updated_at":1688290589,"text":"For how many people?","phonetic":""},{"key":"eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by","audio_updated_at":1688290589,"text":"لكم شخص؟"}]},{"id":610300,"lesson":2801,"type":"T2","modifiers":60,"wordID":17496,"alternates":[],"sols":[{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"For two people.","phonetic":"","dictionary":[{"raw":"For","translations":[]},{"raw":"two","translations":[]},{"raw":"people","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"two","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"people","location":8,"length":6},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":7,"length":1}}],"phonetic_tokens":[]},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"لشخصين."}]},{"id":610301,"lesson":2801,"type":"T2b","modifiers":92,"wordID":17497,"alternates":[],"sols":[{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","audio_updated_at":1543439795,"text":"لأربعة أشخاص.","dictionary":[{"raw":"أشخاص","translations":[{"type":"dictionary","text":"people","phonetic":"people"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"لأربعة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"أشخاص","location":7,"length":5},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":12,"length":1},"linker":{"text":" ","location":6,"length":1}}]},{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","audio_updated_at":1543439795,"text":"For four people.","phonetic":""}]},{"id":610302,"lesson":2801,"type":"Qb","modifiers":73,"wordID":17581,"alternates":[17496,17497],"sols":[{"key":"tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp","audio_updated_at":1543439802,"text":"بالغان، وطفلان.","dictionary":[{"raw":"بالغان","translations":[{"type":"dictionary","text":"adults","phonetic":"adults"}]},{"raw":"وطفلان","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"بالغان","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"،","location":6,"length":1},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"وطفلان","location":8,"length":6},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":7,"length":1}}]},{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","text":"لأربعة أشخاص."},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","text":"لشخصين."}],"alts":[{"key":"tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp","audio_updated_at":1543439802,"text":"Two adults, two children.","phonetic":""},{"key":"MJMeTM-wy19BSIJejwK0TWcx6m80D03A","audio_updated_at":1543439795,"text":"For four people.","phonetic":""},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"For two people.","phonetic":""}]},{"id":610303,"lesson":2801,"type":"Q","modifiers":41,"wordID":17498,"alternates":[17496,17581],"sols":[{"key":"uO-I3AtXsZpoQl6DYe2HHScSig0XW9go","audio_updated_at":1543439796,"text":"For one night.","phonetic":"","dictionary":[{"raw":"For","translations":[]},{"raw":"one","translations":[{"type":"dictionary","text":"واحدة","phonetic":null}]},{"raw":"night","translations":[{"type":"dictionary","text":"لليلة","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"For","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"one","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"night","location":8,"length":5},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":7,"length":1}}],"phonetic_tokens":[]},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","text":"For two people.","phonetic":""},{"key":"tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp","text":"Two adults, two children.","phonetic":""}],"alts":[{"key":"uO-I3AtXsZpoQl6DYe2HHScSig0XW9go","audio_updated_at":1543439796,"text":"لليلة واحدة."},{"key":"mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep","audio_updated_at":1543439794,"text":"لشخصين."},{"key":"tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp","audio_updated_at":1543439802,"text":"بالغان، وطفلان."}]}]}
+{
+  "lesson": {
+    "id": 2801,
+    "index": 1,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 28,
+    "categoryID": 28,
+    "unifiedUnitId": 164,
+    "unifiedCategoryId": 28,
+    "name": "إجراء حجز",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 22,
+    "countWords": 20,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      610282, 610283, 610284, 610285, 610286, 610287, 610288, 610289, 610290,
+      610291, 610292, 610293, 610294, 610295, 610296, 610297, 610298, 610299,
+      610300, 610301, 610302, 610303
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 610282,
+      "lesson": 2801,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 17468,
+      "alternates": [18194, 18187, 23732],
+      "sols": [
+        {
+          "key": "sQ3I_IjejRrgrm82_qBXXXBOYPUYOdvj",
+          "audio_updated_at": 1543436549,
+          "text": "غرفة"
+        },
+        {
+          "key": "9dPET3d480zi9erB4zQSY-b8YO0z4on-",
+          "audio_updated_at": 1543437413,
+          "text": "طفل"
+        },
+        {
+          "key": "rCQJgM1T9mKSMVqDuCSyo1SDUfDYOIUy",
+          "audio_updated_at": 1543437409,
+          "text": "بالغ"
+        },
+        {
+          "key": "s2PARNGSMmUTsoQEOvb4S03f_s_MB_LX",
+          "audio_updated_at": 1688290588,
+          "text": "يحجز"
+        }
+      ],
+      "alts": [
+        {
+          "key": "sQ3I_IjejRrgrm82_qBXXXBOYPUYOdvj",
+          "audio_updated_at": 1543436549,
+          "text": "room",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "3FXWrSz87DBICJehqZBctMX9UchsMCtU",
+          "image_updated_at": 1689159063
+        },
+        {
+          "key": "9dPET3d480zi9erB4zQSY-b8YO0z4on-",
+          "audio_updated_at": 1543437413,
+          "image": "PoN3ijw7lEYTA6JfwW4A8Hr8E9GuKoS0",
+          "image_updated_at": 1689159122,
+          "text": "child",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "rCQJgM1T9mKSMVqDuCSyo1SDUfDYOIUy",
+          "audio_updated_at": 1543437409,
+          "image": "lu1-11mZVDgahW2_YmraBi_9Gt0_4MKZ",
+          "image_updated_at": 1689159120,
+          "text": "adult",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        },
+        {
+          "key": "s2PARNGSMmUTsoQEOvb4S03f_s_MB_LX",
+          "audio_updated_at": 1688290588,
+          "image": "4cVarfIWU6o1NoNpe8LZDMGdCjza_2mn",
+          "image_updated_at": 1689159210,
+          "text": "to reserve",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610283,
+      "lesson": 2801,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 17534,
+      "alternates": [23732, 17468],
+      "tokens": [
+        {
+          "key": "tkCpgLAx8w7",
+          "text": "would",
+          "raw": { "text": "would", "location": 2, "length": 5 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tIEeE312ZKn",
+          "text": "to",
+          "raw": { "text": "to", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tS5UmZanzGJ",
+          "text": "like",
+          "raw": { "text": "like", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tb_88lgxtmb",
+          "text": "please.",
+          "raw": { "text": "please", "location": 32, "length": 6 },
+          "prefix": { "text": "", "location": 32, "length": 0 },
+          "suffix": { "text": ".", "location": 38, "length": 1 },
+          "linker": { "text": " ", "location": 31, "length": 1 }
+        },
+        {
+          "key": "tL3ph6X5y6O",
+          "text": "a",
+          "raw": { "text": "a", "location": 24, "length": 1 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 25, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tfUaEI36q81",
+          "text": "room,",
+          "raw": { "text": "room", "location": 26, "length": 4 },
+          "prefix": { "text": "", "location": 26, "length": 0 },
+          "suffix": { "text": ",", "location": 30, "length": 1 },
+          "linker": { "text": " ", "location": 25, "length": 1 }
+        },
+        {
+          "key": "tX41y7quO_G",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t67p-TP8va7",
+          "text": "reserve",
+          "raw": { "text": "reserve", "location": 16, "length": 7 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tX41y7quO_G",
+        "tkCpgLAx8w7",
+        "tS5UmZanzGJ",
+        "tIEeE312ZKn",
+        "t67p-TP8va7",
+        "tL3ph6X5y6O",
+        "tfUaEI36q81",
+        "tb_88lgxtmb"
+      ],
+      "completeToken": "t67p-TP8va7",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+          "audio_updated_at": 1688290345,
+          "text": "أنا أود أن أحجز غرفة، من فضلك.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أود",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I would like",
+                  "phonetic": "I would like"
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            { "raw": "أحجز", "translations": [] },
+            {
+              "raw": "غرفة",
+              "translations": [
+                { "type": "dictionary", "text": "room", "phonetic": "room" }
+              ]
+            },
+            { "raw": "من", "translations": [] },
+            {
+              "raw": "فضلك",
+              "translations": [
+                { "type": "dictionary", "text": "please", "phonetic": "please" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أود", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "أحجز", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "غرفة", "location": 16, "length": 4 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "،", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "من", "location": 22, "length": 2 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": "", "location": 24, "length": 0 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            },
+            {
+              "raw": { "text": "فضلك", "location": 25, "length": 4 },
+              "prefix": { "text": "", "location": 25, "length": 0 },
+              "suffix": { "text": ".", "location": 29, "length": 1 },
+              "linker": { "text": " ", "location": 24, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+          "audio_updated_at": 1688290345,
+          "text": "I would like to reserve a room, please.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610284,
+      "lesson": 2801,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 23733,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tJhPvvhC9TU",
+          "text": "لكم",
+          "raw": { "text": "لكم", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tU0dTLUJFeJ",
+          "text": "شرفة",
+          "raw": { "text": "شرفة", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tCL7-9Lbkbx",
+          "text": "شخص؟",
+          "raw": { "text": "شخص", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "؟", "location": 7, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tJhPvvhC9TU", "tCL7-9Lbkbx"],
+      "sols": [
+        {
+          "key": "eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by",
+          "audio_updated_at": 1688290589,
+          "text": "For how many people?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "For", "translations": [] },
+            { "raw": "how", "translations": [] },
+            { "raw": "many", "translations": [] },
+            {
+              "raw": "people",
+              "translations": [
+                { "type": "dictionary", "text": "شخص", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "For", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "how", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "many", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "people", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by",
+          "audio_updated_at": 1688290589,
+          "text": "لكم شخص؟"
+        }
+      ]
+    },
+    {
+      "id": 610285,
+      "lesson": 2801,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 17496,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tdurF5Vf-tA",
+          "text": "people.",
+          "raw": { "text": "people", "location": 8, "length": 6 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tvQGVPQt0Jd",
+          "text": "For",
+          "raw": { "text": "For", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tBX54xDb7iK",
+          "text": "two",
+          "raw": { "text": "two", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t0DRi0Tb7a6",
+          "text": "dates?",
+          "raw": { "text": "dates", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "?", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tJaTLBAE_2d",
+          "text": "what",
+          "raw": { "text": "what", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tvQGVPQt0Jd", "tBX54xDb7iK", "tdurF5Vf-tA"],
+      "completeToken": "tdurF5Vf-tA",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "لشخصين.",
+          "dictionary": [
+            {
+              "raw": "لشخصين",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "For two people",
+                  "phonetic": "For two people"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "لشخصين", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": ".", "location": 6, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "For two people.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610286,
+      "lesson": 2801,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 17497,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tgh6TBT3CNo",
+          "text": "أشخاص.",
+          "raw": { "text": "أشخاص", "location": 7, "length": 5 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 12, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tDZhBvpeNY6",
+          "text": "الاستقبال.",
+          "raw": { "text": "الاستقبال", "location": 13, "length": 9 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 22, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tBLzo1XKYN8",
+          "text": "مكتب",
+          "raw": { "text": "مكتب", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "t_ooRu5jP1k",
+          "text": "لأربعة",
+          "raw": { "text": "لأربعة", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tCMJOvw35_D",
+          "text": "مرحبًا،",
+          "raw": { "text": "مرحبًا", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "،", "location": 6, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t_ooRu5jP1k", "tgh6TBT3CNo"],
+      "sols": [
+        {
+          "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A",
+          "audio_updated_at": 1543439795,
+          "text": "For four people.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "For", "translations": [] },
+            {
+              "raw": "four",
+              "translations": [
+                { "type": "dictionary", "text": "لأربعة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "people",
+              "translations": [
+                { "type": "dictionary", "text": "أشخاص", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "For", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "four", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "people", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A",
+          "audio_updated_at": 1543439795,
+          "text": "لأربعة أشخاص."
+        }
+      ]
+    },
+    {
+      "id": 610287,
+      "lesson": 2801,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 18194,
+      "alternates": [18187],
+      "sols": [
+        {
+          "key": "9dPET3d480zi9erB4zQSY-b8YO0z4on-",
+          "audio_updated_at": 1543437413,
+          "text": "طفل"
+        },
+        {
+          "key": "rCQJgM1T9mKSMVqDuCSyo1SDUfDYOIUy",
+          "audio_updated_at": 1543437409,
+          "text": "بالغ"
+        }
+      ],
+      "alts": [
+        {
+          "key": "9dPET3d480zi9erB4zQSY-b8YO0z4on-",
+          "audio_updated_at": 1543437413,
+          "text": "child",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "PoN3ijw7lEYTA6JfwW4A8Hr8E9GuKoS0",
+          "image_updated_at": 1689159122
+        },
+        {
+          "key": "rCQJgM1T9mKSMVqDuCSyo1SDUfDYOIUy",
+          "audio_updated_at": 1543437409,
+          "image": "lu1-11mZVDgahW2_YmraBi_9Gt0_4MKZ",
+          "image_updated_at": 1689159120,
+          "text": "adult",
+          "phonetic": "",
+          "article_text": "an",
+          "article_phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610288,
+      "lesson": 2801,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 17581,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t_oYbMY3zBP",
+          "text": "children.",
+          "raw": { "text": "children", "location": 16, "length": 8 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": ".", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tpchh9vtFOp",
+          "text": "on",
+          "raw": { "text": "on", "location": 15, "length": 2 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "txrTzpPiDhx",
+          "text": "will",
+          "raw": { "text": "will", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tjmyKW1Z1m1",
+          "text": "two",
+          "raw": { "text": "two", "location": 12, "length": 3 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "t3yTtCYl-fA",
+          "text": "adults,",
+          "raw": { "text": "adults", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": ",", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tukAxdni7dt",
+          "text": "arrive",
+          "raw": { "text": "arrive", "location": 8, "length": 6 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tLAKJD9-c_n",
+          "text": "We",
+          "raw": { "text": "We", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t9cr9Xurj7Z",
+          "text": "Two",
+          "raw": { "text": "Two", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t9cr9Xurj7Z", "t3yTtCYl-fA", "tjmyKW1Z1m1", "t_oYbMY3zBP"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp",
+          "audio_updated_at": 1543439802,
+          "text": "بالغان، وطفلان.",
+          "dictionary": [
+            {
+              "raw": "بالغان",
+              "translations": [
+                { "type": "dictionary", "text": "adults", "phonetic": "adults" }
+              ]
+            },
+            { "raw": "وطفلان", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "بالغان", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "،", "location": 6, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "وطفلان", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp",
+          "audio_updated_at": 1543439802,
+          "text": "Two adults, two children.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610289,
+      "lesson": 2801,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 18777,
+      "alternates": [23732],
+      "sols": [
+        {
+          "key": "s2PARNGSMmUTsoQEOvb4S03f_s_MB_LX",
+          "audio_updated_at": 1688290588,
+          "text": "يحجز"
+        },
+        {
+          "key": "QQP_etXf_w7l_FlfwysL2EVBEs8R9AI2",
+          "audio_updated_at": 1607004517,
+          "text": "ليلة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "s2PARNGSMmUTsoQEOvb4S03f_s_MB_LX",
+          "audio_updated_at": 1688290588,
+          "image": "4cVarfIWU6o1NoNpe8LZDMGdCjza_2mn",
+          "image_updated_at": 1689159210,
+          "text": "to reserve",
+          "phonetic": ""
+        },
+        {
+          "key": "QQP_etXf_w7l_FlfwysL2EVBEs8R9AI2",
+          "audio_updated_at": 1607004517,
+          "text": "night",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "OrmjYJHrrUDY6dNVhC420p5BtSa5lTjF",
+          "image_updated_at": 1689159160
+        }
+      ]
+    },
+    {
+      "id": 610290,
+      "lesson": 2801,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 17498,
+      "alternates": [18777],
+      "tokens": [
+        {
+          "key": "tw7Kt6Cxu2A",
+          "text": "night.",
+          "raw": { "text": "night", "location": 8, "length": 5 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tGp8gejp9XG",
+          "text": "cheap",
+          "raw": { "text": "cheap", "location": 20, "length": 5 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 25, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "trgRTjdaWFP",
+          "text": "looking",
+          "raw": { "text": "looking", "location": 6, "length": 7 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "teIrAcLtzQ9",
+          "text": "one",
+          "raw": { "text": "one", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tNG_QNshAze",
+          "text": "He",
+          "raw": { "text": "He", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tnsvNxlQMc7",
+          "text": "is",
+          "raw": { "text": "is", "location": 3, "length": 2 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t4fDn4rrCBw",
+          "text": "a",
+          "raw": { "text": "a", "location": 18, "length": 1 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tlWXokT6bzL",
+          "text": "For",
+          "raw": { "text": "For", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tlWXokT6bzL", "teIrAcLtzQ9", "tw7Kt6Cxu2A"],
+      "completeToken": "tw7Kt6Cxu2A",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "uO-I3AtXsZpoQl6DYe2HHScSig0XW9go",
+          "audio_updated_at": 1543439796,
+          "text": "لليلة واحدة.",
+          "dictionary": [
+            { "raw": "لليلة", "translations": [] },
+            {
+              "raw": "واحدة",
+              "translations": [
+                { "type": "dictionary", "text": "one", "phonetic": "one" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "لليلة", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "واحدة", "location": 6, "length": 5 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": ".", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "uO-I3AtXsZpoQl6DYe2HHScSig0XW9go",
+          "audio_updated_at": 1543439796,
+          "text": "For one night.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610291,
+      "lesson": 2801,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 17468,
+      "alternates": [],
+      "tokens": [
+        { "key": "tITDwmm4taU", "text": "r", "group": 0 },
+        { "key": "tKW1lo_68v2", "text": "o", "group": 0 },
+        { "key": "toTz-c4gdkZ", "text": "o", "group": 0 },
+        { "key": "tbW1ftfdsdY", "text": "m", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tITDwmm4taU", "toTz-c4gdkZ", "tKW1lo_68v2", "tbW1ftfdsdY"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "sQ3I_IjejRrgrm82_qBXXXBOYPUYOdvj",
+          "audio_updated_at": 1543436549,
+          "text": "غرفة",
+          "dictionary": [
+            {
+              "raw": "غرفة",
+              "translations": [
+                { "type": "dictionary", "text": "room", "phonetic": "room" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "غرفة", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "sQ3I_IjejRrgrm82_qBXXXBOYPUYOdvj",
+          "audio_updated_at": 1543436549,
+          "text_tokens": [
+            {
+              "raw": { "text": "room", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "room",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "3FXWrSz87DBICJehqZBctMX9UchsMCtU",
+          "image_updated_at": 1689159063
+        }
+      ]
+    },
+    {
+      "id": 610292,
+      "lesson": 2801,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 17534,
+      "alternates": [17468],
+      "tokens": [
+        { "key": "ttg-Qf85jbW", "text": ",", "specialChar": true },
+        { "key": "tcN2mYtZZL4", "text": "r", "group": 6 },
+        { "key": "tU_CYZ3g9_e", "text": "m", "group": 6 },
+        { "key": "tPcgTeFJXCx", "text": "o", "group": 6 },
+        { "key": "thRI4rmXTBx", "text": "o", "group": 6 },
+        { "key": "tTLwrrbafZA", "text": " ", "specialChar": true }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tTLwrrbafZA",
+        "tcN2mYtZZL4",
+        "tPcgTeFJXCx",
+        "thRI4rmXTBx",
+        "tU_CYZ3g9_e",
+        "ttg-Qf85jbW"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+          "audio_updated_at": 1688290345,
+          "text": "أنا أود أن أحجز غرفة، من فضلك.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "أود",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "I would like",
+                  "phonetic": "I would like"
+                }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            { "raw": "أحجز", "translations": [] },
+            {
+              "raw": "غرفة",
+              "translations": [
+                { "type": "dictionary", "text": "room", "phonetic": "room" }
+              ]
+            },
+            { "raw": "من", "translations": [] },
+            {
+              "raw": "فضلك",
+              "translations": [
+                { "type": "dictionary", "text": "please", "phonetic": "please" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أود", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "أحجز", "location": 11, "length": 4 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "غرفة", "location": 16, "length": 4 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "،", "location": 20, "length": 1 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "من", "location": 22, "length": 2 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": "", "location": 24, "length": 0 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            },
+            {
+              "raw": { "text": "فضلك", "location": 25, "length": 4 },
+              "prefix": { "text": "", "location": 25, "length": 0 },
+              "suffix": { "text": ".", "location": 29, "length": 1 },
+              "linker": { "text": " ", "location": 24, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+          "audio_updated_at": 1688290345,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "would", "location": 2, "length": 5 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "like", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 13, "length": 2 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "reserve", "location": 16, "length": 7 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 24, "length": 1 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "room", "location": 26, "length": 4 },
+              "prefix": { "text": "", "location": 26, "length": 0 },
+              "suffix": { "text": ",", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 25, "length": 1 }
+            },
+            {
+              "raw": { "text": "please", "location": 32, "length": 6 },
+              "prefix": { "text": "", "location": 32, "length": 0 },
+              "suffix": { "text": ".", "location": 38, "length": 1 },
+              "linker": { "text": " ", "location": 31, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "I would like to reserve a room, please.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610293,
+      "lesson": 2801,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 23733,
+      "alternates": [17496, 17534],
+      "sols": [
+        {
+          "key": "eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by",
+          "audio_updated_at": 1688290589,
+          "text": "لكم شخص؟",
+          "dictionary": [
+            { "raw": "لكم", "translations": [] },
+            { "raw": "شخص", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "لكم", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "شخص", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "؟", "location": 7, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+          "text": "أنا أود أن أحجز غرفة، من فضلك."
+        },
+        { "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep", "text": "لشخصين." }
+      ],
+      "alts": [
+        {
+          "key": "eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by",
+          "audio_updated_at": 1688290589,
+          "text": "For how many people?",
+          "phonetic": ""
+        },
+        {
+          "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+          "audio_updated_at": 1688290345,
+          "text": "I would like to reserve a room, please.",
+          "phonetic": ""
+        },
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "For two people.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610294,
+      "lesson": 2801,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 17496,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "trpj0fxssbX",
+          "text": "تواريخ؟",
+          "raw": { "text": "تواريخ", "location": 4, "length": 6 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "؟", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tpKSoKDhc3p",
+          "text": "لشخصين.",
+          "raw": { "text": "لشخصين", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ".", "location": 6, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tQnssh7Nnr2",
+          "text": "لأي",
+          "raw": { "text": "لأي", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tpKSoKDhc3p"],
+      "sols": [
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "For two people.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "For", "translations": [] },
+            { "raw": "two", "translations": [] },
+            { "raw": "people", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "For", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "two", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "people", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "لشخصين."
+        }
+      ]
+    },
+    {
+      "id": 610295,
+      "lesson": 2801,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 17497,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tNffKKeKgVb",
+          "text": "one",
+          "raw": { "text": "one", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tEuO709-YmS",
+          "text": "For",
+          "raw": { "text": "For", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tXtZ9uvek5N",
+          "text": "people.",
+          "raw": { "text": "people", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t4LfhoX9f0I",
+          "text": "four",
+          "raw": { "text": "four", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tdcdVqKmdL5",
+          "text": "night.",
+          "raw": { "text": "night", "location": 8, "length": 5 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tEuO709-YmS", "t4LfhoX9f0I", "tXtZ9uvek5N"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A",
+          "audio_updated_at": 1543439795,
+          "text": "لأربعة أشخاص.",
+          "dictionary": [
+            {
+              "raw": "أشخاص",
+              "translations": [
+                { "type": "dictionary", "text": "people", "phonetic": "people" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "لأربعة", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أشخاص", "location": 7, "length": 5 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 12, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A",
+          "audio_updated_at": 1543439795,
+          "text": "For four people.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610296,
+      "lesson": 2801,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 17581,
+      "alternates": [17497, 17496],
+      "sols": [
+        {
+          "key": "tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp",
+          "audio_updated_at": 1543439802,
+          "text": "Two adults, two children.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Two", "translations": [] },
+            { "raw": "adults", "translations": [] },
+            { "raw": "two", "translations": [] },
+            { "raw": "children", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Two", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "adults", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": ",", "location": 10, "length": 1 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "two", "location": 12, "length": 3 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "children", "location": 16, "length": 8 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": ".", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "text": "For two people.",
+          "phonetic": ""
+        },
+        {
+          "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A",
+          "text": "For four people.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp",
+          "audio_updated_at": 1543439802,
+          "text": "بالغان، وطفلان."
+        },
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "لشخصين."
+        },
+        {
+          "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A",
+          "audio_updated_at": 1543439795,
+          "text": "لأربعة أشخاص."
+        }
+      ]
+    },
+    {
+      "id": 610297,
+      "lesson": 2801,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 17498,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tJ38xZM6n5y",
+          "text": "front",
+          "raw": { "text": "front", "location": 7, "length": 5 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tdyj9qD8d5d",
+          "text": "For",
+          "raw": { "text": "For", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGnWmWwLlru",
+          "text": "desk.",
+          "raw": { "text": "desk", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tUG_x-d6j9z",
+          "text": "one",
+          "raw": { "text": "one", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "toIclMd-61w",
+          "text": "Hello,",
+          "raw": { "text": "Hello", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ",", "location": 5, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tF2cC1xQ10x",
+          "text": "night.",
+          "raw": { "text": "night", "location": 8, "length": 5 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tdyj9qD8d5d", "tUG_x-d6j9z", "tF2cC1xQ10x"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "uO-I3AtXsZpoQl6DYe2HHScSig0XW9go",
+          "audio_updated_at": 1543439796,
+          "text": "لليلة واحدة.",
+          "dictionary": [
+            { "raw": "لليلة", "translations": [] },
+            {
+              "raw": "واحدة",
+              "translations": [
+                { "type": "dictionary", "text": "one", "phonetic": "one" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "لليلة", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "واحدة", "location": 6, "length": 5 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": ".", "location": 11, "length": 1 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "uO-I3AtXsZpoQl6DYe2HHScSig0XW9go",
+          "audio_updated_at": 1543439796,
+          "text": "For one night.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610298,
+      "lesson": 2801,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 17534,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tzIwqmxO1Hj",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 8, "length": 2 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tfvhZF6Wgc3",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tG7ezoRAGpL",
+          "text": "غرفة،",
+          "raw": { "text": "غرفة", "location": 16, "length": 4 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "،", "location": 20, "length": 1 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tWFn3Mnpaar",
+          "text": "أحجز",
+          "raw": { "text": "أحجز", "location": 11, "length": 4 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tOt9ufWF3m9",
+          "text": "فضلك.",
+          "raw": { "text": "فضلك", "location": 25, "length": 4 },
+          "prefix": { "text": "", "location": 25, "length": 0 },
+          "suffix": { "text": ".", "location": 29, "length": 1 },
+          "linker": { "text": " ", "location": 24, "length": 1 }
+        },
+        {
+          "key": "tt0W7YnRHrG",
+          "text": "أود",
+          "raw": { "text": "أود", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tNGzoXWB-EY",
+          "text": "من",
+          "raw": { "text": "من", "location": 22, "length": 2 },
+          "prefix": { "text": "", "location": 22, "length": 0 },
+          "suffix": { "text": "", "location": 24, "length": 0 },
+          "linker": { "text": " ", "location": 21, "length": 1 }
+        },
+        {
+          "key": "tCvMkgHTIKv",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tCvMkgHTIKv",
+        "tt0W7YnRHrG",
+        "tzIwqmxO1Hj",
+        "tWFn3Mnpaar",
+        "tG7ezoRAGpL",
+        "tNGzoXWB-EY",
+        "tOt9ufWF3m9"
+      ],
+      "sols": [
+        {
+          "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+          "audio_updated_at": 1688290345,
+          "text": "I would like to reserve a room, please.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            { "raw": "would", "translations": [] },
+            {
+              "raw": "like",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to like",
+                    "m": "يعجب",
+                    "phonetic": "to like"
+                  },
+                  "id": 55,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                          "text": "I like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438281
+                        },
+                        "m": { "text": "أنا أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438282
+                        },
+                        "m": { "text": "أنت تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                          "text": "He likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438283
+                        },
+                        "m": { "text": "هو يعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                          "text": "She likes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438285
+                        },
+                        "m": { "text": "هي تعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                          "text": "We like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438287
+                        },
+                        "m": { "text": "نحن نعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                          "text": "You like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547854
+                        },
+                        "m": { "text": "أنتم تعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                          "text": "They like",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438289
+                        },
+                        "m": { "text": "هم يعجبون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                          "text": "I liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547856
+                        },
+                        "m": { "text": "أنا أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547857
+                        },
+                        "m": { "text": "أنت أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                          "text": "He liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547858
+                        },
+                        "m": { "text": "هو أعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                          "text": "She liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547859
+                        },
+                        "m": { "text": "هي أعجبت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                          "text": "We liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547861
+                        },
+                        "m": { "text": "نحن أعجبنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                          "text": "You liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547862
+                        },
+                        "m": { "text": "أنتم أعجبتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                          "text": "They liked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547863
+                        },
+                        "m": { "text": "هم أعجبوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                          "text": "I will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547865
+                        },
+                        "m": { "text": "أنا سأعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547866
+                        },
+                        "m": { "text": "أنت ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                          "text": "He will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547867
+                        },
+                        "m": { "text": "هو سيعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                          "text": "She will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547868
+                        },
+                        "m": { "text": "هي ستعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                          "text": "We will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547870
+                        },
+                        "m": { "text": "نحن سنعجب" }
+                      },
+                      {
+                        "t": {
+                          "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                          "text": "You will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547871
+                        },
+                        "m": { "text": "أنتم ستعجبون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                          "text": "They will like",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547872
+                        },
+                        "m": { "text": "هم سيعجبون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "to", "translations": [] },
+            { "raw": "reserve", "translations": [] },
+            {
+              "raw": "a",
+              "translations": [
+                { "type": "dictionary", "text": "من", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "room",
+              "translations": [
+                { "type": "dictionary", "text": "غرفة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "please",
+              "translations": [
+                { "type": "dictionary", "text": "فضلك", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "would", "location": 2, "length": 5 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "like", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "to", "location": 13, "length": 2 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "reserve", "location": 16, "length": 7 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 24, "length": 1 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "room", "location": 26, "length": 4 },
+              "prefix": { "text": "", "location": 26, "length": 0 },
+              "suffix": { "text": ",", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 25, "length": 1 }
+            },
+            {
+              "raw": { "text": "please", "location": 32, "length": 6 },
+              "prefix": { "text": "", "location": 32, "length": 0 },
+              "suffix": { "text": ".", "location": 38, "length": 1 },
+              "linker": { "text": " ", "location": 31, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+          "audio_updated_at": 1688290345,
+          "text": "أنا أود أن أحجز غرفة، من فضلك."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "t4LfFM7IOFG",
+            "text": "هل",
+            "raw": { "text": "هل", "location": 0, "length": 2 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 2, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tPqp8CBFli-",
+            "text": "فضلك.",
+            "raw": { "text": "فضلك", "location": 25, "length": 4 },
+            "prefix": { "text": "", "location": 25, "length": 0 },
+            "suffix": { "text": ".", "location": 29, "length": 1 },
+            "linker": { "text": " ", "location": 24, "length": 1 }
+          },
+          {
+            "key": "thcwjggwa7O",
+            "text": "غرفة،",
+            "raw": { "text": "غرفة", "location": 16, "length": 4 },
+            "prefix": { "text": "", "location": 16, "length": 0 },
+            "suffix": { "text": "،", "location": 20, "length": 1 },
+            "linker": { "text": " ", "location": 15, "length": 1 }
+          },
+          {
+            "key": "tp_npuzD5tv",
+            "text": "أنا",
+            "raw": { "text": "أنا", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "trRxnOPhZe1",
+            "text": "من",
+            "raw": { "text": "من", "location": 22, "length": 2 },
+            "prefix": { "text": "", "location": 22, "length": 0 },
+            "suffix": { "text": "", "location": 24, "length": 0 },
+            "linker": { "text": " ", "location": 21, "length": 1 }
+          },
+          {
+            "key": "taOzKugJOaL",
+            "text": "أحجز",
+            "raw": { "text": "أحجز", "location": 11, "length": 4 },
+            "prefix": { "text": "", "location": 11, "length": 0 },
+            "suffix": { "text": "", "location": 15, "length": 0 },
+            "linker": { "text": " ", "location": 10, "length": 1 }
+          },
+          {
+            "key": "tk9Jk3zf3jW",
+            "text": "أن",
+            "raw": { "text": "أن", "location": 8, "length": 2 },
+            "prefix": { "text": "", "location": 8, "length": 0 },
+            "suffix": { "text": "", "location": 10, "length": 0 },
+            "linker": { "text": " ", "location": 7, "length": 1 }
+          },
+          {
+            "key": "tP6OjKVu-Xm",
+            "text": "أود",
+            "raw": { "text": "أود", "location": 4, "length": 3 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 7, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": [
+          "tp_npuzD5tv",
+          "tP6OjKVu-Xm",
+          "tk9Jk3zf3jW",
+          "taOzKugJOaL",
+          "thcwjggwa7O",
+          "trRxnOPhZe1",
+          "tPqp8CBFli-"
+        ],
+        "sols": [
+          {
+            "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+            "audio_updated_at": 1688290345,
+            "text": "I would like to reserve a room, please.",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "I",
+                "translations": [
+                  { "type": "dictionary", "text": "أنا", "phonetic": null }
+                ]
+              },
+              { "raw": "would", "translations": [] },
+              {
+                "raw": "like",
+                "translations": [
+                  {
+                    "type": "verb",
+                    "name": {
+                      "t": "to like",
+                      "m": "يعجب",
+                      "phonetic": "to like"
+                    },
+                    "id": 55,
+                    "tenseNames": {
+                      "pr": "الحاضر",
+                      "pa": "ماضي",
+                      "fu": "مستقبل"
+                    },
+                    "conj": {
+                      "pr": [
+                        {
+                          "t": {
+                            "key": "CZ11KLNIIQz1-wQ050pStug_G6gnw76v",
+                            "text": "I like",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438281
+                          },
+                          "m": { "text": "أنا أعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "iImcjeAxssZZQZtkcYX6QtH5Xi_aPY-u",
+                            "text": "You like",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438282
+                          },
+                          "m": { "text": "أنت تعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "8pa24QiVNcHXrWq1YIY-9mmS66wqDarm",
+                            "text": "He likes",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438283
+                          },
+                          "m": { "text": "هو يعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "77iD-BMUOCXjPcbNw6bDpnALVtTtq3G_",
+                            "text": "She likes",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438285
+                          },
+                          "m": { "text": "هي تعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "HRp3w1CxZL59wzIXa2blrpI0BV3nL_1f",
+                            "text": "We like",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438287
+                          },
+                          "m": { "text": "نحن نعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "lvDR6EetmqeHLFLndSaB8uhBtftJSpHp",
+                            "text": "You like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547854
+                          },
+                          "m": { "text": "أنتم تعجبون" }
+                        },
+                        {
+                          "t": {
+                            "key": "wAFzquWwQj1mmYCmr5EIHgRzcdBBusKB",
+                            "text": "They like",
+                            "phonetic": "",
+                            "audio_updated_at": 1543438289
+                          },
+                          "m": { "text": "هم يعجبون" }
+                        }
+                      ],
+                      "pa": [
+                        {
+                          "t": {
+                            "key": "e_dymn_QK9Bu9pi3q__NZUQh2vQ-deLN",
+                            "text": "I liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547856
+                          },
+                          "m": { "text": "أنا أعجبت" }
+                        },
+                        {
+                          "t": {
+                            "key": "fw72VYXGPg6eiRTJmMzdswfCheHwivGm",
+                            "text": "You liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547857
+                          },
+                          "m": { "text": "أنت أعجبت" }
+                        },
+                        {
+                          "t": {
+                            "key": "yTwI6DTT4suslTuf_q6FGLikaKxg5-_2",
+                            "text": "He liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547858
+                          },
+                          "m": { "text": "هو أعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "V28glyoN5Q99QV_JtoJpkkPxNiFosIa6",
+                            "text": "She liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547859
+                          },
+                          "m": { "text": "هي أعجبت" }
+                        },
+                        {
+                          "t": {
+                            "key": "ciFdGkCIocX27--2HnmHtAG0BTB--L7j",
+                            "text": "We liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547861
+                          },
+                          "m": { "text": "نحن أعجبنا" }
+                        },
+                        {
+                          "t": {
+                            "key": "QWAjKm0ABBX3KMv5hMQCJAVS2xIQL0YF",
+                            "text": "You liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547862
+                          },
+                          "m": { "text": "أنتم أعجبتم" }
+                        },
+                        {
+                          "t": {
+                            "key": "t4GWdg3JhsZk3Tlh2IwiBRxCM7pp9BWI",
+                            "text": "They liked",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547863
+                          },
+                          "m": { "text": "هم أعجبوا" }
+                        }
+                      ],
+                      "fu": [
+                        {
+                          "t": {
+                            "key": "Fs4KbdBe-YIIVMX9GBb3K8_yBdzjJnnV",
+                            "text": "I will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547865
+                          },
+                          "m": { "text": "أنا سأعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "PKFykO5WBf1I3Tr90nyrmuvJJBKurKhO",
+                            "text": "You will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547866
+                          },
+                          "m": { "text": "أنت ستعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "Qg1wEtAm0qXOki-BW9RWhr3tITAsfN_5",
+                            "text": "He will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547867
+                          },
+                          "m": { "text": "هو سيعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "D6Mco61KX_1d0t7_OaCu4OGho6zBXDtK",
+                            "text": "She will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547868
+                          },
+                          "m": { "text": "هي ستعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "A--2vBEpUfEBkTd0hQzpvbiH7RwxXN9r",
+                            "text": "We will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547870
+                          },
+                          "m": { "text": "نحن سنعجب" }
+                        },
+                        {
+                          "t": {
+                            "key": "yqTj2J9gWFR0yj0EdN8SCDw0HbXQynG1",
+                            "text": "You will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547871
+                          },
+                          "m": { "text": "أنتم ستعجبون" }
+                        },
+                        {
+                          "t": {
+                            "key": "NmynFjR7_BzTjiTxC5_vQWCJHwKeqHZC",
+                            "text": "They will like",
+                            "phonetic": "",
+                            "audio_updated_at": 1541547872
+                          },
+                          "m": { "text": "هم سيعجبون" }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              { "raw": "to", "translations": [] },
+              { "raw": "reserve", "translations": [] },
+              {
+                "raw": "a",
+                "translations": [
+                  { "type": "dictionary", "text": "من", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "room",
+                "translations": [
+                  { "type": "dictionary", "text": "غرفة", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "please",
+                "translations": [
+                  { "type": "dictionary", "text": "فضلك", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "I", "location": 0, "length": 1 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 1, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "would", "location": 2, "length": 5 },
+                "prefix": { "text": "", "location": 2, "length": 0 },
+                "suffix": { "text": "", "location": 7, "length": 0 },
+                "linker": { "text": " ", "location": 1, "length": 1 }
+              },
+              {
+                "raw": { "text": "like", "location": 8, "length": 4 },
+                "prefix": { "text": "", "location": 8, "length": 0 },
+                "suffix": { "text": "", "location": 12, "length": 0 },
+                "linker": { "text": " ", "location": 7, "length": 1 }
+              },
+              {
+                "raw": { "text": "to", "location": 13, "length": 2 },
+                "prefix": { "text": "", "location": 13, "length": 0 },
+                "suffix": { "text": "", "location": 15, "length": 0 },
+                "linker": { "text": " ", "location": 12, "length": 1 }
+              },
+              {
+                "raw": { "text": "reserve", "location": 16, "length": 7 },
+                "prefix": { "text": "", "location": 16, "length": 0 },
+                "suffix": { "text": "", "location": 23, "length": 0 },
+                "linker": { "text": " ", "location": 15, "length": 1 }
+              },
+              {
+                "raw": { "text": "a", "location": 24, "length": 1 },
+                "prefix": { "text": "", "location": 24, "length": 0 },
+                "suffix": { "text": "", "location": 25, "length": 0 },
+                "linker": { "text": " ", "location": 23, "length": 1 }
+              },
+              {
+                "raw": { "text": "room", "location": 26, "length": 4 },
+                "prefix": { "text": "", "location": 26, "length": 0 },
+                "suffix": { "text": ",", "location": 30, "length": 1 },
+                "linker": { "text": " ", "location": 25, "length": 1 }
+              },
+              {
+                "raw": { "text": "please", "location": 32, "length": 6 },
+                "prefix": { "text": "", "location": 32, "length": 0 },
+                "suffix": { "text": ".", "location": 38, "length": 1 },
+                "linker": { "text": " ", "location": 31, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "LtWyW597mOHllmK5UmqaVdOKzQWimfP-",
+            "audio_updated_at": 1688290345,
+            "text": "أنا أود أن أحجز غرفة، من فضلك."
+          }
+        ]
+      }
+    },
+    {
+      "id": 610299,
+      "lesson": 2801,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 23733,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t69ZoATzPWy",
+          "text": "هواء",
+          "raw": { "text": "هواء", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tOTjIKpWMH3",
+          "text": "لكم",
+          "raw": { "text": "لكم", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t5nvcySmStl",
+          "text": "شخص؟",
+          "raw": { "text": "شخص", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "؟", "location": 7, "length": 1 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tO9amY97REz",
+          "text": "مكيف",
+          "raw": { "text": "مكيف", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tOTjIKpWMH3", "t5nvcySmStl"],
+      "sols": [
+        {
+          "key": "eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by",
+          "audio_updated_at": 1688290589,
+          "text": "For how many people?",
+          "phonetic": ""
+        },
+        {
+          "key": "eNZ3ppNJVpoO2W1GDPAI1WpVSvDLK5by",
+          "audio_updated_at": 1688290589,
+          "text": "لكم شخص؟"
+        }
+      ]
+    },
+    {
+      "id": 610300,
+      "lesson": 2801,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 17496,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "For two people.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "For", "translations": [] },
+            { "raw": "two", "translations": [] },
+            { "raw": "people", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "For", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "two", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "people", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "لشخصين."
+        }
+      ]
+    },
+    {
+      "id": 610301,
+      "lesson": 2801,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 17497,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A",
+          "audio_updated_at": 1543439795,
+          "text": "لأربعة أشخاص.",
+          "dictionary": [
+            {
+              "raw": "أشخاص",
+              "translations": [
+                { "type": "dictionary", "text": "people", "phonetic": "people" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "لأربعة", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "أشخاص", "location": 7, "length": 5 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 12, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A",
+          "audio_updated_at": 1543439795,
+          "text": "For four people.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610302,
+      "lesson": 2801,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 17581,
+      "alternates": [17496, 17497],
+      "sols": [
+        {
+          "key": "tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp",
+          "audio_updated_at": 1543439802,
+          "text": "بالغان، وطفلان.",
+          "dictionary": [
+            {
+              "raw": "بالغان",
+              "translations": [
+                { "type": "dictionary", "text": "adults", "phonetic": "adults" }
+              ]
+            },
+            { "raw": "وطفلان", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "بالغان", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "،", "location": 6, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "وطفلان", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        { "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A", "text": "لأربعة أشخاص." },
+        { "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep", "text": "لشخصين." }
+      ],
+      "alts": [
+        {
+          "key": "tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp",
+          "audio_updated_at": 1543439802,
+          "text": "Two adults, two children.",
+          "phonetic": ""
+        },
+        {
+          "key": "MJMeTM-wy19BSIJejwK0TWcx6m80D03A",
+          "audio_updated_at": 1543439795,
+          "text": "For four people.",
+          "phonetic": ""
+        },
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "For two people.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 610303,
+      "lesson": 2801,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 17498,
+      "alternates": [17496, 17581],
+      "sols": [
+        {
+          "key": "uO-I3AtXsZpoQl6DYe2HHScSig0XW9go",
+          "audio_updated_at": 1543439796,
+          "text": "For one night.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "For", "translations": [] },
+            {
+              "raw": "one",
+              "translations": [
+                { "type": "dictionary", "text": "واحدة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "night",
+              "translations": [
+                { "type": "dictionary", "text": "لليلة", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "For", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "one", "location": 4, "length": 3 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "night", "location": 8, "length": 5 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "text": "For two people.",
+          "phonetic": ""
+        },
+        {
+          "key": "tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp",
+          "text": "Two adults, two children.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "uO-I3AtXsZpoQl6DYe2HHScSig0XW9go",
+          "audio_updated_at": 1543439796,
+          "text": "لليلة واحدة."
+        },
+        {
+          "key": "mhr22eIStFEh8gIENpJ-kgLtvxWfN_Ep",
+          "audio_updated_at": 1543439794,
+          "text": "لشخصين."
+        },
+        {
+          "key": "tZz8iz33EmLgIiDNOJ8g8hW2u3LLiHGp",
+          "audio_updated_at": 1543439802,
+          "text": "بالغان، وطفلان."
+        }
+      ]
+    }
+  ]
+}

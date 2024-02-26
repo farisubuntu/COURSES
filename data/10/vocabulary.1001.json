@@ -1,1 +1,301 @@
-{"vocabulary":{"id":1001,"index":1,"category":10,"categoryID":10,"unifiedUnitId":10,"unifiedCategoryId":10,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":10,"countPhrases":0,"countDone":0,"vItems":[9936,9937,9938,9939,9940,9941,9942,9943,9944,9945]},"vItems":[{"id":9936,"vocabulary":1001,"wordID":18908,"key":"P92XEH-W_4xhbWM-KFTShhKL0YmpBUuF","sols":[{"key":"P92XEH-W_4xhbWM-KFTShhKL0YmpBUuF","text":"حافلة","dictionary":[{"raw":"حافلة","translations":[]}]},{"key":"P92XEH-W_4xhbWM-KFTShhKL0YmpBUuF","text":"bus","phonetic":"","dictionary":[{"raw":"bus","translations":[{"type":"dictionary","text":"حافلة","phonetic":null}]}]}],"audio_updated_at":1543437662},{"id":9937,"vocabulary":1001,"wordID":18923,"key":"FG4ScDdijoha8yfTU1AP3QERU7SxToND","sols":[{"key":"FG4ScDdijoha8yfTU1AP3QERU7SxToND","text":"قطار","dictionary":[{"raw":"قطار","translations":[]}]},{"key":"FG4ScDdijoha8yfTU1AP3QERU7SxToND","text":"train","phonetic":"","dictionary":[{"raw":"train","translations":[{"type":"dictionary","text":"قطار","phonetic":null}]}]}],"audio_updated_at":1543437670},{"id":9938,"vocabulary":1001,"wordID":23919,"key":"91srRE7qkcGcJAD67CXqDEXr1nJwcW9t","sols":[{"key":"91srRE7qkcGcJAD67CXqDEXr1nJwcW9t","text":"ترام","dictionary":[{"raw":"ترام","translations":[]}]},{"key":"91srRE7qkcGcJAD67CXqDEXr1nJwcW9t","text":"tram","phonetic":"","dictionary":[{"raw":"tram","translations":[{"type":"dictionary","text":"ترام","phonetic":null}]}]}],"audio_updated_at":1688290800},{"id":9939,"vocabulary":1001,"wordID":18921,"key":"W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD","sols":[{"key":"W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD","text":"تذكرة","dictionary":[{"raw":"تذكرة","translations":[]}]},{"key":"W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD","text":"ticket","phonetic":"","dictionary":[{"raw":"ticket","translations":[{"type":"dictionary","text":"تذكرة","phonetic":null}]}]}],"audio_updated_at":1543437384},{"id":9940,"vocabulary":1001,"wordID":16434,"key":"mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_","sols":[{"key":"mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_","text":"محطة قطار","dictionary":[{"raw":"محطة","translations":[]},{"raw":"قطار","translations":[]}]},{"key":"mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_","text":"train station","phonetic":"","dictionary":[{"raw":"train","translations":[{"type":"dictionary","text":"قطار","phonetic":null}]},{"raw":"station","translations":[{"type":"dictionary","text":"محطة","phonetic":null}]}]}],"audio_updated_at":1543436982},{"id":9941,"vocabulary":1001,"wordID":23924,"key":"Puf2v4-yGAG66WidEVGIDqO03HKPOlkQ","sols":[{"key":"Puf2v4-yGAG66WidEVGIDqO03HKPOlkQ","text":"موقف حافلات","dictionary":[{"raw":"موقف","translations":[]},{"raw":"حافلات","translations":[]}]},{"key":"Puf2v4-yGAG66WidEVGIDqO03HKPOlkQ","text":"bus stop","phonetic":"","dictionary":[{"raw":"bus","translations":[{"type":"dictionary","text":"حافلات","phonetic":null}]},{"raw":"stop","translations":[]}]}],"audio_updated_at":1688290805},{"id":9942,"vocabulary":1001,"wordID":23930,"key":"g_Ed1pAVj6EwsbsJWXIplsdCPD5A7fnw","sols":[{"key":"g_Ed1pAVj6EwsbsJWXIplsdCPD5A7fnw","text":"مترو","dictionary":[{"raw":"مترو","translations":[]}]},{"key":"g_Ed1pAVj6EwsbsJWXIplsdCPD5A7fnw","text":"underground","phonetic":"","dictionary":[{"raw":"underground","translations":[]}]}],"audio_updated_at":1688290812},{"id":9943,"vocabulary":1001,"wordID":23931,"key":"aFT1RDynB81fihlclykVvk_YWTIgd0vh","sols":[{"key":"aFT1RDynB81fihlclykVvk_YWTIgd0vh","text":"مقعد","dictionary":[{"raw":"مقعد","translations":[]}]},{"key":"aFT1RDynB81fihlclykVvk_YWTIgd0vh","text":"seat","phonetic":"","dictionary":[{"raw":"seat","translations":[{"type":"dictionary","text":"مقعد","phonetic":null}]}]}],"audio_updated_at":1688290813},{"id":9944,"vocabulary":1001,"wordID":18920,"key":"T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg","sols":[{"key":"T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg","text":"سيارة أجرة","dictionary":[{"raw":"سيارة","translations":[]},{"raw":"أجرة","translations":[]}]},{"key":"T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg","text":"taxi","phonetic":"","dictionary":[{"raw":"taxi","translations":[{"type":"dictionary","text":"سيارة","phonetic":null}]}]}],"audio_updated_at":1543437669},{"id":9945,"vocabulary":1001,"wordID":16119,"key":"qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4","sols":[{"key":"qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4","text":"مطار","dictionary":[{"raw":"مطار","translations":[]}]},{"key":"qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4","text":"airport","phonetic":"","dictionary":[{"raw":"airport","translations":[{"type":"dictionary","text":"مطار","phonetic":null}]}]}],"audio_updated_at":1543436969}]}
+{
+  "vocabulary": {
+    "id": 1001,
+    "index": 1,
+    "category": 10,
+    "categoryID": 10,
+    "unifiedUnitId": 10,
+    "unifiedCategoryId": 10,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 10,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [9936, 9937, 9938, 9939, 9940, 9941, 9942, 9943, 9944, 9945]
+  },
+  "vItems": [
+    {
+      "id": 9936,
+      "vocabulary": 1001,
+      "wordID": 18908,
+      "key": "P92XEH-W_4xhbWM-KFTShhKL0YmpBUuF",
+      "sols": [
+        {
+          "key": "P92XEH-W_4xhbWM-KFTShhKL0YmpBUuF",
+          "text": "حافلة",
+          "dictionary": [{ "raw": "حافلة", "translations": [] }]
+        },
+        {
+          "key": "P92XEH-W_4xhbWM-KFTShhKL0YmpBUuF",
+          "text": "bus",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "bus",
+              "translations": [
+                { "type": "dictionary", "text": "حافلة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437662
+    },
+    {
+      "id": 9937,
+      "vocabulary": 1001,
+      "wordID": 18923,
+      "key": "FG4ScDdijoha8yfTU1AP3QERU7SxToND",
+      "sols": [
+        {
+          "key": "FG4ScDdijoha8yfTU1AP3QERU7SxToND",
+          "text": "قطار",
+          "dictionary": [{ "raw": "قطار", "translations": [] }]
+        },
+        {
+          "key": "FG4ScDdijoha8yfTU1AP3QERU7SxToND",
+          "text": "train",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "train",
+              "translations": [
+                { "type": "dictionary", "text": "قطار", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437670
+    },
+    {
+      "id": 9938,
+      "vocabulary": 1001,
+      "wordID": 23919,
+      "key": "91srRE7qkcGcJAD67CXqDEXr1nJwcW9t",
+      "sols": [
+        {
+          "key": "91srRE7qkcGcJAD67CXqDEXr1nJwcW9t",
+          "text": "ترام",
+          "dictionary": [{ "raw": "ترام", "translations": [] }]
+        },
+        {
+          "key": "91srRE7qkcGcJAD67CXqDEXr1nJwcW9t",
+          "text": "tram",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "tram",
+              "translations": [
+                { "type": "dictionary", "text": "ترام", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290800
+    },
+    {
+      "id": 9939,
+      "vocabulary": 1001,
+      "wordID": 18921,
+      "key": "W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD",
+      "sols": [
+        {
+          "key": "W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD",
+          "text": "تذكرة",
+          "dictionary": [{ "raw": "تذكرة", "translations": [] }]
+        },
+        {
+          "key": "W-ZV0Bi0CCfRSBZJKOrw4T_xdlBHpSbD",
+          "text": "ticket",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "ticket",
+              "translations": [
+                { "type": "dictionary", "text": "تذكرة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437384
+    },
+    {
+      "id": 9940,
+      "vocabulary": 1001,
+      "wordID": 16434,
+      "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
+      "sols": [
+        {
+          "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
+          "text": "محطة قطار",
+          "dictionary": [
+            { "raw": "محطة", "translations": [] },
+            { "raw": "قطار", "translations": [] }
+          ]
+        },
+        {
+          "key": "mKMCvnNVqTQCl13DSQwTwK9PyATjuRd_",
+          "text": "train station",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "train",
+              "translations": [
+                { "type": "dictionary", "text": "قطار", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "station",
+              "translations": [
+                { "type": "dictionary", "text": "محطة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436982
+    },
+    {
+      "id": 9941,
+      "vocabulary": 1001,
+      "wordID": 23924,
+      "key": "Puf2v4-yGAG66WidEVGIDqO03HKPOlkQ",
+      "sols": [
+        {
+          "key": "Puf2v4-yGAG66WidEVGIDqO03HKPOlkQ",
+          "text": "موقف حافلات",
+          "dictionary": [
+            { "raw": "موقف", "translations": [] },
+            { "raw": "حافلات", "translations": [] }
+          ]
+        },
+        {
+          "key": "Puf2v4-yGAG66WidEVGIDqO03HKPOlkQ",
+          "text": "bus stop",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "bus",
+              "translations": [
+                { "type": "dictionary", "text": "حافلات", "phonetic": null }
+              ]
+            },
+            { "raw": "stop", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290805
+    },
+    {
+      "id": 9942,
+      "vocabulary": 1001,
+      "wordID": 23930,
+      "key": "g_Ed1pAVj6EwsbsJWXIplsdCPD5A7fnw",
+      "sols": [
+        {
+          "key": "g_Ed1pAVj6EwsbsJWXIplsdCPD5A7fnw",
+          "text": "مترو",
+          "dictionary": [{ "raw": "مترو", "translations": [] }]
+        },
+        {
+          "key": "g_Ed1pAVj6EwsbsJWXIplsdCPD5A7fnw",
+          "text": "underground",
+          "phonetic": "",
+          "dictionary": [{ "raw": "underground", "translations": [] }]
+        }
+      ],
+      "audio_updated_at": 1688290812
+    },
+    {
+      "id": 9943,
+      "vocabulary": 1001,
+      "wordID": 23931,
+      "key": "aFT1RDynB81fihlclykVvk_YWTIgd0vh",
+      "sols": [
+        {
+          "key": "aFT1RDynB81fihlclykVvk_YWTIgd0vh",
+          "text": "مقعد",
+          "dictionary": [{ "raw": "مقعد", "translations": [] }]
+        },
+        {
+          "key": "aFT1RDynB81fihlclykVvk_YWTIgd0vh",
+          "text": "seat",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "seat",
+              "translations": [
+                { "type": "dictionary", "text": "مقعد", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290813
+    },
+    {
+      "id": 9944,
+      "vocabulary": 1001,
+      "wordID": 18920,
+      "key": "T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg",
+      "sols": [
+        {
+          "key": "T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg",
+          "text": "سيارة أجرة",
+          "dictionary": [
+            { "raw": "سيارة", "translations": [] },
+            { "raw": "أجرة", "translations": [] }
+          ]
+        },
+        {
+          "key": "T1iNiBqlY5jsISaq8Vy5ktTL62_KVBMg",
+          "text": "taxi",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "taxi",
+              "translations": [
+                { "type": "dictionary", "text": "سيارة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437669
+    },
+    {
+      "id": 9945,
+      "vocabulary": 1001,
+      "wordID": 16119,
+      "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
+      "sols": [
+        {
+          "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
+          "text": "مطار",
+          "dictionary": [{ "raw": "مطار", "translations": [] }]
+        },
+        {
+          "key": "qBj5HYX2NIIZTdaBTNUIUSKEY3p0GUY4",
+          "text": "airport",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "airport",
+              "translations": [
+                { "type": "dictionary", "text": "مطار", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436969
+    }
+  ]
+}

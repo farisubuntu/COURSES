@@ -1,1 +1,511 @@
-{"vocabulary":{"id":3501,"index":1,"category":35,"categoryID":35,"unifiedUnitId":35,"unifiedCategoryId":35,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":13,"countPhrases":0,"countDone":0,"vItems":[10292,10293,10294,10295,10296,10297,10298,10299,10300,10301]},"vItems":[{"id":10292,"vocabulary":3501,"wordID":24199,"key":"BizoVr4E8OGaEtj7D_zgjuCJQbgyrHv3","sols":[{"key":"BizoVr4E8OGaEtj7D_zgjuCJQbgyrHv3","text":"حساب","dictionary":[{"raw":"حساب","translations":[]}]},{"key":"BizoVr4E8OGaEtj7D_zgjuCJQbgyrHv3","text":"account","phonetic":"","dictionary":[{"raw":"account","translations":[{"type":"dictionary","text":"حساب","phonetic":null}]}]}],"audio_updated_at":1688291112},{"id":10293,"vocabulary":3501,"wordID":16373,"key":"y07ctDHygkSh1K7PHpRov__oXfkmeD8M","sols":[{"key":"y07ctDHygkSh1K7PHpRov__oXfkmeD8M","text":"مصرف","dictionary":[{"raw":"مصرف","translations":[]}]},{"key":"y07ctDHygkSh1K7PHpRov__oXfkmeD8M","text":"bank","phonetic":"","dictionary":[{"raw":"bank","translations":[{"type":"dictionary","text":"مصرف","phonetic":null}]}]}],"audio_updated_at":1543436496},{"id":10294,"vocabulary":3501,"wordID":23602,"key":"xFuoAzLC_b7w6ryXtdRXT5TEdXL9OBrg","sols":[{"key":"xFuoAzLC_b7w6ryXtdRXT5TEdXL9OBrg","text":"محفظة","dictionary":[{"raw":"محفظة","translations":[]}]},{"key":"xFuoAzLC_b7w6ryXtdRXT5TEdXL9OBrg","text":"wallet","phonetic":"","dictionary":[{"raw":"wallet","translations":[{"type":"dictionary","text":"محفظة","phonetic":null}]}]}],"audio_updated_at":1688290433},{"id":10295,"vocabulary":3501,"wordID":24212,"key":"VzgDgsArfMCMa4jWXBv2N7tdITmjNgwN","sols":[{"key":"VzgDgsArfMCMa4jWXBv2N7tdITmjNgwN","text":"رسوم","dictionary":[{"raw":"رسوم","translations":[]}]},{"key":"VzgDgsArfMCMa4jWXBv2N7tdITmjNgwN","text":"fee","phonetic":"","dictionary":[{"raw":"fee","translations":[{"type":"dictionary","text":"رسوم","phonetic":null}]}]}],"audio_updated_at":1688291126},{"id":10296,"vocabulary":3501,"wordID":24228,"key":"Is8ERGd3SmRXpPypXOHKNfNZVFnoMIZ9","sols":[{"key":"Is8ERGd3SmRXpPypXOHKNfNZVFnoMIZ9","text":"رصيد","dictionary":[{"raw":"رصيد","translations":[]}]},{"key":"Is8ERGd3SmRXpPypXOHKNfNZVFnoMIZ9","text":"balance","phonetic":"","dictionary":[{"raw":"balance","translations":[{"type":"dictionary","text":"رصيد","phonetic":null}]}]}],"audio_updated_at":1688291144},{"id":10297,"vocabulary":3501,"wordID":24224,"key":"7ralnQGRlECbPOuls4JVZEWVQiqLYg-h","sols":[{"key":"7ralnQGRlECbPOuls4JVZEWVQiqLYg-h","text":"تاريخ انتهاء الصلاحية","dictionary":[{"raw":"تاريخ","translations":[]},{"raw":"انتهاء","translations":[]},{"raw":"الصلاحية","translations":[]}]},{"key":"7ralnQGRlECbPOuls4JVZEWVQiqLYg-h","text":"expiry date","phonetic":"","dictionary":[{"raw":"expiry","translations":[{"type":"dictionary","text":"انتهاء","phonetic":null}]},{"raw":"date","translations":[{"type":"dictionary","text":"تاريخ","phonetic":null}]}]}],"audio_updated_at":1688291139},{"id":10298,"vocabulary":3501,"wordID":24225,"key":"VnI1LlJU_-qwLuXjveR8ATcqi8xMAmey","sols":[{"key":"VnI1LlJU_-qwLuXjveR8ATcqi8xMAmey","text":"رمز الحماية","dictionary":[{"raw":"رمز","translations":[]},{"raw":"الحماية","translations":[]}]},{"key":"VnI1LlJU_-qwLuXjveR8ATcqi8xMAmey","text":"security code","phonetic":"","dictionary":[{"raw":"security","translations":[]},{"raw":"code","translations":[{"type":"dictionary","text":"رمز","phonetic":null}]}]}],"audio_updated_at":1688291140},{"id":10299,"vocabulary":3501,"wordID":24210,"key":"drWuiR_fmkARBmtaGenEedxTAVgkcxGB","sols":[{"key":"drWuiR_fmkARBmtaGenEedxTAVgkcxGB","text":"يودع","dictionary":[{"raw":"يودع","translations":[]}]},{"key":"drWuiR_fmkARBmtaGenEedxTAVgkcxGB","text":"to deposit","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"deposit","translations":[]}]}],"audio_updated_at":1688291124},{"id":10300,"vocabulary":3501,"wordID":24211,"key":"iFxaNgTlitvRXVGtKDdxox5qVtwg-ZJ4","sols":[{"key":"iFxaNgTlitvRXVGtKDdxox5qVtwg-ZJ4","text":"يحوّل","dictionary":[{"raw":"يحوّل","translations":[]}]},{"key":"iFxaNgTlitvRXVGtKDdxox5qVtwg-ZJ4","text":"to transfer","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"transfer","translations":[]}]}],"audio_updated_at":1688291125},{"id":10301,"vocabulary":3501,"wordID":24868,"key":"dObaxrYemC_JfihgxZkbPg1EuohF8hUh","sols":[{"key":"dObaxrYemC_JfihgxZkbPg1EuohF8hUh","text":"يصرّف","dictionary":[{"raw":"يصرّف","translations":[]}]},{"key":"dObaxrYemC_JfihgxZkbPg1EuohF8hUh","text":"to change","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"change","translations":[{"type":"verb","name":{"t":"to change","m":"يغير","phonetic":"to change"},"id":13,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"oK7hmjstGU_-X-QncjpX8ER2tkakwHk9","text":"I change","phonetic":"","audio_updated_at":1543438021},"m":{"text":"أنا أغير"}},{"t":{"key":"KZsN83W6oC1ZxKzB8hqU7NLkzCR41qFh","text":"You change","phonetic":"","audio_updated_at":1543438022},"m":{"text":"أنت تغير"}},{"t":{"key":"OnOhNgHnRH-F4wRqverMK-NQevOsBmsC","text":"He changes","phonetic":"","audio_updated_at":1543438023},"m":{"text":"هو يغير"}},{"t":{"key":"Eiy9dj7TymINxyHkkmXRJ9iBKHTlJ7uq","text":"She changes","phonetic":"","audio_updated_at":1543438025},"m":{"text":"هي تغير"}},{"t":{"key":"G_Z6_VClGNs3Uq9FbD6ZN6g2awiN7jdZ","text":"We change","phonetic":"","audio_updated_at":1543438027},"m":{"text":"نحن نغير"}},{"t":{"key":"18pAO-v5Gr2dvzz49uOLbONrZZEd0mf3","text":"You change","phonetic":"","audio_updated_at":1543438029},"m":{"text":"أنتم تغيرون"}},{"t":{"key":"JvtidDCcwGYKmPB-2pxjUU7nL_SDH-9v","text":"They change","phonetic":"","audio_updated_at":1543438030},"m":{"text":"هم يغيرون"}}],"pa":[{"t":{"key":"5PAJj-nkt-aFuDwkLs5QDY_DflBOKDxU","text":"I changed","phonetic":"","audio_updated_at":1541546814},"m":{"text":"أنا غيرت"}},{"t":{"key":"-FftEz6bBYreJUSxg5wBI67rwBkSNb_Z","text":"You changed","phonetic":"","audio_updated_at":1541546815},"m":{"text":"أنت غيرت"}},{"t":{"key":"dmTVy5HfVhhNASvgYXRxtHlsTzd1PEvj","text":"He changed","phonetic":"","audio_updated_at":1541546815},"m":{"text":"هو غير"}},{"t":{"key":"BGIple_Moqd-wULYU8RF-GU8jVbI3XMq","text":"She changed","phonetic":"","audio_updated_at":1541546816},"m":{"text":"هي غيرت"}},{"t":{"key":"DZPJZif2D1_lOO2STFw8NZEDdD3MG-0d","text":"We changed","phonetic":"","audio_updated_at":1541546819},"m":{"text":"نحن غيرنا"}},{"t":{"key":"_35WeVlzQsBfn46Wi0g42p50UAgO_vNo","text":"You changed","phonetic":"","audio_updated_at":1541546820},"m":{"text":"أنتم غيرتم"}},{"t":{"key":"i6t7MC_Oiqt2R0j-zI8nOSRguHVSCnkY","text":"They changed","phonetic":"","audio_updated_at":1541546821},"m":{"text":"هم غيروا"}}],"fu":[{"t":{"key":"uPDLE5YYBKuBa32wHBCwvlwLHqRFKfrE","text":"I will change","phonetic":"","audio_updated_at":1541546822},"m":{"text":"أنا سأغير"}},{"t":{"key":"tHOqrEVQLA8O3XQ-TYyWKzAl2BGbPIfd","text":"You will change","phonetic":"","audio_updated_at":1541546823},"m":{"text":"أنت ستغير"}},{"t":{"key":"7qnfQHavjkH0BRJ3E-xgSirAnsDt-q_U","text":"He will change","phonetic":"","audio_updated_at":1541546824},"m":{"text":"هو سيغير"}},{"t":{"key":"1_vkoH2a6L3eed2Wa5_Ir90GVglfF6U9","text":"She will change","phonetic":"","audio_updated_at":1541546825},"m":{"text":"هي ستغير"}},{"t":{"key":"KHeCHAA7hbUm-OS3aFWvNQg9OOxaPYHB","text":"We will change","phonetic":"","audio_updated_at":1541546827},"m":{"text":"نحن سنغير"}},{"t":{"key":"KMQTN49JtocAe31VPojiyIVgjZNjqSwy","text":"You will change","phonetic":"","audio_updated_at":1541546828},"m":{"text":"أنتم ستغيرون"}},{"t":{"key":"ivGVGdqa7aR0dFE4E2Fbc5GvQyjmNdRQ","text":"They will change","phonetic":"","audio_updated_at":1541546829},"m":{"text":"هم سيغيرون"}}]}}]}]}],"audio_updated_at":1688291862}]}
+{
+  "vocabulary": {
+    "id": 3501,
+    "index": 1,
+    "category": 35,
+    "categoryID": 35,
+    "unifiedUnitId": 35,
+    "unifiedCategoryId": 35,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 13,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10292, 10293, 10294, 10295, 10296, 10297, 10298, 10299, 10300, 10301
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10292,
+      "vocabulary": 3501,
+      "wordID": 24199,
+      "key": "BizoVr4E8OGaEtj7D_zgjuCJQbgyrHv3",
+      "sols": [
+        {
+          "key": "BizoVr4E8OGaEtj7D_zgjuCJQbgyrHv3",
+          "text": "حساب",
+          "dictionary": [{ "raw": "حساب", "translations": [] }]
+        },
+        {
+          "key": "BizoVr4E8OGaEtj7D_zgjuCJQbgyrHv3",
+          "text": "account",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "account",
+              "translations": [
+                { "type": "dictionary", "text": "حساب", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291112
+    },
+    {
+      "id": 10293,
+      "vocabulary": 3501,
+      "wordID": 16373,
+      "key": "y07ctDHygkSh1K7PHpRov__oXfkmeD8M",
+      "sols": [
+        {
+          "key": "y07ctDHygkSh1K7PHpRov__oXfkmeD8M",
+          "text": "مصرف",
+          "dictionary": [{ "raw": "مصرف", "translations": [] }]
+        },
+        {
+          "key": "y07ctDHygkSh1K7PHpRov__oXfkmeD8M",
+          "text": "bank",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "bank",
+              "translations": [
+                { "type": "dictionary", "text": "مصرف", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436496
+    },
+    {
+      "id": 10294,
+      "vocabulary": 3501,
+      "wordID": 23602,
+      "key": "xFuoAzLC_b7w6ryXtdRXT5TEdXL9OBrg",
+      "sols": [
+        {
+          "key": "xFuoAzLC_b7w6ryXtdRXT5TEdXL9OBrg",
+          "text": "محفظة",
+          "dictionary": [{ "raw": "محفظة", "translations": [] }]
+        },
+        {
+          "key": "xFuoAzLC_b7w6ryXtdRXT5TEdXL9OBrg",
+          "text": "wallet",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "wallet",
+              "translations": [
+                { "type": "dictionary", "text": "محفظة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290433
+    },
+    {
+      "id": 10295,
+      "vocabulary": 3501,
+      "wordID": 24212,
+      "key": "VzgDgsArfMCMa4jWXBv2N7tdITmjNgwN",
+      "sols": [
+        {
+          "key": "VzgDgsArfMCMa4jWXBv2N7tdITmjNgwN",
+          "text": "رسوم",
+          "dictionary": [{ "raw": "رسوم", "translations": [] }]
+        },
+        {
+          "key": "VzgDgsArfMCMa4jWXBv2N7tdITmjNgwN",
+          "text": "fee",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "fee",
+              "translations": [
+                { "type": "dictionary", "text": "رسوم", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291126
+    },
+    {
+      "id": 10296,
+      "vocabulary": 3501,
+      "wordID": 24228,
+      "key": "Is8ERGd3SmRXpPypXOHKNfNZVFnoMIZ9",
+      "sols": [
+        {
+          "key": "Is8ERGd3SmRXpPypXOHKNfNZVFnoMIZ9",
+          "text": "رصيد",
+          "dictionary": [{ "raw": "رصيد", "translations": [] }]
+        },
+        {
+          "key": "Is8ERGd3SmRXpPypXOHKNfNZVFnoMIZ9",
+          "text": "balance",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "balance",
+              "translations": [
+                { "type": "dictionary", "text": "رصيد", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291144
+    },
+    {
+      "id": 10297,
+      "vocabulary": 3501,
+      "wordID": 24224,
+      "key": "7ralnQGRlECbPOuls4JVZEWVQiqLYg-h",
+      "sols": [
+        {
+          "key": "7ralnQGRlECbPOuls4JVZEWVQiqLYg-h",
+          "text": "تاريخ انتهاء الصلاحية",
+          "dictionary": [
+            { "raw": "تاريخ", "translations": [] },
+            { "raw": "انتهاء", "translations": [] },
+            { "raw": "الصلاحية", "translations": [] }
+          ]
+        },
+        {
+          "key": "7ralnQGRlECbPOuls4JVZEWVQiqLYg-h",
+          "text": "expiry date",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "expiry",
+              "translations": [
+                { "type": "dictionary", "text": "انتهاء", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "date",
+              "translations": [
+                { "type": "dictionary", "text": "تاريخ", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291139
+    },
+    {
+      "id": 10298,
+      "vocabulary": 3501,
+      "wordID": 24225,
+      "key": "VnI1LlJU_-qwLuXjveR8ATcqi8xMAmey",
+      "sols": [
+        {
+          "key": "VnI1LlJU_-qwLuXjveR8ATcqi8xMAmey",
+          "text": "رمز الحماية",
+          "dictionary": [
+            { "raw": "رمز", "translations": [] },
+            { "raw": "الحماية", "translations": [] }
+          ]
+        },
+        {
+          "key": "VnI1LlJU_-qwLuXjveR8ATcqi8xMAmey",
+          "text": "security code",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "security", "translations": [] },
+            {
+              "raw": "code",
+              "translations": [
+                { "type": "dictionary", "text": "رمز", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291140
+    },
+    {
+      "id": 10299,
+      "vocabulary": 3501,
+      "wordID": 24210,
+      "key": "drWuiR_fmkARBmtaGenEedxTAVgkcxGB",
+      "sols": [
+        {
+          "key": "drWuiR_fmkARBmtaGenEedxTAVgkcxGB",
+          "text": "يودع",
+          "dictionary": [{ "raw": "يودع", "translations": [] }]
+        },
+        {
+          "key": "drWuiR_fmkARBmtaGenEedxTAVgkcxGB",
+          "text": "to deposit",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "deposit", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291124
+    },
+    {
+      "id": 10300,
+      "vocabulary": 3501,
+      "wordID": 24211,
+      "key": "iFxaNgTlitvRXVGtKDdxox5qVtwg-ZJ4",
+      "sols": [
+        {
+          "key": "iFxaNgTlitvRXVGtKDdxox5qVtwg-ZJ4",
+          "text": "يحوّل",
+          "dictionary": [{ "raw": "يحوّل", "translations": [] }]
+        },
+        {
+          "key": "iFxaNgTlitvRXVGtKDdxox5qVtwg-ZJ4",
+          "text": "to transfer",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "transfer", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291125
+    },
+    {
+      "id": 10301,
+      "vocabulary": 3501,
+      "wordID": 24868,
+      "key": "dObaxrYemC_JfihgxZkbPg1EuohF8hUh",
+      "sols": [
+        {
+          "key": "dObaxrYemC_JfihgxZkbPg1EuohF8hUh",
+          "text": "يصرّف",
+          "dictionary": [{ "raw": "يصرّف", "translations": [] }]
+        },
+        {
+          "key": "dObaxrYemC_JfihgxZkbPg1EuohF8hUh",
+          "text": "to change",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "change",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to change",
+                    "m": "يغير",
+                    "phonetic": "to change"
+                  },
+                  "id": 13,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "oK7hmjstGU_-X-QncjpX8ER2tkakwHk9",
+                          "text": "I change",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438021
+                        },
+                        "m": { "text": "أنا أغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "KZsN83W6oC1ZxKzB8hqU7NLkzCR41qFh",
+                          "text": "You change",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438022
+                        },
+                        "m": { "text": "أنت تغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "OnOhNgHnRH-F4wRqverMK-NQevOsBmsC",
+                          "text": "He changes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438023
+                        },
+                        "m": { "text": "هو يغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "Eiy9dj7TymINxyHkkmXRJ9iBKHTlJ7uq",
+                          "text": "She changes",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438025
+                        },
+                        "m": { "text": "هي تغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "G_Z6_VClGNs3Uq9FbD6ZN6g2awiN7jdZ",
+                          "text": "We change",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438027
+                        },
+                        "m": { "text": "نحن نغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "18pAO-v5Gr2dvzz49uOLbONrZZEd0mf3",
+                          "text": "You change",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438029
+                        },
+                        "m": { "text": "أنتم تغيرون" }
+                      },
+                      {
+                        "t": {
+                          "key": "JvtidDCcwGYKmPB-2pxjUU7nL_SDH-9v",
+                          "text": "They change",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438030
+                        },
+                        "m": { "text": "هم يغيرون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "5PAJj-nkt-aFuDwkLs5QDY_DflBOKDxU",
+                          "text": "I changed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546814
+                        },
+                        "m": { "text": "أنا غيرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "-FftEz6bBYreJUSxg5wBI67rwBkSNb_Z",
+                          "text": "You changed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546815
+                        },
+                        "m": { "text": "أنت غيرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dmTVy5HfVhhNASvgYXRxtHlsTzd1PEvj",
+                          "text": "He changed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546815
+                        },
+                        "m": { "text": "هو غير" }
+                      },
+                      {
+                        "t": {
+                          "key": "BGIple_Moqd-wULYU8RF-GU8jVbI3XMq",
+                          "text": "She changed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546816
+                        },
+                        "m": { "text": "هي غيرت" }
+                      },
+                      {
+                        "t": {
+                          "key": "DZPJZif2D1_lOO2STFw8NZEDdD3MG-0d",
+                          "text": "We changed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546819
+                        },
+                        "m": { "text": "نحن غيرنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "_35WeVlzQsBfn46Wi0g42p50UAgO_vNo",
+                          "text": "You changed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546820
+                        },
+                        "m": { "text": "أنتم غيرتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "i6t7MC_Oiqt2R0j-zI8nOSRguHVSCnkY",
+                          "text": "They changed",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546821
+                        },
+                        "m": { "text": "هم غيروا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "uPDLE5YYBKuBa32wHBCwvlwLHqRFKfrE",
+                          "text": "I will change",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546822
+                        },
+                        "m": { "text": "أنا سأغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "tHOqrEVQLA8O3XQ-TYyWKzAl2BGbPIfd",
+                          "text": "You will change",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546823
+                        },
+                        "m": { "text": "أنت ستغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "7qnfQHavjkH0BRJ3E-xgSirAnsDt-q_U",
+                          "text": "He will change",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546824
+                        },
+                        "m": { "text": "هو سيغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "1_vkoH2a6L3eed2Wa5_Ir90GVglfF6U9",
+                          "text": "She will change",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546825
+                        },
+                        "m": { "text": "هي ستغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "KHeCHAA7hbUm-OS3aFWvNQg9OOxaPYHB",
+                          "text": "We will change",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546827
+                        },
+                        "m": { "text": "نحن سنغير" }
+                      },
+                      {
+                        "t": {
+                          "key": "KMQTN49JtocAe31VPojiyIVgjZNjqSwy",
+                          "text": "You will change",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546828
+                        },
+                        "m": { "text": "أنتم ستغيرون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ivGVGdqa7aR0dFE4E2Fbc5GvQyjmNdRQ",
+                          "text": "They will change",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546829
+                        },
+                        "m": { "text": "هم سيغيرون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291862
+    }
+  ]
+}

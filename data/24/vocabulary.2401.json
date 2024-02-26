@@ -1,1 +1,729 @@
-{"vocabulary":{"id":2401,"index":1,"category":24,"categoryID":24,"unifiedUnitId":24,"unifiedCategoryId":24,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":12,"countPhrases":0,"countDone":0,"vItems":[10342,10343,10344,10345,10346,10347,10348,10349,10350,10351]},"vItems":[{"id":10342,"vocabulary":2401,"wordID":17766,"key":"RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY","sols":[{"key":"RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY","text":"كرة المضرب","dictionary":[{"raw":"كرة","translations":[]},{"raw":"المضرب","translations":[]}]},{"key":"RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY","text":"tennis","phonetic":"","dictionary":[{"raw":"tennis","translations":[{"type":"dictionary","text":"كرة المضرب","phonetic":null}]}]}],"audio_updated_at":1543437237},{"id":10343,"vocabulary":2401,"wordID":17682,"key":"BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6","sols":[{"key":"BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6","text":"كرة القدم","dictionary":[{"raw":"كرة","translations":[]},{"raw":"القدم","translations":[]}]},{"key":"BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6","text":"football","phonetic":"","dictionary":[{"raw":"football","translations":[{"type":"dictionary","text":"كرة القدم","phonetic":null}]}]}],"audio_updated_at":1543437214},{"id":10344,"vocabulary":2401,"wordID":17687,"key":"oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11","sols":[{"key":"oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11","text":"الغولف","dictionary":[{"raw":"الغولف","translations":[]}]},{"key":"oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11","text":"golf","phonetic":"","dictionary":[{"raw":"golf","translations":[{"type":"dictionary","text":"الغولف","phonetic":null}]}]}],"audio_updated_at":1543437215},{"id":10345,"vocabulary":2401,"wordID":17621,"key":"MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph","sols":[{"key":"MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph","text":"كرة السلة","dictionary":[{"raw":"كرة","translations":[]},{"raw":"السلة","translations":[]}]},{"key":"MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph","text":"basketball","phonetic":"","dictionary":[{"raw":"basketball","translations":[{"type":"dictionary","text":"كرة السلة","phonetic":null}]}]}],"audio_updated_at":1543437205},{"id":10346,"vocabulary":2401,"wordID":16424,"key":"BEm63ZMzLMubMAhtNEG8xal7lgEF0S8Y","sols":[{"key":"BEm63ZMzLMubMAhtNEG8xal7lgEF0S8Y","text":"استاد","dictionary":[{"raw":"استاد","translations":[]}]},{"key":"BEm63ZMzLMubMAhtNEG8xal7lgEF0S8Y","text":"stadium","phonetic":"","dictionary":[{"raw":"stadium","translations":[{"type":"dictionary","text":"استاد","phonetic":null}]}]}],"audio_updated_at":1543436529},{"id":10347,"vocabulary":2401,"wordID":23878,"key":"yWwc6UwmS9rTq33dzExiwqVV5THQ-pC5","sols":[{"key":"yWwc6UwmS9rTq33dzExiwqVV5THQ-pC5","text":"بركة سباحة","dictionary":[{"raw":"بركة","translations":[]},{"raw":"سباحة","translations":[]}]},{"key":"yWwc6UwmS9rTq33dzExiwqVV5THQ-pC5","text":"swimming pool","phonetic":"","dictionary":[{"raw":"swimming","translations":[{"type":"dictionary","text":"سباحة","phonetic":null}]},{"raw":"pool","translations":[{"type":"dictionary","text":"سباحة","phonetic":null}]}]}],"audio_updated_at":1688290754},{"id":10348,"vocabulary":2401,"wordID":23977,"key":"3hiIPE3ee0bulqrgYBe-1JZKaKtjPYyB","sols":[{"key":"3hiIPE3ee0bulqrgYBe-1JZKaKtjPYyB","text":"يسبح","dictionary":[{"raw":"يسبح","translations":[]}]},{"key":"3hiIPE3ee0bulqrgYBe-1JZKaKtjPYyB","text":"to swim","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"swim","translations":[]}]}],"audio_updated_at":1688290865},{"id":10349,"vocabulary":2401,"wordID":23945,"key":"kZrjo6Jbh-rUE9uycbA_mEoCiNp91rus","sols":[{"key":"kZrjo6Jbh-rUE9uycbA_mEoCiNp91rus","text":"يركب الأمواج","dictionary":[{"raw":"يركب","translations":[]},{"raw":"الأمواج","translations":[]}]},{"key":"kZrjo6Jbh-rUE9uycbA_mEoCiNp91rus","text":"to surf","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"surf","translations":[{"type":"dictionary","text":"الأمواج","phonetic":null}]}]}],"audio_updated_at":1688290829},{"id":10350,"vocabulary":2401,"wordID":14017,"key":"Ffu3Mbb9cjjbPHglwlED8KhdI36vHYwi","sols":[{"key":"Ffu3Mbb9cjjbPHglwlED8KhdI36vHYwi","text":"يركض","dictionary":[{"raw":"يركض","translations":[{"type":"verb","name":{"t":"to run","m":"يركض","phonetic":"to run"},"id":69,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"RsbJxudYt42N0s0Ux3DzxRz8kbzFwbis","text":"I run","phonetic":"","audio_updated_at":1543438376},"m":{"text":"أنا أركض"}},{"t":{"key":"md55uG5koJMM8tUnjtscsmQlcs8w7MqM","text":"You run","phonetic":"","audio_updated_at":1543438378},"m":{"text":"أنت تركض"}},{"t":{"key":"vrUPBalECawCSSAeP2RB4CphcQMqcNI5","text":"He runs","phonetic":"","audio_updated_at":1543438379},"m":{"text":"هو يركض"}},{"t":{"key":"eyjClNJYhSyNsIP9mWyGPjmnrdCeU_Me","text":"She runs","phonetic":"","audio_updated_at":1543438380},"m":{"text":"هي تركض"}},{"t":{"key":"ktozM3qL9ODySCuqOzxY0JF6cH00Mloj","text":"We run","phonetic":"","audio_updated_at":1543438381},"m":{"text":"نحن نركض"}},{"t":{"key":"y734XrnXPUyGVHDsXr1LIuDR4LEWhn8x","text":"You run","phonetic":"","audio_updated_at":1543438383},"m":{"text":"أنتم تركضون"}},{"t":{"key":"ydD6DTK0Fr0q-EubAEUid0sGRxP5qs2B","text":"They run","phonetic":"","audio_updated_at":1543438384},"m":{"text":"هم يركضون"}}],"pa":[{"t":{"key":"0YXOfF3iebBEwsfQibu-ltwS4c3qM0bT","text":"I ran","phonetic":"","audio_updated_at":1541548208},"m":{"text":"أنا ركضت"}},{"t":{"key":"qd3mobxXXKmchFkPMpwZvU71Om5jDC2W","text":"You ran","phonetic":"","audio_updated_at":1541548209},"m":{"text":"أنت ركضت"}},{"t":{"key":"FmcEVMVSK5I9UC3wTOXTLBz1x3dZ-PiT","text":"He ran","phonetic":"","audio_updated_at":1541548211},"m":{"text":"هو ركض"}},{"t":{"key":"RQMQA7j9riMj7gheFuPPkIJDh0woj82e","text":"She ran","phonetic":"","audio_updated_at":1541548212},"m":{"text":"هي ركضت"}},{"t":{"key":"qiGnWRH9qk5q9OkSS62ERboR0grh-Gk0","text":"We ran","phonetic":"","audio_updated_at":1541548214},"m":{"text":"نحن ركضنا"}},{"t":{"key":"nghxDZjgEQYoPvKbTnpn36t4Lcs6J8n5","text":"You ran","phonetic":"","audio_updated_at":1541548215},"m":{"text":"أنتم ركضتم"}},{"t":{"key":"mvqYRc5TxXRQghkV0aHWACuDsDEXpCSU","text":"They ran","phonetic":"","audio_updated_at":1541548216},"m":{"text":"هم ركضوا"}}],"fu":[{"t":{"key":"L5WVvEcHdt4K7ieFoy2zMkb9w6eyw1di","text":"I will run","phonetic":"","audio_updated_at":1541548217},"m":{"text":"أنا سأركض"}},{"t":{"key":"EMOu41yiKT4D8eEtO0_bX-wA0jti2fDn","text":"You will run","phonetic":"","audio_updated_at":1541548218},"m":{"text":"أنت ستركض"}},{"t":{"key":"Gsrh1mVyAElwvTG_HKjB5qB9QARMr00Q","text":"He will run","phonetic":"","audio_updated_at":1541548219},"m":{"text":"هو سيركض"}},{"t":{"key":"rvwTTIEtAtR2TwK7bkRJQ1xh2q8cAidV","text":"She will run","phonetic":"","audio_updated_at":1541548220},"m":{"text":"هي ستركض"}},{"t":{"key":"d9Cf9mNmv9daEeUc7ubOfYa5NNVighI6","text":"We will run","phonetic":"","audio_updated_at":1541548222},"m":{"text":"نحن سنركض"}},{"t":{"key":"Xp8IMiEcHQhUraFiJcbPGkMGMG1hYKvm","text":"You will run","phonetic":"","audio_updated_at":1541548223},"m":{"text":"أنتم ستركضون"}},{"t":{"key":"NmMAGef2w8SkLBM1aGhqiBxQw0Kub8WW","text":"They will run","phonetic":"","audio_updated_at":1541548224},"m":{"text":"هم سيركضون"}}]}}]}]},{"key":"Ffu3Mbb9cjjbPHglwlED8KhdI36vHYwi","text":"to run","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"run","translations":[{"type":"dictionary","text":"يركض","phonetic":null},{"type":"verb","name":{"t":"to run","m":"يركض","phonetic":"to run"},"id":69,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"RsbJxudYt42N0s0Ux3DzxRz8kbzFwbis","text":"I run","phonetic":"","audio_updated_at":1543438376},"m":{"text":"أنا أركض"}},{"t":{"key":"md55uG5koJMM8tUnjtscsmQlcs8w7MqM","text":"You run","phonetic":"","audio_updated_at":1543438378},"m":{"text":"أنت تركض"}},{"t":{"key":"vrUPBalECawCSSAeP2RB4CphcQMqcNI5","text":"He runs","phonetic":"","audio_updated_at":1543438379},"m":{"text":"هو يركض"}},{"t":{"key":"eyjClNJYhSyNsIP9mWyGPjmnrdCeU_Me","text":"She runs","phonetic":"","audio_updated_at":1543438380},"m":{"text":"هي تركض"}},{"t":{"key":"ktozM3qL9ODySCuqOzxY0JF6cH00Mloj","text":"We run","phonetic":"","audio_updated_at":1543438381},"m":{"text":"نحن نركض"}},{"t":{"key":"y734XrnXPUyGVHDsXr1LIuDR4LEWhn8x","text":"You run","phonetic":"","audio_updated_at":1543438383},"m":{"text":"أنتم تركضون"}},{"t":{"key":"ydD6DTK0Fr0q-EubAEUid0sGRxP5qs2B","text":"They run","phonetic":"","audio_updated_at":1543438384},"m":{"text":"هم يركضون"}}],"pa":[{"t":{"key":"0YXOfF3iebBEwsfQibu-ltwS4c3qM0bT","text":"I ran","phonetic":"","audio_updated_at":1541548208},"m":{"text":"أنا ركضت"}},{"t":{"key":"qd3mobxXXKmchFkPMpwZvU71Om5jDC2W","text":"You ran","phonetic":"","audio_updated_at":1541548209},"m":{"text":"أنت ركضت"}},{"t":{"key":"FmcEVMVSK5I9UC3wTOXTLBz1x3dZ-PiT","text":"He ran","phonetic":"","audio_updated_at":1541548211},"m":{"text":"هو ركض"}},{"t":{"key":"RQMQA7j9riMj7gheFuPPkIJDh0woj82e","text":"She ran","phonetic":"","audio_updated_at":1541548212},"m":{"text":"هي ركضت"}},{"t":{"key":"qiGnWRH9qk5q9OkSS62ERboR0grh-Gk0","text":"We ran","phonetic":"","audio_updated_at":1541548214},"m":{"text":"نحن ركضنا"}},{"t":{"key":"nghxDZjgEQYoPvKbTnpn36t4Lcs6J8n5","text":"You ran","phonetic":"","audio_updated_at":1541548215},"m":{"text":"أنتم ركضتم"}},{"t":{"key":"mvqYRc5TxXRQghkV0aHWACuDsDEXpCSU","text":"They ran","phonetic":"","audio_updated_at":1541548216},"m":{"text":"هم ركضوا"}}],"fu":[{"t":{"key":"L5WVvEcHdt4K7ieFoy2zMkb9w6eyw1di","text":"I will run","phonetic":"","audio_updated_at":1541548217},"m":{"text":"أنا سأركض"}},{"t":{"key":"EMOu41yiKT4D8eEtO0_bX-wA0jti2fDn","text":"You will run","phonetic":"","audio_updated_at":1541548218},"m":{"text":"أنت ستركض"}},{"t":{"key":"Gsrh1mVyAElwvTG_HKjB5qB9QARMr00Q","text":"He will run","phonetic":"","audio_updated_at":1541548219},"m":{"text":"هو سيركض"}},{"t":{"key":"rvwTTIEtAtR2TwK7bkRJQ1xh2q8cAidV","text":"She will run","phonetic":"","audio_updated_at":1541548220},"m":{"text":"هي ستركض"}},{"t":{"key":"d9Cf9mNmv9daEeUc7ubOfYa5NNVighI6","text":"We will run","phonetic":"","audio_updated_at":1541548222},"m":{"text":"نحن سنركض"}},{"t":{"key":"Xp8IMiEcHQhUraFiJcbPGkMGMG1hYKvm","text":"You will run","phonetic":"","audio_updated_at":1541548223},"m":{"text":"أنتم ستركضون"}},{"t":{"key":"NmMAGef2w8SkLBM1aGhqiBxQw0Kub8WW","text":"They will run","phonetic":"","audio_updated_at":1541548224},"m":{"text":"هم سيركضون"}}]}}]}]}],"audio_updated_at":1639519859},{"id":10351,"vocabulary":2401,"wordID":23971,"key":"vTJVVcy5CrHnRPVeGvk9-NT3-rVS7AeW","sols":[{"key":"vTJVVcy5CrHnRPVeGvk9-NT3-rVS7AeW","text":"يتمرن","dictionary":[{"raw":"يتمرن","translations":[]}]},{"key":"vTJVVcy5CrHnRPVeGvk9-NT3-rVS7AeW","text":"to exercise","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"exercise","translations":[]}]}],"audio_updated_at":1688290858}]}
+{
+  "vocabulary": {
+    "id": 2401,
+    "index": 1,
+    "category": 24,
+    "categoryID": 24,
+    "unifiedUnitId": 24,
+    "unifiedCategoryId": 24,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 12,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10342, 10343, 10344, 10345, 10346, 10347, 10348, 10349, 10350, 10351
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10342,
+      "vocabulary": 2401,
+      "wordID": 17766,
+      "key": "RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY",
+      "sols": [
+        {
+          "key": "RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY",
+          "text": "كرة المضرب",
+          "dictionary": [
+            { "raw": "كرة", "translations": [] },
+            { "raw": "المضرب", "translations": [] }
+          ]
+        },
+        {
+          "key": "RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY",
+          "text": "tennis",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "tennis",
+              "translations": [
+                { "type": "dictionary", "text": "كرة المضرب", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437237
+    },
+    {
+      "id": 10343,
+      "vocabulary": 2401,
+      "wordID": 17682,
+      "key": "BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6",
+      "sols": [
+        {
+          "key": "BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6",
+          "text": "كرة القدم",
+          "dictionary": [
+            { "raw": "كرة", "translations": [] },
+            { "raw": "القدم", "translations": [] }
+          ]
+        },
+        {
+          "key": "BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6",
+          "text": "football",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "football",
+              "translations": [
+                { "type": "dictionary", "text": "كرة القدم", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437214
+    },
+    {
+      "id": 10344,
+      "vocabulary": 2401,
+      "wordID": 17687,
+      "key": "oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11",
+      "sols": [
+        {
+          "key": "oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11",
+          "text": "الغولف",
+          "dictionary": [{ "raw": "الغولف", "translations": [] }]
+        },
+        {
+          "key": "oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11",
+          "text": "golf",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "golf",
+              "translations": [
+                { "type": "dictionary", "text": "الغولف", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437215
+    },
+    {
+      "id": 10345,
+      "vocabulary": 2401,
+      "wordID": 17621,
+      "key": "MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph",
+      "sols": [
+        {
+          "key": "MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph",
+          "text": "كرة السلة",
+          "dictionary": [
+            { "raw": "كرة", "translations": [] },
+            { "raw": "السلة", "translations": [] }
+          ]
+        },
+        {
+          "key": "MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph",
+          "text": "basketball",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "basketball",
+              "translations": [
+                { "type": "dictionary", "text": "كرة السلة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437205
+    },
+    {
+      "id": 10346,
+      "vocabulary": 2401,
+      "wordID": 16424,
+      "key": "BEm63ZMzLMubMAhtNEG8xal7lgEF0S8Y",
+      "sols": [
+        {
+          "key": "BEm63ZMzLMubMAhtNEG8xal7lgEF0S8Y",
+          "text": "استاد",
+          "dictionary": [{ "raw": "استاد", "translations": [] }]
+        },
+        {
+          "key": "BEm63ZMzLMubMAhtNEG8xal7lgEF0S8Y",
+          "text": "stadium",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "stadium",
+              "translations": [
+                { "type": "dictionary", "text": "استاد", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436529
+    },
+    {
+      "id": 10347,
+      "vocabulary": 2401,
+      "wordID": 23878,
+      "key": "yWwc6UwmS9rTq33dzExiwqVV5THQ-pC5",
+      "sols": [
+        {
+          "key": "yWwc6UwmS9rTq33dzExiwqVV5THQ-pC5",
+          "text": "بركة سباحة",
+          "dictionary": [
+            { "raw": "بركة", "translations": [] },
+            { "raw": "سباحة", "translations": [] }
+          ]
+        },
+        {
+          "key": "yWwc6UwmS9rTq33dzExiwqVV5THQ-pC5",
+          "text": "swimming pool",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "swimming",
+              "translations": [
+                { "type": "dictionary", "text": "سباحة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "pool",
+              "translations": [
+                { "type": "dictionary", "text": "سباحة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290754
+    },
+    {
+      "id": 10348,
+      "vocabulary": 2401,
+      "wordID": 23977,
+      "key": "3hiIPE3ee0bulqrgYBe-1JZKaKtjPYyB",
+      "sols": [
+        {
+          "key": "3hiIPE3ee0bulqrgYBe-1JZKaKtjPYyB",
+          "text": "يسبح",
+          "dictionary": [{ "raw": "يسبح", "translations": [] }]
+        },
+        {
+          "key": "3hiIPE3ee0bulqrgYBe-1JZKaKtjPYyB",
+          "text": "to swim",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "swim", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290865
+    },
+    {
+      "id": 10349,
+      "vocabulary": 2401,
+      "wordID": 23945,
+      "key": "kZrjo6Jbh-rUE9uycbA_mEoCiNp91rus",
+      "sols": [
+        {
+          "key": "kZrjo6Jbh-rUE9uycbA_mEoCiNp91rus",
+          "text": "يركب الأمواج",
+          "dictionary": [
+            { "raw": "يركب", "translations": [] },
+            { "raw": "الأمواج", "translations": [] }
+          ]
+        },
+        {
+          "key": "kZrjo6Jbh-rUE9uycbA_mEoCiNp91rus",
+          "text": "to surf",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "surf",
+              "translations": [
+                { "type": "dictionary", "text": "الأمواج", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290829
+    },
+    {
+      "id": 10350,
+      "vocabulary": 2401,
+      "wordID": 14017,
+      "key": "Ffu3Mbb9cjjbPHglwlED8KhdI36vHYwi",
+      "sols": [
+        {
+          "key": "Ffu3Mbb9cjjbPHglwlED8KhdI36vHYwi",
+          "text": "يركض",
+          "dictionary": [
+            {
+              "raw": "يركض",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to run", "m": "يركض", "phonetic": "to run" },
+                  "id": 69,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "RsbJxudYt42N0s0Ux3DzxRz8kbzFwbis",
+                          "text": "I run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438376
+                        },
+                        "m": { "text": "أنا أركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "md55uG5koJMM8tUnjtscsmQlcs8w7MqM",
+                          "text": "You run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438378
+                        },
+                        "m": { "text": "أنت تركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "vrUPBalECawCSSAeP2RB4CphcQMqcNI5",
+                          "text": "He runs",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438379
+                        },
+                        "m": { "text": "هو يركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "eyjClNJYhSyNsIP9mWyGPjmnrdCeU_Me",
+                          "text": "She runs",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438380
+                        },
+                        "m": { "text": "هي تركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "ktozM3qL9ODySCuqOzxY0JF6cH00Mloj",
+                          "text": "We run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438381
+                        },
+                        "m": { "text": "نحن نركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "y734XrnXPUyGVHDsXr1LIuDR4LEWhn8x",
+                          "text": "You run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438383
+                        },
+                        "m": { "text": "أنتم تركضون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ydD6DTK0Fr0q-EubAEUid0sGRxP5qs2B",
+                          "text": "They run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438384
+                        },
+                        "m": { "text": "هم يركضون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "0YXOfF3iebBEwsfQibu-ltwS4c3qM0bT",
+                          "text": "I ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548208
+                        },
+                        "m": { "text": "أنا ركضت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qd3mobxXXKmchFkPMpwZvU71Om5jDC2W",
+                          "text": "You ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548209
+                        },
+                        "m": { "text": "أنت ركضت" }
+                      },
+                      {
+                        "t": {
+                          "key": "FmcEVMVSK5I9UC3wTOXTLBz1x3dZ-PiT",
+                          "text": "He ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548211
+                        },
+                        "m": { "text": "هو ركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "RQMQA7j9riMj7gheFuPPkIJDh0woj82e",
+                          "text": "She ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548212
+                        },
+                        "m": { "text": "هي ركضت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qiGnWRH9qk5q9OkSS62ERboR0grh-Gk0",
+                          "text": "We ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548214
+                        },
+                        "m": { "text": "نحن ركضنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "nghxDZjgEQYoPvKbTnpn36t4Lcs6J8n5",
+                          "text": "You ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548215
+                        },
+                        "m": { "text": "أنتم ركضتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "mvqYRc5TxXRQghkV0aHWACuDsDEXpCSU",
+                          "text": "They ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548216
+                        },
+                        "m": { "text": "هم ركضوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "L5WVvEcHdt4K7ieFoy2zMkb9w6eyw1di",
+                          "text": "I will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548217
+                        },
+                        "m": { "text": "أنا سأركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "EMOu41yiKT4D8eEtO0_bX-wA0jti2fDn",
+                          "text": "You will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548218
+                        },
+                        "m": { "text": "أنت ستركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "Gsrh1mVyAElwvTG_HKjB5qB9QARMr00Q",
+                          "text": "He will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548219
+                        },
+                        "m": { "text": "هو سيركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "rvwTTIEtAtR2TwK7bkRJQ1xh2q8cAidV",
+                          "text": "She will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548220
+                        },
+                        "m": { "text": "هي ستركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "d9Cf9mNmv9daEeUc7ubOfYa5NNVighI6",
+                          "text": "We will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548222
+                        },
+                        "m": { "text": "نحن سنركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "Xp8IMiEcHQhUraFiJcbPGkMGMG1hYKvm",
+                          "text": "You will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548223
+                        },
+                        "m": { "text": "أنتم ستركضون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmMAGef2w8SkLBM1aGhqiBxQw0Kub8WW",
+                          "text": "They will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548224
+                        },
+                        "m": { "text": "هم سيركضون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "Ffu3Mbb9cjjbPHglwlED8KhdI36vHYwi",
+          "text": "to run",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "run",
+              "translations": [
+                { "type": "dictionary", "text": "يركض", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to run", "m": "يركض", "phonetic": "to run" },
+                  "id": 69,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "RsbJxudYt42N0s0Ux3DzxRz8kbzFwbis",
+                          "text": "I run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438376
+                        },
+                        "m": { "text": "أنا أركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "md55uG5koJMM8tUnjtscsmQlcs8w7MqM",
+                          "text": "You run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438378
+                        },
+                        "m": { "text": "أنت تركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "vrUPBalECawCSSAeP2RB4CphcQMqcNI5",
+                          "text": "He runs",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438379
+                        },
+                        "m": { "text": "هو يركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "eyjClNJYhSyNsIP9mWyGPjmnrdCeU_Me",
+                          "text": "She runs",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438380
+                        },
+                        "m": { "text": "هي تركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "ktozM3qL9ODySCuqOzxY0JF6cH00Mloj",
+                          "text": "We run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438381
+                        },
+                        "m": { "text": "نحن نركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "y734XrnXPUyGVHDsXr1LIuDR4LEWhn8x",
+                          "text": "You run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438383
+                        },
+                        "m": { "text": "أنتم تركضون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ydD6DTK0Fr0q-EubAEUid0sGRxP5qs2B",
+                          "text": "They run",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438384
+                        },
+                        "m": { "text": "هم يركضون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "0YXOfF3iebBEwsfQibu-ltwS4c3qM0bT",
+                          "text": "I ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548208
+                        },
+                        "m": { "text": "أنا ركضت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qd3mobxXXKmchFkPMpwZvU71Om5jDC2W",
+                          "text": "You ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548209
+                        },
+                        "m": { "text": "أنت ركضت" }
+                      },
+                      {
+                        "t": {
+                          "key": "FmcEVMVSK5I9UC3wTOXTLBz1x3dZ-PiT",
+                          "text": "He ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548211
+                        },
+                        "m": { "text": "هو ركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "RQMQA7j9riMj7gheFuPPkIJDh0woj82e",
+                          "text": "She ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548212
+                        },
+                        "m": { "text": "هي ركضت" }
+                      },
+                      {
+                        "t": {
+                          "key": "qiGnWRH9qk5q9OkSS62ERboR0grh-Gk0",
+                          "text": "We ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548214
+                        },
+                        "m": { "text": "نحن ركضنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "nghxDZjgEQYoPvKbTnpn36t4Lcs6J8n5",
+                          "text": "You ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548215
+                        },
+                        "m": { "text": "أنتم ركضتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "mvqYRc5TxXRQghkV0aHWACuDsDEXpCSU",
+                          "text": "They ran",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548216
+                        },
+                        "m": { "text": "هم ركضوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "L5WVvEcHdt4K7ieFoy2zMkb9w6eyw1di",
+                          "text": "I will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548217
+                        },
+                        "m": { "text": "أنا سأركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "EMOu41yiKT4D8eEtO0_bX-wA0jti2fDn",
+                          "text": "You will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548218
+                        },
+                        "m": { "text": "أنت ستركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "Gsrh1mVyAElwvTG_HKjB5qB9QARMr00Q",
+                          "text": "He will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548219
+                        },
+                        "m": { "text": "هو سيركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "rvwTTIEtAtR2TwK7bkRJQ1xh2q8cAidV",
+                          "text": "She will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548220
+                        },
+                        "m": { "text": "هي ستركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "d9Cf9mNmv9daEeUc7ubOfYa5NNVighI6",
+                          "text": "We will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548222
+                        },
+                        "m": { "text": "نحن سنركض" }
+                      },
+                      {
+                        "t": {
+                          "key": "Xp8IMiEcHQhUraFiJcbPGkMGMG1hYKvm",
+                          "text": "You will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548223
+                        },
+                        "m": { "text": "أنتم ستركضون" }
+                      },
+                      {
+                        "t": {
+                          "key": "NmMAGef2w8SkLBM1aGhqiBxQw0Kub8WW",
+                          "text": "They will run",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548224
+                        },
+                        "m": { "text": "هم سيركضون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639519859
+    },
+    {
+      "id": 10351,
+      "vocabulary": 2401,
+      "wordID": 23971,
+      "key": "vTJVVcy5CrHnRPVeGvk9-NT3-rVS7AeW",
+      "sols": [
+        {
+          "key": "vTJVVcy5CrHnRPVeGvk9-NT3-rVS7AeW",
+          "text": "يتمرن",
+          "dictionary": [{ "raw": "يتمرن", "translations": [] }]
+        },
+        {
+          "key": "vTJVVcy5CrHnRPVeGvk9-NT3-rVS7AeW",
+          "text": "to exercise",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "exercise", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290858
+    }
+  ]
+}

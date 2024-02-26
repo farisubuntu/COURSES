@@ -1,1 +1,712 @@
-{"vocabulary":{"id":3901,"index":1,"category":39,"categoryID":39,"unifiedUnitId":39,"unifiedCategoryId":39,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":11,"countPhrases":0,"countDone":0,"vItems":[10312,10313,10314,10315,10316,10317,10318,10319,10320,10321]},"vItems":[{"id":10312,"vocabulary":3901,"wordID":24393,"key":"osaRnDYR6EIXgSADThGW_xWFo5egfPK_","sols":[{"key":"osaRnDYR6EIXgSADThGW_xWFo5egfPK_","text":"فاقد للوعي","dictionary":[{"raw":"فاقد","translations":[]},{"raw":"للوعي","translations":[]}]},{"key":"osaRnDYR6EIXgSADThGW_xWFo5egfPK_","text":"unconscious","phonetic":"","dictionary":[{"raw":"unconscious","translations":[]}]}],"audio_updated_at":1688291331},{"id":10313,"vocabulary":3901,"wordID":24399,"key":"R0xB2Jzy8EjJ4MJDLnGNptxBv5yb50bL","sols":[{"key":"R0xB2Jzy8EjJ4MJDLnGNptxBv5yb50bL","text":"مصاب","dictionary":[{"raw":"مصاب","translations":[]}]},{"key":"R0xB2Jzy8EjJ4MJDLnGNptxBv5yb50bL","text":"hurt","phonetic":"","dictionary":[{"raw":"hurt","translations":[]}]}],"audio_updated_at":1688291338},{"id":10314,"vocabulary":3901,"wordID":24392,"key":"dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs","sols":[{"key":"dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs","text":"حادث","dictionary":[{"raw":"حادث","translations":[]}]},{"key":"dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs","text":"accident","phonetic":"","dictionary":[{"raw":"accident","translations":[{"type":"dictionary","text":"حادث","phonetic":null}]}]}],"audio_updated_at":1688291330},{"id":10315,"vocabulary":3901,"wordID":24391,"key":"5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0","sols":[{"key":"5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0","text":"حالة طارئة","dictionary":[{"raw":"حالة","translations":[]},{"raw":"طارئة","translations":[]}]},{"key":"5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0","text":"emergency","phonetic":"","dictionary":[{"raw":"emergency","translations":[{"type":"dictionary","text":"حالة","phonetic":null}]}]}],"audio_updated_at":1688291329},{"id":10316,"vocabulary":3901,"wordID":16721,"key":"g1iiBSYQDcA9DUX3gKyM3F-sJQ5jqArd","sols":[{"key":"g1iiBSYQDcA9DUX3gKyM3F-sJQ5jqArd","text":"شرطة","dictionary":[{"raw":"شرطة","translations":[]}]},{"key":"g1iiBSYQDcA9DUX3gKyM3F-sJQ5jqArd","text":"police","phonetic":"","dictionary":[{"raw":"police","translations":[{"type":"dictionary","text":"شرطة","phonetic":null}]}]}],"audio_updated_at":1543437136},{"id":10317,"vocabulary":3901,"wordID":24401,"key":"zjKmBl6BB1rSeDv2FwsuZeT_BS7mlduy","sols":[{"key":"zjKmBl6BB1rSeDv2FwsuZeT_BS7mlduy","text":"رجل إطفاء","dictionary":[{"raw":"رجل","translations":[]},{"raw":"إطفاء","translations":[]}]},{"key":"zjKmBl6BB1rSeDv2FwsuZeT_BS7mlduy","text":"firefighter","phonetic":"","dictionary":[{"raw":"firefighter","translations":[]}]}],"audio_updated_at":1688739581},{"id":10318,"vocabulary":3901,"wordID":18344,"key":"VjKpmogIzXDFiwUfjaFBkn5eHO5O6hY4","sols":[{"key":"VjKpmogIzXDFiwUfjaFBkn5eHO5O6hY4","text":"حريق","dictionary":[{"raw":"حريق","translations":[]}]},{"key":"VjKpmogIzXDFiwUfjaFBkn5eHO5O6hY4","text":"fire","phonetic":"","dictionary":[{"raw":"fire","translations":[{"type":"dictionary","text":"حريق","phonetic":null}]}]}],"audio_updated_at":1543437333},{"id":10319,"vocabulary":3901,"wordID":24402,"key":"buckG8v963O8bROH-akCKoUmA1jZgSta","sols":[{"key":"buckG8v963O8bROH-akCKoUmA1jZgSta","text":"فيضان","dictionary":[{"raw":"فيضان","translations":[]}]},{"key":"buckG8v963O8bROH-akCKoUmA1jZgSta","text":"flood","phonetic":"","dictionary":[{"raw":"flood","translations":[{"type":"dictionary","text":"فيضان","phonetic":null}]}]}],"audio_updated_at":1688291341},{"id":10320,"vocabulary":3901,"wordID":24394,"key":"PoPvsZ34YG7HbD0UR3TI-cLlYSzHnUGL","sols":[{"key":"PoPvsZ34YG7HbD0UR3TI-cLlYSzHnUGL","text":"يسرق","dictionary":[{"raw":"يسرق","translations":[{"type":"verb","name":{"t":"to steal","m":"يسرق","phonetic":"to steal"},"id":80,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"YAL4xaD8rAV5SLpZhV_pgI92lGNJSgbL","text":"I steal","phonetic":"","audio_updated_at":1541548479},"m":{"text":"أنا أسرق"}},{"t":{"key":"mGd50spEa2dxMKzRRgp4BbYKvGEhmIBB","text":"You steal","phonetic":"","audio_updated_at":1541548480},"m":{"text":"أنت تسرق"}},{"t":{"key":"3j7nYoMS7j_6pPqU86XuSL-ZahE8VZ1P","text":"He steals","phonetic":"","audio_updated_at":1541548481},"m":{"text":"هو يسرق"}},{"t":{"key":"uvHvXcRzrMXuDewyNwnL_lH7j7-LpSJW","text":"She steals","phonetic":"","audio_updated_at":1541548482},"m":{"text":"هي تسرق"}},{"t":{"key":"X_HKlKQOVrTOeDXSPdnYStS6xmUItWKS","text":"We steal","phonetic":"","audio_updated_at":1541548485},"m":{"text":"نحن نسرق"}},{"t":{"key":"dcG9BpClgEUrSfs24wsfjOCqLSYJ3i1J","text":"You steal","phonetic":"","audio_updated_at":1541548486},"m":{"text":"أنتم تسرقون"}},{"t":{"key":"UkpxvUW-isI7orL99N-4XrLUd4aA_2ub","text":"They steal","phonetic":"","audio_updated_at":1541548487},"m":{"text":"هم يسرقون"}}],"pa":[{"t":{"key":"DM9Jt8Z1Hh4q_r5Tmeu_tDWViQSFw3Pb","text":"I stole","phonetic":"","audio_updated_at":1541548488},"m":{"text":"أنا سرقت"}},{"t":{"key":"gyII94dG0XTFcT40E0So3UJCKsp6dL_X","text":"You stole","phonetic":"","audio_updated_at":1541548489},"m":{"text":"أنت سرقت"}},{"t":{"key":"EPVY1QiwHTPn1BsyiVHlk9UP6x_ipYZh","text":"He stole","phonetic":"","audio_updated_at":1541548490},"m":{"text":"هو سرق"}},{"t":{"key":"av37Lbo5efjlz1wPaQEz98ftHSVy80x1","text":"She stole","phonetic":"","audio_updated_at":1541548491},"m":{"text":"هي سرقت"}},{"t":{"key":"Wy6a9RiSPs9AjvNj_3c46UqVdKD9zx6F","text":"We stole","phonetic":"","audio_updated_at":1541548493},"m":{"text":"نحن سرقنا"}},{"t":{"key":"qcEZ7XtMMYPN2fIODu9kaMR7o6iiBLST","text":"You stole","phonetic":"","audio_updated_at":1541548494},"m":{"text":"أنتم سرقتم"}},{"t":{"key":"7IC80RGmCrBrDGFfxxmM0G_2GmB2Wwtq","text":"They stole","phonetic":"","audio_updated_at":1541548495},"m":{"text":"هم سرقوا"}}],"fu":[{"t":{"key":"TaI6pcmOETvx8in_G0k7X9p6k9NtZeQR","text":"I will steal","phonetic":"","audio_updated_at":1541548496},"m":{"text":"أنا سأسرق"}},{"t":{"key":"biN-bAZ_ffkdmeShisIY2R-q_zPBeGtF","text":"You will steal","phonetic":"","audio_updated_at":1541548497},"m":{"text":"أنت ستسرق"}},{"t":{"key":"v1ipWl1gB6fih1HaRwpzyjbkSQFOdB4t","text":"He will steal","phonetic":"","audio_updated_at":1541548498},"m":{"text":"هو سيسرق"}},{"t":{"key":"oKeK0ISBHjP9DShTuMkNczf7k_x5n-6n","text":"She will steal","phonetic":"","audio_updated_at":1541548499},"m":{"text":"هي ستسرق"}},{"t":{"key":"Azi0OjgFBKElRi1-xfxFrh53o94UY45o","text":"We will steal","phonetic":"","audio_updated_at":1541548501},"m":{"text":"نحن سنسرق"}},{"t":{"key":"F6Xer1BZ5iZN6aE4FU5sZaollc2wE6Bd","text":"You will steal","phonetic":"","audio_updated_at":1541548502},"m":{"text":"أنتم ستسرقون"}},{"t":{"key":"xP_RsHrHl5FSzhD8so3bMtyxe_T_wgV_","text":"They will steal","phonetic":"","audio_updated_at":1541548503},"m":{"text":"هم سيسرقون"}}]}}]}]},{"key":"PoPvsZ34YG7HbD0UR3TI-cLlYSzHnUGL","text":"to steal","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"steal","translations":[{"type":"dictionary","text":"يسرق","phonetic":null},{"type":"verb","name":{"t":"to steal","m":"يسرق","phonetic":"to steal"},"id":80,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"YAL4xaD8rAV5SLpZhV_pgI92lGNJSgbL","text":"I steal","phonetic":"","audio_updated_at":1541548479},"m":{"text":"أنا أسرق"}},{"t":{"key":"mGd50spEa2dxMKzRRgp4BbYKvGEhmIBB","text":"You steal","phonetic":"","audio_updated_at":1541548480},"m":{"text":"أنت تسرق"}},{"t":{"key":"3j7nYoMS7j_6pPqU86XuSL-ZahE8VZ1P","text":"He steals","phonetic":"","audio_updated_at":1541548481},"m":{"text":"هو يسرق"}},{"t":{"key":"uvHvXcRzrMXuDewyNwnL_lH7j7-LpSJW","text":"She steals","phonetic":"","audio_updated_at":1541548482},"m":{"text":"هي تسرق"}},{"t":{"key":"X_HKlKQOVrTOeDXSPdnYStS6xmUItWKS","text":"We steal","phonetic":"","audio_updated_at":1541548485},"m":{"text":"نحن نسرق"}},{"t":{"key":"dcG9BpClgEUrSfs24wsfjOCqLSYJ3i1J","text":"You steal","phonetic":"","audio_updated_at":1541548486},"m":{"text":"أنتم تسرقون"}},{"t":{"key":"UkpxvUW-isI7orL99N-4XrLUd4aA_2ub","text":"They steal","phonetic":"","audio_updated_at":1541548487},"m":{"text":"هم يسرقون"}}],"pa":[{"t":{"key":"DM9Jt8Z1Hh4q_r5Tmeu_tDWViQSFw3Pb","text":"I stole","phonetic":"","audio_updated_at":1541548488},"m":{"text":"أنا سرقت"}},{"t":{"key":"gyII94dG0XTFcT40E0So3UJCKsp6dL_X","text":"You stole","phonetic":"","audio_updated_at":1541548489},"m":{"text":"أنت سرقت"}},{"t":{"key":"EPVY1QiwHTPn1BsyiVHlk9UP6x_ipYZh","text":"He stole","phonetic":"","audio_updated_at":1541548490},"m":{"text":"هو سرق"}},{"t":{"key":"av37Lbo5efjlz1wPaQEz98ftHSVy80x1","text":"She stole","phonetic":"","audio_updated_at":1541548491},"m":{"text":"هي سرقت"}},{"t":{"key":"Wy6a9RiSPs9AjvNj_3c46UqVdKD9zx6F","text":"We stole","phonetic":"","audio_updated_at":1541548493},"m":{"text":"نحن سرقنا"}},{"t":{"key":"qcEZ7XtMMYPN2fIODu9kaMR7o6iiBLST","text":"You stole","phonetic":"","audio_updated_at":1541548494},"m":{"text":"أنتم سرقتم"}},{"t":{"key":"7IC80RGmCrBrDGFfxxmM0G_2GmB2Wwtq","text":"They stole","phonetic":"","audio_updated_at":1541548495},"m":{"text":"هم سرقوا"}}],"fu":[{"t":{"key":"TaI6pcmOETvx8in_G0k7X9p6k9NtZeQR","text":"I will steal","phonetic":"","audio_updated_at":1541548496},"m":{"text":"أنا سأسرق"}},{"t":{"key":"biN-bAZ_ffkdmeShisIY2R-q_zPBeGtF","text":"You will steal","phonetic":"","audio_updated_at":1541548497},"m":{"text":"أنت ستسرق"}},{"t":{"key":"v1ipWl1gB6fih1HaRwpzyjbkSQFOdB4t","text":"He will steal","phonetic":"","audio_updated_at":1541548498},"m":{"text":"هو سيسرق"}},{"t":{"key":"oKeK0ISBHjP9DShTuMkNczf7k_x5n-6n","text":"She will steal","phonetic":"","audio_updated_at":1541548499},"m":{"text":"هي ستسرق"}},{"t":{"key":"Azi0OjgFBKElRi1-xfxFrh53o94UY45o","text":"We will steal","phonetic":"","audio_updated_at":1541548501},"m":{"text":"نحن سنسرق"}},{"t":{"key":"F6Xer1BZ5iZN6aE4FU5sZaollc2wE6Bd","text":"You will steal","phonetic":"","audio_updated_at":1541548502},"m":{"text":"أنتم ستسرقون"}},{"t":{"key":"xP_RsHrHl5FSzhD8so3bMtyxe_T_wgV_","text":"They will steal","phonetic":"","audio_updated_at":1541548503},"m":{"text":"هم سيسرقون"}}]}}]}]}],"audio_updated_at":1688291332},{"id":10321,"vocabulary":3901,"wordID":13841,"key":"6z5g4qi_T1JlszUx3vI61JEk9CGZZ4dh","sols":[{"key":"6z5g4qi_T1JlszUx3vI61JEk9CGZZ4dh","text":"يصلح","dictionary":[{"raw":"يصلح","translations":[]}]},{"key":"6z5g4qi_T1JlszUx3vI61JEk9CGZZ4dh","text":"to fix","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"fix","translations":[{"type":"dictionary","text":"يصلح","phonetic":null}]}]}],"audio_updated_at":1639519745}]}
+{
+  "vocabulary": {
+    "id": 3901,
+    "index": 1,
+    "category": 39,
+    "categoryID": 39,
+    "unifiedUnitId": 39,
+    "unifiedCategoryId": 39,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 11,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10312, 10313, 10314, 10315, 10316, 10317, 10318, 10319, 10320, 10321
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10312,
+      "vocabulary": 3901,
+      "wordID": 24393,
+      "key": "osaRnDYR6EIXgSADThGW_xWFo5egfPK_",
+      "sols": [
+        {
+          "key": "osaRnDYR6EIXgSADThGW_xWFo5egfPK_",
+          "text": "فاقد للوعي",
+          "dictionary": [
+            { "raw": "فاقد", "translations": [] },
+            { "raw": "للوعي", "translations": [] }
+          ]
+        },
+        {
+          "key": "osaRnDYR6EIXgSADThGW_xWFo5egfPK_",
+          "text": "unconscious",
+          "phonetic": "",
+          "dictionary": [{ "raw": "unconscious", "translations": [] }]
+        }
+      ],
+      "audio_updated_at": 1688291331
+    },
+    {
+      "id": 10313,
+      "vocabulary": 3901,
+      "wordID": 24399,
+      "key": "R0xB2Jzy8EjJ4MJDLnGNptxBv5yb50bL",
+      "sols": [
+        {
+          "key": "R0xB2Jzy8EjJ4MJDLnGNptxBv5yb50bL",
+          "text": "مصاب",
+          "dictionary": [{ "raw": "مصاب", "translations": [] }]
+        },
+        {
+          "key": "R0xB2Jzy8EjJ4MJDLnGNptxBv5yb50bL",
+          "text": "hurt",
+          "phonetic": "",
+          "dictionary": [{ "raw": "hurt", "translations": [] }]
+        }
+      ],
+      "audio_updated_at": 1688291338
+    },
+    {
+      "id": 10314,
+      "vocabulary": 3901,
+      "wordID": 24392,
+      "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+      "sols": [
+        {
+          "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+          "text": "حادث",
+          "dictionary": [{ "raw": "حادث", "translations": [] }]
+        },
+        {
+          "key": "dzz_5E3YOGA3ZS6kR6vLbczDYLrW3ZOs",
+          "text": "accident",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "accident",
+              "translations": [
+                { "type": "dictionary", "text": "حادث", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291330
+    },
+    {
+      "id": 10315,
+      "vocabulary": 3901,
+      "wordID": 24391,
+      "key": "5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0",
+      "sols": [
+        {
+          "key": "5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0",
+          "text": "حالة طارئة",
+          "dictionary": [
+            { "raw": "حالة", "translations": [] },
+            { "raw": "طارئة", "translations": [] }
+          ]
+        },
+        {
+          "key": "5dZ91T8v_38sIatOXWB6RcNr-Cgj6__0",
+          "text": "emergency",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "emergency",
+              "translations": [
+                { "type": "dictionary", "text": "حالة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291329
+    },
+    {
+      "id": 10316,
+      "vocabulary": 3901,
+      "wordID": 16721,
+      "key": "g1iiBSYQDcA9DUX3gKyM3F-sJQ5jqArd",
+      "sols": [
+        {
+          "key": "g1iiBSYQDcA9DUX3gKyM3F-sJQ5jqArd",
+          "text": "شرطة",
+          "dictionary": [{ "raw": "شرطة", "translations": [] }]
+        },
+        {
+          "key": "g1iiBSYQDcA9DUX3gKyM3F-sJQ5jqArd",
+          "text": "police",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "police",
+              "translations": [
+                { "type": "dictionary", "text": "شرطة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437136
+    },
+    {
+      "id": 10317,
+      "vocabulary": 3901,
+      "wordID": 24401,
+      "key": "zjKmBl6BB1rSeDv2FwsuZeT_BS7mlduy",
+      "sols": [
+        {
+          "key": "zjKmBl6BB1rSeDv2FwsuZeT_BS7mlduy",
+          "text": "رجل إطفاء",
+          "dictionary": [
+            { "raw": "رجل", "translations": [] },
+            { "raw": "إطفاء", "translations": [] }
+          ]
+        },
+        {
+          "key": "zjKmBl6BB1rSeDv2FwsuZeT_BS7mlduy",
+          "text": "firefighter",
+          "phonetic": "",
+          "dictionary": [{ "raw": "firefighter", "translations": [] }]
+        }
+      ],
+      "audio_updated_at": 1688739581
+    },
+    {
+      "id": 10318,
+      "vocabulary": 3901,
+      "wordID": 18344,
+      "key": "VjKpmogIzXDFiwUfjaFBkn5eHO5O6hY4",
+      "sols": [
+        {
+          "key": "VjKpmogIzXDFiwUfjaFBkn5eHO5O6hY4",
+          "text": "حريق",
+          "dictionary": [{ "raw": "حريق", "translations": [] }]
+        },
+        {
+          "key": "VjKpmogIzXDFiwUfjaFBkn5eHO5O6hY4",
+          "text": "fire",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "fire",
+              "translations": [
+                { "type": "dictionary", "text": "حريق", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437333
+    },
+    {
+      "id": 10319,
+      "vocabulary": 3901,
+      "wordID": 24402,
+      "key": "buckG8v963O8bROH-akCKoUmA1jZgSta",
+      "sols": [
+        {
+          "key": "buckG8v963O8bROH-akCKoUmA1jZgSta",
+          "text": "فيضان",
+          "dictionary": [{ "raw": "فيضان", "translations": [] }]
+        },
+        {
+          "key": "buckG8v963O8bROH-akCKoUmA1jZgSta",
+          "text": "flood",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "flood",
+              "translations": [
+                { "type": "dictionary", "text": "فيضان", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291341
+    },
+    {
+      "id": 10320,
+      "vocabulary": 3901,
+      "wordID": 24394,
+      "key": "PoPvsZ34YG7HbD0UR3TI-cLlYSzHnUGL",
+      "sols": [
+        {
+          "key": "PoPvsZ34YG7HbD0UR3TI-cLlYSzHnUGL",
+          "text": "يسرق",
+          "dictionary": [
+            {
+              "raw": "يسرق",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to steal",
+                    "m": "يسرق",
+                    "phonetic": "to steal"
+                  },
+                  "id": 80,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "YAL4xaD8rAV5SLpZhV_pgI92lGNJSgbL",
+                          "text": "I steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548479
+                        },
+                        "m": { "text": "أنا أسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "mGd50spEa2dxMKzRRgp4BbYKvGEhmIBB",
+                          "text": "You steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548480
+                        },
+                        "m": { "text": "أنت تسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "3j7nYoMS7j_6pPqU86XuSL-ZahE8VZ1P",
+                          "text": "He steals",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548481
+                        },
+                        "m": { "text": "هو يسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "uvHvXcRzrMXuDewyNwnL_lH7j7-LpSJW",
+                          "text": "She steals",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548482
+                        },
+                        "m": { "text": "هي تسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "X_HKlKQOVrTOeDXSPdnYStS6xmUItWKS",
+                          "text": "We steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548485
+                        },
+                        "m": { "text": "نحن نسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "dcG9BpClgEUrSfs24wsfjOCqLSYJ3i1J",
+                          "text": "You steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548486
+                        },
+                        "m": { "text": "أنتم تسرقون" }
+                      },
+                      {
+                        "t": {
+                          "key": "UkpxvUW-isI7orL99N-4XrLUd4aA_2ub",
+                          "text": "They steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548487
+                        },
+                        "m": { "text": "هم يسرقون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "DM9Jt8Z1Hh4q_r5Tmeu_tDWViQSFw3Pb",
+                          "text": "I stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548488
+                        },
+                        "m": { "text": "أنا سرقت" }
+                      },
+                      {
+                        "t": {
+                          "key": "gyII94dG0XTFcT40E0So3UJCKsp6dL_X",
+                          "text": "You stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548489
+                        },
+                        "m": { "text": "أنت سرقت" }
+                      },
+                      {
+                        "t": {
+                          "key": "EPVY1QiwHTPn1BsyiVHlk9UP6x_ipYZh",
+                          "text": "He stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548490
+                        },
+                        "m": { "text": "هو سرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "av37Lbo5efjlz1wPaQEz98ftHSVy80x1",
+                          "text": "She stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548491
+                        },
+                        "m": { "text": "هي سرقت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Wy6a9RiSPs9AjvNj_3c46UqVdKD9zx6F",
+                          "text": "We stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548493
+                        },
+                        "m": { "text": "نحن سرقنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "qcEZ7XtMMYPN2fIODu9kaMR7o6iiBLST",
+                          "text": "You stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548494
+                        },
+                        "m": { "text": "أنتم سرقتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7IC80RGmCrBrDGFfxxmM0G_2GmB2Wwtq",
+                          "text": "They stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548495
+                        },
+                        "m": { "text": "هم سرقوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "TaI6pcmOETvx8in_G0k7X9p6k9NtZeQR",
+                          "text": "I will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548496
+                        },
+                        "m": { "text": "أنا سأسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "biN-bAZ_ffkdmeShisIY2R-q_zPBeGtF",
+                          "text": "You will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548497
+                        },
+                        "m": { "text": "أنت ستسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "v1ipWl1gB6fih1HaRwpzyjbkSQFOdB4t",
+                          "text": "He will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548498
+                        },
+                        "m": { "text": "هو سيسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "oKeK0ISBHjP9DShTuMkNczf7k_x5n-6n",
+                          "text": "She will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548499
+                        },
+                        "m": { "text": "هي ستسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "Azi0OjgFBKElRi1-xfxFrh53o94UY45o",
+                          "text": "We will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548501
+                        },
+                        "m": { "text": "نحن سنسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "F6Xer1BZ5iZN6aE4FU5sZaollc2wE6Bd",
+                          "text": "You will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548502
+                        },
+                        "m": { "text": "أنتم ستسرقون" }
+                      },
+                      {
+                        "t": {
+                          "key": "xP_RsHrHl5FSzhD8so3bMtyxe_T_wgV_",
+                          "text": "They will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548503
+                        },
+                        "m": { "text": "هم سيسرقون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "PoPvsZ34YG7HbD0UR3TI-cLlYSzHnUGL",
+          "text": "to steal",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "steal",
+              "translations": [
+                { "type": "dictionary", "text": "يسرق", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to steal",
+                    "m": "يسرق",
+                    "phonetic": "to steal"
+                  },
+                  "id": 80,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "YAL4xaD8rAV5SLpZhV_pgI92lGNJSgbL",
+                          "text": "I steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548479
+                        },
+                        "m": { "text": "أنا أسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "mGd50spEa2dxMKzRRgp4BbYKvGEhmIBB",
+                          "text": "You steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548480
+                        },
+                        "m": { "text": "أنت تسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "3j7nYoMS7j_6pPqU86XuSL-ZahE8VZ1P",
+                          "text": "He steals",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548481
+                        },
+                        "m": { "text": "هو يسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "uvHvXcRzrMXuDewyNwnL_lH7j7-LpSJW",
+                          "text": "She steals",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548482
+                        },
+                        "m": { "text": "هي تسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "X_HKlKQOVrTOeDXSPdnYStS6xmUItWKS",
+                          "text": "We steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548485
+                        },
+                        "m": { "text": "نحن نسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "dcG9BpClgEUrSfs24wsfjOCqLSYJ3i1J",
+                          "text": "You steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548486
+                        },
+                        "m": { "text": "أنتم تسرقون" }
+                      },
+                      {
+                        "t": {
+                          "key": "UkpxvUW-isI7orL99N-4XrLUd4aA_2ub",
+                          "text": "They steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548487
+                        },
+                        "m": { "text": "هم يسرقون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "DM9Jt8Z1Hh4q_r5Tmeu_tDWViQSFw3Pb",
+                          "text": "I stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548488
+                        },
+                        "m": { "text": "أنا سرقت" }
+                      },
+                      {
+                        "t": {
+                          "key": "gyII94dG0XTFcT40E0So3UJCKsp6dL_X",
+                          "text": "You stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548489
+                        },
+                        "m": { "text": "أنت سرقت" }
+                      },
+                      {
+                        "t": {
+                          "key": "EPVY1QiwHTPn1BsyiVHlk9UP6x_ipYZh",
+                          "text": "He stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548490
+                        },
+                        "m": { "text": "هو سرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "av37Lbo5efjlz1wPaQEz98ftHSVy80x1",
+                          "text": "She stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548491
+                        },
+                        "m": { "text": "هي سرقت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Wy6a9RiSPs9AjvNj_3c46UqVdKD9zx6F",
+                          "text": "We stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548493
+                        },
+                        "m": { "text": "نحن سرقنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "qcEZ7XtMMYPN2fIODu9kaMR7o6iiBLST",
+                          "text": "You stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548494
+                        },
+                        "m": { "text": "أنتم سرقتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7IC80RGmCrBrDGFfxxmM0G_2GmB2Wwtq",
+                          "text": "They stole",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548495
+                        },
+                        "m": { "text": "هم سرقوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "TaI6pcmOETvx8in_G0k7X9p6k9NtZeQR",
+                          "text": "I will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548496
+                        },
+                        "m": { "text": "أنا سأسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "biN-bAZ_ffkdmeShisIY2R-q_zPBeGtF",
+                          "text": "You will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548497
+                        },
+                        "m": { "text": "أنت ستسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "v1ipWl1gB6fih1HaRwpzyjbkSQFOdB4t",
+                          "text": "He will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548498
+                        },
+                        "m": { "text": "هو سيسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "oKeK0ISBHjP9DShTuMkNczf7k_x5n-6n",
+                          "text": "She will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548499
+                        },
+                        "m": { "text": "هي ستسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "Azi0OjgFBKElRi1-xfxFrh53o94UY45o",
+                          "text": "We will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548501
+                        },
+                        "m": { "text": "نحن سنسرق" }
+                      },
+                      {
+                        "t": {
+                          "key": "F6Xer1BZ5iZN6aE4FU5sZaollc2wE6Bd",
+                          "text": "You will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548502
+                        },
+                        "m": { "text": "أنتم ستسرقون" }
+                      },
+                      {
+                        "t": {
+                          "key": "xP_RsHrHl5FSzhD8so3bMtyxe_T_wgV_",
+                          "text": "They will steal",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548503
+                        },
+                        "m": { "text": "هم سيسرقون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291332
+    },
+    {
+      "id": 10321,
+      "vocabulary": 3901,
+      "wordID": 13841,
+      "key": "6z5g4qi_T1JlszUx3vI61JEk9CGZZ4dh",
+      "sols": [
+        {
+          "key": "6z5g4qi_T1JlszUx3vI61JEk9CGZZ4dh",
+          "text": "يصلح",
+          "dictionary": [{ "raw": "يصلح", "translations": [] }]
+        },
+        {
+          "key": "6z5g4qi_T1JlszUx3vI61JEk9CGZZ4dh",
+          "text": "to fix",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "fix",
+              "translations": [
+                { "type": "dictionary", "text": "يصلح", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639519745
+    }
+  ]
+}

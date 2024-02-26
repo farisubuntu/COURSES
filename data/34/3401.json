@@ -1,1 +1,2745 @@
-{"lesson":{"id":3401,"index":1,"unitNumber":null,"unitType":0,"unitStyle":0,"unitScope":0,"category":34,"categoryID":34,"unifiedUnitId":200,"unifiedCategoryId":34,"name":"جولة بالحافلة","isCourse":false,"disabled":false,"done":false,"stars":false,"difficulty":"beginner","countQuiz":22,"countWords":25,"countPhrases":6,"countDone":0,"quizzes":[613849,613850,613851,613852,613853,613854,613855,613856,613857,613858,613859,613860,613861,613862,613863,613864,613865,613866,613867,613868,613869,613870]},"quizzes":[{"id":613849,"lesson":3401,"type":"D","modifiers":327,"wordID":23940,"alternates":[24139,18793,15458],"sols":[{"key":"2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor","audio_updated_at":1639520307,"text":"يبدأ"},{"key":"3BBk3i2WLpWyaCvpmB8V23SWITTvo2If","audio_updated_at":1607004504,"text":"صباح"},{"key":"9ICUhGD7IuLLBbiwSz-2xxgQugkQi6pt","audio_updated_at":1688291046,"text":"خصم"},{"key":"a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x","audio_updated_at":1688290823,"text":"جولة"}],"alts":[{"key":"2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor","audio_updated_at":1639520307,"image":"QCR5qIy1HKs8G4KXaBXlOHOBYM_daUoM","image_updated_at":1689158981,"text":"to start","phonetic":""},{"key":"3BBk3i2WLpWyaCvpmB8V23SWITTvo2If","audio_updated_at":1607004504,"image":"4jle0eRK6Pov9coN-jt1ub-YVeZPaU4b","image_updated_at":1689159162,"text":"morning","phonetic":"","article_text":"a","article_phonetic":""},{"key":"9ICUhGD7IuLLBbiwSz-2xxgQugkQi6pt","audio_updated_at":1688291046,"image":"aDDPdLHvi92zBCMIVhr2JQFkpPViMZkL","image_updated_at":1689159238,"text":"discount","phonetic":"","article_text":"a","article_phonetic":""},{"key":"a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x","audio_updated_at":1688290823,"text":"tour","phonetic":"","article_text":"a","article_phonetic":"","image":"RydTb-IptDVUx7tG7WgRefdQxPEQrE1t","image_updated_at":1689159224}]},{"id":613850,"lesson":3401,"type":"C1b","modifiers":72,"wordID":16491,"alternates":[23940],"tokens":[{"key":"tj-QtqX4dPk","text":"straight","raw":{"text":"straight","location":3,"length":8},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"th3ejzRZ3tz","text":"you","raw":{"text":"you","location":3,"length":3},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tLSiziqO7hR","text":"ahead","raw":{"text":"ahead","location":12,"length":5},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":11,"length":1}},{"key":"tpa37lyEdbD","text":"offer","raw":{"text":"offer","location":7,"length":5},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"tS-p0nm2NU2","text":"tours?","raw":{"text":"tours","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"?","location":18,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"tBQQ6CNB_uH","text":"and","raw":{"text":"and","location":18,"length":3},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":17,"length":1}},{"key":"t87EUa2Kcp7","text":"Do","raw":{"text":"Do","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tyQL778EgDo","text":"Go","raw":{"text":"Go","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":false,"ord":["t87EUa2Kcp7","th3ejzRZ3tz","tpa37lyEdbD","tS-p0nm2NU2"],"completeToken":"tS-p0nm2NU2","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text":"هل تقدمون جولات؟","dictionary":[{"raw":"هل","translations":[{"type":"dictionary","text":"Do you","phonetic":"Do you"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"تقدمون","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"جولات","location":10,"length":5},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"؟","location":15,"length":1},"linker":{"text":" ","location":9,"length":1}}]},{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text":"Do you offer tours?","phonetic":""}]},{"id":613851,"lesson":3401,"type":"T1","modifiers":40,"wordID":24140,"alternates":[],"tokens":[{"key":"tF1W6qonXGX","text":"نقدم","raw":{"text":"نقدم","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tx7z4fvrA3W","text":"قيادة","raw":{"text":"قيادة","location":5,"length":5},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":4,"length":1}},{"key":"tVkSgaj_LSV","text":"نحن","raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tcNjI2prjwy","text":"بالحافلة.","raw":{"text":"بالحافلة","location":15,"length":8},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":".","location":23,"length":1},"linker":{"text":" ","location":14,"length":1}},{"key":"tLBZoDuHSqe","text":"جولات","raw":{"text":"جولات","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tCuEVvVzQGE","text":"رخصة","raw":{"text":"رخصة","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tVkSgaj_LSV","tF1W6qonXGX","tLBZoDuHSqe","tcNjI2prjwy"],"sols":[{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","audio_updated_at":1688291047,"text":"We offer bus tours.","phonetic":"","dictionary":[{"raw":"We","translations":[{"type":"dictionary","text":"نحن","phonetic":null}]},{"raw":"offer","translations":[]},{"raw":"bus","translations":[{"type":"dictionary","text":"بالحافلة","phonetic":null}]},{"raw":"tours","translations":[{"type":"dictionary","text":"جولات","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"We","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"offer","location":3,"length":5},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"bus","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"tours","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":12,"length":1}}],"phonetic_tokens":[]},{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","audio_updated_at":1688291047,"text":"نحن نقدم جولات بالحافلة."}]},{"id":613852,"lesson":3401,"type":"C1b","modifiers":72,"wordID":16509,"alternates":[23940],"tokens":[{"key":"tFDg-aZCGbw","text":"cost?","raw":{"text":"cost","location":23,"length":4},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":"?","location":27,"length":1},"linker":{"text":" ","location":22,"length":1}},{"key":"tcQ9byDvhqi","text":"does","raw":{"text":"does","location":9,"length":4},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"t5ZgRKKacOI","text":"is","raw":{"text":"is","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tutBBp_4tDS","text":"How","raw":{"text":"How","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tlj-z2v4tCF","text":"the","raw":{"text":"the","location":14,"length":3},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":13,"length":1}},{"key":"tMxaKfDKOYa","text":"much","raw":{"text":"much","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tfgRf7lGFn9","text":"old","raw":{"text":"old","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t8RRVzT6jgk","text":"tour","raw":{"text":"tour","location":18,"length":4},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":17,"length":1}}],"tokensEqualSize":false,"ord":["tutBBp_4tDS","tMxaKfDKOYa","tcQ9byDvhqi","tlj-z2v4tCF","t8RRVzT6jgk","tFDg-aZCGbw"],"completeToken":"t8RRVzT6jgk","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG","audio_updated_at":1543440755,"text":"كم تكلف الجولة؟","dictionary":[{"raw":"كم","translations":[{"type":"dictionary","text":"How","phonetic":"How"}]},{"raw":"تكلف","translations":[{"type":"dictionary","text":"cost","phonetic":"cost"}]},{"raw":"الجولة","translations":[{"type":"dictionary","text":"tour","phonetic":"tour"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"كم","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"تكلف","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"الجولة","location":8,"length":6},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"؟","location":14,"length":1},"linker":{"text":" ","location":7,"length":1}}]},{"key":"5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG","audio_updated_at":1543440755,"text":"How much does the tour cost?","phonetic":""}]},{"id":613853,"lesson":3401,"type":"F","modifiers":71,"wordID":15458,"alternates":[18793],"sols":[{"key":"3BBk3i2WLpWyaCvpmB8V23SWITTvo2If","audio_updated_at":1607004504,"text":"صباح"},{"key":"2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor","audio_updated_at":1639520307,"text":"يبدأ"}],"alts":[{"key":"3BBk3i2WLpWyaCvpmB8V23SWITTvo2If","audio_updated_at":1607004504,"image":"4jle0eRK6Pov9coN-jt1ub-YVeZPaU4b","image_updated_at":1689159162,"text":"morning","phonetic":"","article_text":"a","article_phonetic":""},{"key":"2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor","audio_updated_at":1639520307,"text":"to start","phonetic":null,"image":"QCR5qIy1HKs8G4KXaBXlOHOBYM_daUoM","image_updated_at":1689158981}]},{"id":613854,"lesson":3401,"type":"T1","modifiers":40,"wordID":24141,"alternates":[],"tokens":[{"key":"tk9mwywaN9d","text":"في","raw":{"text":"في","location":19,"length":2},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":18,"length":1}},{"key":"t3i4ZT3IVrj","text":"الجولة؟","raw":{"text":"الجولة","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"؟","location":15,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"tHpiOZCdKdV","text":"مبكرًا","raw":{"text":"مبكرًا","location":12,"length":6},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":11,"length":1}},{"key":"tCsqfqFzpIR","text":"الصباح.","raw":{"text":"الصباح","location":22,"length":6},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":".","location":28,"length":1},"linker":{"text":" ","location":21,"length":1}},{"key":"tGxw4KrhizQ","text":"متى","raw":{"text":"متى","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"ta7_B7Frwsw","text":"تبدأ","raw":{"text":"تبدأ","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}}],"tokensEqualSize":true,"ord":["tGxw4KrhizQ","ta7_B7Frwsw","t3i4ZT3IVrj"],"sols":[{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","audio_updated_at":1688291048,"text":"When does the tour start?","phonetic":"","dictionary":[{"raw":"When","translations":[{"type":"dictionary","text":"متى","phonetic":null}]},{"raw":"does","translations":[]},{"raw":"the","translations":[]},{"raw":"tour","translations":[{"type":"dictionary","text":"الجولة","phonetic":null}]},{"raw":"start","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"When","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"does","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"raw":{"text":"the","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"tour","location":14,"length":4},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":13,"length":1}},{"raw":{"text":"start","location":19,"length":5},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"?","location":24,"length":1},"linker":{"text":" ","location":18,"length":1}}],"phonetic_tokens":[]},{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","audio_updated_at":1688291048,"text":"متى تبدأ الجولة؟"}]},{"id":613855,"lesson":3401,"type":"T1b","modifiers":72,"wordID":24142,"alternates":[],"tokens":[{"key":"tRRMO4bRD4o","text":"morning.","raw":{"text":"morning","location":29,"length":7},"prefix":{"text":"","location":29,"length":0},"suffix":{"text":".","location":36,"length":1},"linker":{"text":" ","location":28,"length":1}},{"key":"tdhi1la_cF5","text":"in","raw":{"text":"in","location":22,"length":2},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":21,"length":1}},{"key":"taESmJAR3LH","text":"the","raw":{"text":"the","location":25,"length":3},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":"","location":28,"length":0},"linker":{"text":" ","location":24,"length":1}},{"key":"tZt9kNrSUG-","text":"tour","raw":{"text":"tour","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tkG3k9VU7fR","text":"early","raw":{"text":"early","location":16,"length":5},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":15,"length":1}},{"key":"tvlvykPbq7C","text":"starts","raw":{"text":"starts","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"trhwLmf_Kd1","text":"The","raw":{"text":"The","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tw-_3DAp5f6","text":"Where","raw":{"text":"Where","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":false,"ord":["trhwLmf_Kd1","tZt9kNrSUG-","tvlvykPbq7C","tkG3k9VU7fR","tdhi1la_cF5","taESmJAR3LH","tRRMO4bRD4o"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm","audio_updated_at":1688291049,"text":"الجولة تبدأ مبكرًا في الصباح.","dictionary":[{"raw":"الجولة","translations":[{"type":"dictionary","text":"tour","phonetic":"tour"}]},{"raw":"تبدأ","translations":[{"type":"dictionary","text":"starts","phonetic":"starts"}]},{"raw":"مبكرًا","translations":[{"type":"dictionary","text":"early","phonetic":"early"}]},{"raw":"في","translations":[{"type":"dictionary","text":"in","phonetic":"in"}]},{"raw":"الصباح","translations":[{"type":"dictionary","text":"the morning","phonetic":"the morning"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"الجولة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"تبدأ","location":7,"length":4},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"مبكرًا","location":12,"length":6},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":11,"length":1}},{"raw":{"text":"في","location":19,"length":2},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":18,"length":1}},{"raw":{"text":"الصباح","location":22,"length":6},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":".","location":28,"length":1},"linker":{"text":" ","location":21,"length":1}}]},{"key":"Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm","audio_updated_at":1688291049,"text":"The tour starts early in the morning.","phonetic":""}]},{"id":613856,"lesson":3401,"type":"P","modifiers":65,"wordID":24139,"alternates":[23940,18793,15458],"sols":[{"key":"9ICUhGD7IuLLBbiwSz-2xxgQugkQi6pt","audio_updated_at":1688291046,"text":"خصم"},{"key":"3BBk3i2WLpWyaCvpmB8V23SWITTvo2If","text":"صباح"},{"key":"2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor","text":"يبدأ"},{"key":"a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x","text":"جولة"}],"alts":[{"key":"9ICUhGD7IuLLBbiwSz-2xxgQugkQi6pt","audio_updated_at":1688291046,"text":"discount","phonetic":"","article_text":"a","article_phonetic":"","image":"aDDPdLHvi92zBCMIVhr2JQFkpPViMZkL","image_updated_at":1689159238},{"key":"3BBk3i2WLpWyaCvpmB8V23SWITTvo2If","audio_updated_at":1607004504,"text":"morning","phonetic":"","article_text":"a","article_phonetic":"","image":"4jle0eRK6Pov9coN-jt1ub-YVeZPaU4b","image_updated_at":1689159162},{"key":"2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor","audio_updated_at":1639520307,"text":"to start","phonetic":"","image":"QCR5qIy1HKs8G4KXaBXlOHOBYM_daUoM","image_updated_at":1689158981},{"key":"a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x","audio_updated_at":1688290823,"text":"tour","phonetic":"","article_text":"a","article_phonetic":"","image":"RydTb-IptDVUx7tG7WgRefdQxPEQrE1t","image_updated_at":1689159224}]},{"id":613857,"lesson":3401,"type":"C1b","modifiers":72,"wordID":24143,"alternates":[24139],"tokens":[{"key":"tslxV6jipmt","text":"taxi","raw":{"text":"taxi","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t33k1tRn18c","text":"a","raw":{"text":"a","location":9,"length":1},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tTWEW6nxNnY","text":"groups?","raw":{"text":"groups","location":24,"length":6},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"?","location":30,"length":1},"linker":{"text":" ","location":23,"length":1}},{"key":"tdhDkjdP-a0","text":"Is","raw":{"text":"Is","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tuSMbj3vwj7","text":"there","raw":{"text":"there","location":3,"length":5},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"t7IUDLv2ecg","text":"rank","raw":{"text":"rank","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"key":"t5mOSyKv3J3","text":"discount","raw":{"text":"discount","location":11,"length":8},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"t3_Lsw1MIcR","text":"for","raw":{"text":"for","location":20,"length":3},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":19,"length":1}}],"tokensEqualSize":false,"ord":["tdhDkjdP-a0","tuSMbj3vwj7","t33k1tRn18c","t5mOSyKv3J3","t3_Lsw1MIcR","tTWEW6nxNnY"],"completeToken":"t5mOSyKv3J3","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2","audio_updated_at":1688291050,"text":"هل هناك خصم للمجموعات؟","dictionary":[{"raw":"هل","translations":[{"type":"dictionary","text":"Is","phonetic":"Is"}]},{"raw":"هناك","translations":[{"type":"dictionary","text":"there","phonetic":"there"}]},{"raw":"خصم","translations":[{"type":"dictionary","text":"discount","phonetic":"discount"}]},{"raw":"للمجموعات","translations":[{"type":"dictionary","text":"for groups","phonetic":"for groups"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"هناك","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"خصم","location":8,"length":3},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"للمجموعات","location":12,"length":9},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"؟","location":21,"length":1},"linker":{"text":" ","location":11,"length":1}}]},{"key":"LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2","audio_updated_at":1688291050,"text":"Is there a discount for groups?","phonetic":""}]},{"id":613858,"lesson":3401,"type":"W1b","modifiers":68,"wordID":23940,"alternates":[],"tokens":[{"key":"to3frb7p8YN","text":"o","group":0},{"key":"tZQubxoUAnv","text":"t","group":0},{"key":"t-CZKGczb61","text":"u","group":0},{"key":"tERCAudXG5T","text":"r","group":0}],"tokensEqualSize":false,"ord":["tZQubxoUAnv","to3frb7p8YN","t-CZKGczb61","tERCAudXG5T"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x","audio_updated_at":1688290823,"text":"جولة","dictionary":[{"raw":"جولة","translations":[]}],"phraseType":0,"text_tokens":[{"raw":{"text":"جولة","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}]},{"key":"a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x","audio_updated_at":1688290823,"text_tokens":[{"raw":{"text":"tour","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[],"text":"tour","phonetic":"","article_text":"a","article_phonetic":"","image":"RydTb-IptDVUx7tG7WgRefdQxPEQrE1t","image_updated_at":1689159224}]},{"id":613859,"lesson":3401,"type":"C2b","modifiers":92,"wordID":16491,"alternates":[23940],"tokens":[{"key":"tTuiwggUAaI","text":"r","group":3},{"key":"tzXtd3vgUWu","text":"t","group":3},{"key":"tJAJfRYML5L","text":"u","group":3},{"key":"th0a2uDJEFy","text":" ","specialChar":true},{"key":"tZqvJQ45aVc","text":"s","group":3},{"key":"tIwVOZsnDy-","text":"o","group":3},{"key":"tCg7g1I7cWh","text":"?","specialChar":true}],"tokensEqualSize":false,"ord":["th0a2uDJEFy","tzXtd3vgUWu","tIwVOZsnDy-","tJAJfRYML5L","tTuiwggUAaI","tZqvJQ45aVc","tCg7g1I7cWh"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text":"هل تقدمون جولات؟","dictionary":[{"raw":"هل","translations":[{"type":"dictionary","text":"Do you","phonetic":"Do you"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"تقدمون","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"جولات","location":10,"length":5},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"؟","location":15,"length":1},"linker":{"text":" ","location":9,"length":1}}]},{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text_tokens":[{"raw":{"text":"Do","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"you","location":3,"length":3},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"offer","location":7,"length":5},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"tours","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"?","location":18,"length":1},"linker":{"text":" ","location":12,"length":1}}],"phonetic_tokens":[],"text":"Do you offer tours?","phonetic":""}]},{"id":613860,"lesson":3401,"type":"Qb","modifiers":73,"wordID":24140,"alternates":[16491,24142],"sols":[{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","audio_updated_at":1688291047,"text":"نحن نقدم جولات بالحافلة.","dictionary":[{"raw":"نحن","translations":[{"type":"dictionary","text":"We","phonetic":"We"}]},{"raw":"نقدم","translations":[{"type":"dictionary","text":"We offer","phonetic":"We offer"}]},{"raw":"جولات","translations":[]},{"raw":"بالحافلة","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"نقدم","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"جولات","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"بالحافلة","location":15,"length":8},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":".","location":23,"length":1},"linker":{"text":" ","location":14,"length":1}}]},{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","text":"هل تقدمون جولات؟"},{"key":"Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm","text":"الجولة تبدأ مبكرًا في الصباح."}],"alts":[{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","audio_updated_at":1688291047,"text":"We offer bus tours.","phonetic":""},{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text":"Do you offer tours?","phonetic":""},{"key":"Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm","audio_updated_at":1688291049,"text":"The tour starts early in the morning.","phonetic":""}]},{"id":613861,"lesson":3401,"type":"T1","modifiers":40,"wordID":16509,"alternates":[],"tokens":[{"key":"tqf40pIFy0Q","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tDIQoaISPms","text":"تكلف","raw":{"text":"تكلف","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"t41BnsswJus","text":"جديدًا.","raw":{"text":"جديدًا","location":16,"length":6},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":".","location":22,"length":1},"linker":{"text":" ","location":15,"length":1}},{"key":"t8D32r6eLX-","text":"كم","raw":{"text":"كم","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tNc7p7JyiCe","text":"مظهرًا","raw":{"text":"مظهرًا","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tgQquWqvAMp","text":"أريد","raw":{"text":"أريد","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tSek013GgQZ","text":"الجولة؟","raw":{"text":"الجولة","location":8,"length":6},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"؟","location":14,"length":1},"linker":{"text":" ","location":7,"length":1}}],"tokensEqualSize":true,"ord":["t8D32r6eLX-","tDIQoaISPms","tSek013GgQZ"],"sols":[{"key":"5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG","audio_updated_at":1543440755,"text":"How much does the tour cost?","phonetic":"","dictionary":[{"raw":"How","translations":[{"type":"dictionary","text":"كم","phonetic":null}]},{"raw":"much","translations":[]},{"raw":"does","translations":[]},{"raw":"the","translations":[]},{"raw":"tour","translations":[{"type":"dictionary","text":"الجولة","phonetic":null}]},{"raw":"cost","translations":[{"type":"dictionary","text":"تكلف","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"How","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"much","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"does","location":9,"length":4},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"the","location":14,"length":3},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":13,"length":1}},{"raw":{"text":"tour","location":18,"length":4},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":17,"length":1}},{"raw":{"text":"cost","location":23,"length":4},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":"?","location":27,"length":1},"linker":{"text":" ","location":22,"length":1}}],"phonetic_tokens":[]},{"key":"5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG","audio_updated_at":1543440755,"text":"كم تكلف الجولة؟"}]},{"id":613862,"lesson":3401,"type":"T1b","modifiers":72,"wordID":24141,"alternates":[],"tokens":[{"key":"t9PxzepwLcm","text":"does","raw":{"text":"does","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"key":"tKpXpXew7o8","text":"the","raw":{"text":"the","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"tsXW4BZnEOk","text":"taxi","raw":{"text":"taxi","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tfvzdPI-GOf","text":"tour","raw":{"text":"tour","location":14,"length":4},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":13,"length":1}},{"key":"t33UthPAHXV","text":"rank","raw":{"text":"rank","location":9,"length":4},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tfmqs1pc9yO","text":"When","raw":{"text":"When","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"taPY_Bo1sg6","text":"is","raw":{"text":"is","location":14,"length":2},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":16,"length":0},"linker":{"text":" ","location":13,"length":1}},{"key":"t1rxlJaseDW","text":"start?","raw":{"text":"start","location":19,"length":5},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"?","location":24,"length":1},"linker":{"text":" ","location":18,"length":1}}],"tokensEqualSize":false,"ord":["tfmqs1pc9yO","t9PxzepwLcm","tKpXpXew7o8","tfvzdPI-GOf","t1rxlJaseDW"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","audio_updated_at":1688291048,"text":"متى تبدأ الجولة؟","dictionary":[{"raw":"متى","translations":[{"type":"dictionary","text":"When","phonetic":"When"}]},{"raw":"تبدأ","translations":[{"type":"dictionary","text":"start","phonetic":"start"}]},{"raw":"الجولة","translations":[{"type":"dictionary","text":"tour","phonetic":"tour"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"متى","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"تبدأ","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"الجولة","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"؟","location":15,"length":1},"linker":{"text":" ","location":8,"length":1}}]},{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","audio_updated_at":1688291048,"text":"When does the tour start?","phonetic":""}]},{"id":613863,"lesson":3401,"type":"Q","modifiers":41,"wordID":24142,"alternates":[24141,24140],"sols":[{"key":"Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm","audio_updated_at":1688291049,"text":"The tour starts early in the morning.","phonetic":"","dictionary":[{"raw":"The","translations":[{"type":"dictionary","text":"في","phonetic":null}]},{"raw":"tour","translations":[{"type":"dictionary","text":"الجولة","phonetic":null}]},{"raw":"starts","translations":[{"type":"dictionary","text":"تبدأ","phonetic":null}]},{"raw":"early","translations":[{"type":"dictionary","text":"مبكرًا","phonetic":null}]},{"raw":"in","translations":[{"type":"dictionary","text":"في","phonetic":null}]},{"raw":"the","translations":[{"type":"dictionary","text":"في","phonetic":null}]},{"raw":"morning","translations":[{"type":"dictionary","text":"الصباح","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"The","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"tour","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"starts","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"early","location":16,"length":5},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"in","location":22,"length":2},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":21,"length":1}},{"raw":{"text":"the","location":25,"length":3},"prefix":{"text":"","location":25,"length":0},"suffix":{"text":"","location":28,"length":0},"linker":{"text":" ","location":24,"length":1}},{"raw":{"text":"morning","location":29,"length":7},"prefix":{"text":"","location":29,"length":0},"suffix":{"text":".","location":36,"length":1},"linker":{"text":" ","location":28,"length":1}}],"phonetic_tokens":[]},{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","text":"When does the tour start?","phonetic":""},{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","text":"We offer bus tours.","phonetic":""}],"alts":[{"key":"Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm","audio_updated_at":1688291049,"text":"الجولة تبدأ مبكرًا في الصباح."},{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","audio_updated_at":1688291048,"text":"متى تبدأ الجولة؟"},{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","audio_updated_at":1688291047,"text":"نحن نقدم جولات بالحافلة."}]},{"id":613864,"lesson":3401,"type":"T1b","modifiers":72,"wordID":24143,"alternates":[],"tokens":[{"key":"tP8XKVC_-81","text":"for","raw":{"text":"for","location":20,"length":3},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":19,"length":1}},{"key":"ty05YYM1XE9","text":"a","raw":{"text":"a","location":9,"length":1},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"t7yKgcnsIJ7","text":"to","raw":{"text":"to","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tTciaPCzv0V","text":"there","raw":{"text":"there","location":3,"length":5},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tCDXKHVqGfF","text":"Is","raw":{"text":"Is","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"thksCUOIdch","text":"discount","raw":{"text":"discount","location":11,"length":8},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"t6T4ewIl6Nd","text":"groups?","raw":{"text":"groups","location":24,"length":6},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"?","location":30,"length":1},"linker":{"text":" ","location":23,"length":1}},{"key":"tlEnEyxRkAG","text":"park","raw":{"text":"park","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}}],"tokensEqualSize":false,"ord":["tCDXKHVqGfF","tTciaPCzv0V","ty05YYM1XE9","thksCUOIdch","tP8XKVC_-81","t6T4ewIl6Nd"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2","audio_updated_at":1688291050,"text":"هل هناك خصم للمجموعات؟","dictionary":[{"raw":"هل","translations":[{"type":"dictionary","text":"Is","phonetic":"Is"}]},{"raw":"هناك","translations":[{"type":"dictionary","text":"there","phonetic":"there"}]},{"raw":"خصم","translations":[{"type":"dictionary","text":"discount","phonetic":"discount"}]},{"raw":"للمجموعات","translations":[{"type":"dictionary","text":"for groups","phonetic":"for groups"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"هناك","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"خصم","location":8,"length":3},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"للمجموعات","location":12,"length":9},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"؟","location":21,"length":1},"linker":{"text":" ","location":11,"length":1}}]},{"key":"LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2","audio_updated_at":1688291050,"text":"Is there a discount for groups?","phonetic":""}]},{"id":613865,"lesson":3401,"type":"R","modifiers":636,"wordID":16491,"alternates":[],"tokens":[{"key":"toS47MmJmig","text":"جولات؟","raw":{"text":"جولات","location":10,"length":5},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"؟","location":15,"length":1},"linker":{"text":" ","location":9,"length":1}},{"key":"tM28X6ZIEZa","text":"إلى","raw":{"text":"إلى","location":5,"length":3},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":4,"length":1}},{"key":"tIB8M5CeqQJ","text":"تقدمون","raw":{"text":"تقدمون","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"t6Aql1g-WJb","text":"الأمام.","raw":{"text":"الأمام","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":8,"length":1}},{"key":"tkuonUpvmSK","text":"هل","raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tb9fjHCT-1r","text":"اذهب","raw":{"text":"اذهب","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tkuonUpvmSK","tIB8M5CeqQJ","toS47MmJmig"],"sols":[{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text":"Do you offer tours?","phonetic":"","dictionary":[{"raw":"Do","translations":[]},{"raw":"you","translations":[]},{"raw":"offer","translations":[]},{"raw":"tours","translations":[{"type":"dictionary","text":"جولات","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Do","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"you","location":3,"length":3},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"offer","location":7,"length":5},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"tours","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"?","location":18,"length":1},"linker":{"text":" ","location":12,"length":1}}],"phonetic_tokens":[]},{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text":"هل تقدمون جولات؟"}],"quizSkipData":{"type":"T1","modifiers":40,"tokens":[{"key":"trJEYzV8TUV","text":"جولات؟","raw":{"text":"جولات","location":10,"length":5},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"؟","location":15,"length":1},"linker":{"text":" ","location":9,"length":1}},{"key":"tfLDJNRb2gI","text":"تقدمون","raw":{"text":"تقدمون","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"t6FtwToIXgJ","text":"هل","raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tsdKmG3_Auv","text":"كيف","raw":{"text":"كيف","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tSEK3i-RUJh","text":"أصل","raw":{"text":"أصل","location":4,"length":3},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tlDr2XeDDr3","text":"المطار؟","raw":{"text":"المطار","location":12,"length":6},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"؟","location":18,"length":1},"linker":{"text":" ","location":11,"length":1}},{"key":"tYoJpc-KpRV","text":"إلى","raw":{"text":"إلى","location":8,"length":3},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":7,"length":1}}],"tokensEqualSize":true,"ord":["t6FtwToIXgJ","tfLDJNRb2gI","trJEYzV8TUV"],"sols":[{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text":"Do you offer tours?","phonetic":"","dictionary":[{"raw":"Do","translations":[]},{"raw":"you","translations":[]},{"raw":"offer","translations":[]},{"raw":"tours","translations":[{"type":"dictionary","text":"جولات","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Do","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"you","location":3,"length":3},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"offer","location":7,"length":5},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"tours","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"?","location":18,"length":1},"linker":{"text":" ","location":12,"length":1}}],"phonetic_tokens":[]},{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text":"هل تقدمون جولات؟"}]}},{"id":613866,"lesson":3401,"type":"L1","modifiers":42,"wordID":24140,"alternates":[],"tokens":[{"key":"tsBBRA8UDFP","text":"في","raw":{"text":"في","location":19,"length":2},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":18,"length":1}},{"key":"tpGO6HeqpKt","text":"تبدأ","raw":{"text":"تبدأ","location":7,"length":4},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"tpkVbjv42GE","text":"الجولة","raw":{"text":"الجولة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tKCTZR8Htp1","text":"بالحافلة.","raw":{"text":"بالحافلة","location":15,"length":8},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":".","location":23,"length":1},"linker":{"text":" ","location":14,"length":1}},{"key":"tGiDcbe5a2H","text":"نحن","raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tL2v0lx2Jer","text":"نقدم","raw":{"text":"نقدم","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tNp2jLmR-NV","text":"جولات","raw":{"text":"جولات","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tcfJoZzZkpt","text":"مبكرًا","raw":{"text":"مبكرًا","location":12,"length":6},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":11,"length":1}}],"tokensEqualSize":true,"ord":["tGiDcbe5a2H","tL2v0lx2Jer","tNp2jLmR-NV","tKCTZR8Htp1"],"sols":[{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","audio_updated_at":1688291047,"text":"We offer bus tours.","phonetic":""},{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","audio_updated_at":1688291047,"text":"نحن نقدم جولات بالحافلة."}]},{"id":613867,"lesson":3401,"type":"T2","modifiers":60,"wordID":16509,"alternates":[],"sols":[{"key":"5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG","audio_updated_at":1543440755,"text":"How much does the tour cost?","phonetic":"","dictionary":[{"raw":"How","translations":[{"type":"dictionary","text":"كم","phonetic":null}]},{"raw":"much","translations":[]},{"raw":"does","translations":[]},{"raw":"the","translations":[]},{"raw":"tour","translations":[{"type":"dictionary","text":"الجولة","phonetic":null}]},{"raw":"cost","translations":[{"type":"dictionary","text":"تكلف","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"How","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"much","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"does","location":9,"length":4},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"the","location":14,"length":3},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":13,"length":1}},{"raw":{"text":"tour","location":18,"length":4},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":17,"length":1}},{"raw":{"text":"cost","location":23,"length":4},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":"?","location":27,"length":1},"linker":{"text":" ","location":22,"length":1}}],"phonetic_tokens":[]},{"key":"5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG","audio_updated_at":1543440755,"text":"كم تكلف الجولة؟"}]},{"id":613868,"lesson":3401,"type":"T2b","modifiers":92,"wordID":24141,"alternates":[],"sols":[{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","audio_updated_at":1688291048,"text":"متى تبدأ الجولة؟","dictionary":[{"raw":"متى","translations":[{"type":"dictionary","text":"When","phonetic":"When"}]},{"raw":"تبدأ","translations":[{"type":"dictionary","text":"start","phonetic":"start"}]},{"raw":"الجولة","translations":[{"type":"dictionary","text":"tour","phonetic":"tour"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"متى","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"تبدأ","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"الجولة","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"؟","location":15,"length":1},"linker":{"text":" ","location":8,"length":1}}]},{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","audio_updated_at":1688291048,"text":"When does the tour start?","phonetic":""}]},{"id":613869,"lesson":3401,"type":"Qb","modifiers":73,"wordID":24142,"alternates":[24140,24141],"sols":[{"key":"Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm","audio_updated_at":1688291049,"text":"الجولة تبدأ مبكرًا في الصباح.","dictionary":[{"raw":"الجولة","translations":[{"type":"dictionary","text":"tour","phonetic":"tour"}]},{"raw":"تبدأ","translations":[{"type":"dictionary","text":"starts","phonetic":"starts"}]},{"raw":"مبكرًا","translations":[{"type":"dictionary","text":"early","phonetic":"early"}]},{"raw":"في","translations":[{"type":"dictionary","text":"in","phonetic":"in"}]},{"raw":"الصباح","translations":[{"type":"dictionary","text":"the morning","phonetic":"the morning"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"الجولة","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"تبدأ","location":7,"length":4},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"مبكرًا","location":12,"length":6},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":11,"length":1}},{"raw":{"text":"في","location":19,"length":2},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":18,"length":1}},{"raw":{"text":"الصباح","location":22,"length":6},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":".","location":28,"length":1},"linker":{"text":" ","location":21,"length":1}}]},{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","text":"نحن نقدم جولات بالحافلة."},{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","text":"متى تبدأ الجولة؟"}],"alts":[{"key":"Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm","audio_updated_at":1688291049,"text":"The tour starts early in the morning.","phonetic":""},{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","audio_updated_at":1688291047,"text":"We offer bus tours.","phonetic":""},{"key":"K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG","audio_updated_at":1688291048,"text":"When does the tour start?","phonetic":""}]},{"id":613870,"lesson":3401,"type":"Q","modifiers":41,"wordID":24143,"alternates":[24140,16491],"sols":[{"key":"LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2","audio_updated_at":1688291050,"text":"Is there a discount for groups?","phonetic":"","dictionary":[{"raw":"Is","translations":[{"type":"verb","name":{"t":"to be","m":"يكون","phonetic":"to be"},"id":6,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE","text":"I am","phonetic":"","audio_updated_at":1543437947},"m":{"text":"أنا أكون"}},{"t":{"key":"zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs","text":"You are","phonetic":"","audio_updated_at":1543437948},"m":{"text":"أنت تكون"}},{"t":{"key":"GF27NmLTdCyFlVHB37ggThVNPaun6IWf","text":"He is","phonetic":"","audio_updated_at":1543437949},"m":{"text":"هو يكون"}},{"t":{"key":"zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h","text":"She is","phonetic":"","audio_updated_at":1543437951},"m":{"text":"هي تكون"}},{"t":{"key":"OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR","text":"We are","phonetic":"","audio_updated_at":1543437953},"m":{"text":"نحن نكون"}},{"t":{"key":"1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac","text":"You are","phonetic":"","audio_updated_at":1543437954},"m":{"text":"أنتم تكونون"}},{"t":{"key":"eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g","text":"They are","phonetic":"","audio_updated_at":1543437956},"m":{"text":"هم يكونون"}}],"pa":[{"t":{"key":"VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax","text":"I was","phonetic":"","audio_updated_at":1543437957},"m":{"text":"أنا كنت"}},{"t":{"key":"Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR","text":"You were","phonetic":"","audio_updated_at":1543437958},"m":{"text":"أنت كنت"}},{"t":{"key":"dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F","text":"He was","phonetic":"","audio_updated_at":1543437960},"m":{"text":"هو كان"}},{"t":{"key":"EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i","text":"She was","phonetic":"","audio_updated_at":1541546648},"m":{"text":"هي كانت"}},{"t":{"key":"8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B","text":"We were","phonetic":"","audio_updated_at":1543437961},"m":{"text":"نحن كنا"}},{"t":{"key":"iNURBT3EjnwwzeRf98TWKHLanE9wmor-","text":"You were","phonetic":"","audio_updated_at":1541546651},"m":{"text":"أنتم كنتم"}},{"t":{"key":"7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR","text":"They were","phonetic":"","audio_updated_at":1543437962},"m":{"text":"هم كانوا"}}],"fu":[{"t":{"key":"8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe","text":"I will be","phonetic":"","audio_updated_at":1541546653},"m":{"text":"أنا سأكون"}},{"t":{"key":"nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH","text":"You will be","phonetic":"","audio_updated_at":1541546654},"m":{"text":"أنت ستكون"}},{"t":{"key":"DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD","text":"He will be","phonetic":"","audio_updated_at":1541546655},"m":{"text":"هو سيكون"}},{"t":{"key":"ozPx2lHMs_eOeDD61TEFmSdfupanzbQR","text":"She will be","phonetic":"","audio_updated_at":1541546656},"m":{"text":"هي ستكون"}},{"t":{"key":"gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja","text":"We will be","phonetic":"","audio_updated_at":1541546658},"m":{"text":"نحن سنكون"}},{"t":{"key":"LLgXgrZ-FljMS2suHM0cXVakuXmNTavi","text":"You will be","phonetic":"","audio_updated_at":1541546659},"m":{"text":"أنتم ستكونون"}},{"t":{"key":"iBoeZSpWq6CLao1HczEgryPfrKbOGNwS","text":"They will be","phonetic":"","audio_updated_at":1541546660},"m":{"text":"هم سيكونون"}}]}}]},{"raw":"there","translations":[{"type":"dictionary","text":"هناك","phonetic":null}]},{"raw":"a","translations":[]},{"raw":"discount","translations":[{"type":"dictionary","text":"خصم","phonetic":null}]},{"raw":"for","translations":[]},{"raw":"groups","translations":[{"type":"dictionary","text":"للمجموعات","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Is","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"there","location":3,"length":5},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"a","location":9,"length":1},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"discount","location":11,"length":8},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"for","location":20,"length":3},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":19,"length":1}},{"raw":{"text":"groups","location":24,"length":6},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"?","location":30,"length":1},"linker":{"text":" ","location":23,"length":1}}],"phonetic_tokens":[]},{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","text":"Do you offer tours?","phonetic":""},{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","text":"We offer bus tours.","phonetic":""}],"alts":[{"key":"LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2","audio_updated_at":1688291050,"text":"هل هناك خصم للمجموعات؟"},{"key":"v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M","audio_updated_at":1543440106,"text":"هل تقدمون جولات؟"},{"key":"aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB","audio_updated_at":1688291047,"text":"نحن نقدم جولات بالحافلة."}]}]}
+{
+  "lesson": {
+    "id": 3401,
+    "index": 1,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 34,
+    "categoryID": 34,
+    "unifiedUnitId": 200,
+    "unifiedCategoryId": 34,
+    "name": "جولة بالحافلة",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 22,
+    "countWords": 25,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      613849, 613850, 613851, 613852, 613853, 613854, 613855, 613856, 613857,
+      613858, 613859, 613860, 613861, 613862, 613863, 613864, 613865, 613866,
+      613867, 613868, 613869, 613870
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 613849,
+      "lesson": 3401,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 23940,
+      "alternates": [24139, 18793, 15458],
+      "sols": [
+        {
+          "key": "2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor",
+          "audio_updated_at": 1639520307,
+          "text": "يبدأ"
+        },
+        {
+          "key": "3BBk3i2WLpWyaCvpmB8V23SWITTvo2If",
+          "audio_updated_at": 1607004504,
+          "text": "صباح"
+        },
+        {
+          "key": "9ICUhGD7IuLLBbiwSz-2xxgQugkQi6pt",
+          "audio_updated_at": 1688291046,
+          "text": "خصم"
+        },
+        {
+          "key": "a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x",
+          "audio_updated_at": 1688290823,
+          "text": "جولة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor",
+          "audio_updated_at": 1639520307,
+          "image": "QCR5qIy1HKs8G4KXaBXlOHOBYM_daUoM",
+          "image_updated_at": 1689158981,
+          "text": "to start",
+          "phonetic": ""
+        },
+        {
+          "key": "3BBk3i2WLpWyaCvpmB8V23SWITTvo2If",
+          "audio_updated_at": 1607004504,
+          "image": "4jle0eRK6Pov9coN-jt1ub-YVeZPaU4b",
+          "image_updated_at": 1689159162,
+          "text": "morning",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "9ICUhGD7IuLLBbiwSz-2xxgQugkQi6pt",
+          "audio_updated_at": 1688291046,
+          "image": "aDDPdLHvi92zBCMIVhr2JQFkpPViMZkL",
+          "image_updated_at": 1689159238,
+          "text": "discount",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x",
+          "audio_updated_at": 1688290823,
+          "text": "tour",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "RydTb-IptDVUx7tG7WgRefdQxPEQrE1t",
+          "image_updated_at": 1689159224
+        }
+      ]
+    },
+    {
+      "id": 613850,
+      "lesson": 3401,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16491,
+      "alternates": [23940],
+      "tokens": [
+        {
+          "key": "tj-QtqX4dPk",
+          "text": "straight",
+          "raw": { "text": "straight", "location": 3, "length": 8 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "th3ejzRZ3tz",
+          "text": "you",
+          "raw": { "text": "you", "location": 3, "length": 3 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tLSiziqO7hR",
+          "text": "ahead",
+          "raw": { "text": "ahead", "location": 12, "length": 5 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tpa37lyEdbD",
+          "text": "offer",
+          "raw": { "text": "offer", "location": 7, "length": 5 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tS-p0nm2NU2",
+          "text": "tours?",
+          "raw": { "text": "tours", "location": 13, "length": 5 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "?", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tBQQ6CNB_uH",
+          "text": "and",
+          "raw": { "text": "and", "location": 18, "length": 3 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "t87EUa2Kcp7",
+          "text": "Do",
+          "raw": { "text": "Do", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tyQL778EgDo",
+          "text": "Go",
+          "raw": { "text": "Go", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t87EUa2Kcp7", "th3ejzRZ3tz", "tpa37lyEdbD", "tS-p0nm2NU2"],
+      "completeToken": "tS-p0nm2NU2",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "audio_updated_at": 1543440106,
+          "text": "هل تقدمون جولات؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Do you", "phonetic": "Do you" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تقدمون", "location": 3, "length": 6 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "جولات", "location": 10, "length": 5 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "؟", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "audio_updated_at": 1543440106,
+          "text": "Do you offer tours?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613851,
+      "lesson": 3401,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24140,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tF1W6qonXGX",
+          "text": "نقدم",
+          "raw": { "text": "نقدم", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tx7z4fvrA3W",
+          "text": "قيادة",
+          "raw": { "text": "قيادة", "location": 5, "length": 5 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tVkSgaj_LSV",
+          "text": "نحن",
+          "raw": { "text": "نحن", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tcNjI2prjwy",
+          "text": "بالحافلة.",
+          "raw": { "text": "بالحافلة", "location": 15, "length": 8 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": ".", "location": 23, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tLBZoDuHSqe",
+          "text": "جولات",
+          "raw": { "text": "جولات", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tCuEVvVzQGE",
+          "text": "رخصة",
+          "raw": { "text": "رخصة", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tVkSgaj_LSV", "tF1W6qonXGX", "tLBZoDuHSqe", "tcNjI2prjwy"],
+      "sols": [
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "audio_updated_at": 1688291047,
+          "text": "We offer bus tours.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "We",
+              "translations": [
+                { "type": "dictionary", "text": "نحن", "phonetic": null }
+              ]
+            },
+            { "raw": "offer", "translations": [] },
+            {
+              "raw": "bus",
+              "translations": [
+                { "type": "dictionary", "text": "بالحافلة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "tours",
+              "translations": [
+                { "type": "dictionary", "text": "جولات", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "We", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "offer", "location": 3, "length": 5 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "bus", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "tours", "location": 13, "length": 5 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": ".", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "audio_updated_at": 1688291047,
+          "text": "نحن نقدم جولات بالحافلة."
+        }
+      ]
+    },
+    {
+      "id": 613852,
+      "lesson": 3401,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16509,
+      "alternates": [23940],
+      "tokens": [
+        {
+          "key": "tFDg-aZCGbw",
+          "text": "cost?",
+          "raw": { "text": "cost", "location": 23, "length": 4 },
+          "prefix": { "text": "", "location": 23, "length": 0 },
+          "suffix": { "text": "?", "location": 27, "length": 1 },
+          "linker": { "text": " ", "location": 22, "length": 1 }
+        },
+        {
+          "key": "tcQ9byDvhqi",
+          "text": "does",
+          "raw": { "text": "does", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t5ZgRKKacOI",
+          "text": "is",
+          "raw": { "text": "is", "location": 8, "length": 2 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tutBBp_4tDS",
+          "text": "How",
+          "raw": { "text": "How", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tlj-z2v4tCF",
+          "text": "the",
+          "raw": { "text": "the", "location": 14, "length": 3 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tMxaKfDKOYa",
+          "text": "much",
+          "raw": { "text": "much", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tfgRf7lGFn9",
+          "text": "old",
+          "raw": { "text": "old", "location": 4, "length": 3 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t8RRVzT6jgk",
+          "text": "tour",
+          "raw": { "text": "tour", "location": 18, "length": 4 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 22, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tutBBp_4tDS",
+        "tMxaKfDKOYa",
+        "tcQ9byDvhqi",
+        "tlj-z2v4tCF",
+        "t8RRVzT6jgk",
+        "tFDg-aZCGbw"
+      ],
+      "completeToken": "t8RRVzT6jgk",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG",
+          "audio_updated_at": 1543440755,
+          "text": "كم تكلف الجولة؟",
+          "dictionary": [
+            {
+              "raw": "كم",
+              "translations": [
+                { "type": "dictionary", "text": "How", "phonetic": "How" }
+              ]
+            },
+            {
+              "raw": "تكلف",
+              "translations": [
+                { "type": "dictionary", "text": "cost", "phonetic": "cost" }
+              ]
+            },
+            {
+              "raw": "الجولة",
+              "translations": [
+                { "type": "dictionary", "text": "tour", "phonetic": "tour" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "كم", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تكلف", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "الجولة", "location": 8, "length": 6 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "؟", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG",
+          "audio_updated_at": 1543440755,
+          "text": "How much does the tour cost?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613853,
+      "lesson": 3401,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 15458,
+      "alternates": [18793],
+      "sols": [
+        {
+          "key": "3BBk3i2WLpWyaCvpmB8V23SWITTvo2If",
+          "audio_updated_at": 1607004504,
+          "text": "صباح"
+        },
+        {
+          "key": "2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor",
+          "audio_updated_at": 1639520307,
+          "text": "يبدأ"
+        }
+      ],
+      "alts": [
+        {
+          "key": "3BBk3i2WLpWyaCvpmB8V23SWITTvo2If",
+          "audio_updated_at": 1607004504,
+          "image": "4jle0eRK6Pov9coN-jt1ub-YVeZPaU4b",
+          "image_updated_at": 1689159162,
+          "text": "morning",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor",
+          "audio_updated_at": 1639520307,
+          "text": "to start",
+          "phonetic": null,
+          "image": "QCR5qIy1HKs8G4KXaBXlOHOBYM_daUoM",
+          "image_updated_at": 1689158981
+        }
+      ]
+    },
+    {
+      "id": 613854,
+      "lesson": 3401,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 24141,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tk9mwywaN9d",
+          "text": "في",
+          "raw": { "text": "في", "location": 19, "length": 2 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "t3i4ZT3IVrj",
+          "text": "الجولة؟",
+          "raw": { "text": "الجولة", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "؟", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tHpiOZCdKdV",
+          "text": "مبكرًا",
+          "raw": { "text": "مبكرًا", "location": 12, "length": 6 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        },
+        {
+          "key": "tCsqfqFzpIR",
+          "text": "الصباح.",
+          "raw": { "text": "الصباح", "location": 22, "length": 6 },
+          "prefix": { "text": "", "location": 22, "length": 0 },
+          "suffix": { "text": ".", "location": 28, "length": 1 },
+          "linker": { "text": " ", "location": 21, "length": 1 }
+        },
+        {
+          "key": "tGxw4KrhizQ",
+          "text": "متى",
+          "raw": { "text": "متى", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "ta7_B7Frwsw",
+          "text": "تبدأ",
+          "raw": { "text": "تبدأ", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tGxw4KrhizQ", "ta7_B7Frwsw", "t3i4ZT3IVrj"],
+      "sols": [
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "audio_updated_at": 1688291048,
+          "text": "When does the tour start?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "When",
+              "translations": [
+                { "type": "dictionary", "text": "متى", "phonetic": null }
+              ]
+            },
+            { "raw": "does", "translations": [] },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "tour",
+              "translations": [
+                { "type": "dictionary", "text": "الجولة", "phonetic": null }
+              ]
+            },
+            { "raw": "start", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "When", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "does", "location": 5, "length": 4 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "tour", "location": 14, "length": 4 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "start", "location": 19, "length": 5 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "?", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "audio_updated_at": 1688291048,
+          "text": "متى تبدأ الجولة؟"
+        }
+      ]
+    },
+    {
+      "id": 613855,
+      "lesson": 3401,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24142,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tRRMO4bRD4o",
+          "text": "morning.",
+          "raw": { "text": "morning", "location": 29, "length": 7 },
+          "prefix": { "text": "", "location": 29, "length": 0 },
+          "suffix": { "text": ".", "location": 36, "length": 1 },
+          "linker": { "text": " ", "location": 28, "length": 1 }
+        },
+        {
+          "key": "tdhi1la_cF5",
+          "text": "in",
+          "raw": { "text": "in", "location": 22, "length": 2 },
+          "prefix": { "text": "", "location": 22, "length": 0 },
+          "suffix": { "text": "", "location": 24, "length": 0 },
+          "linker": { "text": " ", "location": 21, "length": 1 }
+        },
+        {
+          "key": "taESmJAR3LH",
+          "text": "the",
+          "raw": { "text": "the", "location": 25, "length": 3 },
+          "prefix": { "text": "", "location": 25, "length": 0 },
+          "suffix": { "text": "", "location": 28, "length": 0 },
+          "linker": { "text": " ", "location": 24, "length": 1 }
+        },
+        {
+          "key": "tZt9kNrSUG-",
+          "text": "tour",
+          "raw": { "text": "tour", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tkG3k9VU7fR",
+          "text": "early",
+          "raw": { "text": "early", "location": 16, "length": 5 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tvlvykPbq7C",
+          "text": "starts",
+          "raw": { "text": "starts", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "trhwLmf_Kd1",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tw-_3DAp5f6",
+          "text": "Where",
+          "raw": { "text": "Where", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "trhwLmf_Kd1",
+        "tZt9kNrSUG-",
+        "tvlvykPbq7C",
+        "tkG3k9VU7fR",
+        "tdhi1la_cF5",
+        "taESmJAR3LH",
+        "tRRMO4bRD4o"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm",
+          "audio_updated_at": 1688291049,
+          "text": "الجولة تبدأ مبكرًا في الصباح.",
+          "dictionary": [
+            {
+              "raw": "الجولة",
+              "translations": [
+                { "type": "dictionary", "text": "tour", "phonetic": "tour" }
+              ]
+            },
+            {
+              "raw": "تبدأ",
+              "translations": [
+                { "type": "dictionary", "text": "starts", "phonetic": "starts" }
+              ]
+            },
+            {
+              "raw": "مبكرًا",
+              "translations": [
+                { "type": "dictionary", "text": "early", "phonetic": "early" }
+              ]
+            },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            {
+              "raw": "الصباح",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the morning",
+                  "phonetic": "the morning"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الجولة", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تبدأ", "location": 7, "length": 4 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "مبكرًا", "location": 12, "length": 6 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 19, "length": 2 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 21, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "الصباح", "location": 22, "length": 6 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": ".", "location": 28, "length": 1 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm",
+          "audio_updated_at": 1688291049,
+          "text": "The tour starts early in the morning.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613856,
+      "lesson": 3401,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 24139,
+      "alternates": [23940, 18793, 15458],
+      "sols": [
+        {
+          "key": "9ICUhGD7IuLLBbiwSz-2xxgQugkQi6pt",
+          "audio_updated_at": 1688291046,
+          "text": "خصم"
+        },
+        { "key": "3BBk3i2WLpWyaCvpmB8V23SWITTvo2If", "text": "صباح" },
+        { "key": "2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor", "text": "يبدأ" },
+        { "key": "a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x", "text": "جولة" }
+      ],
+      "alts": [
+        {
+          "key": "9ICUhGD7IuLLBbiwSz-2xxgQugkQi6pt",
+          "audio_updated_at": 1688291046,
+          "text": "discount",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "aDDPdLHvi92zBCMIVhr2JQFkpPViMZkL",
+          "image_updated_at": 1689159238
+        },
+        {
+          "key": "3BBk3i2WLpWyaCvpmB8V23SWITTvo2If",
+          "audio_updated_at": 1607004504,
+          "text": "morning",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "4jle0eRK6Pov9coN-jt1ub-YVeZPaU4b",
+          "image_updated_at": 1689159162
+        },
+        {
+          "key": "2e4YwaT5VOaYA2DY07c0I-UhA2jwhzor",
+          "audio_updated_at": 1639520307,
+          "text": "to start",
+          "phonetic": "",
+          "image": "QCR5qIy1HKs8G4KXaBXlOHOBYM_daUoM",
+          "image_updated_at": 1689158981
+        },
+        {
+          "key": "a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x",
+          "audio_updated_at": 1688290823,
+          "text": "tour",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "RydTb-IptDVUx7tG7WgRefdQxPEQrE1t",
+          "image_updated_at": 1689159224
+        }
+      ]
+    },
+    {
+      "id": 613857,
+      "lesson": 3401,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 24143,
+      "alternates": [24139],
+      "tokens": [
+        {
+          "key": "tslxV6jipmt",
+          "text": "taxi",
+          "raw": { "text": "taxi", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t33k1tRn18c",
+          "text": "a",
+          "raw": { "text": "a", "location": 9, "length": 1 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tTWEW6nxNnY",
+          "text": "groups?",
+          "raw": { "text": "groups", "location": 24, "length": 6 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "?", "location": 30, "length": 1 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tdhDkjdP-a0",
+          "text": "Is",
+          "raw": { "text": "Is", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tuSMbj3vwj7",
+          "text": "there",
+          "raw": { "text": "there", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t7IUDLv2ecg",
+          "text": "rank",
+          "raw": { "text": "rank", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "t5mOSyKv3J3",
+          "text": "discount",
+          "raw": { "text": "discount", "location": 11, "length": 8 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "t3_Lsw1MIcR",
+          "text": "for",
+          "raw": { "text": "for", "location": 20, "length": 3 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tdhDkjdP-a0",
+        "tuSMbj3vwj7",
+        "t33k1tRn18c",
+        "t5mOSyKv3J3",
+        "t3_Lsw1MIcR",
+        "tTWEW6nxNnY"
+      ],
+      "completeToken": "t5mOSyKv3J3",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2",
+          "audio_updated_at": 1688291050,
+          "text": "هل هناك خصم للمجموعات؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Is", "phonetic": "Is" }
+              ]
+            },
+            {
+              "raw": "هناك",
+              "translations": [
+                { "type": "dictionary", "text": "there", "phonetic": "there" }
+              ]
+            },
+            {
+              "raw": "خصم",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "discount",
+                  "phonetic": "discount"
+                }
+              ]
+            },
+            {
+              "raw": "للمجموعات",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "for groups",
+                  "phonetic": "for groups"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هناك", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "خصم", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "للمجموعات", "location": 12, "length": 9 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "؟", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2",
+          "audio_updated_at": 1688291050,
+          "text": "Is there a discount for groups?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613858,
+      "lesson": 3401,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 23940,
+      "alternates": [],
+      "tokens": [
+        { "key": "to3frb7p8YN", "text": "o", "group": 0 },
+        { "key": "tZQubxoUAnv", "text": "t", "group": 0 },
+        { "key": "t-CZKGczb61", "text": "u", "group": 0 },
+        { "key": "tERCAudXG5T", "text": "r", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tZQubxoUAnv", "to3frb7p8YN", "t-CZKGczb61", "tERCAudXG5T"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x",
+          "audio_updated_at": 1688290823,
+          "text": "جولة",
+          "dictionary": [{ "raw": "جولة", "translations": [] }],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "جولة", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "a4UyfXK1sNOlOlGMtGSBzJKdi5bW_f-x",
+          "audio_updated_at": 1688290823,
+          "text_tokens": [
+            {
+              "raw": { "text": "tour", "location": 0, "length": 4 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "tour",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "RydTb-IptDVUx7tG7WgRefdQxPEQrE1t",
+          "image_updated_at": 1689159224
+        }
+      ]
+    },
+    {
+      "id": 613859,
+      "lesson": 3401,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 16491,
+      "alternates": [23940],
+      "tokens": [
+        { "key": "tTuiwggUAaI", "text": "r", "group": 3 },
+        { "key": "tzXtd3vgUWu", "text": "t", "group": 3 },
+        { "key": "tJAJfRYML5L", "text": "u", "group": 3 },
+        { "key": "th0a2uDJEFy", "text": " ", "specialChar": true },
+        { "key": "tZqvJQ45aVc", "text": "s", "group": 3 },
+        { "key": "tIwVOZsnDy-", "text": "o", "group": 3 },
+        { "key": "tCg7g1I7cWh", "text": "?", "specialChar": true }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "th0a2uDJEFy",
+        "tzXtd3vgUWu",
+        "tIwVOZsnDy-",
+        "tJAJfRYML5L",
+        "tTuiwggUAaI",
+        "tZqvJQ45aVc",
+        "tCg7g1I7cWh"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "audio_updated_at": 1543440106,
+          "text": "هل تقدمون جولات؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Do you", "phonetic": "Do you" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تقدمون", "location": 3, "length": 6 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "جولات", "location": 10, "length": 5 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "؟", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "audio_updated_at": 1543440106,
+          "text_tokens": [
+            {
+              "raw": { "text": "Do", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "you", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "offer", "location": 7, "length": 5 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "tours", "location": 13, "length": 5 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "Do you offer tours?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613860,
+      "lesson": 3401,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24140,
+      "alternates": [16491, 24142],
+      "sols": [
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "audio_updated_at": 1688291047,
+          "text": "نحن نقدم جولات بالحافلة.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نقدم",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We offer",
+                  "phonetic": "We offer"
+                }
+              ]
+            },
+            { "raw": "جولات", "translations": [] },
+            { "raw": "بالحافلة", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نقدم", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "جولات", "location": 9, "length": 5 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "بالحافلة", "location": 15, "length": 8 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": ".", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "text": "هل تقدمون جولات؟"
+        },
+        {
+          "key": "Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm",
+          "text": "الجولة تبدأ مبكرًا في الصباح."
+        }
+      ],
+      "alts": [
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "audio_updated_at": 1688291047,
+          "text": "We offer bus tours.",
+          "phonetic": ""
+        },
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "audio_updated_at": 1543440106,
+          "text": "Do you offer tours?",
+          "phonetic": ""
+        },
+        {
+          "key": "Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm",
+          "audio_updated_at": 1688291049,
+          "text": "The tour starts early in the morning.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613861,
+      "lesson": 3401,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16509,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tqf40pIFy0Q",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tDIQoaISPms",
+          "text": "تكلف",
+          "raw": { "text": "تكلف", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t41BnsswJus",
+          "text": "جديدًا.",
+          "raw": { "text": "جديدًا", "location": 16, "length": 6 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": ".", "location": 22, "length": 1 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "t8D32r6eLX-",
+          "text": "كم",
+          "raw": { "text": "كم", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tNc7p7JyiCe",
+          "text": "مظهرًا",
+          "raw": { "text": "مظهرًا", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tgQquWqvAMp",
+          "text": "أريد",
+          "raw": { "text": "أريد", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tSek013GgQZ",
+          "text": "الجولة؟",
+          "raw": { "text": "الجولة", "location": 8, "length": 6 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "؟", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["t8D32r6eLX-", "tDIQoaISPms", "tSek013GgQZ"],
+      "sols": [
+        {
+          "key": "5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG",
+          "audio_updated_at": 1543440755,
+          "text": "How much does the tour cost?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "How",
+              "translations": [
+                { "type": "dictionary", "text": "كم", "phonetic": null }
+              ]
+            },
+            { "raw": "much", "translations": [] },
+            { "raw": "does", "translations": [] },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "tour",
+              "translations": [
+                { "type": "dictionary", "text": "الجولة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "cost",
+              "translations": [
+                { "type": "dictionary", "text": "تكلف", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "How", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "much", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "does", "location": 9, "length": 4 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "tour", "location": 18, "length": 4 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "cost", "location": 23, "length": 4 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": "?", "location": 27, "length": 1 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG",
+          "audio_updated_at": 1543440755,
+          "text": "كم تكلف الجولة؟"
+        }
+      ]
+    },
+    {
+      "id": 613862,
+      "lesson": 3401,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24141,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t9PxzepwLcm",
+          "text": "does",
+          "raw": { "text": "does", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tKpXpXew7o8",
+          "text": "the",
+          "raw": { "text": "the", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tsXW4BZnEOk",
+          "text": "taxi",
+          "raw": { "text": "taxi", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tfvzdPI-GOf",
+          "text": "tour",
+          "raw": { "text": "tour", "location": 14, "length": 4 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t33UthPAHXV",
+          "text": "rank",
+          "raw": { "text": "rank", "location": 9, "length": 4 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tfmqs1pc9yO",
+          "text": "When",
+          "raw": { "text": "When", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "taPY_Bo1sg6",
+          "text": "is",
+          "raw": { "text": "is", "location": 14, "length": 2 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "t1rxlJaseDW",
+          "text": "start?",
+          "raw": { "text": "start", "location": 19, "length": 5 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "?", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tfmqs1pc9yO",
+        "t9PxzepwLcm",
+        "tKpXpXew7o8",
+        "tfvzdPI-GOf",
+        "t1rxlJaseDW"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "audio_updated_at": 1688291048,
+          "text": "متى تبدأ الجولة؟",
+          "dictionary": [
+            {
+              "raw": "متى",
+              "translations": [
+                { "type": "dictionary", "text": "When", "phonetic": "When" }
+              ]
+            },
+            {
+              "raw": "تبدأ",
+              "translations": [
+                { "type": "dictionary", "text": "start", "phonetic": "start" }
+              ]
+            },
+            {
+              "raw": "الجولة",
+              "translations": [
+                { "type": "dictionary", "text": "tour", "phonetic": "tour" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "متى", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تبدأ", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الجولة", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "؟", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "audio_updated_at": 1688291048,
+          "text": "When does the tour start?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613863,
+      "lesson": 3401,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24142,
+      "alternates": [24141, 24140],
+      "sols": [
+        {
+          "key": "Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm",
+          "audio_updated_at": 1688291049,
+          "text": "The tour starts early in the morning.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "The",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "tour",
+              "translations": [
+                { "type": "dictionary", "text": "الجولة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "starts",
+              "translations": [
+                { "type": "dictionary", "text": "تبدأ", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "early",
+              "translations": [
+                { "type": "dictionary", "text": "مبكرًا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "in",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "the",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "morning",
+              "translations": [
+                { "type": "dictionary", "text": "الصباح", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "The", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "tour", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "starts", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "early", "location": 16, "length": 5 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 21, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "in", "location": 22, "length": 2 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": "", "location": 24, "length": 0 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 25, "length": 3 },
+              "prefix": { "text": "", "location": 25, "length": 0 },
+              "suffix": { "text": "", "location": 28, "length": 0 },
+              "linker": { "text": " ", "location": 24, "length": 1 }
+            },
+            {
+              "raw": { "text": "morning", "location": 29, "length": 7 },
+              "prefix": { "text": "", "location": 29, "length": 0 },
+              "suffix": { "text": ".", "location": 36, "length": 1 },
+              "linker": { "text": " ", "location": 28, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "text": "When does the tour start?",
+          "phonetic": ""
+        },
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "text": "We offer bus tours.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm",
+          "audio_updated_at": 1688291049,
+          "text": "الجولة تبدأ مبكرًا في الصباح."
+        },
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "audio_updated_at": 1688291048,
+          "text": "متى تبدأ الجولة؟"
+        },
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "audio_updated_at": 1688291047,
+          "text": "نحن نقدم جولات بالحافلة."
+        }
+      ]
+    },
+    {
+      "id": 613864,
+      "lesson": 3401,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 24143,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tP8XKVC_-81",
+          "text": "for",
+          "raw": { "text": "for", "location": 20, "length": 3 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "ty05YYM1XE9",
+          "text": "a",
+          "raw": { "text": "a", "location": 9, "length": 1 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "t7yKgcnsIJ7",
+          "text": "to",
+          "raw": { "text": "to", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tTciaPCzv0V",
+          "text": "there",
+          "raw": { "text": "there", "location": 3, "length": 5 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tCDXKHVqGfF",
+          "text": "Is",
+          "raw": { "text": "Is", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "thksCUOIdch",
+          "text": "discount",
+          "raw": { "text": "discount", "location": 11, "length": 8 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "t6T4ewIl6Nd",
+          "text": "groups?",
+          "raw": { "text": "groups", "location": 24, "length": 6 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "?", "location": 30, "length": 1 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tlEnEyxRkAG",
+          "text": "park",
+          "raw": { "text": "park", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tCDXKHVqGfF",
+        "tTciaPCzv0V",
+        "ty05YYM1XE9",
+        "thksCUOIdch",
+        "tP8XKVC_-81",
+        "t6T4ewIl6Nd"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2",
+          "audio_updated_at": 1688291050,
+          "text": "هل هناك خصم للمجموعات؟",
+          "dictionary": [
+            {
+              "raw": "هل",
+              "translations": [
+                { "type": "dictionary", "text": "Is", "phonetic": "Is" }
+              ]
+            },
+            {
+              "raw": "هناك",
+              "translations": [
+                { "type": "dictionary", "text": "there", "phonetic": "there" }
+              ]
+            },
+            {
+              "raw": "خصم",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "discount",
+                  "phonetic": "discount"
+                }
+              ]
+            },
+            {
+              "raw": "للمجموعات",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "for groups",
+                  "phonetic": "for groups"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هناك", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "خصم", "location": 8, "length": 3 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "للمجموعات", "location": 12, "length": 9 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "؟", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2",
+          "audio_updated_at": 1688291050,
+          "text": "Is there a discount for groups?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613865,
+      "lesson": 3401,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 16491,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "toS47MmJmig",
+          "text": "جولات؟",
+          "raw": { "text": "جولات", "location": 10, "length": 5 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "؟", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tM28X6ZIEZa",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 5, "length": 3 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tIB8M5CeqQJ",
+          "text": "تقدمون",
+          "raw": { "text": "تقدمون", "location": 3, "length": 6 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t6Aql1g-WJb",
+          "text": "الأمام.",
+          "raw": { "text": "الأمام", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tkuonUpvmSK",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tb9fjHCT-1r",
+          "text": "اذهب",
+          "raw": { "text": "اذهب", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tkuonUpvmSK", "tIB8M5CeqQJ", "toS47MmJmig"],
+      "sols": [
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "audio_updated_at": 1543440106,
+          "text": "Do you offer tours?",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Do", "translations": [] },
+            { "raw": "you", "translations": [] },
+            { "raw": "offer", "translations": [] },
+            {
+              "raw": "tours",
+              "translations": [
+                { "type": "dictionary", "text": "جولات", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Do", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "you", "location": 3, "length": 3 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "offer", "location": 7, "length": 5 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "tours", "location": 13, "length": 5 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "?", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "audio_updated_at": 1543440106,
+          "text": "هل تقدمون جولات؟"
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "trJEYzV8TUV",
+            "text": "جولات؟",
+            "raw": { "text": "جولات", "location": 10, "length": 5 },
+            "prefix": { "text": "", "location": 10, "length": 0 },
+            "suffix": { "text": "؟", "location": 15, "length": 1 },
+            "linker": { "text": " ", "location": 9, "length": 1 }
+          },
+          {
+            "key": "tfLDJNRb2gI",
+            "text": "تقدمون",
+            "raw": { "text": "تقدمون", "location": 3, "length": 6 },
+            "prefix": { "text": "", "location": 3, "length": 0 },
+            "suffix": { "text": "", "location": 9, "length": 0 },
+            "linker": { "text": " ", "location": 2, "length": 1 }
+          },
+          {
+            "key": "t6FtwToIXgJ",
+            "text": "هل",
+            "raw": { "text": "هل", "location": 0, "length": 2 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 2, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tsdKmG3_Auv",
+            "text": "كيف",
+            "raw": { "text": "كيف", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tSEK3i-RUJh",
+            "text": "أصل",
+            "raw": { "text": "أصل", "location": 4, "length": 3 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 7, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tlDr2XeDDr3",
+            "text": "المطار؟",
+            "raw": { "text": "المطار", "location": 12, "length": 6 },
+            "prefix": { "text": "", "location": 12, "length": 0 },
+            "suffix": { "text": "؟", "location": 18, "length": 1 },
+            "linker": { "text": " ", "location": 11, "length": 1 }
+          },
+          {
+            "key": "tYoJpc-KpRV",
+            "text": "إلى",
+            "raw": { "text": "إلى", "location": 8, "length": 3 },
+            "prefix": { "text": "", "location": 8, "length": 0 },
+            "suffix": { "text": "", "location": 11, "length": 0 },
+            "linker": { "text": " ", "location": 7, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["t6FtwToIXgJ", "tfLDJNRb2gI", "trJEYzV8TUV"],
+        "sols": [
+          {
+            "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+            "audio_updated_at": 1543440106,
+            "text": "Do you offer tours?",
+            "phonetic": "",
+            "dictionary": [
+              { "raw": "Do", "translations": [] },
+              { "raw": "you", "translations": [] },
+              { "raw": "offer", "translations": [] },
+              {
+                "raw": "tours",
+                "translations": [
+                  { "type": "dictionary", "text": "جولات", "phonetic": null }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "Do", "location": 0, "length": 2 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 2, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "you", "location": 3, "length": 3 },
+                "prefix": { "text": "", "location": 3, "length": 0 },
+                "suffix": { "text": "", "location": 6, "length": 0 },
+                "linker": { "text": " ", "location": 2, "length": 1 }
+              },
+              {
+                "raw": { "text": "offer", "location": 7, "length": 5 },
+                "prefix": { "text": "", "location": 7, "length": 0 },
+                "suffix": { "text": "", "location": 12, "length": 0 },
+                "linker": { "text": " ", "location": 6, "length": 1 }
+              },
+              {
+                "raw": { "text": "tours", "location": 13, "length": 5 },
+                "prefix": { "text": "", "location": 13, "length": 0 },
+                "suffix": { "text": "?", "location": 18, "length": 1 },
+                "linker": { "text": " ", "location": 12, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+            "audio_updated_at": 1543440106,
+            "text": "هل تقدمون جولات؟"
+          }
+        ]
+      }
+    },
+    {
+      "id": 613866,
+      "lesson": 3401,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 24140,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tsBBRA8UDFP",
+          "text": "في",
+          "raw": { "text": "في", "location": 19, "length": 2 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 21, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tpGO6HeqpKt",
+          "text": "تبدأ",
+          "raw": { "text": "تبدأ", "location": 7, "length": 4 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 11, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tpkVbjv42GE",
+          "text": "الجولة",
+          "raw": { "text": "الجولة", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tKCTZR8Htp1",
+          "text": "بالحافلة.",
+          "raw": { "text": "بالحافلة", "location": 15, "length": 8 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": ".", "location": 23, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tGiDcbe5a2H",
+          "text": "نحن",
+          "raw": { "text": "نحن", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tL2v0lx2Jer",
+          "text": "نقدم",
+          "raw": { "text": "نقدم", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tNp2jLmR-NV",
+          "text": "جولات",
+          "raw": { "text": "جولات", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tcfJoZzZkpt",
+          "text": "مبكرًا",
+          "raw": { "text": "مبكرًا", "location": 12, "length": 6 },
+          "prefix": { "text": "", "location": 12, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 11, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tGiDcbe5a2H", "tL2v0lx2Jer", "tNp2jLmR-NV", "tKCTZR8Htp1"],
+      "sols": [
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "audio_updated_at": 1688291047,
+          "text": "We offer bus tours.",
+          "phonetic": ""
+        },
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "audio_updated_at": 1688291047,
+          "text": "نحن نقدم جولات بالحافلة."
+        }
+      ]
+    },
+    {
+      "id": 613867,
+      "lesson": 3401,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 16509,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG",
+          "audio_updated_at": 1543440755,
+          "text": "How much does the tour cost?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "How",
+              "translations": [
+                { "type": "dictionary", "text": "كم", "phonetic": null }
+              ]
+            },
+            { "raw": "much", "translations": [] },
+            { "raw": "does", "translations": [] },
+            { "raw": "the", "translations": [] },
+            {
+              "raw": "tour",
+              "translations": [
+                { "type": "dictionary", "text": "الجولة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "cost",
+              "translations": [
+                { "type": "dictionary", "text": "تكلف", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "How", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "much", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "does", "location": 9, "length": 4 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "the", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "tour", "location": 18, "length": 4 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "cost", "location": 23, "length": 4 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": "?", "location": 27, "length": 1 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "5WHk4vwg7ZD8eGu7h7jS7s6bUzuxyjJG",
+          "audio_updated_at": 1543440755,
+          "text": "كم تكلف الجولة؟"
+        }
+      ]
+    },
+    {
+      "id": 613868,
+      "lesson": 3401,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 24141,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "audio_updated_at": 1688291048,
+          "text": "متى تبدأ الجولة؟",
+          "dictionary": [
+            {
+              "raw": "متى",
+              "translations": [
+                { "type": "dictionary", "text": "When", "phonetic": "When" }
+              ]
+            },
+            {
+              "raw": "تبدأ",
+              "translations": [
+                { "type": "dictionary", "text": "start", "phonetic": "start" }
+              ]
+            },
+            {
+              "raw": "الجولة",
+              "translations": [
+                { "type": "dictionary", "text": "tour", "phonetic": "tour" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "متى", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تبدأ", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الجولة", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "؟", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "audio_updated_at": 1688291048,
+          "text": "When does the tour start?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613869,
+      "lesson": 3401,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 24142,
+      "alternates": [24140, 24141],
+      "sols": [
+        {
+          "key": "Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm",
+          "audio_updated_at": 1688291049,
+          "text": "الجولة تبدأ مبكرًا في الصباح.",
+          "dictionary": [
+            {
+              "raw": "الجولة",
+              "translations": [
+                { "type": "dictionary", "text": "tour", "phonetic": "tour" }
+              ]
+            },
+            {
+              "raw": "تبدأ",
+              "translations": [
+                { "type": "dictionary", "text": "starts", "phonetic": "starts" }
+              ]
+            },
+            {
+              "raw": "مبكرًا",
+              "translations": [
+                { "type": "dictionary", "text": "early", "phonetic": "early" }
+              ]
+            },
+            {
+              "raw": "في",
+              "translations": [
+                { "type": "dictionary", "text": "in", "phonetic": "in" }
+              ]
+            },
+            {
+              "raw": "الصباح",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "the morning",
+                  "phonetic": "the morning"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "الجولة", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "تبدأ", "location": 7, "length": 4 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 11, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "مبكرًا", "location": 12, "length": 6 },
+              "prefix": { "text": "", "location": 12, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 11, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 19, "length": 2 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 21, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "الصباح", "location": 22, "length": 6 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": ".", "location": 28, "length": 1 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "text": "نحن نقدم جولات بالحافلة."
+        },
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "text": "متى تبدأ الجولة؟"
+        }
+      ],
+      "alts": [
+        {
+          "key": "Bg3PTHdho00DAyViJs7OwPzdHVP8wtIm",
+          "audio_updated_at": 1688291049,
+          "text": "The tour starts early in the morning.",
+          "phonetic": ""
+        },
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "audio_updated_at": 1688291047,
+          "text": "We offer bus tours.",
+          "phonetic": ""
+        },
+        {
+          "key": "K_J1Bh0NEJSCDPgtP01KzT7zOJaxqKzG",
+          "audio_updated_at": 1688291048,
+          "text": "When does the tour start?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 613870,
+      "lesson": 3401,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 24143,
+      "alternates": [24140, 16491],
+      "sols": [
+        {
+          "key": "LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2",
+          "audio_updated_at": 1688291050,
+          "text": "Is there a discount for groups?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Is",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to be", "m": "يكون", "phonetic": "to be" },
+                  "id": 6,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "NF0SKIdKI0TLeHg9W-wlb7KKdzPgQSGE",
+                          "text": "I am",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437947
+                        },
+                        "m": { "text": "أنا أكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zCfGS40nd2TueOI6XW4V89l8ZrGDXKUs",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437948
+                        },
+                        "m": { "text": "أنت تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "GF27NmLTdCyFlVHB37ggThVNPaun6IWf",
+                          "text": "He is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437949
+                        },
+                        "m": { "text": "هو يكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "zEcTsvdnLtHmJLF-FOw-0kXfb9N1RP9h",
+                          "text": "She is",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437951
+                        },
+                        "m": { "text": "هي تكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "OGkpzwKnXAgavOhz4nr4DTNLoVNcjGDR",
+                          "text": "We are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437953
+                        },
+                        "m": { "text": "نحن نكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "1LA-NvZsXjKLcgaPg5Gp2q6YE1STVbac",
+                          "text": "You are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437954
+                        },
+                        "m": { "text": "أنتم تكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "eqfpvxJpT7RVyVukldzQFC0cAtQc4I5g",
+                          "text": "They are",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437956
+                        },
+                        "m": { "text": "هم يكونون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "VqKGVzF4P6YvR4Spa_PVzyD_uZ8uAuax",
+                          "text": "I was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437957
+                        },
+                        "m": { "text": "أنا كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Nx8xq0NOBkf6N__1l1enmWUi-TCSZzzR",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437958
+                        },
+                        "m": { "text": "أنت كنت" }
+                      },
+                      {
+                        "t": {
+                          "key": "dL-CvLHEc6aVjyIU1eqgaD0FGXfizQ5F",
+                          "text": "He was",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437960
+                        },
+                        "m": { "text": "هو كان" }
+                      },
+                      {
+                        "t": {
+                          "key": "EHQ3K_YFDY17z-PTlGBXI-sgM9L1uL5i",
+                          "text": "She was",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546648
+                        },
+                        "m": { "text": "هي كانت" }
+                      },
+                      {
+                        "t": {
+                          "key": "8WcS3PNJf7q7KsoSBKC0_bONDeckwX7B",
+                          "text": "We were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437961
+                        },
+                        "m": { "text": "نحن كنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "iNURBT3EjnwwzeRf98TWKHLanE9wmor-",
+                          "text": "You were",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546651
+                        },
+                        "m": { "text": "أنتم كنتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "7hrx4BqB9WfibGtTHwbXCI0ycC-xCRGR",
+                          "text": "They were",
+                          "phonetic": "",
+                          "audio_updated_at": 1543437962
+                        },
+                        "m": { "text": "هم كانوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "8jtmjGxIgIS3wxDRkXMxXjfjTqRjCwLe",
+                          "text": "I will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546653
+                        },
+                        "m": { "text": "أنا سأكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "nv7yegE4Ia1ENrpiXAENvKCzMfRt30lH",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546654
+                        },
+                        "m": { "text": "أنت ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "DwAU9qmOhoEHgEd65v5UxZVtXcMw-2HD",
+                          "text": "He will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546655
+                        },
+                        "m": { "text": "هو سيكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "ozPx2lHMs_eOeDD61TEFmSdfupanzbQR",
+                          "text": "She will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546656
+                        },
+                        "m": { "text": "هي ستكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "gztxQr-xVIOnU2r6gU9pUToq4eEHb4Ja",
+                          "text": "We will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546658
+                        },
+                        "m": { "text": "نحن سنكون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LLgXgrZ-FljMS2suHM0cXVakuXmNTavi",
+                          "text": "You will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546659
+                        },
+                        "m": { "text": "أنتم ستكونون" }
+                      },
+                      {
+                        "t": {
+                          "key": "iBoeZSpWq6CLao1HczEgryPfrKbOGNwS",
+                          "text": "They will be",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546660
+                        },
+                        "m": { "text": "هم سيكونون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "there",
+              "translations": [
+                { "type": "dictionary", "text": "هناك", "phonetic": null }
+              ]
+            },
+            { "raw": "a", "translations": [] },
+            {
+              "raw": "discount",
+              "translations": [
+                { "type": "dictionary", "text": "خصم", "phonetic": null }
+              ]
+            },
+            { "raw": "for", "translations": [] },
+            {
+              "raw": "groups",
+              "translations": [
+                { "type": "dictionary", "text": "للمجموعات", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Is", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "there", "location": 3, "length": 5 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 9, "length": 1 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "discount", "location": 11, "length": 8 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "for", "location": 20, "length": 3 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "groups", "location": 24, "length": 6 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "?", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "text": "Do you offer tours?",
+          "phonetic": ""
+        },
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "text": "We offer bus tours.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "LhBfPYdTrf9XSeEkXQiqT3IDkzXIdvh2",
+          "audio_updated_at": 1688291050,
+          "text": "هل هناك خصم للمجموعات؟"
+        },
+        {
+          "key": "v7prp2WbGIWEMqx5mjp2wk6_VnJabq4M",
+          "audio_updated_at": 1543440106,
+          "text": "هل تقدمون جولات؟"
+        },
+        {
+          "key": "aJO9dWA2q06dVGd08GfIgMj2kOtgqGHB",
+          "audio_updated_at": 1688291047,
+          "text": "نحن نقدم جولات بالحافلة."
+        }
+      ]
+    }
+  ]
+}

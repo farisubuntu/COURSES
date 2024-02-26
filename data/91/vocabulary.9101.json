@@ -1,1 +1,928 @@
-{"vocabulary":{"id":9101,"index":1,"category":91,"categoryID":91,"unifiedUnitId":148,"unifiedCategoryId":91,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":12,"countPhrases":0,"countDone":0,"vItems":[9816,9817,9818,9819,9820,9821,9822,9823,9824,9825]},"vItems":[{"id":9816,"vocabulary":9101,"wordID":23993,"key":"vT69kfm5VB3IemRgZOXhsrjMVxDg3tQY","sols":[{"key":"vT69kfm5VB3IemRgZOXhsrjMVxDg3tQY","text":"يترعرع","dictionary":[{"raw":"يترعرع","translations":[]}]},{"key":"vT69kfm5VB3IemRgZOXhsrjMVxDg3tQY","text":"to grow up","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"grow","translations":[]},{"raw":"up","translations":[{"type":"verb","name":{"t":"to wake up","m":"يستيقظ","phonetic":"to wake up"},"id":93,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"8TkNXzNqha1C-wGscyjrK60TguuJx0OJ","text":"I wake up","phonetic":"","audio_updated_at":1541548817},"m":{"text":"أنا أستيقظ"}},{"t":{"key":"90B5D_ym6rQDGj99BR7K91yXvT8F2wBk","text":"You wake up","phonetic":"","audio_updated_at":1541548818},"m":{"text":"أنت تستيقظ"}},{"t":{"key":"OVywZ8_ppeWTYHW9pwYCUNP6Le1KmIty","text":"He wakes up","phonetic":"","audio_updated_at":1541548819},"m":{"text":"هو يستيقظ"}},{"t":{"key":"Mo4CqYqyoEwUs4pzloBMRzlYyeL8YiuJ","text":"She wakes up","phonetic":"","audio_updated_at":1541548820},"m":{"text":"هي تستيقظ"}},{"t":{"key":"eydwtzsw_-UT51kc__p8qYrwJtaOqeVt","text":"We wake up","phonetic":"","audio_updated_at":1541548823},"m":{"text":"نحن نستيقظ"}},{"t":{"key":"CPBYpG2z_PwxLTLdVkRLkAYSSZE8Q66K","text":"You wake up","phonetic":"","audio_updated_at":1541548824},"m":{"text":"أنتم تستيقظون"}},{"t":{"key":"r4PYgbQa-X2Q6_EPTIQ58OC37dy2jGUp","text":"They wake up","phonetic":"","audio_updated_at":1541548825},"m":{"text":"هم يستيقظون"}}],"pa":[{"t":{"key":"o0S52N5R0_W-wr5n_CsmBrl3-WpUNZvZ","text":"I woke up","phonetic":"","audio_updated_at":1541548826},"m":{"text":"أنا استيقظت"}},{"t":{"key":"lZleu-7XAOIP3cJnM9mpihcNeA-RWupH","text":"You woke up","phonetic":"","audio_updated_at":1541548827},"m":{"text":"أنت استيقظت"}},{"t":{"key":"ruRfhB7MlqALJCVt18W3mt14UJsq5Txx","text":"He woke up","phonetic":"","audio_updated_at":1541548828},"m":{"text":"هو استيقظ"}},{"t":{"key":"YsOVzY3xPS__4lMBZ2M8fcQCAC4TzL9d","text":"She woke up","phonetic":"","audio_updated_at":1541548829},"m":{"text":"هي استيقظت"}},{"t":{"key":"Sk_hqFRqudic0qtf9-E77azWw6P6Bct4","text":"We woke up","phonetic":"","audio_updated_at":1541548832},"m":{"text":"نحن استيقظنا"}},{"t":{"key":"oOiVLNl2F5e9A2pX-Tg9_x_JD4__2cF2","text":"You woke up","phonetic":"","audio_updated_at":1541548833},"m":{"text":"أنتم استيقظتم"}},{"t":{"key":"1Yg6puHschCH_Up80WJb86rviScmAVIN","text":"They woke up","phonetic":"","audio_updated_at":1541548835},"m":{"text":"هم استيقظوا"}}],"fu":[{"t":{"key":"Du-dne6JV5LK3dDtr2iI1pbiSDQty1Qz","text":"I will wake up","phonetic":"","audio_updated_at":1541548836},"m":{"text":"أنا سأستيقظ"}},{"t":{"key":"5sC15f2WmY5nd_ABLscjVRf6EmutD6IW","text":"You will wake up","phonetic":"","audio_updated_at":1541548837},"m":{"text":"أنت ستستيقظ"}},{"t":{"key":"Y5_oAo0Ln67gIP92IPUMUHzLc0GOdYSI","text":"He will wake up","phonetic":"","audio_updated_at":1541548838},"m":{"text":"هو سيستيقظ"}},{"t":{"key":"52rWkfIlaLE5sfy6NAeJcotsWP0o1vWN","text":"She will wake up","phonetic":"","audio_updated_at":1541548839},"m":{"text":"هي ستستيقظ"}},{"t":{"key":"aDpNRkA3t6yeHZJNk7Eh4RORZtAYvh1y","text":"We will wake up","phonetic":"","audio_updated_at":1541548841},"m":{"text":"نحن سنستيقظ"}},{"t":{"key":"ss61ImZgfwDdpudAn952mCch-FbsiUPj","text":"You will wake up","phonetic":"","audio_updated_at":1541548842},"m":{"text":"أنتم ستستيقظون"}},{"t":{"key":"LRs1qpZ9h3HIWPWFr3aZrTGSRYMC33J7","text":"They will wake up","phonetic":"","audio_updated_at":1541548843},"m":{"text":"هم سيستيقظون"}}]}}]}]}],"audio_updated_at":1688290883},{"id":9817,"vocabulary":9101,"wordID":24869,"key":"ttRFY97aHyQ2U4jS9EscROjREMeuDq2G","sols":[{"key":"ttRFY97aHyQ2U4jS9EscROjREMeuDq2G","text":"ينتقل","dictionary":[{"raw":"ينتقل","translations":[]}]},{"key":"ttRFY97aHyQ2U4jS9EscROjREMeuDq2G","text":"to move","phonetic":"","dictionary":[{"raw":"to","translations":[]},{"raw":"move","translations":[]}]}],"audio_updated_at":1688291863},{"id":9818,"vocabulary":9101,"wordID":18776,"key":"MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v","sols":[{"key":"MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v","text":"سنة","dictionary":[{"raw":"سنة","translations":[]}]},{"key":"MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v","text":"year","phonetic":"","dictionary":[{"raw":"year","translations":[{"type":"dictionary","text":"سنة","phonetic":null}]}]}],"audio_updated_at":1543437606},{"id":9819,"vocabulary":9101,"wordID":13813,"key":"7f-4-vKXFHWaEAc6wjrGhlklJ6nTcyoG","sols":[{"key":"7f-4-vKXFHWaEAc6wjrGhlklJ6nTcyoG","text":"يجد","dictionary":[{"raw":"يجد","translations":[{"type":"verb","name":{"t":"to find","m":"يجد","phonetic":"to find"},"id":35,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"Bg8WbtZxkHCvA6vXTgfVsdQ2P8Vo01oh","text":"I find","phonetic":"","audio_updated_at":1543438120},"m":{"text":"أنا أجد"}},{"t":{"key":"vAl5nlx0itAdemHeOks5Hjdp6ErUeoSN","text":"You find","phonetic":"","audio_updated_at":1543438121},"m":{"text":"أنت تجد"}},{"t":{"key":"5X2wuGIl61_ARa7ekua__9-hECDKp1SX","text":"He finds","phonetic":"","audio_updated_at":1543438122},"m":{"text":"هو يجد"}},{"t":{"key":"DGa8yis7IF5p9am2V_0MaSAvsJXhzKv2","text":"She finds","phonetic":"","audio_updated_at":1543438123},"m":{"text":"هي تجد"}},{"t":{"key":"iaaAy1nTc0upcNL5nzytV4GXCzmOuIZ7","text":"We find","phonetic":"","audio_updated_at":1543438125},"m":{"text":"نحن نجد"}},{"t":{"key":"EX-hXSrHMys6rsUs8FNwyFgQHNoLeWLJ","text":"You find","phonetic":"","audio_updated_at":1541547358},"m":{"text":"أنتم تجدون"}},{"t":{"key":"3LY_Fdx8nI2aRXsQzRUvSN1Q_pFk68dJ","text":"They find","phonetic":"","audio_updated_at":1543438126},"m":{"text":"هم يجدون"}}],"pa":[{"t":{"key":"yS00-qPvh5IvD6pVEsY6HN5P0mGdvhhi","text":"I found","phonetic":"","audio_updated_at":1541547360},"m":{"text":"أنا وجدت"}},{"t":{"key":"AIihjw4EvkCUWSMwY7ITYK_cz4DM_0Mh","text":"You found","phonetic":"","audio_updated_at":1541547361},"m":{"text":"أنت وجدت"}},{"t":{"key":"m3HMlxaA8zRvaGR_j5Oc50r7ZSZLiIZw","text":"He found","phonetic":"","audio_updated_at":1541547362},"m":{"text":"هو وجد"}},{"t":{"key":"TjDpXrnT35eHqTmT-YSiWhzLYVtMhLMS","text":"She found","phonetic":"","audio_updated_at":1541547363},"m":{"text":"هي وجدت"}},{"t":{"key":"7E09Bcp3qfyQBZY8m_2uDRGpR586kXSD","text":"We found","phonetic":"","audio_updated_at":1541547365},"m":{"text":"نحن وجدنا"}},{"t":{"key":"-nEZqh7c-gKZcvEb-ixUjETRBN9rfLf7","text":"You found","phonetic":"","audio_updated_at":1541547366},"m":{"text":"أنتم وجدتم"}},{"t":{"key":"1YaXocLZht43zVk-qjaaR8A-J50K6Iz4","text":"They found","phonetic":"","audio_updated_at":1541547367},"m":{"text":"هم وجدوا"}}],"fu":[{"t":{"key":"VudrgAMJTzPs9fp2utH5Awx0ag1r2xHZ","text":"I will find","phonetic":"","audio_updated_at":1541547368},"m":{"text":"أنا سأجد"}},{"t":{"key":"UGhG4ZdR8RIsfayoaVn1Z67c-VcmeiKP","text":"You will find","phonetic":"","audio_updated_at":1541547369},"m":{"text":"أنت ستجد"}},{"t":{"key":"dc0JV2EyCYRg8xki5PAt_zF5F6f-GcTV","text":"He will find","phonetic":"","audio_updated_at":1541547370},"m":{"text":"هو سيجد"}},{"t":{"key":"rFZxa6DACAKwfsaP09jdrs8C83pyHh5P","text":"She will find","phonetic":"","audio_updated_at":1541547371},"m":{"text":"هي ستجد"}},{"t":{"key":"aMDMoDrUlRsdganTzTHdj-eUXld0_zwl","text":"We will find","phonetic":"","audio_updated_at":1541547373},"m":{"text":"نحن سنجد"}},{"t":{"key":"ERJs56zUbF6oBnZ_GzNwnyq-7jM9Fb8C","text":"You will find","phonetic":"","audio_updated_at":1541547374},"m":{"text":"أنتم ستجدون"}},{"t":{"key":"-DHmhrqMFln4Jwx1CtptgVJPdlHclsVY","text":"They will find","phonetic":"","audio_updated_at":1541547375},"m":{"text":"هم سيجدون"}}]}}]}]},{"key":"7f-4-vKXFHWaEAc6wjrGhlklJ6nTcyoG","text":"to find","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"find","translations":[{"type":"dictionary","text":"يجد","phonetic":null},{"type":"verb","name":{"t":"to find","m":"يجد","phonetic":"to find"},"id":35,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"Bg8WbtZxkHCvA6vXTgfVsdQ2P8Vo01oh","text":"I find","phonetic":"","audio_updated_at":1543438120},"m":{"text":"أنا أجد"}},{"t":{"key":"vAl5nlx0itAdemHeOks5Hjdp6ErUeoSN","text":"You find","phonetic":"","audio_updated_at":1543438121},"m":{"text":"أنت تجد"}},{"t":{"key":"5X2wuGIl61_ARa7ekua__9-hECDKp1SX","text":"He finds","phonetic":"","audio_updated_at":1543438122},"m":{"text":"هو يجد"}},{"t":{"key":"DGa8yis7IF5p9am2V_0MaSAvsJXhzKv2","text":"She finds","phonetic":"","audio_updated_at":1543438123},"m":{"text":"هي تجد"}},{"t":{"key":"iaaAy1nTc0upcNL5nzytV4GXCzmOuIZ7","text":"We find","phonetic":"","audio_updated_at":1543438125},"m":{"text":"نحن نجد"}},{"t":{"key":"EX-hXSrHMys6rsUs8FNwyFgQHNoLeWLJ","text":"You find","phonetic":"","audio_updated_at":1541547358},"m":{"text":"أنتم تجدون"}},{"t":{"key":"3LY_Fdx8nI2aRXsQzRUvSN1Q_pFk68dJ","text":"They find","phonetic":"","audio_updated_at":1543438126},"m":{"text":"هم يجدون"}}],"pa":[{"t":{"key":"yS00-qPvh5IvD6pVEsY6HN5P0mGdvhhi","text":"I found","phonetic":"","audio_updated_at":1541547360},"m":{"text":"أنا وجدت"}},{"t":{"key":"AIihjw4EvkCUWSMwY7ITYK_cz4DM_0Mh","text":"You found","phonetic":"","audio_updated_at":1541547361},"m":{"text":"أنت وجدت"}},{"t":{"key":"m3HMlxaA8zRvaGR_j5Oc50r7ZSZLiIZw","text":"He found","phonetic":"","audio_updated_at":1541547362},"m":{"text":"هو وجد"}},{"t":{"key":"TjDpXrnT35eHqTmT-YSiWhzLYVtMhLMS","text":"She found","phonetic":"","audio_updated_at":1541547363},"m":{"text":"هي وجدت"}},{"t":{"key":"7E09Bcp3qfyQBZY8m_2uDRGpR586kXSD","text":"We found","phonetic":"","audio_updated_at":1541547365},"m":{"text":"نحن وجدنا"}},{"t":{"key":"-nEZqh7c-gKZcvEb-ixUjETRBN9rfLf7","text":"You found","phonetic":"","audio_updated_at":1541547366},"m":{"text":"أنتم وجدتم"}},{"t":{"key":"1YaXocLZht43zVk-qjaaR8A-J50K6Iz4","text":"They found","phonetic":"","audio_updated_at":1541547367},"m":{"text":"هم وجدوا"}}],"fu":[{"t":{"key":"VudrgAMJTzPs9fp2utH5Awx0ag1r2xHZ","text":"I will find","phonetic":"","audio_updated_at":1541547368},"m":{"text":"أنا سأجد"}},{"t":{"key":"UGhG4ZdR8RIsfayoaVn1Z67c-VcmeiKP","text":"You will find","phonetic":"","audio_updated_at":1541547369},"m":{"text":"أنت ستجد"}},{"t":{"key":"dc0JV2EyCYRg8xki5PAt_zF5F6f-GcTV","text":"He will find","phonetic":"","audio_updated_at":1541547370},"m":{"text":"هو سيجد"}},{"t":{"key":"rFZxa6DACAKwfsaP09jdrs8C83pyHh5P","text":"She will find","phonetic":"","audio_updated_at":1541547371},"m":{"text":"هي ستجد"}},{"t":{"key":"aMDMoDrUlRsdganTzTHdj-eUXld0_zwl","text":"We will find","phonetic":"","audio_updated_at":1541547373},"m":{"text":"نحن سنجد"}},{"t":{"key":"ERJs56zUbF6oBnZ_GzNwnyq-7jM9Fb8C","text":"You will find","phonetic":"","audio_updated_at":1541547374},"m":{"text":"أنتم ستجدون"}},{"t":{"key":"-DHmhrqMFln4Jwx1CtptgVJPdlHclsVY","text":"They will find","phonetic":"","audio_updated_at":1541547375},"m":{"text":"هم سيجدون"}}]}}]}]}],"audio_updated_at":1639519741},{"id":9820,"vocabulary":9101,"wordID":18416,"key":"I4QV-OAjAO7kEa87FInnkBuaAHhz23nD","sols":[{"key":"I4QV-OAjAO7kEa87FInnkBuaAHhz23nD","text":"تاريخ","dictionary":[{"raw":"تاريخ","translations":[]}]},{"key":"I4QV-OAjAO7kEa87FInnkBuaAHhz23nD","text":"history","phonetic":"","dictionary":[{"raw":"history","translations":[{"type":"dictionary","text":"تاريخ","phonetic":null}]}]}],"audio_updated_at":1543437053},{"id":9821,"vocabulary":9101,"wordID":16410,"key":"cy_UY580riye-LtqanHVmE8kjCivRqD6","sols":[{"key":"cy_UY580riye-LtqanHVmE8kjCivRqD6","text":"متنزه","dictionary":[]},{"key":"cy_UY580riye-LtqanHVmE8kjCivRqD6","text":"park","phonetic":"","dictionary":[{"raw":"park","translations":[{"type":"dictionary","text":"متنزه","phonetic":null}]}]}],"audio_updated_at":1543436974},{"id":9822,"vocabulary":9101,"wordID":24451,"key":"Ydj42uSsXlHzaHF2AZunJnnGhcFmf9PG","sols":[{"key":"Ydj42uSsXlHzaHF2AZunJnnGhcFmf9PG","text":"متعب","dictionary":[{"raw":"متعب","translations":[]}]},{"key":"Ydj42uSsXlHzaHF2AZunJnnGhcFmf9PG","text":"tired","phonetic":"","dictionary":[{"raw":"tired","translations":[{"type":"dictionary","text":"متعب","phonetic":null}]}]}],"audio_updated_at":1688291396},{"id":9823,"vocabulary":9101,"wordID":16727,"key":"f-SOwG3TJOPmMVguyBGw0oSJqkhuSFdm","sols":[{"key":"f-SOwG3TJOPmMVguyBGw0oSJqkhuSFdm","text":"بلدة","dictionary":[]},{"key":"f-SOwG3TJOPmMVguyBGw0oSJqkhuSFdm","text":"town","phonetic":"","dictionary":[{"raw":"town","translations":[{"type":"dictionary","text":"بلدة","phonetic":null}]}]}],"audio_updated_at":1541565964},{"id":9824,"vocabulary":9101,"wordID":17773,"key":"nx70kYALcjv16-KJtWNN3YEzOSQSvKLB","sols":[{"key":"nx70kYALcjv16-KJtWNN3YEzOSQSvKLB","text":"كرة الطائرة","dictionary":[{"raw":"كرة","translations":[]},{"raw":"الطائرة","translations":[]}]},{"key":"nx70kYALcjv16-KJtWNN3YEzOSQSvKLB","text":"volleyball","phonetic":"","dictionary":[{"raw":"volleyball","translations":[{"type":"dictionary","text":"كرة الطائرة","phonetic":null}]}]}],"audio_updated_at":1543437239},{"id":9825,"vocabulary":9101,"wordID":17638,"key":"UYofwN4mBomdH-PEk-MGeV99Ct-dw4S5","sols":[{"key":"UYofwN4mBomdH-PEk-MGeV99Ct-dw4S5","text":"شطرنج","dictionary":[{"raw":"شطرنج","translations":[]}]},{"key":"UYofwN4mBomdH-PEk-MGeV99Ct-dw4S5","text":"chess","phonetic":"","dictionary":[{"raw":"chess","translations":[{"type":"dictionary","text":"شطرنج","phonetic":null}]}]}],"audio_updated_at":1543437162}]}
+{
+  "vocabulary": {
+    "id": 9101,
+    "index": 1,
+    "category": 91,
+    "categoryID": 91,
+    "unifiedUnitId": 148,
+    "unifiedCategoryId": 91,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 12,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [9816, 9817, 9818, 9819, 9820, 9821, 9822, 9823, 9824, 9825]
+  },
+  "vItems": [
+    {
+      "id": 9816,
+      "vocabulary": 9101,
+      "wordID": 23993,
+      "key": "vT69kfm5VB3IemRgZOXhsrjMVxDg3tQY",
+      "sols": [
+        {
+          "key": "vT69kfm5VB3IemRgZOXhsrjMVxDg3tQY",
+          "text": "يترعرع",
+          "dictionary": [{ "raw": "يترعرع", "translations": [] }]
+        },
+        {
+          "key": "vT69kfm5VB3IemRgZOXhsrjMVxDg3tQY",
+          "text": "to grow up",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "grow", "translations": [] },
+            {
+              "raw": "up",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to wake up",
+                    "m": "يستيقظ",
+                    "phonetic": "to wake up"
+                  },
+                  "id": 93,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "8TkNXzNqha1C-wGscyjrK60TguuJx0OJ",
+                          "text": "I wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548817
+                        },
+                        "m": { "text": "أنا أستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "90B5D_ym6rQDGj99BR7K91yXvT8F2wBk",
+                          "text": "You wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548818
+                        },
+                        "m": { "text": "أنت تستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "OVywZ8_ppeWTYHW9pwYCUNP6Le1KmIty",
+                          "text": "He wakes up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548819
+                        },
+                        "m": { "text": "هو يستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "Mo4CqYqyoEwUs4pzloBMRzlYyeL8YiuJ",
+                          "text": "She wakes up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548820
+                        },
+                        "m": { "text": "هي تستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "eydwtzsw_-UT51kc__p8qYrwJtaOqeVt",
+                          "text": "We wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548823
+                        },
+                        "m": { "text": "نحن نستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "CPBYpG2z_PwxLTLdVkRLkAYSSZE8Q66K",
+                          "text": "You wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548824
+                        },
+                        "m": { "text": "أنتم تستيقظون" }
+                      },
+                      {
+                        "t": {
+                          "key": "r4PYgbQa-X2Q6_EPTIQ58OC37dy2jGUp",
+                          "text": "They wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548825
+                        },
+                        "m": { "text": "هم يستيقظون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "o0S52N5R0_W-wr5n_CsmBrl3-WpUNZvZ",
+                          "text": "I woke up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548826
+                        },
+                        "m": { "text": "أنا استيقظت" }
+                      },
+                      {
+                        "t": {
+                          "key": "lZleu-7XAOIP3cJnM9mpihcNeA-RWupH",
+                          "text": "You woke up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548827
+                        },
+                        "m": { "text": "أنت استيقظت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ruRfhB7MlqALJCVt18W3mt14UJsq5Txx",
+                          "text": "He woke up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548828
+                        },
+                        "m": { "text": "هو استيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "YsOVzY3xPS__4lMBZ2M8fcQCAC4TzL9d",
+                          "text": "She woke up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548829
+                        },
+                        "m": { "text": "هي استيقظت" }
+                      },
+                      {
+                        "t": {
+                          "key": "Sk_hqFRqudic0qtf9-E77azWw6P6Bct4",
+                          "text": "We woke up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548832
+                        },
+                        "m": { "text": "نحن استيقظنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "oOiVLNl2F5e9A2pX-Tg9_x_JD4__2cF2",
+                          "text": "You woke up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548833
+                        },
+                        "m": { "text": "أنتم استيقظتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "1Yg6puHschCH_Up80WJb86rviScmAVIN",
+                          "text": "They woke up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548835
+                        },
+                        "m": { "text": "هم استيقظوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Du-dne6JV5LK3dDtr2iI1pbiSDQty1Qz",
+                          "text": "I will wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548836
+                        },
+                        "m": { "text": "أنا سأستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "5sC15f2WmY5nd_ABLscjVRf6EmutD6IW",
+                          "text": "You will wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548837
+                        },
+                        "m": { "text": "أنت ستستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "Y5_oAo0Ln67gIP92IPUMUHzLc0GOdYSI",
+                          "text": "He will wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548838
+                        },
+                        "m": { "text": "هو سيستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "52rWkfIlaLE5sfy6NAeJcotsWP0o1vWN",
+                          "text": "She will wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548839
+                        },
+                        "m": { "text": "هي ستستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "aDpNRkA3t6yeHZJNk7Eh4RORZtAYvh1y",
+                          "text": "We will wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548841
+                        },
+                        "m": { "text": "نحن سنستيقظ" }
+                      },
+                      {
+                        "t": {
+                          "key": "ss61ImZgfwDdpudAn952mCch-FbsiUPj",
+                          "text": "You will wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548842
+                        },
+                        "m": { "text": "أنتم ستستيقظون" }
+                      },
+                      {
+                        "t": {
+                          "key": "LRs1qpZ9h3HIWPWFr3aZrTGSRYMC33J7",
+                          "text": "They will wake up",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548843
+                        },
+                        "m": { "text": "هم سيستيقظون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688290883
+    },
+    {
+      "id": 9817,
+      "vocabulary": 9101,
+      "wordID": 24869,
+      "key": "ttRFY97aHyQ2U4jS9EscROjREMeuDq2G",
+      "sols": [
+        {
+          "key": "ttRFY97aHyQ2U4jS9EscROjREMeuDq2G",
+          "text": "ينتقل",
+          "dictionary": [{ "raw": "ينتقل", "translations": [] }]
+        },
+        {
+          "key": "ttRFY97aHyQ2U4jS9EscROjREMeuDq2G",
+          "text": "to move",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            { "raw": "move", "translations": [] }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291863
+    },
+    {
+      "id": 9818,
+      "vocabulary": 9101,
+      "wordID": 18776,
+      "key": "MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v",
+      "sols": [
+        {
+          "key": "MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v",
+          "text": "سنة",
+          "dictionary": [{ "raw": "سنة", "translations": [] }]
+        },
+        {
+          "key": "MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v",
+          "text": "year",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "year",
+              "translations": [
+                { "type": "dictionary", "text": "سنة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437606
+    },
+    {
+      "id": 9819,
+      "vocabulary": 9101,
+      "wordID": 13813,
+      "key": "7f-4-vKXFHWaEAc6wjrGhlklJ6nTcyoG",
+      "sols": [
+        {
+          "key": "7f-4-vKXFHWaEAc6wjrGhlklJ6nTcyoG",
+          "text": "يجد",
+          "dictionary": [
+            {
+              "raw": "يجد",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to find", "m": "يجد", "phonetic": "to find" },
+                  "id": 35,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "Bg8WbtZxkHCvA6vXTgfVsdQ2P8Vo01oh",
+                          "text": "I find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438120
+                        },
+                        "m": { "text": "أنا أجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "vAl5nlx0itAdemHeOks5Hjdp6ErUeoSN",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438121
+                        },
+                        "m": { "text": "أنت تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5X2wuGIl61_ARa7ekua__9-hECDKp1SX",
+                          "text": "He finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438122
+                        },
+                        "m": { "text": "هو يجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "DGa8yis7IF5p9am2V_0MaSAvsJXhzKv2",
+                          "text": "She finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438123
+                        },
+                        "m": { "text": "هي تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "iaaAy1nTc0upcNL5nzytV4GXCzmOuIZ7",
+                          "text": "We find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438125
+                        },
+                        "m": { "text": "نحن نجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "EX-hXSrHMys6rsUs8FNwyFgQHNoLeWLJ",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547358
+                        },
+                        "m": { "text": "أنتم تجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "3LY_Fdx8nI2aRXsQzRUvSN1Q_pFk68dJ",
+                          "text": "They find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438126
+                        },
+                        "m": { "text": "هم يجدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "yS00-qPvh5IvD6pVEsY6HN5P0mGdvhhi",
+                          "text": "I found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547360
+                        },
+                        "m": { "text": "أنا وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "AIihjw4EvkCUWSMwY7ITYK_cz4DM_0Mh",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547361
+                        },
+                        "m": { "text": "أنت وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "m3HMlxaA8zRvaGR_j5Oc50r7ZSZLiIZw",
+                          "text": "He found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547362
+                        },
+                        "m": { "text": "هو وجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "TjDpXrnT35eHqTmT-YSiWhzLYVtMhLMS",
+                          "text": "She found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547363
+                        },
+                        "m": { "text": "هي وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "7E09Bcp3qfyQBZY8m_2uDRGpR586kXSD",
+                          "text": "We found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547365
+                        },
+                        "m": { "text": "نحن وجدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-nEZqh7c-gKZcvEb-ixUjETRBN9rfLf7",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547366
+                        },
+                        "m": { "text": "أنتم وجدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "1YaXocLZht43zVk-qjaaR8A-J50K6Iz4",
+                          "text": "They found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547367
+                        },
+                        "m": { "text": "هم وجدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "VudrgAMJTzPs9fp2utH5Awx0ag1r2xHZ",
+                          "text": "I will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547368
+                        },
+                        "m": { "text": "أنا سأجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "UGhG4ZdR8RIsfayoaVn1Z67c-VcmeiKP",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547369
+                        },
+                        "m": { "text": "أنت ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "dc0JV2EyCYRg8xki5PAt_zF5F6f-GcTV",
+                          "text": "He will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547370
+                        },
+                        "m": { "text": "هو سيجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "rFZxa6DACAKwfsaP09jdrs8C83pyHh5P",
+                          "text": "She will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547371
+                        },
+                        "m": { "text": "هي ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aMDMoDrUlRsdganTzTHdj-eUXld0_zwl",
+                          "text": "We will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547373
+                        },
+                        "m": { "text": "نحن سنجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ERJs56zUbF6oBnZ_GzNwnyq-7jM9Fb8C",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547374
+                        },
+                        "m": { "text": "أنتم ستجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "-DHmhrqMFln4Jwx1CtptgVJPdlHclsVY",
+                          "text": "They will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547375
+                        },
+                        "m": { "text": "هم سيجدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "7f-4-vKXFHWaEAc6wjrGhlklJ6nTcyoG",
+          "text": "to find",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "find",
+              "translations": [
+                { "type": "dictionary", "text": "يجد", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": { "t": "to find", "m": "يجد", "phonetic": "to find" },
+                  "id": 35,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "Bg8WbtZxkHCvA6vXTgfVsdQ2P8Vo01oh",
+                          "text": "I find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438120
+                        },
+                        "m": { "text": "أنا أجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "vAl5nlx0itAdemHeOks5Hjdp6ErUeoSN",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438121
+                        },
+                        "m": { "text": "أنت تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "5X2wuGIl61_ARa7ekua__9-hECDKp1SX",
+                          "text": "He finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438122
+                        },
+                        "m": { "text": "هو يجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "DGa8yis7IF5p9am2V_0MaSAvsJXhzKv2",
+                          "text": "She finds",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438123
+                        },
+                        "m": { "text": "هي تجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "iaaAy1nTc0upcNL5nzytV4GXCzmOuIZ7",
+                          "text": "We find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438125
+                        },
+                        "m": { "text": "نحن نجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "EX-hXSrHMys6rsUs8FNwyFgQHNoLeWLJ",
+                          "text": "You find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547358
+                        },
+                        "m": { "text": "أنتم تجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "3LY_Fdx8nI2aRXsQzRUvSN1Q_pFk68dJ",
+                          "text": "They find",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438126
+                        },
+                        "m": { "text": "هم يجدون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "yS00-qPvh5IvD6pVEsY6HN5P0mGdvhhi",
+                          "text": "I found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547360
+                        },
+                        "m": { "text": "أنا وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "AIihjw4EvkCUWSMwY7ITYK_cz4DM_0Mh",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547361
+                        },
+                        "m": { "text": "أنت وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "m3HMlxaA8zRvaGR_j5Oc50r7ZSZLiIZw",
+                          "text": "He found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547362
+                        },
+                        "m": { "text": "هو وجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "TjDpXrnT35eHqTmT-YSiWhzLYVtMhLMS",
+                          "text": "She found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547363
+                        },
+                        "m": { "text": "هي وجدت" }
+                      },
+                      {
+                        "t": {
+                          "key": "7E09Bcp3qfyQBZY8m_2uDRGpR586kXSD",
+                          "text": "We found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547365
+                        },
+                        "m": { "text": "نحن وجدنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "-nEZqh7c-gKZcvEb-ixUjETRBN9rfLf7",
+                          "text": "You found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547366
+                        },
+                        "m": { "text": "أنتم وجدتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "1YaXocLZht43zVk-qjaaR8A-J50K6Iz4",
+                          "text": "They found",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547367
+                        },
+                        "m": { "text": "هم وجدوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "VudrgAMJTzPs9fp2utH5Awx0ag1r2xHZ",
+                          "text": "I will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547368
+                        },
+                        "m": { "text": "أنا سأجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "UGhG4ZdR8RIsfayoaVn1Z67c-VcmeiKP",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547369
+                        },
+                        "m": { "text": "أنت ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "dc0JV2EyCYRg8xki5PAt_zF5F6f-GcTV",
+                          "text": "He will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547370
+                        },
+                        "m": { "text": "هو سيجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "rFZxa6DACAKwfsaP09jdrs8C83pyHh5P",
+                          "text": "She will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547371
+                        },
+                        "m": { "text": "هي ستجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "aMDMoDrUlRsdganTzTHdj-eUXld0_zwl",
+                          "text": "We will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547373
+                        },
+                        "m": { "text": "نحن سنجد" }
+                      },
+                      {
+                        "t": {
+                          "key": "ERJs56zUbF6oBnZ_GzNwnyq-7jM9Fb8C",
+                          "text": "You will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547374
+                        },
+                        "m": { "text": "أنتم ستجدون" }
+                      },
+                      {
+                        "t": {
+                          "key": "-DHmhrqMFln4Jwx1CtptgVJPdlHclsVY",
+                          "text": "They will find",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547375
+                        },
+                        "m": { "text": "هم سيجدون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639519741
+    },
+    {
+      "id": 9820,
+      "vocabulary": 9101,
+      "wordID": 18416,
+      "key": "I4QV-OAjAO7kEa87FInnkBuaAHhz23nD",
+      "sols": [
+        {
+          "key": "I4QV-OAjAO7kEa87FInnkBuaAHhz23nD",
+          "text": "تاريخ",
+          "dictionary": [{ "raw": "تاريخ", "translations": [] }]
+        },
+        {
+          "key": "I4QV-OAjAO7kEa87FInnkBuaAHhz23nD",
+          "text": "history",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "history",
+              "translations": [
+                { "type": "dictionary", "text": "تاريخ", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437053
+    },
+    {
+      "id": 9821,
+      "vocabulary": 9101,
+      "wordID": 16410,
+      "key": "cy_UY580riye-LtqanHVmE8kjCivRqD6",
+      "sols": [
+        {
+          "key": "cy_UY580riye-LtqanHVmE8kjCivRqD6",
+          "text": "متنزه",
+          "dictionary": []
+        },
+        {
+          "key": "cy_UY580riye-LtqanHVmE8kjCivRqD6",
+          "text": "park",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "park",
+              "translations": [
+                { "type": "dictionary", "text": "متنزه", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436974
+    },
+    {
+      "id": 9822,
+      "vocabulary": 9101,
+      "wordID": 24451,
+      "key": "Ydj42uSsXlHzaHF2AZunJnnGhcFmf9PG",
+      "sols": [
+        {
+          "key": "Ydj42uSsXlHzaHF2AZunJnnGhcFmf9PG",
+          "text": "متعب",
+          "dictionary": [{ "raw": "متعب", "translations": [] }]
+        },
+        {
+          "key": "Ydj42uSsXlHzaHF2AZunJnnGhcFmf9PG",
+          "text": "tired",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "tired",
+              "translations": [
+                { "type": "dictionary", "text": "متعب", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291396
+    },
+    {
+      "id": 9823,
+      "vocabulary": 9101,
+      "wordID": 16727,
+      "key": "f-SOwG3TJOPmMVguyBGw0oSJqkhuSFdm",
+      "sols": [
+        {
+          "key": "f-SOwG3TJOPmMVguyBGw0oSJqkhuSFdm",
+          "text": "بلدة",
+          "dictionary": []
+        },
+        {
+          "key": "f-SOwG3TJOPmMVguyBGw0oSJqkhuSFdm",
+          "text": "town",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "town",
+              "translations": [
+                { "type": "dictionary", "text": "بلدة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1541565964
+    },
+    {
+      "id": 9824,
+      "vocabulary": 9101,
+      "wordID": 17773,
+      "key": "nx70kYALcjv16-KJtWNN3YEzOSQSvKLB",
+      "sols": [
+        {
+          "key": "nx70kYALcjv16-KJtWNN3YEzOSQSvKLB",
+          "text": "كرة الطائرة",
+          "dictionary": [
+            { "raw": "كرة", "translations": [] },
+            { "raw": "الطائرة", "translations": [] }
+          ]
+        },
+        {
+          "key": "nx70kYALcjv16-KJtWNN3YEzOSQSvKLB",
+          "text": "volleyball",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "volleyball",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "كرة الطائرة",
+                  "phonetic": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437239
+    },
+    {
+      "id": 9825,
+      "vocabulary": 9101,
+      "wordID": 17638,
+      "key": "UYofwN4mBomdH-PEk-MGeV99Ct-dw4S5",
+      "sols": [
+        {
+          "key": "UYofwN4mBomdH-PEk-MGeV99Ct-dw4S5",
+          "text": "شطرنج",
+          "dictionary": [{ "raw": "شطرنج", "translations": [] }]
+        },
+        {
+          "key": "UYofwN4mBomdH-PEk-MGeV99Ct-dw4S5",
+          "text": "chess",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "chess",
+              "translations": [
+                { "type": "dictionary", "text": "شطرنج", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437162
+    }
+  ]
+}

@@ -1,1 +1,2704 @@
-{"lesson":{"id":2401,"index":1,"unitNumber":null,"unitType":0,"unitStyle":0,"unitScope":0,"category":24,"categoryID":24,"unifiedUnitId":140,"unifiedCategoryId":24,"name":"الرياضات 1","isCourse":false,"disabled":false,"done":false,"stars":false,"difficulty":"beginner","countQuiz":22,"countWords":13,"countPhrases":6,"countDone":0,"quizzes":[620139,620140,620141,620142,620143,620144,620145,620146,620147,620148,620149,620150,620151,620152,620153,620154,620155,620156,620157,620158,620159,620160]},"quizzes":[{"id":620139,"lesson":2401,"type":"D","modifiers":327,"wordID":17766,"alternates":[17621,17687,17682],"sols":[{"key":"RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY","audio_updated_at":1543437237,"text":"كرة المضرب"},{"key":"oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11","audio_updated_at":1543437215,"text":"الغولف"},{"key":"BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6","audio_updated_at":1543437214,"text":"كرة القدم"},{"key":"MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph","audio_updated_at":1543437205,"text":"كرة السلة"}],"alts":[{"key":"RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY","audio_updated_at":1543437237,"text":"tennis","phonetic":"","image":"YvfGj9F99kqRabR_d12afBSHNBMDzbnj","image_updated_at":1689159091},{"key":"oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11","audio_updated_at":1543437215,"image":"uy7ENShsSoXnkDHwxGxSW2j0nHi3BJi-","image_updated_at":1689159077,"text":"golf","phonetic":""},{"key":"BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6","audio_updated_at":1543437214,"image":"AyYd_2cZGQAK7zGRHuDh0Hvjv3G9H1Fp","image_updated_at":1689159077,"text":"football","phonetic":""},{"key":"MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph","audio_updated_at":1543437205,"image":"Inj_-Ghshn3sD_Yrqp9oAoSD782dY4Uh","image_updated_at":1689159067,"text":"basketball","phonetic":""}]},{"id":620140,"lesson":2401,"type":"C1b","modifiers":72,"wordID":17841,"alternates":[17766],"tokens":[{"key":"tJDZCRb2E4T","text":"play","raw":{"text":"play","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tIzWR0bfZZp","text":"tennis.","raw":{"text":"tennis","location":7,"length":6},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":6,"length":1}},{"key":"tYSIB2vZNHM","text":"dive.","raw":{"text":"dive","location":10,"length":4},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":9,"length":1}},{"key":"tfj01Zz8wI-","text":"want","raw":{"text":"want","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tX2tQ1qr-85","text":"to","raw":{"text":"to","location":7,"length":2},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"t-fEPDKldrw","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":false,"ord":["t-fEPDKldrw","tJDZCRb2E4T","tIzWR0bfZZp"],"completeToken":"tIzWR0bfZZp","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","audio_updated_at":1543435951,"text":"أنا ألعب كرة المضرب.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"ألعب","translations":[{"type":"dictionary","text":"play","phonetic":"play"}]},{"raw":"كرة","translations":[]},{"raw":"المضرب","translations":[{"type":"dictionary","text":"tennis","phonetic":"tennis"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"ألعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"المضرب","location":13,"length":6},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":12,"length":1}}]},{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","audio_updated_at":1543435951,"text":"I play tennis.","phonetic":""}]},{"id":620141,"lesson":2401,"type":"T1","modifiers":40,"wordID":17174,"alternates":[],"tokens":[{"key":"tLWVa1ejVKz","text":"المضرب","raw":{"text":"المضرب","location":13,"length":6},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"t0dWk8Z8En1","text":"الحين","raw":{"text":"الحين","location":24,"length":5},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":29,"length":0},"linker":{"text":" ","location":23,"length":1}},{"key":"tugKvo9Xs34","text":"انا","raw":{"text":"انا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t__T0txDiHg","text":"لا،","raw":{"text":"لا","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"،","location":2,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"tKiMY1yIFsJ","text":"ألعب","raw":{"text":"ألعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t7Ve_QrytYY","text":"بين","raw":{"text":"بين","location":20,"length":3},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":19,"length":1}},{"key":"ti9sZhUMiGf","text":"والآخر.","raw":{"text":"والآخر","location":30,"length":6},"prefix":{"text":"","location":30,"length":0},"suffix":{"text":".","location":36,"length":1},"linker":{"text":" ","location":29,"length":1}},{"key":"tf6E58-DVNe","text":"كرة","raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}}],"tokensEqualSize":true,"ord":["tugKvo9Xs34","tKiMY1yIFsJ","tf6E58-DVNe","tLWVa1ejVKz","t7Ve_QrytYY","t0dWk8Z8En1","ti9sZhUMiGf"],"sols":[{"key":"i4y109hZxnbptmowFo4jMPFagvxh_wFh","audio_updated_at":1543440332,"text":"I play tennis now and then.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"انا","phonetic":null}]},{"raw":"play","translations":[{"type":"dictionary","text":"ألعب","phonetic":null}]},{"raw":"tennis","translations":[{"type":"dictionary","text":"كرة المضرب","phonetic":null}]},{"raw":"now","translations":[]},{"raw":"and","translations":[]},{"raw":"then","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"play","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"tennis","location":7,"length":6},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":6,"length":1}},{"raw":{"text":"now","location":14,"length":3},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":13,"length":1}},{"raw":{"text":"and","location":18,"length":3},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":21,"length":0},"linker":{"text":" ","location":17,"length":1}},{"raw":{"text":"then","location":22,"length":4},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":".","location":26,"length":1},"linker":{"text":" ","location":21,"length":1}}],"phonetic_tokens":[]},{"key":"i4y109hZxnbptmowFo4jMPFagvxh_wFh","audio_updated_at":1543440332,"text":"انا ألعب كرة المضرب بين الحين والآخر."}]},{"id":620142,"lesson":2401,"type":"P","modifiers":65,"wordID":17682,"alternates":[17687,17621,17766],"sols":[{"key":"BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6","audio_updated_at":1543437214,"text":"كرة القدم"},{"key":"RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY","text":"كرة المضرب"},{"key":"MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph","text":"كرة السلة"},{"key":"oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11","text":"الغولف"}],"alts":[{"key":"BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6","audio_updated_at":1543437214,"text":"football","phonetic":"","image":"AyYd_2cZGQAK7zGRHuDh0Hvjv3G9H1Fp","image_updated_at":1689159077},{"key":"RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY","audio_updated_at":1543437237,"text":"tennis","phonetic":"","image":"YvfGj9F99kqRabR_d12afBSHNBMDzbnj","image_updated_at":1689159091},{"key":"MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph","audio_updated_at":1543437205,"text":"basketball","phonetic":"","image":"Inj_-Ghshn3sD_Yrqp9oAoSD782dY4Uh","image_updated_at":1689159067},{"key":"oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11","audio_updated_at":1543437215,"text":"golf","phonetic":"","image":"uy7ENShsSoXnkDHwxGxSW2j0nHi3BJi-","image_updated_at":1689159077}]},{"id":620143,"lesson":2401,"type":"C1b","modifiers":72,"wordID":17840,"alternates":[17682],"tokens":[{"key":"tuknT5zlMC9","text":"want","raw":{"text":"want","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"tDaVXgGsja-","text":"play","raw":{"text":"play","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"key":"trSOVGQVOsH","text":"to","raw":{"text":"to","location":7,"length":2},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"tN7qqKuEC7b","text":"I","raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tIh4olMrqfc","text":"home.","raw":{"text":"home","location":13,"length":4},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":17,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"tYwh5IJm1VJ","text":"football.","raw":{"text":"football","location":7,"length":8},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":6,"length":1}},{"key":"teU-swK1fgi","text":"go","raw":{"text":"go","location":10,"length":2},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":9,"length":1}}],"tokensEqualSize":false,"ord":["tN7qqKuEC7b","tDaVXgGsja-","tYwh5IJm1VJ"],"completeToken":"tYwh5IJm1VJ","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","audio_updated_at":1543435955,"text":"‫أنا ألعب كرة القدم.‬","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"ألعب","translations":[{"type":"dictionary","text":"play","phonetic":"play"}]},{"raw":"كرة","translations":[]},{"raw":"القدم","translations":[{"type":"dictionary","text":"football","phonetic":"football"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":1,"length":3},"prefix":{"text":"","location":1,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":1,"length":0}},{"raw":{"text":"ألعب","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"raw":{"text":"كرة","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"القدم","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":13,"length":1}}]},{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","audio_updated_at":1543435955,"text":"I play football.","phonetic":""}]},{"id":620144,"lesson":2401,"type":"T1","modifiers":40,"wordID":17910,"alternates":[],"tokens":[{"key":"twTZDUoKeED","text":"نلعب","raw":{"text":"نلعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tmASp0rK-1b","text":"الملابس؟","raw":{"text":"الملابس","location":15,"length":7},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"؟","location":22,"length":1},"linker":{"text":" ","location":14,"length":1}},{"key":"tMlKVw8TzBc","text":"نحن","raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tbUG6KN27Kk","text":"أين","raw":{"text":"أين","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tsF51UyF3I-","text":"القدم.","raw":{"text":"القدم","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"tqF8eeEP8Z8","text":"غرفة","raw":{"text":"غرفة","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tGzxgBB8mNI","text":"كرة","raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tpZxQ4jbfrL","text":"تغيير","raw":{"text":"تغيير","location":9,"length":5},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":8,"length":1}}],"tokensEqualSize":true,"ord":["tMlKVw8TzBc","twTZDUoKeED","tGzxgBB8mNI","tsF51UyF3I-"],"sols":[{"key":"aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA","audio_updated_at":1543435751,"text":"We play football.","phonetic":"","dictionary":[{"raw":"We","translations":[{"type":"dictionary","text":"نحن","phonetic":null}]},{"raw":"play","translations":[]},{"raw":"football","translations":[{"type":"dictionary","text":"كرة القدم","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"We","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"play","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"football","location":8,"length":8},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":16,"length":1},"linker":{"text":" ","location":7,"length":1}}],"phonetic_tokens":[]},{"key":"aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA","audio_updated_at":1543435751,"text":"نحن نلعب كرة القدم."}]},{"id":620145,"lesson":2401,"type":"F","modifiers":71,"wordID":17621,"alternates":[17687],"sols":[{"key":"oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11","audio_updated_at":1543437215,"text":"الغولف"},{"key":"MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph","audio_updated_at":1543437205,"text":"كرة السلة"}],"alts":[{"key":"oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11","audio_updated_at":1543437215,"image":"uy7ENShsSoXnkDHwxGxSW2j0nHi3BJi-","image_updated_at":1689159077,"text":"golf","phonetic":""},{"key":"MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph","audio_updated_at":1543437205,"text":"basketball","phonetic":"","image":"Inj_-Ghshn3sD_Yrqp9oAoSD782dY4Uh","image_updated_at":1689159067}]},{"id":620146,"lesson":2401,"type":"C1b","modifiers":72,"wordID":23958,"alternates":[17621],"tokens":[{"key":"t3bfcAFuDFJ","text":"play","raw":{"text":"play","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tI1h7uWwd1z","text":"score","raw":{"text":"score","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t1EBElpVKpg","text":"We","raw":{"text":"We","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tcPetiak2kq","text":"basketball","raw":{"text":"basketball","location":8,"length":10},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tpfOqaPeh_y","text":"a","raw":{"text":"a","location":24,"length":1},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":23,"length":1}},{"key":"tOu8MfOGePz","text":"The","raw":{"text":"The","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tYz2EsIZBWz","text":"once","raw":{"text":"once","location":19,"length":4},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":18,"length":1}},{"key":"tGve53opau6","text":"week.","raw":{"text":"week","location":26,"length":4},"prefix":{"text":"","location":26,"length":0},"suffix":{"text":".","location":30,"length":1},"linker":{"text":" ","location":25,"length":1}}],"tokensEqualSize":false,"ord":["t1EBElpVKpg","t3bfcAFuDFJ","tcPetiak2kq","tYz2EsIZBWz","tpfOqaPeh_y","tGve53opau6"],"completeToken":"tcPetiak2kq","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","audio_updated_at":1688290844,"text":"نحن نلعب كرة السلة مرة في الأسبوع.","dictionary":[{"raw":"نحن","translations":[{"type":"dictionary","text":"We","phonetic":"We"}]},{"raw":"نلعب","translations":[{"type":"dictionary","text":"We play","phonetic":"We play"}]},{"raw":"كرة","translations":[]},{"raw":"السلة","translations":[{"type":"dictionary","text":"basketball","phonetic":"basketball"}]},{"raw":"مرة","translations":[{"type":"dictionary","text":"once","phonetic":"once"}]},{"raw":"في","translations":[]},{"raw":"الأسبوع","translations":[{"type":"dictionary","text":"week","phonetic":"week"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"نلعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"السلة","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"مرة","location":19,"length":3},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":18,"length":1}},{"raw":{"text":"في","location":23,"length":2},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":22,"length":1}},{"raw":{"text":"الأسبوع","location":26,"length":7},"prefix":{"text":"","location":26,"length":0},"suffix":{"text":".","location":33,"length":1},"linker":{"text":" ","location":25,"length":1}}]},{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","audio_updated_at":1688290844,"text":"We play basketball once a week.","phonetic":""}]},{"id":620147,"lesson":2401,"type":"T1b","modifiers":72,"wordID":23957,"alternates":[],"tokens":[{"key":"tFsAIUDzolP","text":"play","raw":{"text":"play","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"t0Guqpc4uRa","text":"golf","raw":{"text":"golf","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tm5hRrCwY39","text":"How","raw":{"text":"How","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tL9U5r0ZZSQ","text":"once","raw":{"text":"once","location":13,"length":4},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"td3zRczqrz-","text":"week.","raw":{"text":"week","location":20,"length":4},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":".","location":24,"length":1},"linker":{"text":" ","location":19,"length":1}},{"key":"trAtoUOWPbF","text":"do","raw":{"text":"do","location":4,"length":2},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tmhe0ZDU6iC","text":"a","raw":{"text":"a","location":18,"length":1},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":17,"length":1}},{"key":"tPHkocWhrsr","text":"We","raw":{"text":"We","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":false,"ord":["tPHkocWhrsr","tFsAIUDzolP","t0Guqpc4uRa","tL9U5r0ZZSQ","tmhe0ZDU6iC","td3zRczqrz-"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY","audio_updated_at":1688290842,"text":"نحن نلعب الغولف مرة في الأسبوع.","dictionary":[{"raw":"نحن","translations":[{"type":"dictionary","text":"We","phonetic":"We"}]},{"raw":"نلعب","translations":[{"type":"dictionary","text":"We play","phonetic":"We play"}]},{"raw":"الغولف","translations":[{"type":"dictionary","text":"golf","phonetic":"golf"}]},{"raw":"مرة","translations":[{"type":"dictionary","text":"once","phonetic":"once"}]},{"raw":"في","translations":[]},{"raw":"الأسبوع","translations":[{"type":"dictionary","text":"week","phonetic":"week"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"نلعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"الغولف","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"مرة","location":16,"length":3},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"في","location":20,"length":2},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":19,"length":1}},{"raw":{"text":"الأسبوع","location":23,"length":7},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":".","location":30,"length":1},"linker":{"text":" ","location":22,"length":1}}]},{"key":"SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY","audio_updated_at":1688290842,"text":"We play golf once a week.","phonetic":""}]},{"id":620148,"lesson":2401,"type":"W1b","modifiers":68,"wordID":17766,"alternates":[],"tokens":[{"key":"tPixZMoD-12","text":"i","group":0},{"key":"tseoU0sg9ZH","text":"t","group":0},{"key":"tOhE5p-PB2x","text":"n","group":0},{"key":"tZIP2NrAhWr","text":"e","group":0},{"key":"tp_vcZkwjLp","text":"n","group":0},{"key":"tZMWDmBAe_r","text":"s","group":0}],"tokensEqualSize":false,"ord":["tseoU0sg9ZH","tZIP2NrAhWr","tOhE5p-PB2x","tp_vcZkwjLp","tPixZMoD-12","tZMWDmBAe_r"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY","audio_updated_at":1543437237,"text":"كرة المضرب","dictionary":[{"raw":"كرة","translations":[]},{"raw":"المضرب","translations":[{"type":"dictionary","text":"tennis","phonetic":"tennis"}]}],"phraseType":0,"text_tokens":[{"raw":{"text":"كرة","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"المضرب","location":4,"length":6},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":3,"length":1}}]},{"key":"RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY","audio_updated_at":1543437237,"text_tokens":[{"raw":{"text":"tennis","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[],"text":"tennis","phonetic":"","image":"YvfGj9F99kqRabR_d12afBSHNBMDzbnj","image_updated_at":1689159091}]},{"id":620149,"lesson":2401,"type":"C2b","modifiers":92,"wordID":17841,"alternates":[17766],"tokens":[{"key":"tQlHbObYETd","text":"n","group":2},{"key":"t45TUtmMdl4","text":".","specialChar":true},{"key":"tXrGN13gUed","text":"s","group":2},{"key":"t7HIILcEWhw","text":"e","group":2},{"key":"t0VW6wxbR_p","text":"i","group":2},{"key":"tBQxh5MnPqu","text":" ","specialChar":true},{"key":"tK5Fz98iZrE","text":"t","group":2},{"key":"tO-TOYxYYrY","text":"n","group":2}],"tokensEqualSize":false,"ord":["tBQxh5MnPqu","tK5Fz98iZrE","t7HIILcEWhw","tQlHbObYETd","tO-TOYxYYrY","t0VW6wxbR_p","tXrGN13gUed","t45TUtmMdl4"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","audio_updated_at":1543435951,"text":"أنا ألعب كرة المضرب.","dictionary":[{"raw":"أنا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"ألعب","translations":[{"type":"dictionary","text":"play","phonetic":"play"}]},{"raw":"كرة","translations":[]},{"raw":"المضرب","translations":[{"type":"dictionary","text":"tennis","phonetic":"tennis"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"ألعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"المضرب","location":13,"length":6},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":12,"length":1}}]},{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","audio_updated_at":1543435951,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"play","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"tennis","location":7,"length":6},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":6,"length":1}}],"phonetic_tokens":[],"text":"I play tennis.","phonetic":""}]},{"id":620150,"lesson":2401,"type":"Qb","modifiers":73,"wordID":17174,"alternates":[17840,17841],"sols":[{"key":"i4y109hZxnbptmowFo4jMPFagvxh_wFh","audio_updated_at":1543440332,"text":"انا ألعب كرة المضرب بين الحين والآخر.","dictionary":[{"raw":"انا","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"ألعب","translations":[{"type":"dictionary","text":"play","phonetic":"play"}]},{"raw":"كرة","translations":[]},{"raw":"المضرب","translations":[{"type":"dictionary","text":"tennis","phonetic":"tennis"}]},{"raw":"بين","translations":[]},{"raw":"الحين","translations":[{"type":"dictionary","text":"now","phonetic":"now"}]},{"raw":"والآخر","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"انا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"ألعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"المضرب","location":13,"length":6},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"بين","location":20,"length":3},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":19,"length":1}},{"raw":{"text":"الحين","location":24,"length":5},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":29,"length":0},"linker":{"text":" ","location":23,"length":1}},{"raw":{"text":"والآخر","location":30,"length":6},"prefix":{"text":"","location":30,"length":0},"suffix":{"text":".","location":36,"length":1},"linker":{"text":" ","location":29,"length":1}}]},{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","text":"‫أنا ألعب كرة القدم.‬"},{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","text":"أنا ألعب كرة المضرب."}],"alts":[{"key":"i4y109hZxnbptmowFo4jMPFagvxh_wFh","audio_updated_at":1543440332,"text":"I play tennis now and then.","phonetic":""},{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","audio_updated_at":1543435955,"text":"I play football.","phonetic":""},{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","audio_updated_at":1543435951,"text":"I play tennis.","phonetic":""}]},{"id":620151,"lesson":2401,"type":"T1","modifiers":40,"wordID":17840,"alternates":[],"tokens":[{"key":"tykufAnwy3q","text":"إلى","raw":{"text":"إلى","location":16,"length":3},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":15,"length":1}},{"key":"tn6WH5ctyVr","text":"كرة","raw":{"text":"كرة","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":13,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"tJhBvKGsrhq","text":"القدم","raw":{"text":"القدم","location":14,"length":5},"prefix":{"text":"","location":14,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":13,"length":1}},{"key":"tpt8AWM4wC-","text":"الذهاب","raw":{"text":"الذهاب","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tADctrLv_b8","text":"ألعب","raw":{"text":"ألعب","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"key":"tyH_ur0RIM_","text":"أنا","raw":{"text":"أنا","location":1,"length":3},"prefix":{"text":"","location":1,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":1,"length":0}},{"key":"tuXSj5iNfzc","text":"أريد","raw":{"text":"أريد","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tQ9vMIT3fMl","text":"المنزل.","raw":{"text":"المنزل","location":20,"length":6},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":".","location":26,"length":1},"linker":{"text":" ","location":19,"length":1}}],"tokensEqualSize":true,"ord":["tyH_ur0RIM_","tADctrLv_b8","tn6WH5ctyVr","tJhBvKGsrhq"],"sols":[{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","audio_updated_at":1543435955,"text":"I play football.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"play","translations":[{"type":"dictionary","text":"ألعب","phonetic":null}]},{"raw":"football","translations":[{"type":"dictionary","text":"كرة القدم","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"play","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"football","location":7,"length":8},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":6,"length":1}}],"phonetic_tokens":[]},{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","audio_updated_at":1543435955,"text":"‫أنا ألعب كرة القدم.‬"}]},{"id":620152,"lesson":2401,"type":"T1b","modifiers":72,"wordID":17910,"alternates":[],"tokens":[{"key":"t44hCk4yaTk","text":"football.","raw":{"text":"football","location":8,"length":8},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":".","location":16,"length":1},"linker":{"text":" ","location":7,"length":1}},{"key":"tQN1lusnDXL","text":"on","raw":{"text":"on","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"tt38zZ0wzRt","text":"this","raw":{"text":"this","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":15,"length":1}},{"key":"tEkH5rcUk-7","text":"play","raw":{"text":"play","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tMweEhVln5B","text":"What's","raw":{"text":"What's","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tsgHQFjhD2X","text":"going","raw":{"text":"going","location":7,"length":5},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":6,"length":1}},{"key":"tLQqGBHwGQh","text":"We","raw":{"text":"We","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"trcHVgD49jp","text":"weekend?","raw":{"text":"weekend","location":21,"length":7},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"?","location":28,"length":1},"linker":{"text":" ","location":20,"length":1}}],"tokensEqualSize":false,"ord":["tLQqGBHwGQh","tEkH5rcUk-7","t44hCk4yaTk"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA","audio_updated_at":1543435751,"text":"نحن نلعب كرة القدم.","dictionary":[{"raw":"نحن","translations":[{"type":"dictionary","text":"We","phonetic":"We"}]},{"raw":"نلعب","translations":[{"type":"dictionary","text":"We play","phonetic":"We play"}]},{"raw":"كرة","translations":[]},{"raw":"القدم","translations":[{"type":"dictionary","text":"football","phonetic":"football"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"نلعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"القدم","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":12,"length":1}}]},{"key":"aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA","audio_updated_at":1543435751,"text":"We play football.","phonetic":""}]},{"id":620153,"lesson":2401,"type":"Q","modifiers":41,"wordID":23957,"alternates":[17910,23958],"sols":[{"key":"SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY","audio_updated_at":1688290842,"text":"We play golf once a week.","phonetic":"","dictionary":[{"raw":"We","translations":[{"type":"dictionary","text":"نحن","phonetic":null}]},{"raw":"play","translations":[]},{"raw":"golf","translations":[{"type":"dictionary","text":"الغولف","phonetic":null}]},{"raw":"once","translations":[{"type":"dictionary","text":"مرة","phonetic":null}]},{"raw":"a","translations":[{"type":"dictionary","text":"في","phonetic":null}]},{"raw":"week","translations":[{"type":"dictionary","text":"الأسبوع","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"We","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"play","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"golf","location":8,"length":4},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"once","location":13,"length":4},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"a","location":18,"length":1},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":17,"length":1}},{"raw":{"text":"week","location":20,"length":4},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":".","location":24,"length":1},"linker":{"text":" ","location":19,"length":1}}],"phonetic_tokens":[]},{"key":"aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA","text":"We play football.","phonetic":""},{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","text":"We play basketball once a week.","phonetic":""}],"alts":[{"key":"SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY","audio_updated_at":1688290842,"text":"نحن نلعب الغولف مرة في الأسبوع."},{"key":"aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA","audio_updated_at":1543435751,"text":"نحن نلعب كرة القدم."},{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","audio_updated_at":1688290844,"text":"نحن نلعب كرة السلة مرة في الأسبوع."}]},{"id":620154,"lesson":2401,"type":"T1b","modifiers":72,"wordID":23958,"alternates":[],"tokens":[{"key":"tfMjFS2M_-7","text":"We","raw":{"text":"We","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tHdQeyhpOgx","text":"week.","raw":{"text":"week","location":26,"length":4},"prefix":{"text":"","location":26,"length":0},"suffix":{"text":".","location":30,"length":1},"linker":{"text":" ","location":25,"length":1}},{"key":"tDlifYRlLEv","text":"basketball","raw":{"text":"basketball","location":8,"length":10},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tqyOlRupIiC","text":"once","raw":{"text":"once","location":19,"length":4},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":18,"length":1}},{"key":"tDbtbps-GaX","text":"a","raw":{"text":"a","location":24,"length":1},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":23,"length":1}},{"key":"tRcCXibxuiZ","text":"sport","raw":{"text":"sport","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"teqTL1t3mg5","text":"play","raw":{"text":"play","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}}],"tokensEqualSize":false,"ord":["tfMjFS2M_-7","teqTL1t3mg5","tDlifYRlLEv","tqyOlRupIiC","tDbtbps-GaX","tHdQeyhpOgx"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","audio_updated_at":1688290844,"text":"نحن نلعب كرة السلة مرة في الأسبوع.","dictionary":[{"raw":"نحن","translations":[{"type":"dictionary","text":"We","phonetic":"We"}]},{"raw":"نلعب","translations":[{"type":"dictionary","text":"We play","phonetic":"We play"}]},{"raw":"كرة","translations":[]},{"raw":"السلة","translations":[{"type":"dictionary","text":"basketball","phonetic":"basketball"}]},{"raw":"مرة","translations":[{"type":"dictionary","text":"once","phonetic":"once"}]},{"raw":"في","translations":[]},{"raw":"الأسبوع","translations":[{"type":"dictionary","text":"week","phonetic":"week"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"نلعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"السلة","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"مرة","location":19,"length":3},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":18,"length":1}},{"raw":{"text":"في","location":23,"length":2},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":22,"length":1}},{"raw":{"text":"الأسبوع","location":26,"length":7},"prefix":{"text":"","location":26,"length":0},"suffix":{"text":".","location":33,"length":1},"linker":{"text":" ","location":25,"length":1}}]},{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","audio_updated_at":1688290844,"text":"We play basketball once a week.","phonetic":""}]},{"id":620155,"lesson":2401,"type":"R","modifiers":636,"wordID":17841,"alternates":[],"tokens":[{"key":"tR8uAlW5f2O","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tigBd34S2iz","text":"ألعب","raw":{"text":"ألعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t_Vvi6D4ieR","text":"المضرب.","raw":{"text":"المضرب","location":13,"length":6},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"tdCahtIdTvr","text":"أريد","raw":{"text":"أريد","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tPYmxkXuwmP","text":"الليلة.","raw":{"text":"الليلة","location":21,"length":6},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":".","location":27,"length":1},"linker":{"text":" ","location":20,"length":1}},{"key":"tD48l3e5P99","text":"فيلم","raw":{"text":"فيلم","location":16,"length":4},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":15,"length":1}},{"key":"tMmN4wDMak-","text":"كرة","raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"tjdLZ69tOft","text":"مشاهدة","raw":{"text":"مشاهدة","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":8,"length":1}}],"tokensEqualSize":true,"ord":["tR8uAlW5f2O","tigBd34S2iz","tMmN4wDMak-","t_Vvi6D4ieR"],"sols":[{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","audio_updated_at":1543435951,"text":"I play tennis.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"play","translations":[{"type":"dictionary","text":"ألعب","phonetic":null}]},{"raw":"tennis","translations":[{"type":"dictionary","text":"كرة المضرب","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"play","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"tennis","location":7,"length":6},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":6,"length":1}}],"phonetic_tokens":[]},{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","audio_updated_at":1543435951,"text":"أنا ألعب كرة المضرب."}],"quizSkipData":{"type":"T1","modifiers":40,"tokens":[{"key":"tuYFUah6aid","text":"أركب","raw":{"text":"أركب","location":12,"length":4},"prefix":{"text":"","location":12,"length":0},"suffix":{"text":"","location":16,"length":0},"linker":{"text":" ","location":11,"length":1}},{"key":"t5Pp84TFERI","text":"أن","raw":{"text":"أن","location":9,"length":2},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":11,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"t9CHG9Z45Mp","text":"أنا","raw":{"text":"أنا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tXLBM0i4WsM","text":"الأمواج.","raw":{"text":"الأمواج","location":17,"length":7},"prefix":{"text":"","location":17,"length":0},"suffix":{"text":".","location":24,"length":1},"linker":{"text":" ","location":16,"length":1}},{"key":"tAp3fnAn0Uw","text":"أريد","raw":{"text":"أريد","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"thBbB4drmRi","text":"المضرب.","raw":{"text":"المضرب","location":13,"length":6},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":19,"length":1},"linker":{"text":" ","location":12,"length":1}},{"key":"tRZhPQ_I2bK","text":"ألعب","raw":{"text":"ألعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tNizNumq3sC","text":"كرة","raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}}],"tokensEqualSize":true,"ord":["t9CHG9Z45Mp","tRZhPQ_I2bK","tNizNumq3sC","thBbB4drmRi"],"sols":[{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","audio_updated_at":1543435951,"text":"I play tennis.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"play","translations":[{"type":"dictionary","text":"ألعب","phonetic":null}]},{"raw":"tennis","translations":[{"type":"dictionary","text":"كرة المضرب","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"play","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"tennis","location":7,"length":6},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":6,"length":1}}],"phonetic_tokens":[]},{"key":"mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i","audio_updated_at":1543435951,"text":"أنا ألعب كرة المضرب."}]}},{"id":620156,"lesson":2401,"type":"L1","modifiers":42,"wordID":17174,"alternates":[],"tokens":[{"key":"t0tnHhHZL_N","text":"لا.","raw":{"text":"لا","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":2,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"tEnykIgMxtx","text":"ألعب","raw":{"text":"ألعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tU6IJEILq_q","text":"الحين","raw":{"text":"الحين","location":24,"length":5},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":29,"length":0},"linker":{"text":" ","location":23,"length":1}},{"key":"t8IMvgUk0e2","text":"المضرب","raw":{"text":"المضرب","location":13,"length":6},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"tM2Q-itMlvo","text":"والآخر.","raw":{"text":"والآخر","location":30,"length":6},"prefix":{"text":"","location":30,"length":0},"suffix":{"text":".","location":36,"length":1},"linker":{"text":" ","location":29,"length":1}},{"key":"tq4f15iJc72","text":"كرة","raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"key":"th0TJL_uWdK","text":"بين","raw":{"text":"بين","location":20,"length":3},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":19,"length":1}},{"key":"tt41rBMdbfy","text":"انا","raw":{"text":"انا","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tt41rBMdbfy","tEnykIgMxtx","tq4f15iJc72","t8IMvgUk0e2","th0TJL_uWdK","tU6IJEILq_q","tM2Q-itMlvo"],"sols":[{"key":"i4y109hZxnbptmowFo4jMPFagvxh_wFh","audio_updated_at":1543440332,"text":"I play tennis now and then.","phonetic":""},{"key":"i4y109hZxnbptmowFo4jMPFagvxh_wFh","audio_updated_at":1543440332,"text":"انا ألعب كرة المضرب بين الحين والآخر."}]},{"id":620157,"lesson":2401,"type":"T2","modifiers":60,"wordID":17840,"alternates":[],"sols":[{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","audio_updated_at":1543435955,"text":"I play football.","phonetic":"","dictionary":[{"raw":"I","translations":[{"type":"dictionary","text":"أنا","phonetic":null}]},{"raw":"play","translations":[{"type":"dictionary","text":"ألعب","phonetic":null}]},{"raw":"football","translations":[{"type":"dictionary","text":"كرة القدم","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"I","location":0,"length":1},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":1,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"play","location":2,"length":4},"prefix":{"text":"","location":2,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":1,"length":1}},{"raw":{"text":"football","location":7,"length":8},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":15,"length":1},"linker":{"text":" ","location":6,"length":1}}],"phonetic_tokens":[]},{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","audio_updated_at":1543435955,"text":"‫أنا ألعب كرة القدم.‬"}]},{"id":620158,"lesson":2401,"type":"T2b","modifiers":92,"wordID":17910,"alternates":[],"sols":[{"key":"aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA","audio_updated_at":1543435751,"text":"نحن نلعب كرة القدم.","dictionary":[{"raw":"نحن","translations":[{"type":"dictionary","text":"We","phonetic":"We"}]},{"raw":"نلعب","translations":[{"type":"dictionary","text":"We play","phonetic":"We play"}]},{"raw":"كرة","translations":[]},{"raw":"القدم","translations":[{"type":"dictionary","text":"football","phonetic":"football"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"نلعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"كرة","location":9,"length":3},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"القدم","location":13,"length":5},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":".","location":18,"length":1},"linker":{"text":" ","location":12,"length":1}}]},{"key":"aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA","audio_updated_at":1543435751,"text":"We play football.","phonetic":""}]},{"id":620159,"lesson":2401,"type":"Qb","modifiers":73,"wordID":23957,"alternates":[17840,23958],"sols":[{"key":"SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY","audio_updated_at":1688290842,"text":"نحن نلعب الغولف مرة في الأسبوع.","dictionary":[{"raw":"نحن","translations":[{"type":"dictionary","text":"We","phonetic":"We"}]},{"raw":"نلعب","translations":[{"type":"dictionary","text":"We play","phonetic":"We play"}]},{"raw":"الغولف","translations":[{"type":"dictionary","text":"golf","phonetic":"golf"}]},{"raw":"مرة","translations":[{"type":"dictionary","text":"once","phonetic":"once"}]},{"raw":"في","translations":[]},{"raw":"الأسبوع","translations":[{"type":"dictionary","text":"week","phonetic":"week"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"نحن","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"نلعب","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"الغولف","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":8,"length":1}},{"raw":{"text":"مرة","location":16,"length":3},"prefix":{"text":"","location":16,"length":0},"suffix":{"text":"","location":19,"length":0},"linker":{"text":" ","location":15,"length":1}},{"raw":{"text":"في","location":20,"length":2},"prefix":{"text":"","location":20,"length":0},"suffix":{"text":"","location":22,"length":0},"linker":{"text":" ","location":19,"length":1}},{"raw":{"text":"الأسبوع","location":23,"length":7},"prefix":{"text":"","location":23,"length":0},"suffix":{"text":".","location":30,"length":1},"linker":{"text":" ","location":22,"length":1}}]},{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","text":"‫أنا ألعب كرة القدم.‬"},{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","text":"نحن نلعب كرة السلة مرة في الأسبوع."}],"alts":[{"key":"SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY","audio_updated_at":1688290842,"text":"We play golf once a week.","phonetic":""},{"key":"TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6","audio_updated_at":1543435955,"text":"I play football.","phonetic":""},{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","audio_updated_at":1688290844,"text":"We play basketball once a week.","phonetic":""}]},{"id":620160,"lesson":2401,"type":"Q","modifiers":41,"wordID":23958,"alternates":[17174,23957],"sols":[{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","audio_updated_at":1688290844,"text":"We play basketball once a week.","phonetic":"","dictionary":[{"raw":"We","translations":[{"type":"dictionary","text":"نحن","phonetic":null}]},{"raw":"play","translations":[]},{"raw":"basketball","translations":[{"type":"dictionary","text":"كرة السلة","phonetic":null}]},{"raw":"once","translations":[{"type":"dictionary","text":"مرة","phonetic":null}]},{"raw":"a","translations":[{"type":"dictionary","text":"في","phonetic":null}]},{"raw":"week","translations":[{"type":"dictionary","text":"الأسبوع","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"We","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"play","location":3,"length":4},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":7,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"basketball","location":8,"length":10},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":18,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"once","location":19,"length":4},"prefix":{"text":"","location":19,"length":0},"suffix":{"text":"","location":23,"length":0},"linker":{"text":" ","location":18,"length":1}},{"raw":{"text":"a","location":24,"length":1},"prefix":{"text":"","location":24,"length":0},"suffix":{"text":"","location":25,"length":0},"linker":{"text":" ","location":23,"length":1}},{"raw":{"text":"week","location":26,"length":4},"prefix":{"text":"","location":26,"length":0},"suffix":{"text":".","location":30,"length":1},"linker":{"text":" ","location":25,"length":1}}],"phonetic_tokens":[]},{"key":"i4y109hZxnbptmowFo4jMPFagvxh_wFh","text":"I play tennis now and then.","phonetic":""},{"key":"SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY","text":"We play golf once a week.","phonetic":""}],"alts":[{"key":"h67Nlmhpc9KklgnbIylFnFDcICsgSwQu","audio_updated_at":1688290844,"text":"نحن نلعب كرة السلة مرة في الأسبوع."},{"key":"i4y109hZxnbptmowFo4jMPFagvxh_wFh","audio_updated_at":1543440332,"text":"انا ألعب كرة المضرب بين الحين والآخر."},{"key":"SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY","audio_updated_at":1688290842,"text":"نحن نلعب الغولف مرة في الأسبوع."}]}]}
+{
+  "lesson": {
+    "id": 2401,
+    "index": 1,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 24,
+    "categoryID": 24,
+    "unifiedUnitId": 140,
+    "unifiedCategoryId": 24,
+    "name": "الرياضات 1",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 22,
+    "countWords": 13,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      620139, 620140, 620141, 620142, 620143, 620144, 620145, 620146, 620147,
+      620148, 620149, 620150, 620151, 620152, 620153, 620154, 620155, 620156,
+      620157, 620158, 620159, 620160
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 620139,
+      "lesson": 2401,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 17766,
+      "alternates": [17621, 17687, 17682],
+      "sols": [
+        {
+          "key": "RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY",
+          "audio_updated_at": 1543437237,
+          "text": "كرة المضرب"
+        },
+        {
+          "key": "oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11",
+          "audio_updated_at": 1543437215,
+          "text": "الغولف"
+        },
+        {
+          "key": "BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6",
+          "audio_updated_at": 1543437214,
+          "text": "كرة القدم"
+        },
+        {
+          "key": "MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph",
+          "audio_updated_at": 1543437205,
+          "text": "كرة السلة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY",
+          "audio_updated_at": 1543437237,
+          "text": "tennis",
+          "phonetic": "",
+          "image": "YvfGj9F99kqRabR_d12afBSHNBMDzbnj",
+          "image_updated_at": 1689159091
+        },
+        {
+          "key": "oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11",
+          "audio_updated_at": 1543437215,
+          "image": "uy7ENShsSoXnkDHwxGxSW2j0nHi3BJi-",
+          "image_updated_at": 1689159077,
+          "text": "golf",
+          "phonetic": ""
+        },
+        {
+          "key": "BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6",
+          "audio_updated_at": 1543437214,
+          "image": "AyYd_2cZGQAK7zGRHuDh0Hvjv3G9H1Fp",
+          "image_updated_at": 1689159077,
+          "text": "football",
+          "phonetic": ""
+        },
+        {
+          "key": "MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph",
+          "audio_updated_at": 1543437205,
+          "image": "Inj_-Ghshn3sD_Yrqp9oAoSD782dY4Uh",
+          "image_updated_at": 1689159067,
+          "text": "basketball",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620140,
+      "lesson": 2401,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 17841,
+      "alternates": [17766],
+      "tokens": [
+        {
+          "key": "tJDZCRb2E4T",
+          "text": "play",
+          "raw": { "text": "play", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tIzWR0bfZZp",
+          "text": "tennis.",
+          "raw": { "text": "tennis", "location": 7, "length": 6 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tYSIB2vZNHM",
+          "text": "dive.",
+          "raw": { "text": "dive", "location": 10, "length": 4 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tfj01Zz8wI-",
+          "text": "want",
+          "raw": { "text": "want", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tX2tQ1qr-85",
+          "text": "to",
+          "raw": { "text": "to", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "t-fEPDKldrw",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t-fEPDKldrw", "tJDZCRb2E4T", "tIzWR0bfZZp"],
+      "completeToken": "tIzWR0bfZZp",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+          "audio_updated_at": 1543435951,
+          "text": "أنا ألعب كرة المضرب.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "ألعب",
+              "translations": [
+                { "type": "dictionary", "text": "play", "phonetic": "play" }
+              ]
+            },
+            { "raw": "كرة", "translations": [] },
+            {
+              "raw": "المضرب",
+              "translations": [
+                { "type": "dictionary", "text": "tennis", "phonetic": "tennis" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "ألعب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "كرة", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "المضرب", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+          "audio_updated_at": 1543435951,
+          "text": "I play tennis.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620141,
+      "lesson": 2401,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 17174,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tLWVa1ejVKz",
+          "text": "المضرب",
+          "raw": { "text": "المضرب", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "t0dWk8Z8En1",
+          "text": "الحين",
+          "raw": { "text": "الحين", "location": 24, "length": 5 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 29, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tugKvo9Xs34",
+          "text": "انا",
+          "raw": { "text": "انا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t__T0txDiHg",
+          "text": "لا،",
+          "raw": { "text": "لا", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "،", "location": 2, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tKiMY1yIFsJ",
+          "text": "ألعب",
+          "raw": { "text": "ألعب", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t7Ve_QrytYY",
+          "text": "بين",
+          "raw": { "text": "بين", "location": 20, "length": 3 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "ti9sZhUMiGf",
+          "text": "والآخر.",
+          "raw": { "text": "والآخر", "location": 30, "length": 6 },
+          "prefix": { "text": "", "location": 30, "length": 0 },
+          "suffix": { "text": ".", "location": 36, "length": 1 },
+          "linker": { "text": " ", "location": 29, "length": 1 }
+        },
+        {
+          "key": "tf6E58-DVNe",
+          "text": "كرة",
+          "raw": { "text": "كرة", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tugKvo9Xs34",
+        "tKiMY1yIFsJ",
+        "tf6E58-DVNe",
+        "tLWVa1ejVKz",
+        "t7Ve_QrytYY",
+        "t0dWk8Z8En1",
+        "ti9sZhUMiGf"
+      ],
+      "sols": [
+        {
+          "key": "i4y109hZxnbptmowFo4jMPFagvxh_wFh",
+          "audio_updated_at": 1543440332,
+          "text": "I play tennis now and then.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "انا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "play",
+              "translations": [
+                { "type": "dictionary", "text": "ألعب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "tennis",
+              "translations": [
+                { "type": "dictionary", "text": "كرة المضرب", "phonetic": null }
+              ]
+            },
+            { "raw": "now", "translations": [] },
+            { "raw": "and", "translations": [] },
+            { "raw": "then", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "play", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "tennis", "location": 7, "length": 6 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            },
+            {
+              "raw": { "text": "now", "location": 14, "length": 3 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            },
+            {
+              "raw": { "text": "and", "location": 18, "length": 3 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 21, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "then", "location": 22, "length": 4 },
+              "prefix": { "text": "", "location": 22, "length": 0 },
+              "suffix": { "text": ".", "location": 26, "length": 1 },
+              "linker": { "text": " ", "location": 21, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "i4y109hZxnbptmowFo4jMPFagvxh_wFh",
+          "audio_updated_at": 1543440332,
+          "text": "انا ألعب كرة المضرب بين الحين والآخر."
+        }
+      ]
+    },
+    {
+      "id": 620142,
+      "lesson": 2401,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 17682,
+      "alternates": [17687, 17621, 17766],
+      "sols": [
+        {
+          "key": "BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6",
+          "audio_updated_at": 1543437214,
+          "text": "كرة القدم"
+        },
+        { "key": "RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY", "text": "كرة المضرب" },
+        { "key": "MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph", "text": "كرة السلة" },
+        { "key": "oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11", "text": "الغولف" }
+      ],
+      "alts": [
+        {
+          "key": "BDiPP1L_obLQDBKURuSifk5ffR9UPUZ6",
+          "audio_updated_at": 1543437214,
+          "text": "football",
+          "phonetic": "",
+          "image": "AyYd_2cZGQAK7zGRHuDh0Hvjv3G9H1Fp",
+          "image_updated_at": 1689159077
+        },
+        {
+          "key": "RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY",
+          "audio_updated_at": 1543437237,
+          "text": "tennis",
+          "phonetic": "",
+          "image": "YvfGj9F99kqRabR_d12afBSHNBMDzbnj",
+          "image_updated_at": 1689159091
+        },
+        {
+          "key": "MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph",
+          "audio_updated_at": 1543437205,
+          "text": "basketball",
+          "phonetic": "",
+          "image": "Inj_-Ghshn3sD_Yrqp9oAoSD782dY4Uh",
+          "image_updated_at": 1689159067
+        },
+        {
+          "key": "oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11",
+          "audio_updated_at": 1543437215,
+          "text": "golf",
+          "phonetic": "",
+          "image": "uy7ENShsSoXnkDHwxGxSW2j0nHi3BJi-",
+          "image_updated_at": 1689159077
+        }
+      ]
+    },
+    {
+      "id": 620143,
+      "lesson": 2401,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 17840,
+      "alternates": [17682],
+      "tokens": [
+        {
+          "key": "tuknT5zlMC9",
+          "text": "want",
+          "raw": { "text": "want", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "tDaVXgGsja-",
+          "text": "play",
+          "raw": { "text": "play", "location": 2, "length": 4 },
+          "prefix": { "text": "", "location": 2, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 1, "length": 1 }
+        },
+        {
+          "key": "trSOVGQVOsH",
+          "text": "to",
+          "raw": { "text": "to", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tN7qqKuEC7b",
+          "text": "I",
+          "raw": { "text": "I", "location": 0, "length": 1 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 1, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tIh4olMrqfc",
+          "text": "home.",
+          "raw": { "text": "home", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 17, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tYwh5IJm1VJ",
+          "text": "football.",
+          "raw": { "text": "football", "location": 7, "length": 8 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 15, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "teU-swK1fgi",
+          "text": "go",
+          "raw": { "text": "go", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tN7qqKuEC7b", "tDaVXgGsja-", "tYwh5IJm1VJ"],
+      "completeToken": "tYwh5IJm1VJ",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "audio_updated_at": 1543435955,
+          "text": "‫أنا ألعب كرة القدم.‬",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "ألعب",
+              "translations": [
+                { "type": "dictionary", "text": "play", "phonetic": "play" }
+              ]
+            },
+            { "raw": "كرة", "translations": [] },
+            {
+              "raw": "القدم",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "football",
+                  "phonetic": "football"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 1, "length": 3 },
+              "prefix": { "text": "", "location": 1, "length": 0 },
+              "suffix": { "text": "", "location": 4, "length": 0 },
+              "linker": { "text": "", "location": 1, "length": 0 }
+            },
+            {
+              "raw": { "text": "ألعب", "location": 5, "length": 4 },
+              "prefix": { "text": "", "location": 5, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 4, "length": 1 }
+            },
+            {
+              "raw": { "text": "كرة", "location": 10, "length": 3 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 13, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "القدم", "location": 14, "length": 5 },
+              "prefix": { "text": "", "location": 14, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 13, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "audio_updated_at": 1543435955,
+          "text": "I play football.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620144,
+      "lesson": 2401,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 17910,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "twTZDUoKeED",
+          "text": "نلعب",
+          "raw": { "text": "نلعب", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tmASp0rK-1b",
+          "text": "الملابس؟",
+          "raw": { "text": "الملابس", "location": 15, "length": 7 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "؟", "location": 22, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tMlKVw8TzBc",
+          "text": "نحن",
+          "raw": { "text": "نحن", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tbUG6KN27Kk",
+          "text": "أين",
+          "raw": { "text": "أين", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tsF51UyF3I-",
+          "text": "القدم.",
+          "raw": { "text": "القدم", "location": 13, "length": 5 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tqF8eeEP8Z8",
+          "text": "غرفة",
+          "raw": { "text": "غرفة", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tGzxgBB8mNI",
+          "text": "كرة",
+          "raw": { "text": "كرة", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tpZxQ4jbfrL",
+          "text": "تغيير",
+          "raw": { "text": "تغيير", "location": 9, "length": 5 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tMlKVw8TzBc", "twTZDUoKeED", "tGzxgBB8mNI", "tsF51UyF3I-"],
+      "sols": [
+        {
+          "key": "aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA",
+          "audio_updated_at": 1543435751,
+          "text": "We play football.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "We",
+              "translations": [
+                { "type": "dictionary", "text": "نحن", "phonetic": null }
+              ]
+            },
+            { "raw": "play", "translations": [] },
+            {
+              "raw": "football",
+              "translations": [
+                { "type": "dictionary", "text": "كرة القدم", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "We", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "play", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "football", "location": 8, "length": 8 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": ".", "location": 16, "length": 1 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA",
+          "audio_updated_at": 1543435751,
+          "text": "نحن نلعب كرة القدم."
+        }
+      ]
+    },
+    {
+      "id": 620145,
+      "lesson": 2401,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 17621,
+      "alternates": [17687],
+      "sols": [
+        {
+          "key": "oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11",
+          "audio_updated_at": 1543437215,
+          "text": "الغولف"
+        },
+        {
+          "key": "MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph",
+          "audio_updated_at": 1543437205,
+          "text": "كرة السلة"
+        }
+      ],
+      "alts": [
+        {
+          "key": "oVTVoMUVZ7ETAvfmkf7sVT1Sma2FMt11",
+          "audio_updated_at": 1543437215,
+          "image": "uy7ENShsSoXnkDHwxGxSW2j0nHi3BJi-",
+          "image_updated_at": 1689159077,
+          "text": "golf",
+          "phonetic": ""
+        },
+        {
+          "key": "MkQhdtq6y50DDwEEjVz2gC2CltUAL5Ph",
+          "audio_updated_at": 1543437205,
+          "text": "basketball",
+          "phonetic": "",
+          "image": "Inj_-Ghshn3sD_Yrqp9oAoSD782dY4Uh",
+          "image_updated_at": 1689159067
+        }
+      ]
+    },
+    {
+      "id": 620146,
+      "lesson": 2401,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 23958,
+      "alternates": [17621],
+      "tokens": [
+        {
+          "key": "t3bfcAFuDFJ",
+          "text": "play",
+          "raw": { "text": "play", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tI1h7uWwd1z",
+          "text": "score",
+          "raw": { "text": "score", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t1EBElpVKpg",
+          "text": "We",
+          "raw": { "text": "We", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tcPetiak2kq",
+          "text": "basketball",
+          "raw": { "text": "basketball", "location": 8, "length": 10 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tpfOqaPeh_y",
+          "text": "a",
+          "raw": { "text": "a", "location": 24, "length": 1 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 25, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tOu8MfOGePz",
+          "text": "The",
+          "raw": { "text": "The", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tYz2EsIZBWz",
+          "text": "once",
+          "raw": { "text": "once", "location": 19, "length": 4 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tGve53opau6",
+          "text": "week.",
+          "raw": { "text": "week", "location": 26, "length": 4 },
+          "prefix": { "text": "", "location": 26, "length": 0 },
+          "suffix": { "text": ".", "location": 30, "length": 1 },
+          "linker": { "text": " ", "location": 25, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t1EBElpVKpg",
+        "t3bfcAFuDFJ",
+        "tcPetiak2kq",
+        "tYz2EsIZBWz",
+        "tpfOqaPeh_y",
+        "tGve53opau6"
+      ],
+      "completeToken": "tcPetiak2kq",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "audio_updated_at": 1688290844,
+          "text": "نحن نلعب كرة السلة مرة في الأسبوع.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نلعب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We play",
+                  "phonetic": "We play"
+                }
+              ]
+            },
+            { "raw": "كرة", "translations": [] },
+            {
+              "raw": "السلة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "basketball",
+                  "phonetic": "basketball"
+                }
+              ]
+            },
+            {
+              "raw": "مرة",
+              "translations": [
+                { "type": "dictionary", "text": "once", "phonetic": "once" }
+              ]
+            },
+            { "raw": "في", "translations": [] },
+            {
+              "raw": "الأسبوع",
+              "translations": [
+                { "type": "dictionary", "text": "week", "phonetic": "week" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نلعب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "كرة", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "السلة", "location": 13, "length": 5 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "مرة", "location": 19, "length": 3 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 23, "length": 2 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأسبوع", "location": 26, "length": 7 },
+              "prefix": { "text": "", "location": 26, "length": 0 },
+              "suffix": { "text": ".", "location": 33, "length": 1 },
+              "linker": { "text": " ", "location": 25, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "audio_updated_at": 1688290844,
+          "text": "We play basketball once a week.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620147,
+      "lesson": 2401,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23957,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tFsAIUDzolP",
+          "text": "play",
+          "raw": { "text": "play", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "t0Guqpc4uRa",
+          "text": "golf",
+          "raw": { "text": "golf", "location": 8, "length": 4 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tm5hRrCwY39",
+          "text": "How",
+          "raw": { "text": "How", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tL9U5r0ZZSQ",
+          "text": "once",
+          "raw": { "text": "once", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "td3zRczqrz-",
+          "text": "week.",
+          "raw": { "text": "week", "location": 20, "length": 4 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": ".", "location": 24, "length": 1 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "trAtoUOWPbF",
+          "text": "do",
+          "raw": { "text": "do", "location": 4, "length": 2 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tmhe0ZDU6iC",
+          "text": "a",
+          "raw": { "text": "a", "location": 18, "length": 1 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tPHkocWhrsr",
+          "text": "We",
+          "raw": { "text": "We", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tPHkocWhrsr",
+        "tFsAIUDzolP",
+        "t0Guqpc4uRa",
+        "tL9U5r0ZZSQ",
+        "tmhe0ZDU6iC",
+        "td3zRczqrz-"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY",
+          "audio_updated_at": 1688290842,
+          "text": "نحن نلعب الغولف مرة في الأسبوع.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نلعب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We play",
+                  "phonetic": "We play"
+                }
+              ]
+            },
+            {
+              "raw": "الغولف",
+              "translations": [
+                { "type": "dictionary", "text": "golf", "phonetic": "golf" }
+              ]
+            },
+            {
+              "raw": "مرة",
+              "translations": [
+                { "type": "dictionary", "text": "once", "phonetic": "once" }
+              ]
+            },
+            { "raw": "في", "translations": [] },
+            {
+              "raw": "الأسبوع",
+              "translations": [
+                { "type": "dictionary", "text": "week", "phonetic": "week" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نلعب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الغولف", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "مرة", "location": 16, "length": 3 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 20, "length": 2 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأسبوع", "location": 23, "length": 7 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": ".", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY",
+          "audio_updated_at": 1688290842,
+          "text": "We play golf once a week.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620148,
+      "lesson": 2401,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 17766,
+      "alternates": [],
+      "tokens": [
+        { "key": "tPixZMoD-12", "text": "i", "group": 0 },
+        { "key": "tseoU0sg9ZH", "text": "t", "group": 0 },
+        { "key": "tOhE5p-PB2x", "text": "n", "group": 0 },
+        { "key": "tZIP2NrAhWr", "text": "e", "group": 0 },
+        { "key": "tp_vcZkwjLp", "text": "n", "group": 0 },
+        { "key": "tZMWDmBAe_r", "text": "s", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tseoU0sg9ZH",
+        "tZIP2NrAhWr",
+        "tOhE5p-PB2x",
+        "tp_vcZkwjLp",
+        "tPixZMoD-12",
+        "tZMWDmBAe_r"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY",
+          "audio_updated_at": 1543437237,
+          "text": "كرة المضرب",
+          "dictionary": [
+            { "raw": "كرة", "translations": [] },
+            {
+              "raw": "المضرب",
+              "translations": [
+                { "type": "dictionary", "text": "tennis", "phonetic": "tennis" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "كرة", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "المضرب", "location": 4, "length": 6 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "RojFGUvISbW3Hv5aGteiVnPFOvAjGUoY",
+          "audio_updated_at": 1543437237,
+          "text_tokens": [
+            {
+              "raw": { "text": "tennis", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "tennis",
+          "phonetic": "",
+          "image": "YvfGj9F99kqRabR_d12afBSHNBMDzbnj",
+          "image_updated_at": 1689159091
+        }
+      ]
+    },
+    {
+      "id": 620149,
+      "lesson": 2401,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 17841,
+      "alternates": [17766],
+      "tokens": [
+        { "key": "tQlHbObYETd", "text": "n", "group": 2 },
+        { "key": "t45TUtmMdl4", "text": ".", "specialChar": true },
+        { "key": "tXrGN13gUed", "text": "s", "group": 2 },
+        { "key": "t7HIILcEWhw", "text": "e", "group": 2 },
+        { "key": "t0VW6wxbR_p", "text": "i", "group": 2 },
+        { "key": "tBQxh5MnPqu", "text": " ", "specialChar": true },
+        { "key": "tK5Fz98iZrE", "text": "t", "group": 2 },
+        { "key": "tO-TOYxYYrY", "text": "n", "group": 2 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tBQxh5MnPqu",
+        "tK5Fz98iZrE",
+        "t7HIILcEWhw",
+        "tQlHbObYETd",
+        "tO-TOYxYYrY",
+        "t0VW6wxbR_p",
+        "tXrGN13gUed",
+        "t45TUtmMdl4"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+          "audio_updated_at": 1543435951,
+          "text": "أنا ألعب كرة المضرب.",
+          "dictionary": [
+            {
+              "raw": "أنا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "ألعب",
+              "translations": [
+                { "type": "dictionary", "text": "play", "phonetic": "play" }
+              ]
+            },
+            { "raw": "كرة", "translations": [] },
+            {
+              "raw": "المضرب",
+              "translations": [
+                { "type": "dictionary", "text": "tennis", "phonetic": "tennis" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "أنا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "ألعب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "كرة", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "المضرب", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": ".", "location": 19, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+          "audio_updated_at": 1543435951,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "play", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "tennis", "location": 7, "length": 6 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "I play tennis.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620150,
+      "lesson": 2401,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 17174,
+      "alternates": [17840, 17841],
+      "sols": [
+        {
+          "key": "i4y109hZxnbptmowFo4jMPFagvxh_wFh",
+          "audio_updated_at": 1543440332,
+          "text": "انا ألعب كرة المضرب بين الحين والآخر.",
+          "dictionary": [
+            {
+              "raw": "انا",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            {
+              "raw": "ألعب",
+              "translations": [
+                { "type": "dictionary", "text": "play", "phonetic": "play" }
+              ]
+            },
+            { "raw": "كرة", "translations": [] },
+            {
+              "raw": "المضرب",
+              "translations": [
+                { "type": "dictionary", "text": "tennis", "phonetic": "tennis" }
+              ]
+            },
+            { "raw": "بين", "translations": [] },
+            {
+              "raw": "الحين",
+              "translations": [
+                { "type": "dictionary", "text": "now", "phonetic": "now" }
+              ]
+            },
+            { "raw": "والآخر", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "انا", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "ألعب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "كرة", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "المضرب", "location": 13, "length": 6 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "بين", "location": 20, "length": 3 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "الحين", "location": 24, "length": 5 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 29, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "والآخر", "location": 30, "length": 6 },
+              "prefix": { "text": "", "location": 30, "length": 0 },
+              "suffix": { "text": ".", "location": 36, "length": 1 },
+              "linker": { "text": " ", "location": 29, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "text": "‫أنا ألعب كرة القدم.‬"
+        },
+        {
+          "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+          "text": "أنا ألعب كرة المضرب."
+        }
+      ],
+      "alts": [
+        {
+          "key": "i4y109hZxnbptmowFo4jMPFagvxh_wFh",
+          "audio_updated_at": 1543440332,
+          "text": "I play tennis now and then.",
+          "phonetic": ""
+        },
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "audio_updated_at": 1543435955,
+          "text": "I play football.",
+          "phonetic": ""
+        },
+        {
+          "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+          "audio_updated_at": 1543435951,
+          "text": "I play tennis.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620151,
+      "lesson": 2401,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 17840,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tykufAnwy3q",
+          "text": "إلى",
+          "raw": { "text": "إلى", "location": 16, "length": 3 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tn6WH5ctyVr",
+          "text": "كرة",
+          "raw": { "text": "كرة", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 13, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tJhBvKGsrhq",
+          "text": "القدم",
+          "raw": { "text": "القدم", "location": 14, "length": 5 },
+          "prefix": { "text": "", "location": 14, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 13, "length": 1 }
+        },
+        {
+          "key": "tpt8AWM4wC-",
+          "text": "الذهاب",
+          "raw": { "text": "الذهاب", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tADctrLv_b8",
+          "text": "ألعب",
+          "raw": { "text": "ألعب", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tyH_ur0RIM_",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 1, "length": 3 },
+          "prefix": { "text": "", "location": 1, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 1, "length": 0 }
+        },
+        {
+          "key": "tuXSj5iNfzc",
+          "text": "أريد",
+          "raw": { "text": "أريد", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tQ9vMIT3fMl",
+          "text": "المنزل.",
+          "raw": { "text": "المنزل", "location": 20, "length": 6 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": ".", "location": 26, "length": 1 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tyH_ur0RIM_", "tADctrLv_b8", "tn6WH5ctyVr", "tJhBvKGsrhq"],
+      "sols": [
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "audio_updated_at": 1543435955,
+          "text": "I play football.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "play",
+              "translations": [
+                { "type": "dictionary", "text": "ألعب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "football",
+              "translations": [
+                { "type": "dictionary", "text": "كرة القدم", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "play", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "football", "location": 7, "length": 8 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "audio_updated_at": 1543435955,
+          "text": "‫أنا ألعب كرة القدم.‬"
+        }
+      ]
+    },
+    {
+      "id": 620152,
+      "lesson": 2401,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 17910,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t44hCk4yaTk",
+          "text": "football.",
+          "raw": { "text": "football", "location": 8, "length": 8 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": ".", "location": 16, "length": 1 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tQN1lusnDXL",
+          "text": "on",
+          "raw": { "text": "on", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tt38zZ0wzRt",
+          "text": "this",
+          "raw": { "text": "this", "location": 16, "length": 4 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tEkH5rcUk-7",
+          "text": "play",
+          "raw": { "text": "play", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tMweEhVln5B",
+          "text": "What's",
+          "raw": { "text": "What's", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tsgHQFjhD2X",
+          "text": "going",
+          "raw": { "text": "going", "location": 7, "length": 5 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tLQqGBHwGQh",
+          "text": "We",
+          "raw": { "text": "We", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "trcHVgD49jp",
+          "text": "weekend?",
+          "raw": { "text": "weekend", "location": 21, "length": 7 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "?", "location": 28, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tLQqGBHwGQh", "tEkH5rcUk-7", "t44hCk4yaTk"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA",
+          "audio_updated_at": 1543435751,
+          "text": "نحن نلعب كرة القدم.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نلعب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We play",
+                  "phonetic": "We play"
+                }
+              ]
+            },
+            { "raw": "كرة", "translations": [] },
+            {
+              "raw": "القدم",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "football",
+                  "phonetic": "football"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نلعب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "كرة", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "القدم", "location": 13, "length": 5 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": ".", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA",
+          "audio_updated_at": 1543435751,
+          "text": "We play football.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620153,
+      "lesson": 2401,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23957,
+      "alternates": [17910, 23958],
+      "sols": [
+        {
+          "key": "SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY",
+          "audio_updated_at": 1688290842,
+          "text": "We play golf once a week.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "We",
+              "translations": [
+                { "type": "dictionary", "text": "نحن", "phonetic": null }
+              ]
+            },
+            { "raw": "play", "translations": [] },
+            {
+              "raw": "golf",
+              "translations": [
+                { "type": "dictionary", "text": "الغولف", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "once",
+              "translations": [
+                { "type": "dictionary", "text": "مرة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "a",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "week",
+              "translations": [
+                { "type": "dictionary", "text": "الأسبوع", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "We", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "play", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "golf", "location": 8, "length": 4 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "once", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 18, "length": 1 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "week", "location": 20, "length": 4 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": ".", "location": 24, "length": 1 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA",
+          "text": "We play football.",
+          "phonetic": ""
+        },
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "text": "We play basketball once a week.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY",
+          "audio_updated_at": 1688290842,
+          "text": "نحن نلعب الغولف مرة في الأسبوع."
+        },
+        {
+          "key": "aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA",
+          "audio_updated_at": 1543435751,
+          "text": "نحن نلعب كرة القدم."
+        },
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "audio_updated_at": 1688290844,
+          "text": "نحن نلعب كرة السلة مرة في الأسبوع."
+        }
+      ]
+    },
+    {
+      "id": 620154,
+      "lesson": 2401,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 23958,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tfMjFS2M_-7",
+          "text": "We",
+          "raw": { "text": "We", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tHdQeyhpOgx",
+          "text": "week.",
+          "raw": { "text": "week", "location": 26, "length": 4 },
+          "prefix": { "text": "", "location": 26, "length": 0 },
+          "suffix": { "text": ".", "location": 30, "length": 1 },
+          "linker": { "text": " ", "location": 25, "length": 1 }
+        },
+        {
+          "key": "tDlifYRlLEv",
+          "text": "basketball",
+          "raw": { "text": "basketball", "location": 8, "length": 10 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 18, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tqyOlRupIiC",
+          "text": "once",
+          "raw": { "text": "once", "location": 19, "length": 4 },
+          "prefix": { "text": "", "location": 19, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 18, "length": 1 }
+        },
+        {
+          "key": "tDbtbps-GaX",
+          "text": "a",
+          "raw": { "text": "a", "location": 24, "length": 1 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 25, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "tRcCXibxuiZ",
+          "text": "sport",
+          "raw": { "text": "sport", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "teqTL1t3mg5",
+          "text": "play",
+          "raw": { "text": "play", "location": 3, "length": 4 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 7, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tfMjFS2M_-7",
+        "teqTL1t3mg5",
+        "tDlifYRlLEv",
+        "tqyOlRupIiC",
+        "tDbtbps-GaX",
+        "tHdQeyhpOgx"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "audio_updated_at": 1688290844,
+          "text": "نحن نلعب كرة السلة مرة في الأسبوع.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نلعب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We play",
+                  "phonetic": "We play"
+                }
+              ]
+            },
+            { "raw": "كرة", "translations": [] },
+            {
+              "raw": "السلة",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "basketball",
+                  "phonetic": "basketball"
+                }
+              ]
+            },
+            {
+              "raw": "مرة",
+              "translations": [
+                { "type": "dictionary", "text": "once", "phonetic": "once" }
+              ]
+            },
+            { "raw": "في", "translations": [] },
+            {
+              "raw": "الأسبوع",
+              "translations": [
+                { "type": "dictionary", "text": "week", "phonetic": "week" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نلعب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "كرة", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "السلة", "location": 13, "length": 5 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "مرة", "location": 19, "length": 3 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 23, "length": 2 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأسبوع", "location": 26, "length": 7 },
+              "prefix": { "text": "", "location": 26, "length": 0 },
+              "suffix": { "text": ".", "location": 33, "length": 1 },
+              "linker": { "text": " ", "location": 25, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "audio_updated_at": 1688290844,
+          "text": "We play basketball once a week.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620155,
+      "lesson": 2401,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 17841,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tR8uAlW5f2O",
+          "text": "أنا",
+          "raw": { "text": "أنا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tigBd34S2iz",
+          "text": "ألعب",
+          "raw": { "text": "ألعب", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t_Vvi6D4ieR",
+          "text": "المضرب.",
+          "raw": { "text": "المضرب", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": ".", "location": 19, "length": 1 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tdCahtIdTvr",
+          "text": "أريد",
+          "raw": { "text": "أريد", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tPYmxkXuwmP",
+          "text": "الليلة.",
+          "raw": { "text": "الليلة", "location": 21, "length": 6 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": ".", "location": 27, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tD48l3e5P99",
+          "text": "فيلم",
+          "raw": { "text": "فيلم", "location": 16, "length": 4 },
+          "prefix": { "text": "", "location": 16, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 15, "length": 1 }
+        },
+        {
+          "key": "tMmN4wDMak-",
+          "text": "كرة",
+          "raw": { "text": "كرة", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "tjdLZ69tOft",
+          "text": "مشاهدة",
+          "raw": { "text": "مشاهدة", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tR8uAlW5f2O", "tigBd34S2iz", "tMmN4wDMak-", "t_Vvi6D4ieR"],
+      "sols": [
+        {
+          "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+          "audio_updated_at": 1543435951,
+          "text": "I play tennis.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "play",
+              "translations": [
+                { "type": "dictionary", "text": "ألعب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "tennis",
+              "translations": [
+                { "type": "dictionary", "text": "كرة المضرب", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "play", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "tennis", "location": 7, "length": 6 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 13, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+          "audio_updated_at": 1543435951,
+          "text": "أنا ألعب كرة المضرب."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tuYFUah6aid",
+            "text": "أركب",
+            "raw": { "text": "أركب", "location": 12, "length": 4 },
+            "prefix": { "text": "", "location": 12, "length": 0 },
+            "suffix": { "text": "", "location": 16, "length": 0 },
+            "linker": { "text": " ", "location": 11, "length": 1 }
+          },
+          {
+            "key": "t5Pp84TFERI",
+            "text": "أن",
+            "raw": { "text": "أن", "location": 9, "length": 2 },
+            "prefix": { "text": "", "location": 9, "length": 0 },
+            "suffix": { "text": "", "location": 11, "length": 0 },
+            "linker": { "text": " ", "location": 8, "length": 1 }
+          },
+          {
+            "key": "t9CHG9Z45Mp",
+            "text": "أنا",
+            "raw": { "text": "أنا", "location": 0, "length": 3 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 3, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tXLBM0i4WsM",
+            "text": "الأمواج.",
+            "raw": { "text": "الأمواج", "location": 17, "length": 7 },
+            "prefix": { "text": "", "location": 17, "length": 0 },
+            "suffix": { "text": ".", "location": 24, "length": 1 },
+            "linker": { "text": " ", "location": 16, "length": 1 }
+          },
+          {
+            "key": "tAp3fnAn0Uw",
+            "text": "أريد",
+            "raw": { "text": "أريد", "location": 4, "length": 4 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 8, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "thBbB4drmRi",
+            "text": "المضرب.",
+            "raw": { "text": "المضرب", "location": 13, "length": 6 },
+            "prefix": { "text": "", "location": 13, "length": 0 },
+            "suffix": { "text": ".", "location": 19, "length": 1 },
+            "linker": { "text": " ", "location": 12, "length": 1 }
+          },
+          {
+            "key": "tRZhPQ_I2bK",
+            "text": "ألعب",
+            "raw": { "text": "ألعب", "location": 4, "length": 4 },
+            "prefix": { "text": "", "location": 4, "length": 0 },
+            "suffix": { "text": "", "location": 8, "length": 0 },
+            "linker": { "text": " ", "location": 3, "length": 1 }
+          },
+          {
+            "key": "tNizNumq3sC",
+            "text": "كرة",
+            "raw": { "text": "كرة", "location": 9, "length": 3 },
+            "prefix": { "text": "", "location": 9, "length": 0 },
+            "suffix": { "text": "", "location": 12, "length": 0 },
+            "linker": { "text": " ", "location": 8, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["t9CHG9Z45Mp", "tRZhPQ_I2bK", "tNizNumq3sC", "thBbB4drmRi"],
+        "sols": [
+          {
+            "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+            "audio_updated_at": 1543435951,
+            "text": "I play tennis.",
+            "phonetic": "",
+            "dictionary": [
+              {
+                "raw": "I",
+                "translations": [
+                  { "type": "dictionary", "text": "أنا", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "play",
+                "translations": [
+                  { "type": "dictionary", "text": "ألعب", "phonetic": null }
+                ]
+              },
+              {
+                "raw": "tennis",
+                "translations": [
+                  {
+                    "type": "dictionary",
+                    "text": "كرة المضرب",
+                    "phonetic": null
+                  }
+                ]
+              }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "I", "location": 0, "length": 1 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 1, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "play", "location": 2, "length": 4 },
+                "prefix": { "text": "", "location": 2, "length": 0 },
+                "suffix": { "text": "", "location": 6, "length": 0 },
+                "linker": { "text": " ", "location": 1, "length": 1 }
+              },
+              {
+                "raw": { "text": "tennis", "location": 7, "length": 6 },
+                "prefix": { "text": "", "location": 7, "length": 0 },
+                "suffix": { "text": ".", "location": 13, "length": 1 },
+                "linker": { "text": " ", "location": 6, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "mCqxSPqY6AGn5REefbUE8XBf8l6A1F3i",
+            "audio_updated_at": 1543435951,
+            "text": "أنا ألعب كرة المضرب."
+          }
+        ]
+      }
+    },
+    {
+      "id": 620156,
+      "lesson": 2401,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 17174,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t0tnHhHZL_N",
+          "text": "لا.",
+          "raw": { "text": "لا", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ".", "location": 2, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tEnykIgMxtx",
+          "text": "ألعب",
+          "raw": { "text": "ألعب", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tU6IJEILq_q",
+          "text": "الحين",
+          "raw": { "text": "الحين", "location": 24, "length": 5 },
+          "prefix": { "text": "", "location": 24, "length": 0 },
+          "suffix": { "text": "", "location": 29, "length": 0 },
+          "linker": { "text": " ", "location": 23, "length": 1 }
+        },
+        {
+          "key": "t8IMvgUk0e2",
+          "text": "المضرب",
+          "raw": { "text": "المضرب", "location": 13, "length": 6 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 19, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tM2Q-itMlvo",
+          "text": "والآخر.",
+          "raw": { "text": "والآخر", "location": 30, "length": 6 },
+          "prefix": { "text": "", "location": 30, "length": 0 },
+          "suffix": { "text": ".", "location": 36, "length": 1 },
+          "linker": { "text": " ", "location": 29, "length": 1 }
+        },
+        {
+          "key": "tq4f15iJc72",
+          "text": "كرة",
+          "raw": { "text": "كرة", "location": 9, "length": 3 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        },
+        {
+          "key": "th0TJL_uWdK",
+          "text": "بين",
+          "raw": { "text": "بين", "location": 20, "length": 3 },
+          "prefix": { "text": "", "location": 20, "length": 0 },
+          "suffix": { "text": "", "location": 23, "length": 0 },
+          "linker": { "text": " ", "location": 19, "length": 1 }
+        },
+        {
+          "key": "tt41rBMdbfy",
+          "text": "انا",
+          "raw": { "text": "انا", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tt41rBMdbfy",
+        "tEnykIgMxtx",
+        "tq4f15iJc72",
+        "t8IMvgUk0e2",
+        "th0TJL_uWdK",
+        "tU6IJEILq_q",
+        "tM2Q-itMlvo"
+      ],
+      "sols": [
+        {
+          "key": "i4y109hZxnbptmowFo4jMPFagvxh_wFh",
+          "audio_updated_at": 1543440332,
+          "text": "I play tennis now and then.",
+          "phonetic": ""
+        },
+        {
+          "key": "i4y109hZxnbptmowFo4jMPFagvxh_wFh",
+          "audio_updated_at": 1543440332,
+          "text": "انا ألعب كرة المضرب بين الحين والآخر."
+        }
+      ]
+    },
+    {
+      "id": 620157,
+      "lesson": 2401,
+      "type": "T2",
+      "modifiers": 60,
+      "wordID": 17840,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "audio_updated_at": 1543435955,
+          "text": "I play football.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أنا", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "play",
+              "translations": [
+                { "type": "dictionary", "text": "ألعب", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "football",
+              "translations": [
+                { "type": "dictionary", "text": "كرة القدم", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "I", "location": 0, "length": 1 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 1, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "play", "location": 2, "length": 4 },
+              "prefix": { "text": "", "location": 2, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": " ", "location": 1, "length": 1 }
+            },
+            {
+              "raw": { "text": "football", "location": 7, "length": 8 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 15, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "audio_updated_at": 1543435955,
+          "text": "‫أنا ألعب كرة القدم.‬"
+        }
+      ]
+    },
+    {
+      "id": 620158,
+      "lesson": 2401,
+      "type": "T2b",
+      "modifiers": 92,
+      "wordID": 17910,
+      "alternates": [],
+      "sols": [
+        {
+          "key": "aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA",
+          "audio_updated_at": 1543435751,
+          "text": "نحن نلعب كرة القدم.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نلعب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We play",
+                  "phonetic": "We play"
+                }
+              ]
+            },
+            { "raw": "كرة", "translations": [] },
+            {
+              "raw": "القدم",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "football",
+                  "phonetic": "football"
+                }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نلعب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "كرة", "location": 9, "length": 3 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "القدم", "location": 13, "length": 5 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": ".", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "aY1Q8D4f-U0OqMAc8rfT1zNjNbhDF-cA",
+          "audio_updated_at": 1543435751,
+          "text": "We play football.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620159,
+      "lesson": 2401,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 23957,
+      "alternates": [17840, 23958],
+      "sols": [
+        {
+          "key": "SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY",
+          "audio_updated_at": 1688290842,
+          "text": "نحن نلعب الغولف مرة في الأسبوع.",
+          "dictionary": [
+            {
+              "raw": "نحن",
+              "translations": [
+                { "type": "dictionary", "text": "We", "phonetic": "We" }
+              ]
+            },
+            {
+              "raw": "نلعب",
+              "translations": [
+                {
+                  "type": "dictionary",
+                  "text": "We play",
+                  "phonetic": "We play"
+                }
+              ]
+            },
+            {
+              "raw": "الغولف",
+              "translations": [
+                { "type": "dictionary", "text": "golf", "phonetic": "golf" }
+              ]
+            },
+            {
+              "raw": "مرة",
+              "translations": [
+                { "type": "dictionary", "text": "once", "phonetic": "once" }
+              ]
+            },
+            { "raw": "في", "translations": [] },
+            {
+              "raw": "الأسبوع",
+              "translations": [
+                { "type": "dictionary", "text": "week", "phonetic": "week" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نحن", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "نلعب", "location": 4, "length": 4 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 8, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "الغولف", "location": 9, "length": 6 },
+              "prefix": { "text": "", "location": 9, "length": 0 },
+              "suffix": { "text": "", "location": 15, "length": 0 },
+              "linker": { "text": " ", "location": 8, "length": 1 }
+            },
+            {
+              "raw": { "text": "مرة", "location": 16, "length": 3 },
+              "prefix": { "text": "", "location": 16, "length": 0 },
+              "suffix": { "text": "", "location": 19, "length": 0 },
+              "linker": { "text": " ", "location": 15, "length": 1 }
+            },
+            {
+              "raw": { "text": "في", "location": 20, "length": 2 },
+              "prefix": { "text": "", "location": 20, "length": 0 },
+              "suffix": { "text": "", "location": 22, "length": 0 },
+              "linker": { "text": " ", "location": 19, "length": 1 }
+            },
+            {
+              "raw": { "text": "الأسبوع", "location": 23, "length": 7 },
+              "prefix": { "text": "", "location": 23, "length": 0 },
+              "suffix": { "text": ".", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 22, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "text": "‫أنا ألعب كرة القدم.‬"
+        },
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "text": "نحن نلعب كرة السلة مرة في الأسبوع."
+        }
+      ],
+      "alts": [
+        {
+          "key": "SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY",
+          "audio_updated_at": 1688290842,
+          "text": "We play golf once a week.",
+          "phonetic": ""
+        },
+        {
+          "key": "TcrvDqoS3mxQqBi0j82TNLpzrPJP2Sm6",
+          "audio_updated_at": 1543435955,
+          "text": "I play football.",
+          "phonetic": ""
+        },
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "audio_updated_at": 1688290844,
+          "text": "We play basketball once a week.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 620160,
+      "lesson": 2401,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 23958,
+      "alternates": [17174, 23957],
+      "sols": [
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "audio_updated_at": 1688290844,
+          "text": "We play basketball once a week.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "We",
+              "translations": [
+                { "type": "dictionary", "text": "نحن", "phonetic": null }
+              ]
+            },
+            { "raw": "play", "translations": [] },
+            {
+              "raw": "basketball",
+              "translations": [
+                { "type": "dictionary", "text": "كرة السلة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "once",
+              "translations": [
+                { "type": "dictionary", "text": "مرة", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "a",
+              "translations": [
+                { "type": "dictionary", "text": "في", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "week",
+              "translations": [
+                { "type": "dictionary", "text": "الأسبوع", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "We", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "play", "location": 3, "length": 4 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 7, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "basketball", "location": 8, "length": 10 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 18, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "once", "location": 19, "length": 4 },
+              "prefix": { "text": "", "location": 19, "length": 0 },
+              "suffix": { "text": "", "location": 23, "length": 0 },
+              "linker": { "text": " ", "location": 18, "length": 1 }
+            },
+            {
+              "raw": { "text": "a", "location": 24, "length": 1 },
+              "prefix": { "text": "", "location": 24, "length": 0 },
+              "suffix": { "text": "", "location": 25, "length": 0 },
+              "linker": { "text": " ", "location": 23, "length": 1 }
+            },
+            {
+              "raw": { "text": "week", "location": 26, "length": 4 },
+              "prefix": { "text": "", "location": 26, "length": 0 },
+              "suffix": { "text": ".", "location": 30, "length": 1 },
+              "linker": { "text": " ", "location": 25, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "i4y109hZxnbptmowFo4jMPFagvxh_wFh",
+          "text": "I play tennis now and then.",
+          "phonetic": ""
+        },
+        {
+          "key": "SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY",
+          "text": "We play golf once a week.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "h67Nlmhpc9KklgnbIylFnFDcICsgSwQu",
+          "audio_updated_at": 1688290844,
+          "text": "نحن نلعب كرة السلة مرة في الأسبوع."
+        },
+        {
+          "key": "i4y109hZxnbptmowFo4jMPFagvxh_wFh",
+          "audio_updated_at": 1543440332,
+          "text": "انا ألعب كرة المضرب بين الحين والآخر."
+        },
+        {
+          "key": "SI5TZ8QphysHTaH2eaEkwMy5gB4GMfkY",
+          "audio_updated_at": 1688290842,
+          "text": "نحن نلعب الغولف مرة في الأسبوع."
+        }
+      ]
+    }
+  ]
+}

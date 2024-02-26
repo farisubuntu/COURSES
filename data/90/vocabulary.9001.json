@@ -1,1 +1,1583 @@
-{"vocabulary":{"id":9001,"index":1,"category":90,"categoryID":90,"unifiedUnitId":147,"unifiedCategoryId":90,"isCourse":false,"name":null,"disabled":false,"done":false,"stars":false,"countItem":10,"countWords":11,"countPhrases":0,"countDone":0,"vItems":[10422,10423,10424,10425,10426,10427,10428,10429,10430,10431]},"vItems":[{"id":10422,"vocabulary":9001,"wordID":24425,"key":"cSJOjgk5m7JCe-QcHl0A4N2rE7hO4grR","sols":[{"key":"cSJOjgk5m7JCe-QcHl0A4N2rE7hO4grR","text":"عمل","dictionary":[{"raw":"عمل","translations":[{"type":"verb","name":{"t":"to work","m":"يعمل","phonetic":"to work"},"id":99,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"fwsacYCGaqD2HOVRvOI61hDGQNdg9pPF","text":"I work","phonetic":"","audio_updated_at":1543438604},"m":{"text":"أنا أعمل"}},{"t":{"key":"fWepilsOQM_rGgPn8uQnzm_k3mjd1NIp","text":"You work","phonetic":"","audio_updated_at":1543438605},"m":{"text":"أنت تعمل"}},{"t":{"key":"cpmQdkHALLkWvBMLqgaUcSyrRW9BxzLH","text":"He works","phonetic":"","audio_updated_at":1543438606},"m":{"text":"هو يعمل"}},{"t":{"key":"apFkRixDVCNVo2nW1nAQkEiRQejavUZQ","text":"She works","phonetic":"","audio_updated_at":1543438607},"m":{"text":"هي تعمل"}},{"t":{"key":"JP0HK1Ombg0HscOM7_mSZpnTxaTlQIJ-","text":"We work","phonetic":"","audio_updated_at":1543438608},"m":{"text":"نحن نعمل"}},{"t":{"key":"Bkvf8V1Am6iZ53_FElPQyqFXmt0KjaYC","text":"You work","phonetic":"","audio_updated_at":1541548982},"m":{"text":"أنتم تعملون"}},{"t":{"key":"HZYuEO9mmBwyJBFDOKeFDF-wMqrb7_8M","text":"They work","phonetic":"","audio_updated_at":1543438610},"m":{"text":"هم يعملون"}}],"pa":[{"t":{"key":"EtNCzAhJtfCFO1txR5uHdm2c3dconVZW","text":"I worked","phonetic":"","audio_updated_at":1541548984},"m":{"text":"أنا عملت"}},{"t":{"key":"PbCaemCc2HXiQzbbqOTj8q2Md5MOPdx4","text":"You worked","phonetic":"","audio_updated_at":1541548985},"m":{"text":"أنت عملت"}},{"t":{"key":"cGkDIZcPJi5iPTO1jaMSVbqHQVGQifC3","text":"He worked","phonetic":"","audio_updated_at":1541548986},"m":{"text":"هو عمل"}},{"t":{"key":"hs-kZU4lXglP57BflNXiP4Y11FZ25Und","text":"She worked","phonetic":"","audio_updated_at":1541548987},"m":{"text":"هي عملت"}},{"t":{"key":"tKhSeydjPhkNEjyai4teU0wpk8TfdK_P","text":"We worked","phonetic":"","audio_updated_at":1541548989},"m":{"text":"نحن عملنا"}},{"t":{"key":"2hWTxAUlHY88oDq3K7y3bFeyAGQhTwgw","text":"You worked","phonetic":"","audio_updated_at":1541548990},"m":{"text":"أنتم عملتم"}},{"t":{"key":"x4cPeOXJmQNWycDYyw-7hglHFIYtYsly","text":"They worked","phonetic":"","audio_updated_at":1541548991},"m":{"text":"هم عملوا"}}],"fu":[{"t":{"key":"Hkl100Myp6fLkILUZ_0uy2oi6tcx5D_O","text":"I will work","phonetic":"","audio_updated_at":1541548992},"m":{"text":"أنا سأعمل"}},{"t":{"key":"PU4JgLAFot5qzYtziwIwQk3CzZNiIw8q","text":"You will work","phonetic":"","audio_updated_at":1541548994},"m":{"text":"أنت ستعمل"}},{"t":{"key":"aYDYx-RUGEjKBQScscaMGqCpS1WTMaa3","text":"He will work","phonetic":"","audio_updated_at":1541548995},"m":{"text":"هو سيعمل"}},{"t":{"key":"vxPa3xEt8oTI5GyA0pCPBFtgHGmkgtZO","text":"She will work","phonetic":"","audio_updated_at":1541548996},"m":{"text":"هي ستعمل"}},{"t":{"key":"bR-B75M-AepZpaqRrBlOBLtN2R8tYUsJ","text":"We will work","phonetic":"","audio_updated_at":1541548998},"m":{"text":"نحن سنعمل"}},{"t":{"key":"tmNhIi0-b4fE3IxC8h_aVlHksPK5S2Bi","text":"You will work","phonetic":"","audio_updated_at":1541548999},"m":{"text":"أنتم ستعملون"}},{"t":{"key":"RwmettDQVkCD3vO03tfeLAoGBLdzKnjO","text":"They will work","phonetic":"","audio_updated_at":1541549000},"m":{"text":"هم سيعملون"}}]}}]}]},{"key":"cSJOjgk5m7JCe-QcHl0A4N2rE7hO4grR","text":"work","phonetic":"","dictionary":[{"raw":"work","translations":[{"type":"dictionary","text":"عمل","phonetic":null},{"type":"verb","name":{"t":"to work","m":"يعمل","phonetic":"to work"},"id":99,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"fwsacYCGaqD2HOVRvOI61hDGQNdg9pPF","text":"I work","phonetic":"","audio_updated_at":1543438604},"m":{"text":"أنا أعمل"}},{"t":{"key":"fWepilsOQM_rGgPn8uQnzm_k3mjd1NIp","text":"You work","phonetic":"","audio_updated_at":1543438605},"m":{"text":"أنت تعمل"}},{"t":{"key":"cpmQdkHALLkWvBMLqgaUcSyrRW9BxzLH","text":"He works","phonetic":"","audio_updated_at":1543438606},"m":{"text":"هو يعمل"}},{"t":{"key":"apFkRixDVCNVo2nW1nAQkEiRQejavUZQ","text":"She works","phonetic":"","audio_updated_at":1543438607},"m":{"text":"هي تعمل"}},{"t":{"key":"JP0HK1Ombg0HscOM7_mSZpnTxaTlQIJ-","text":"We work","phonetic":"","audio_updated_at":1543438608},"m":{"text":"نحن نعمل"}},{"t":{"key":"Bkvf8V1Am6iZ53_FElPQyqFXmt0KjaYC","text":"You work","phonetic":"","audio_updated_at":1541548982},"m":{"text":"أنتم تعملون"}},{"t":{"key":"HZYuEO9mmBwyJBFDOKeFDF-wMqrb7_8M","text":"They work","phonetic":"","audio_updated_at":1543438610},"m":{"text":"هم يعملون"}}],"pa":[{"t":{"key":"EtNCzAhJtfCFO1txR5uHdm2c3dconVZW","text":"I worked","phonetic":"","audio_updated_at":1541548984},"m":{"text":"أنا عملت"}},{"t":{"key":"PbCaemCc2HXiQzbbqOTj8q2Md5MOPdx4","text":"You worked","phonetic":"","audio_updated_at":1541548985},"m":{"text":"أنت عملت"}},{"t":{"key":"cGkDIZcPJi5iPTO1jaMSVbqHQVGQifC3","text":"He worked","phonetic":"","audio_updated_at":1541548986},"m":{"text":"هو عمل"}},{"t":{"key":"hs-kZU4lXglP57BflNXiP4Y11FZ25Und","text":"She worked","phonetic":"","audio_updated_at":1541548987},"m":{"text":"هي عملت"}},{"t":{"key":"tKhSeydjPhkNEjyai4teU0wpk8TfdK_P","text":"We worked","phonetic":"","audio_updated_at":1541548989},"m":{"text":"نحن عملنا"}},{"t":{"key":"2hWTxAUlHY88oDq3K7y3bFeyAGQhTwgw","text":"You worked","phonetic":"","audio_updated_at":1541548990},"m":{"text":"أنتم عملتم"}},{"t":{"key":"x4cPeOXJmQNWycDYyw-7hglHFIYtYsly","text":"They worked","phonetic":"","audio_updated_at":1541548991},"m":{"text":"هم عملوا"}}],"fu":[{"t":{"key":"Hkl100Myp6fLkILUZ_0uy2oi6tcx5D_O","text":"I will work","phonetic":"","audio_updated_at":1541548992},"m":{"text":"أنا سأعمل"}},{"t":{"key":"PU4JgLAFot5qzYtziwIwQk3CzZNiIw8q","text":"You will work","phonetic":"","audio_updated_at":1541548994},"m":{"text":"أنت ستعمل"}},{"t":{"key":"aYDYx-RUGEjKBQScscaMGqCpS1WTMaa3","text":"He will work","phonetic":"","audio_updated_at":1541548995},"m":{"text":"هو سيعمل"}},{"t":{"key":"vxPa3xEt8oTI5GyA0pCPBFtgHGmkgtZO","text":"She will work","phonetic":"","audio_updated_at":1541548996},"m":{"text":"هي ستعمل"}},{"t":{"key":"bR-B75M-AepZpaqRrBlOBLtN2R8tYUsJ","text":"We will work","phonetic":"","audio_updated_at":1541548998},"m":{"text":"نحن سنعمل"}},{"t":{"key":"tmNhIi0-b4fE3IxC8h_aVlHksPK5S2Bi","text":"You will work","phonetic":"","audio_updated_at":1541548999},"m":{"text":"أنتم ستعملون"}},{"t":{"key":"RwmettDQVkCD3vO03tfeLAoGBLdzKnjO","text":"They will work","phonetic":"","audio_updated_at":1541549000},"m":{"text":"هم سيعملون"}}]}}]}]}],"audio_updated_at":1688291367},{"id":10423,"vocabulary":9001,"wordID":19146,"key":"lAl6HIaPE0EeAxVGWhd70CF0a2o02uzo","sols":[{"key":"lAl6HIaPE0EeAxVGWhd70CF0a2o02uzo","text":"مكتب","dictionary":[{"raw":"مكتب","translations":[]}]},{"key":"lAl6HIaPE0EeAxVGWhd70CF0a2o02uzo","text":"office","phonetic":"","dictionary":[{"raw":"office","translations":[{"type":"dictionary","text":"مكتب","phonetic":null}]}]}],"audio_updated_at":1543437858},{"id":10424,"vocabulary":9001,"wordID":16417,"key":"o3ak2WiPTDX_aitanNYrYYO5frk1BzH7","sols":[{"key":"o3ak2WiPTDX_aitanNYrYYO5frk1BzH7","text":"مطعم","dictionary":[{"raw":"مطعم","translations":[]}]},{"key":"o3ak2WiPTDX_aitanNYrYYO5frk1BzH7","text":"restaurant","phonetic":"","dictionary":[{"raw":"restaurant","translations":[{"type":"dictionary","text":"مطعم","phonetic":null}]}]}],"audio_updated_at":1543436523},{"id":10425,"vocabulary":9001,"wordID":13257,"key":"pf-RrPZY9bSojh6KRlKo3J77HoIXQfxj","sols":[{"key":"pf-RrPZY9bSojh6KRlKo3J77HoIXQfxj","text":"يحتفل","dictionary":[{"raw":"يحتفل","translations":[{"type":"verb","name":{"t":"to celebrate","m":"يحتفل","phonetic":"to celebrate"},"id":12,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"sjpgvjMSFf-QQB5u9a2Thh-qTLTdlu3A","text":"I celebrate","phonetic":"","audio_updated_at":1543438006},"m":{"text":"أنا أحتفل"}},{"t":{"key":"Lvt1MJK4CyuDMklOiofgZztGTusPRN-G","text":"You celebrate","phonetic":"","audio_updated_at":1543438007},"m":{"text":"أنت تحتفل"}},{"t":{"key":"XKlXuHh6MYVSVNOtWKZv_CNfI61GQL-d","text":"He celebrates","phonetic":"","audio_updated_at":1543438008},"m":{"text":"هو يحتفل"}},{"t":{"key":"kh9UwRFwsBU0NER_VShHmk7EJvNV6dxR","text":"She celebrates","phonetic":"","audio_updated_at":1543438009},"m":{"text":"هي تحتفل"}},{"t":{"key":"I9QdH6yyYrzy5JDn4oMTDV7SV4cdAK-B","text":"We celebrate","phonetic":"","audio_updated_at":1543438011},"m":{"text":"نحن نحتفل"}},{"t":{"key":"fOMQ4LllVOGPi_I0T4hWk0zbjzDB9v_V","text":"You celebrate","phonetic":"","audio_updated_at":1541546788},"m":{"text":"أنتم تحتفلون"}},{"t":{"key":"uXjFMQoATj1o1bNF7qGWzf-UWDfvynXq","text":"They celebrate","phonetic":"","audio_updated_at":1543438012},"m":{"text":"هم يحتفلون"}}],"pa":[{"t":{"key":"pU4BZ9Pmt2xlGvfnpKGGRsoAGxEvH_LK","text":"I celebrated","phonetic":"","audio_updated_at":1541546790},"m":{"text":"أنا احتفلت"}},{"t":{"key":"GumlY7lCy_AuD7hQzFoulR7zg5wXO68M","text":"You celebrated","phonetic":"","audio_updated_at":1541546791},"m":{"text":"أنت احتفلت"}},{"t":{"key":"UYJ4VLYcGUOA6NoyCEFtf75su6e5RsgD","text":"He celebrated","phonetic":"","audio_updated_at":1541546792},"m":{"text":"هو احتفل"}},{"t":{"key":"Ck3zqVvQH0rPeZWLmJ-C4Sig4bul9SXE","text":"She celebrated","phonetic":"","audio_updated_at":1541546793},"m":{"text":"هي احتفلت"}},{"t":{"key":"zMrE41_MAVvfLeecI7AKerUUy85oTeIn","text":"We celebrated","phonetic":"","audio_updated_at":1541546795},"m":{"text":"نحن احتفلنا"}},{"t":{"key":"46s5RozdTFrDjPrRSfd7QF4dRVrMgkR_","text":"You celebrated","phonetic":"","audio_updated_at":1541546796},"m":{"text":"أنتم احتفلتم"}},{"t":{"key":"Zq5Z-WueQ5cSBcUnWsZMhu4gzbzUcr9_","text":"They celebrated","phonetic":"","audio_updated_at":1541546797},"m":{"text":"هم احتفلوا"}}],"fu":[{"t":{"key":"Sf6M1wjdzu4FlECQmNT8stgydiU3XcrJ","text":"I will celebrate","phonetic":"","audio_updated_at":1543438013},"m":{"text":"أنا سأحتفل"}},{"t":{"key":"1mtpt14CzvfYCbbNTXmpdQKC7XN0tLl8","text":"You will celebrate","phonetic":"","audio_updated_at":1543438015},"m":{"text":"أنت ستحتفل"}},{"t":{"key":"WoSXfYjiPq5nKPbR4_1G-ZAEQx47PPHY","text":"He will celebrate","phonetic":"","audio_updated_at":1543438016},"m":{"text":"هو سيحتفل"}},{"t":{"key":"SM0Zost8kt3QhClr7g1--G6YNMbjgc4l","text":"She will celebrate","phonetic":"","audio_updated_at":1543438017},"m":{"text":"هي ستحتفل"}},{"t":{"key":"zLAoVT1acb9uUA1J3dg5W_dcsixSouP9","text":"We will celebrate","phonetic":"","audio_updated_at":1543438018},"m":{"text":"نحن سنحتفل"}},{"t":{"key":"ffBg0HWA6P6IPZLC2-ip2WB4G45r1v6Y","text":"You will celebrate","phonetic":"","audio_updated_at":1541546804},"m":{"text":"أنتم ستحتفلون"}},{"t":{"key":"-btXU5hBTfRe5uZ42jmR4nGqIRANyjzy","text":"They will celebrate","phonetic":"","audio_updated_at":1543438020},"m":{"text":"هم سيحتفلون"}}]}}]}]},{"key":"pf-RrPZY9bSojh6KRlKo3J77HoIXQfxj","text":"to celebrate","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"celebrate","translations":[{"type":"dictionary","text":"يحتفل","phonetic":null},{"type":"verb","name":{"t":"to celebrate","m":"يحتفل","phonetic":"to celebrate"},"id":12,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"sjpgvjMSFf-QQB5u9a2Thh-qTLTdlu3A","text":"I celebrate","phonetic":"","audio_updated_at":1543438006},"m":{"text":"أنا أحتفل"}},{"t":{"key":"Lvt1MJK4CyuDMklOiofgZztGTusPRN-G","text":"You celebrate","phonetic":"","audio_updated_at":1543438007},"m":{"text":"أنت تحتفل"}},{"t":{"key":"XKlXuHh6MYVSVNOtWKZv_CNfI61GQL-d","text":"He celebrates","phonetic":"","audio_updated_at":1543438008},"m":{"text":"هو يحتفل"}},{"t":{"key":"kh9UwRFwsBU0NER_VShHmk7EJvNV6dxR","text":"She celebrates","phonetic":"","audio_updated_at":1543438009},"m":{"text":"هي تحتفل"}},{"t":{"key":"I9QdH6yyYrzy5JDn4oMTDV7SV4cdAK-B","text":"We celebrate","phonetic":"","audio_updated_at":1543438011},"m":{"text":"نحن نحتفل"}},{"t":{"key":"fOMQ4LllVOGPi_I0T4hWk0zbjzDB9v_V","text":"You celebrate","phonetic":"","audio_updated_at":1541546788},"m":{"text":"أنتم تحتفلون"}},{"t":{"key":"uXjFMQoATj1o1bNF7qGWzf-UWDfvynXq","text":"They celebrate","phonetic":"","audio_updated_at":1543438012},"m":{"text":"هم يحتفلون"}}],"pa":[{"t":{"key":"pU4BZ9Pmt2xlGvfnpKGGRsoAGxEvH_LK","text":"I celebrated","phonetic":"","audio_updated_at":1541546790},"m":{"text":"أنا احتفلت"}},{"t":{"key":"GumlY7lCy_AuD7hQzFoulR7zg5wXO68M","text":"You celebrated","phonetic":"","audio_updated_at":1541546791},"m":{"text":"أنت احتفلت"}},{"t":{"key":"UYJ4VLYcGUOA6NoyCEFtf75su6e5RsgD","text":"He celebrated","phonetic":"","audio_updated_at":1541546792},"m":{"text":"هو احتفل"}},{"t":{"key":"Ck3zqVvQH0rPeZWLmJ-C4Sig4bul9SXE","text":"She celebrated","phonetic":"","audio_updated_at":1541546793},"m":{"text":"هي احتفلت"}},{"t":{"key":"zMrE41_MAVvfLeecI7AKerUUy85oTeIn","text":"We celebrated","phonetic":"","audio_updated_at":1541546795},"m":{"text":"نحن احتفلنا"}},{"t":{"key":"46s5RozdTFrDjPrRSfd7QF4dRVrMgkR_","text":"You celebrated","phonetic":"","audio_updated_at":1541546796},"m":{"text":"أنتم احتفلتم"}},{"t":{"key":"Zq5Z-WueQ5cSBcUnWsZMhu4gzbzUcr9_","text":"They celebrated","phonetic":"","audio_updated_at":1541546797},"m":{"text":"هم احتفلوا"}}],"fu":[{"t":{"key":"Sf6M1wjdzu4FlECQmNT8stgydiU3XcrJ","text":"I will celebrate","phonetic":"","audio_updated_at":1543438013},"m":{"text":"أنا سأحتفل"}},{"t":{"key":"1mtpt14CzvfYCbbNTXmpdQKC7XN0tLl8","text":"You will celebrate","phonetic":"","audio_updated_at":1543438015},"m":{"text":"أنت ستحتفل"}},{"t":{"key":"WoSXfYjiPq5nKPbR4_1G-ZAEQx47PPHY","text":"He will celebrate","phonetic":"","audio_updated_at":1543438016},"m":{"text":"هو سيحتفل"}},{"t":{"key":"SM0Zost8kt3QhClr7g1--G6YNMbjgc4l","text":"She will celebrate","phonetic":"","audio_updated_at":1543438017},"m":{"text":"هي ستحتفل"}},{"t":{"key":"zLAoVT1acb9uUA1J3dg5W_dcsixSouP9","text":"We will celebrate","phonetic":"","audio_updated_at":1543438018},"m":{"text":"نحن سنحتفل"}},{"t":{"key":"ffBg0HWA6P6IPZLC2-ip2WB4G45r1v6Y","text":"You will celebrate","phonetic":"","audio_updated_at":1541546804},"m":{"text":"أنتم ستحتفلون"}},{"t":{"key":"-btXU5hBTfRe5uZ42jmR4nGqIRANyjzy","text":"They will celebrate","phonetic":"","audio_updated_at":1543438020},"m":{"text":"هم سيحتفلون"}}]}}]}]}],"audio_updated_at":1639519539},{"id":10426,"vocabulary":9001,"wordID":13347,"key":"C9KMboktpLu3Ubzhf5QYal3Idr6P-xxH","sols":[{"key":"C9KMboktpLu3Ubzhf5QYal3Idr6P-xxH","text":"يدعو","dictionary":[{"raw":"يدعو","translations":[{"type":"verb","name":{"t":"to invite","m":"يدعو","phonetic":"to invite"},"id":47,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"5I4T71KjTRpmfGkbN56wSHv6I1k2zdEl","text":"I invite","phonetic":"","audio_updated_at":1543438194},"m":{"text":"أنا أدعو"}},{"t":{"key":"ej1l1EQuN9_LHUHYBreOUaSWO6PEkMdo","text":"You invite","phonetic":"","audio_updated_at":1543438195},"m":{"text":"أنت تدعو"}},{"t":{"key":"0pLvmlRicfwOrc4JFwSZIVDX7gBeZOoj","text":"He invites","phonetic":"","audio_updated_at":1543438196},"m":{"text":"هو يدعو"}},{"t":{"key":"me46wKYSveTGp9aKNdOfXgwlTgvTJr-_","text":"She invites","phonetic":"","audio_updated_at":1543438197},"m":{"text":"هي تدعو"}},{"t":{"key":"9vNfPhYikbg65co8FVWsy43HjyuBdrAJ","text":"We invite","phonetic":"","audio_updated_at":1543438198},"m":{"text":"نحن ندعو"}},{"t":{"key":"eK9_ukL-zjaj96HIl_S2V-PBwqLp5sJk","text":"You invite","phonetic":"","audio_updated_at":1541547653},"m":{"text":"أنتم تدعون"}},{"t":{"key":"bLjTnqQjOSPKKEOx8cJ8lzH68TNKWgCw","text":"They invite","phonetic":"","audio_updated_at":1543438200},"m":{"text":"هم يدعون"}}],"pa":[{"t":{"key":"y2X9s5AAdVjr2EXtwaoTotcLt6pO3t2R","text":"I invited","phonetic":"","audio_updated_at":1541547655},"m":{"text":"أنا دعوت"}},{"t":{"key":"M_KXZ3HTHZeLVLQhvSqxwH2g1dlx-_nk","text":"You invited","phonetic":"","audio_updated_at":1541547656},"m":{"text":"أنت دعوت"}},{"t":{"key":"iGbURn-EoLwJOw5ql8uUcBQLkfLvxmKr","text":"He invited","phonetic":"","audio_updated_at":1541547657},"m":{"text":"هو دعا"}},{"t":{"key":"bFYDO08kVK3REqHmhxN2xIrh4G5N7VYi","text":"She invited","phonetic":"","audio_updated_at":1541547658},"m":{"text":"هي دعت"}},{"t":{"key":"SNuYqPDbRiN0ILhzhd9IsfpB1D5z7-u5","text":"We invited","phonetic":"","audio_updated_at":1541547660},"m":{"text":"نحن دعونا"}},{"t":{"key":"zD35Z-bJ2ESIWsnBHwNJaiy4V59TJFXG","text":"You invited","phonetic":"","audio_updated_at":1541547662},"m":{"text":"أنتم دعوتم"}},{"t":{"key":"I8_wCX2RWW5NP3h9PzAoXDezIYZpHlYz","text":"They invited","phonetic":"","audio_updated_at":1541547663},"m":{"text":"هم دعوا"}}],"fu":[{"t":{"key":"n9z_KenDkELg9sTbKe1xGhUZMlhFeH6v","text":"I will invite","phonetic":"","audio_updated_at":1541547664},"m":{"text":"أنا سأدعو"}},{"t":{"key":"th1Onh8zARzKFSB2TreAzhhG5DBubRb1","text":"You will invite","phonetic":"","audio_updated_at":1541547665},"m":{"text":"أنت ستدعو"}},{"t":{"key":"ksSrClB8mQmbuMJ5bhfrhVgZQdorA3lC","text":"He will invite","phonetic":"","audio_updated_at":1541547666},"m":{"text":"هو سيدعو"}},{"t":{"key":"wgP8TNKUvOKz9Iabd-2d6tEg9TYwlWjL","text":"She will invite","phonetic":"","audio_updated_at":1541547667},"m":{"text":"هي ستدعو"}},{"t":{"key":"aOucUkrYSim4ImLlKvukikEJD0y1GqKz","text":"We will invite","phonetic":"","audio_updated_at":1541547670},"m":{"text":"نحن سندعو"}},{"t":{"key":"iKuYoZBW47PbgM4tPUsUVjrpvNNL-1Vv","text":"You will invite","phonetic":"","audio_updated_at":1541547671},"m":{"text":"أنتم ستدعون"}},{"t":{"key":"Jax3RmD9Ofj3uCvk8sh00tkjK1sLspNA","text":"They will invite","phonetic":"","audio_updated_at":1541547672},"m":{"text":"هم سيدعون"}}]}}]}]},{"key":"C9KMboktpLu3Ubzhf5QYal3Idr6P-xxH","text":"to invite","phonetic":null,"dictionary":[{"raw":"to","translations":[]},{"raw":"invite","translations":[{"type":"dictionary","text":"يدعو","phonetic":null},{"type":"verb","name":{"t":"to invite","m":"يدعو","phonetic":"to invite"},"id":47,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"5I4T71KjTRpmfGkbN56wSHv6I1k2zdEl","text":"I invite","phonetic":"","audio_updated_at":1543438194},"m":{"text":"أنا أدعو"}},{"t":{"key":"ej1l1EQuN9_LHUHYBreOUaSWO6PEkMdo","text":"You invite","phonetic":"","audio_updated_at":1543438195},"m":{"text":"أنت تدعو"}},{"t":{"key":"0pLvmlRicfwOrc4JFwSZIVDX7gBeZOoj","text":"He invites","phonetic":"","audio_updated_at":1543438196},"m":{"text":"هو يدعو"}},{"t":{"key":"me46wKYSveTGp9aKNdOfXgwlTgvTJr-_","text":"She invites","phonetic":"","audio_updated_at":1543438197},"m":{"text":"هي تدعو"}},{"t":{"key":"9vNfPhYikbg65co8FVWsy43HjyuBdrAJ","text":"We invite","phonetic":"","audio_updated_at":1543438198},"m":{"text":"نحن ندعو"}},{"t":{"key":"eK9_ukL-zjaj96HIl_S2V-PBwqLp5sJk","text":"You invite","phonetic":"","audio_updated_at":1541547653},"m":{"text":"أنتم تدعون"}},{"t":{"key":"bLjTnqQjOSPKKEOx8cJ8lzH68TNKWgCw","text":"They invite","phonetic":"","audio_updated_at":1543438200},"m":{"text":"هم يدعون"}}],"pa":[{"t":{"key":"y2X9s5AAdVjr2EXtwaoTotcLt6pO3t2R","text":"I invited","phonetic":"","audio_updated_at":1541547655},"m":{"text":"أنا دعوت"}},{"t":{"key":"M_KXZ3HTHZeLVLQhvSqxwH2g1dlx-_nk","text":"You invited","phonetic":"","audio_updated_at":1541547656},"m":{"text":"أنت دعوت"}},{"t":{"key":"iGbURn-EoLwJOw5ql8uUcBQLkfLvxmKr","text":"He invited","phonetic":"","audio_updated_at":1541547657},"m":{"text":"هو دعا"}},{"t":{"key":"bFYDO08kVK3REqHmhxN2xIrh4G5N7VYi","text":"She invited","phonetic":"","audio_updated_at":1541547658},"m":{"text":"هي دعت"}},{"t":{"key":"SNuYqPDbRiN0ILhzhd9IsfpB1D5z7-u5","text":"We invited","phonetic":"","audio_updated_at":1541547660},"m":{"text":"نحن دعونا"}},{"t":{"key":"zD35Z-bJ2ESIWsnBHwNJaiy4V59TJFXG","text":"You invited","phonetic":"","audio_updated_at":1541547662},"m":{"text":"أنتم دعوتم"}},{"t":{"key":"I8_wCX2RWW5NP3h9PzAoXDezIYZpHlYz","text":"They invited","phonetic":"","audio_updated_at":1541547663},"m":{"text":"هم دعوا"}}],"fu":[{"t":{"key":"n9z_KenDkELg9sTbKe1xGhUZMlhFeH6v","text":"I will invite","phonetic":"","audio_updated_at":1541547664},"m":{"text":"أنا سأدعو"}},{"t":{"key":"th1Onh8zARzKFSB2TreAzhhG5DBubRb1","text":"You will invite","phonetic":"","audio_updated_at":1541547665},"m":{"text":"أنت ستدعو"}},{"t":{"key":"ksSrClB8mQmbuMJ5bhfrhVgZQdorA3lC","text":"He will invite","phonetic":"","audio_updated_at":1541547666},"m":{"text":"هو سيدعو"}},{"t":{"key":"wgP8TNKUvOKz9Iabd-2d6tEg9TYwlWjL","text":"She will invite","phonetic":"","audio_updated_at":1541547667},"m":{"text":"هي ستدعو"}},{"t":{"key":"aOucUkrYSim4ImLlKvukikEJD0y1GqKz","text":"We will invite","phonetic":"","audio_updated_at":1541547670},"m":{"text":"نحن سندعو"}},{"t":{"key":"iKuYoZBW47PbgM4tPUsUVjrpvNNL-1Vv","text":"You will invite","phonetic":"","audio_updated_at":1541547671},"m":{"text":"أنتم ستدعون"}},{"t":{"key":"Jax3RmD9Ofj3uCvk8sh00tkjK1sLspNA","text":"They will invite","phonetic":"","audio_updated_at":1541547672},"m":{"text":"هم سيدعون"}}]}}]}]}],"audio_updated_at":1639519581},{"id":10427,"vocabulary":9001,"wordID":18792,"key":"BXC5StM5oMpX8Fae-b6kT4RfmKmvaf_A","sols":[{"key":"BXC5StM5oMpX8Fae-b6kT4RfmKmvaf_A","text":"نهاية أسبوع","dictionary":[{"raw":"نهاية","translations":[]},{"raw":"أسبوع","translations":[]}]},{"key":"BXC5StM5oMpX8Fae-b6kT4RfmKmvaf_A","text":"weekend","phonetic":"","dictionary":[{"raw":"weekend","translations":[{"type":"dictionary","text":"نهاية","phonetic":null}]}]}],"audio_updated_at":1543437605},{"id":10428,"vocabulary":9001,"wordID":18779,"key":"YHkFL0q-yvUzJm6iC6f5RLIgR98bWcKi","sols":[{"key":"YHkFL0q-yvUzJm6iC6f5RLIgR98bWcKi","text":"أسبوع","dictionary":[{"raw":"أسبوع","translations":[]}]},{"key":"YHkFL0q-yvUzJm6iC6f5RLIgR98bWcKi","text":"week","phonetic":"","dictionary":[{"raw":"week","translations":[{"type":"dictionary","text":"أسبوع","phonetic":null}]}]}],"audio_updated_at":1543437603},{"id":10429,"vocabulary":9001,"wordID":18778,"key":"1yXEPvEVwJSprk7dQqlV6gb3_fGPcP0I","sols":[{"key":"1yXEPvEVwJSprk7dQqlV6gb3_fGPcP0I","text":"يوم","dictionary":[{"raw":"يوم","translations":[]}]},{"key":"1yXEPvEVwJSprk7dQqlV6gb3_fGPcP0I","text":"day","phonetic":"","dictionary":[{"raw":"day","translations":[{"type":"dictionary","text":"يوم","phonetic":null}]}]}],"audio_updated_at":1607004501},{"id":10430,"vocabulary":9001,"wordID":18776,"key":"MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v","sols":[{"key":"MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v","text":"سنة","dictionary":[{"raw":"سنة","translations":[]}]},{"key":"MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v","text":"year","phonetic":"","dictionary":[{"raw":"year","translations":[{"type":"dictionary","text":"سنة","phonetic":null}]}]}],"audio_updated_at":1543437606},{"id":10431,"vocabulary":9001,"wordID":17941,"key":"J2v2DLCX11WolF2ztWbX9LPlHWDiSTEM","sols":[{"key":"J2v2DLCX11WolF2ztWbX9LPlHWDiSTEM","text":"صيف","dictionary":[{"raw":"صيف","translations":[]}]},{"key":"J2v2DLCX11WolF2ztWbX9LPlHWDiSTEM","text":"summer","phonetic":"","dictionary":[{"raw":"summer","translations":[{"type":"dictionary","text":"صيف","phonetic":null}]}]}],"audio_updated_at":1543437846}]}
+{
+  "vocabulary": {
+    "id": 9001,
+    "index": 1,
+    "category": 90,
+    "categoryID": 90,
+    "unifiedUnitId": 147,
+    "unifiedCategoryId": 90,
+    "isCourse": false,
+    "name": null,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "countItem": 10,
+    "countWords": 11,
+    "countPhrases": 0,
+    "countDone": 0,
+    "vItems": [
+      10422, 10423, 10424, 10425, 10426, 10427, 10428, 10429, 10430, 10431
+    ]
+  },
+  "vItems": [
+    {
+      "id": 10422,
+      "vocabulary": 9001,
+      "wordID": 24425,
+      "key": "cSJOjgk5m7JCe-QcHl0A4N2rE7hO4grR",
+      "sols": [
+        {
+          "key": "cSJOjgk5m7JCe-QcHl0A4N2rE7hO4grR",
+          "text": "عمل",
+          "dictionary": [
+            {
+              "raw": "عمل",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to work",
+                    "m": "يعمل",
+                    "phonetic": "to work"
+                  },
+                  "id": 99,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "fwsacYCGaqD2HOVRvOI61hDGQNdg9pPF",
+                          "text": "I work",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438604
+                        },
+                        "m": { "text": "أنا أعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "fWepilsOQM_rGgPn8uQnzm_k3mjd1NIp",
+                          "text": "You work",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438605
+                        },
+                        "m": { "text": "أنت تعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "cpmQdkHALLkWvBMLqgaUcSyrRW9BxzLH",
+                          "text": "He works",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438606
+                        },
+                        "m": { "text": "هو يعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "apFkRixDVCNVo2nW1nAQkEiRQejavUZQ",
+                          "text": "She works",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438607
+                        },
+                        "m": { "text": "هي تعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "JP0HK1Ombg0HscOM7_mSZpnTxaTlQIJ-",
+                          "text": "We work",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438608
+                        },
+                        "m": { "text": "نحن نعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Bkvf8V1Am6iZ53_FElPQyqFXmt0KjaYC",
+                          "text": "You work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548982
+                        },
+                        "m": { "text": "أنتم تعملون" }
+                      },
+                      {
+                        "t": {
+                          "key": "HZYuEO9mmBwyJBFDOKeFDF-wMqrb7_8M",
+                          "text": "They work",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438610
+                        },
+                        "m": { "text": "هم يعملون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "EtNCzAhJtfCFO1txR5uHdm2c3dconVZW",
+                          "text": "I worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548984
+                        },
+                        "m": { "text": "أنا عملت" }
+                      },
+                      {
+                        "t": {
+                          "key": "PbCaemCc2HXiQzbbqOTj8q2Md5MOPdx4",
+                          "text": "You worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548985
+                        },
+                        "m": { "text": "أنت عملت" }
+                      },
+                      {
+                        "t": {
+                          "key": "cGkDIZcPJi5iPTO1jaMSVbqHQVGQifC3",
+                          "text": "He worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548986
+                        },
+                        "m": { "text": "هو عمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "hs-kZU4lXglP57BflNXiP4Y11FZ25Und",
+                          "text": "She worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548987
+                        },
+                        "m": { "text": "هي عملت" }
+                      },
+                      {
+                        "t": {
+                          "key": "tKhSeydjPhkNEjyai4teU0wpk8TfdK_P",
+                          "text": "We worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548989
+                        },
+                        "m": { "text": "نحن عملنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "2hWTxAUlHY88oDq3K7y3bFeyAGQhTwgw",
+                          "text": "You worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548990
+                        },
+                        "m": { "text": "أنتم عملتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "x4cPeOXJmQNWycDYyw-7hglHFIYtYsly",
+                          "text": "They worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548991
+                        },
+                        "m": { "text": "هم عملوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Hkl100Myp6fLkILUZ_0uy2oi6tcx5D_O",
+                          "text": "I will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548992
+                        },
+                        "m": { "text": "أنا سأعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "PU4JgLAFot5qzYtziwIwQk3CzZNiIw8q",
+                          "text": "You will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548994
+                        },
+                        "m": { "text": "أنت ستعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "aYDYx-RUGEjKBQScscaMGqCpS1WTMaa3",
+                          "text": "He will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548995
+                        },
+                        "m": { "text": "هو سيعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "vxPa3xEt8oTI5GyA0pCPBFtgHGmkgtZO",
+                          "text": "She will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548996
+                        },
+                        "m": { "text": "هي ستعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "bR-B75M-AepZpaqRrBlOBLtN2R8tYUsJ",
+                          "text": "We will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548998
+                        },
+                        "m": { "text": "نحن سنعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "tmNhIi0-b4fE3IxC8h_aVlHksPK5S2Bi",
+                          "text": "You will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548999
+                        },
+                        "m": { "text": "أنتم ستعملون" }
+                      },
+                      {
+                        "t": {
+                          "key": "RwmettDQVkCD3vO03tfeLAoGBLdzKnjO",
+                          "text": "They will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541549000
+                        },
+                        "m": { "text": "هم سيعملون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "cSJOjgk5m7JCe-QcHl0A4N2rE7hO4grR",
+          "text": "work",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "work",
+              "translations": [
+                { "type": "dictionary", "text": "عمل", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to work",
+                    "m": "يعمل",
+                    "phonetic": "to work"
+                  },
+                  "id": 99,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "fwsacYCGaqD2HOVRvOI61hDGQNdg9pPF",
+                          "text": "I work",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438604
+                        },
+                        "m": { "text": "أنا أعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "fWepilsOQM_rGgPn8uQnzm_k3mjd1NIp",
+                          "text": "You work",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438605
+                        },
+                        "m": { "text": "أنت تعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "cpmQdkHALLkWvBMLqgaUcSyrRW9BxzLH",
+                          "text": "He works",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438606
+                        },
+                        "m": { "text": "هو يعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "apFkRixDVCNVo2nW1nAQkEiRQejavUZQ",
+                          "text": "She works",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438607
+                        },
+                        "m": { "text": "هي تعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "JP0HK1Ombg0HscOM7_mSZpnTxaTlQIJ-",
+                          "text": "We work",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438608
+                        },
+                        "m": { "text": "نحن نعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Bkvf8V1Am6iZ53_FElPQyqFXmt0KjaYC",
+                          "text": "You work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548982
+                        },
+                        "m": { "text": "أنتم تعملون" }
+                      },
+                      {
+                        "t": {
+                          "key": "HZYuEO9mmBwyJBFDOKeFDF-wMqrb7_8M",
+                          "text": "They work",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438610
+                        },
+                        "m": { "text": "هم يعملون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "EtNCzAhJtfCFO1txR5uHdm2c3dconVZW",
+                          "text": "I worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548984
+                        },
+                        "m": { "text": "أنا عملت" }
+                      },
+                      {
+                        "t": {
+                          "key": "PbCaemCc2HXiQzbbqOTj8q2Md5MOPdx4",
+                          "text": "You worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548985
+                        },
+                        "m": { "text": "أنت عملت" }
+                      },
+                      {
+                        "t": {
+                          "key": "cGkDIZcPJi5iPTO1jaMSVbqHQVGQifC3",
+                          "text": "He worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548986
+                        },
+                        "m": { "text": "هو عمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "hs-kZU4lXglP57BflNXiP4Y11FZ25Und",
+                          "text": "She worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548987
+                        },
+                        "m": { "text": "هي عملت" }
+                      },
+                      {
+                        "t": {
+                          "key": "tKhSeydjPhkNEjyai4teU0wpk8TfdK_P",
+                          "text": "We worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548989
+                        },
+                        "m": { "text": "نحن عملنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "2hWTxAUlHY88oDq3K7y3bFeyAGQhTwgw",
+                          "text": "You worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548990
+                        },
+                        "m": { "text": "أنتم عملتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "x4cPeOXJmQNWycDYyw-7hglHFIYtYsly",
+                          "text": "They worked",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548991
+                        },
+                        "m": { "text": "هم عملوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Hkl100Myp6fLkILUZ_0uy2oi6tcx5D_O",
+                          "text": "I will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548992
+                        },
+                        "m": { "text": "أنا سأعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "PU4JgLAFot5qzYtziwIwQk3CzZNiIw8q",
+                          "text": "You will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548994
+                        },
+                        "m": { "text": "أنت ستعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "aYDYx-RUGEjKBQScscaMGqCpS1WTMaa3",
+                          "text": "He will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548995
+                        },
+                        "m": { "text": "هو سيعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "vxPa3xEt8oTI5GyA0pCPBFtgHGmkgtZO",
+                          "text": "She will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548996
+                        },
+                        "m": { "text": "هي ستعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "bR-B75M-AepZpaqRrBlOBLtN2R8tYUsJ",
+                          "text": "We will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548998
+                        },
+                        "m": { "text": "نحن سنعمل" }
+                      },
+                      {
+                        "t": {
+                          "key": "tmNhIi0-b4fE3IxC8h_aVlHksPK5S2Bi",
+                          "text": "You will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548999
+                        },
+                        "m": { "text": "أنتم ستعملون" }
+                      },
+                      {
+                        "t": {
+                          "key": "RwmettDQVkCD3vO03tfeLAoGBLdzKnjO",
+                          "text": "They will work",
+                          "phonetic": "",
+                          "audio_updated_at": 1541549000
+                        },
+                        "m": { "text": "هم سيعملون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1688291367
+    },
+    {
+      "id": 10423,
+      "vocabulary": 9001,
+      "wordID": 19146,
+      "key": "lAl6HIaPE0EeAxVGWhd70CF0a2o02uzo",
+      "sols": [
+        {
+          "key": "lAl6HIaPE0EeAxVGWhd70CF0a2o02uzo",
+          "text": "مكتب",
+          "dictionary": [{ "raw": "مكتب", "translations": [] }]
+        },
+        {
+          "key": "lAl6HIaPE0EeAxVGWhd70CF0a2o02uzo",
+          "text": "office",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "office",
+              "translations": [
+                { "type": "dictionary", "text": "مكتب", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437858
+    },
+    {
+      "id": 10424,
+      "vocabulary": 9001,
+      "wordID": 16417,
+      "key": "o3ak2WiPTDX_aitanNYrYYO5frk1BzH7",
+      "sols": [
+        {
+          "key": "o3ak2WiPTDX_aitanNYrYYO5frk1BzH7",
+          "text": "مطعم",
+          "dictionary": [{ "raw": "مطعم", "translations": [] }]
+        },
+        {
+          "key": "o3ak2WiPTDX_aitanNYrYYO5frk1BzH7",
+          "text": "restaurant",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "restaurant",
+              "translations": [
+                { "type": "dictionary", "text": "مطعم", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543436523
+    },
+    {
+      "id": 10425,
+      "vocabulary": 9001,
+      "wordID": 13257,
+      "key": "pf-RrPZY9bSojh6KRlKo3J77HoIXQfxj",
+      "sols": [
+        {
+          "key": "pf-RrPZY9bSojh6KRlKo3J77HoIXQfxj",
+          "text": "يحتفل",
+          "dictionary": [
+            {
+              "raw": "يحتفل",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to celebrate",
+                    "m": "يحتفل",
+                    "phonetic": "to celebrate"
+                  },
+                  "id": 12,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "sjpgvjMSFf-QQB5u9a2Thh-qTLTdlu3A",
+                          "text": "I celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438006
+                        },
+                        "m": { "text": "أنا أحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lvt1MJK4CyuDMklOiofgZztGTusPRN-G",
+                          "text": "You celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438007
+                        },
+                        "m": { "text": "أنت تحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "XKlXuHh6MYVSVNOtWKZv_CNfI61GQL-d",
+                          "text": "He celebrates",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438008
+                        },
+                        "m": { "text": "هو يحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "kh9UwRFwsBU0NER_VShHmk7EJvNV6dxR",
+                          "text": "She celebrates",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438009
+                        },
+                        "m": { "text": "هي تحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "I9QdH6yyYrzy5JDn4oMTDV7SV4cdAK-B",
+                          "text": "We celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438011
+                        },
+                        "m": { "text": "نحن نحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "fOMQ4LllVOGPi_I0T4hWk0zbjzDB9v_V",
+                          "text": "You celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546788
+                        },
+                        "m": { "text": "أنتم تحتفلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "uXjFMQoATj1o1bNF7qGWzf-UWDfvynXq",
+                          "text": "They celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438012
+                        },
+                        "m": { "text": "هم يحتفلون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "pU4BZ9Pmt2xlGvfnpKGGRsoAGxEvH_LK",
+                          "text": "I celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546790
+                        },
+                        "m": { "text": "أنا احتفلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "GumlY7lCy_AuD7hQzFoulR7zg5wXO68M",
+                          "text": "You celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546791
+                        },
+                        "m": { "text": "أنت احتفلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "UYJ4VLYcGUOA6NoyCEFtf75su6e5RsgD",
+                          "text": "He celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546792
+                        },
+                        "m": { "text": "هو احتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Ck3zqVvQH0rPeZWLmJ-C4Sig4bul9SXE",
+                          "text": "She celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546793
+                        },
+                        "m": { "text": "هي احتفلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "zMrE41_MAVvfLeecI7AKerUUy85oTeIn",
+                          "text": "We celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546795
+                        },
+                        "m": { "text": "نحن احتفلنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "46s5RozdTFrDjPrRSfd7QF4dRVrMgkR_",
+                          "text": "You celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546796
+                        },
+                        "m": { "text": "أنتم احتفلتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "Zq5Z-WueQ5cSBcUnWsZMhu4gzbzUcr9_",
+                          "text": "They celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546797
+                        },
+                        "m": { "text": "هم احتفلوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Sf6M1wjdzu4FlECQmNT8stgydiU3XcrJ",
+                          "text": "I will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438013
+                        },
+                        "m": { "text": "أنا سأحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "1mtpt14CzvfYCbbNTXmpdQKC7XN0tLl8",
+                          "text": "You will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438015
+                        },
+                        "m": { "text": "أنت ستحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "WoSXfYjiPq5nKPbR4_1G-ZAEQx47PPHY",
+                          "text": "He will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438016
+                        },
+                        "m": { "text": "هو سيحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "SM0Zost8kt3QhClr7g1--G6YNMbjgc4l",
+                          "text": "She will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438017
+                        },
+                        "m": { "text": "هي ستحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "zLAoVT1acb9uUA1J3dg5W_dcsixSouP9",
+                          "text": "We will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438018
+                        },
+                        "m": { "text": "نحن سنحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "ffBg0HWA6P6IPZLC2-ip2WB4G45r1v6Y",
+                          "text": "You will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546804
+                        },
+                        "m": { "text": "أنتم ستحتفلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "-btXU5hBTfRe5uZ42jmR4nGqIRANyjzy",
+                          "text": "They will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438020
+                        },
+                        "m": { "text": "هم سيحتفلون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "pf-RrPZY9bSojh6KRlKo3J77HoIXQfxj",
+          "text": "to celebrate",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "celebrate",
+              "translations": [
+                { "type": "dictionary", "text": "يحتفل", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to celebrate",
+                    "m": "يحتفل",
+                    "phonetic": "to celebrate"
+                  },
+                  "id": 12,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "sjpgvjMSFf-QQB5u9a2Thh-qTLTdlu3A",
+                          "text": "I celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438006
+                        },
+                        "m": { "text": "أنا أحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Lvt1MJK4CyuDMklOiofgZztGTusPRN-G",
+                          "text": "You celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438007
+                        },
+                        "m": { "text": "أنت تحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "XKlXuHh6MYVSVNOtWKZv_CNfI61GQL-d",
+                          "text": "He celebrates",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438008
+                        },
+                        "m": { "text": "هو يحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "kh9UwRFwsBU0NER_VShHmk7EJvNV6dxR",
+                          "text": "She celebrates",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438009
+                        },
+                        "m": { "text": "هي تحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "I9QdH6yyYrzy5JDn4oMTDV7SV4cdAK-B",
+                          "text": "We celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438011
+                        },
+                        "m": { "text": "نحن نحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "fOMQ4LllVOGPi_I0T4hWk0zbjzDB9v_V",
+                          "text": "You celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546788
+                        },
+                        "m": { "text": "أنتم تحتفلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "uXjFMQoATj1o1bNF7qGWzf-UWDfvynXq",
+                          "text": "They celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438012
+                        },
+                        "m": { "text": "هم يحتفلون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "pU4BZ9Pmt2xlGvfnpKGGRsoAGxEvH_LK",
+                          "text": "I celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546790
+                        },
+                        "m": { "text": "أنا احتفلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "GumlY7lCy_AuD7hQzFoulR7zg5wXO68M",
+                          "text": "You celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546791
+                        },
+                        "m": { "text": "أنت احتفلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "UYJ4VLYcGUOA6NoyCEFtf75su6e5RsgD",
+                          "text": "He celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546792
+                        },
+                        "m": { "text": "هو احتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "Ck3zqVvQH0rPeZWLmJ-C4Sig4bul9SXE",
+                          "text": "She celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546793
+                        },
+                        "m": { "text": "هي احتفلت" }
+                      },
+                      {
+                        "t": {
+                          "key": "zMrE41_MAVvfLeecI7AKerUUy85oTeIn",
+                          "text": "We celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546795
+                        },
+                        "m": { "text": "نحن احتفلنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "46s5RozdTFrDjPrRSfd7QF4dRVrMgkR_",
+                          "text": "You celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546796
+                        },
+                        "m": { "text": "أنتم احتفلتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "Zq5Z-WueQ5cSBcUnWsZMhu4gzbzUcr9_",
+                          "text": "They celebrated",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546797
+                        },
+                        "m": { "text": "هم احتفلوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "Sf6M1wjdzu4FlECQmNT8stgydiU3XcrJ",
+                          "text": "I will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438013
+                        },
+                        "m": { "text": "أنا سأحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "1mtpt14CzvfYCbbNTXmpdQKC7XN0tLl8",
+                          "text": "You will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438015
+                        },
+                        "m": { "text": "أنت ستحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "WoSXfYjiPq5nKPbR4_1G-ZAEQx47PPHY",
+                          "text": "He will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438016
+                        },
+                        "m": { "text": "هو سيحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "SM0Zost8kt3QhClr7g1--G6YNMbjgc4l",
+                          "text": "She will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438017
+                        },
+                        "m": { "text": "هي ستحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "zLAoVT1acb9uUA1J3dg5W_dcsixSouP9",
+                          "text": "We will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438018
+                        },
+                        "m": { "text": "نحن سنحتفل" }
+                      },
+                      {
+                        "t": {
+                          "key": "ffBg0HWA6P6IPZLC2-ip2WB4G45r1v6Y",
+                          "text": "You will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1541546804
+                        },
+                        "m": { "text": "أنتم ستحتفلون" }
+                      },
+                      {
+                        "t": {
+                          "key": "-btXU5hBTfRe5uZ42jmR4nGqIRANyjzy",
+                          "text": "They will celebrate",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438020
+                        },
+                        "m": { "text": "هم سيحتفلون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639519539
+    },
+    {
+      "id": 10426,
+      "vocabulary": 9001,
+      "wordID": 13347,
+      "key": "C9KMboktpLu3Ubzhf5QYal3Idr6P-xxH",
+      "sols": [
+        {
+          "key": "C9KMboktpLu3Ubzhf5QYal3Idr6P-xxH",
+          "text": "يدعو",
+          "dictionary": [
+            {
+              "raw": "يدعو",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to invite",
+                    "m": "يدعو",
+                    "phonetic": "to invite"
+                  },
+                  "id": 47,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "5I4T71KjTRpmfGkbN56wSHv6I1k2zdEl",
+                          "text": "I invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438194
+                        },
+                        "m": { "text": "أنا أدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "ej1l1EQuN9_LHUHYBreOUaSWO6PEkMdo",
+                          "text": "You invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438195
+                        },
+                        "m": { "text": "أنت تدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "0pLvmlRicfwOrc4JFwSZIVDX7gBeZOoj",
+                          "text": "He invites",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438196
+                        },
+                        "m": { "text": "هو يدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "me46wKYSveTGp9aKNdOfXgwlTgvTJr-_",
+                          "text": "She invites",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438197
+                        },
+                        "m": { "text": "هي تدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "9vNfPhYikbg65co8FVWsy43HjyuBdrAJ",
+                          "text": "We invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438198
+                        },
+                        "m": { "text": "نحن ندعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "eK9_ukL-zjaj96HIl_S2V-PBwqLp5sJk",
+                          "text": "You invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547653
+                        },
+                        "m": { "text": "أنتم تدعون" }
+                      },
+                      {
+                        "t": {
+                          "key": "bLjTnqQjOSPKKEOx8cJ8lzH68TNKWgCw",
+                          "text": "They invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438200
+                        },
+                        "m": { "text": "هم يدعون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "y2X9s5AAdVjr2EXtwaoTotcLt6pO3t2R",
+                          "text": "I invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547655
+                        },
+                        "m": { "text": "أنا دعوت" }
+                      },
+                      {
+                        "t": {
+                          "key": "M_KXZ3HTHZeLVLQhvSqxwH2g1dlx-_nk",
+                          "text": "You invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547656
+                        },
+                        "m": { "text": "أنت دعوت" }
+                      },
+                      {
+                        "t": {
+                          "key": "iGbURn-EoLwJOw5ql8uUcBQLkfLvxmKr",
+                          "text": "He invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547657
+                        },
+                        "m": { "text": "هو دعا" }
+                      },
+                      {
+                        "t": {
+                          "key": "bFYDO08kVK3REqHmhxN2xIrh4G5N7VYi",
+                          "text": "She invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547658
+                        },
+                        "m": { "text": "هي دعت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SNuYqPDbRiN0ILhzhd9IsfpB1D5z7-u5",
+                          "text": "We invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547660
+                        },
+                        "m": { "text": "نحن دعونا" }
+                      },
+                      {
+                        "t": {
+                          "key": "zD35Z-bJ2ESIWsnBHwNJaiy4V59TJFXG",
+                          "text": "You invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547662
+                        },
+                        "m": { "text": "أنتم دعوتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "I8_wCX2RWW5NP3h9PzAoXDezIYZpHlYz",
+                          "text": "They invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547663
+                        },
+                        "m": { "text": "هم دعوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "n9z_KenDkELg9sTbKe1xGhUZMlhFeH6v",
+                          "text": "I will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547664
+                        },
+                        "m": { "text": "أنا سأدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "th1Onh8zARzKFSB2TreAzhhG5DBubRb1",
+                          "text": "You will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547665
+                        },
+                        "m": { "text": "أنت ستدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "ksSrClB8mQmbuMJ5bhfrhVgZQdorA3lC",
+                          "text": "He will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547666
+                        },
+                        "m": { "text": "هو سيدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "wgP8TNKUvOKz9Iabd-2d6tEg9TYwlWjL",
+                          "text": "She will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547667
+                        },
+                        "m": { "text": "هي ستدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "aOucUkrYSim4ImLlKvukikEJD0y1GqKz",
+                          "text": "We will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547670
+                        },
+                        "m": { "text": "نحن سندعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "iKuYoZBW47PbgM4tPUsUVjrpvNNL-1Vv",
+                          "text": "You will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547671
+                        },
+                        "m": { "text": "أنتم ستدعون" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jax3RmD9Ofj3uCvk8sh00tkjK1sLspNA",
+                          "text": "They will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547672
+                        },
+                        "m": { "text": "هم سيدعون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "C9KMboktpLu3Ubzhf5QYal3Idr6P-xxH",
+          "text": "to invite",
+          "phonetic": null,
+          "dictionary": [
+            { "raw": "to", "translations": [] },
+            {
+              "raw": "invite",
+              "translations": [
+                { "type": "dictionary", "text": "يدعو", "phonetic": null },
+                {
+                  "type": "verb",
+                  "name": {
+                    "t": "to invite",
+                    "m": "يدعو",
+                    "phonetic": "to invite"
+                  },
+                  "id": 47,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "5I4T71KjTRpmfGkbN56wSHv6I1k2zdEl",
+                          "text": "I invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438194
+                        },
+                        "m": { "text": "أنا أدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "ej1l1EQuN9_LHUHYBreOUaSWO6PEkMdo",
+                          "text": "You invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438195
+                        },
+                        "m": { "text": "أنت تدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "0pLvmlRicfwOrc4JFwSZIVDX7gBeZOoj",
+                          "text": "He invites",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438196
+                        },
+                        "m": { "text": "هو يدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "me46wKYSveTGp9aKNdOfXgwlTgvTJr-_",
+                          "text": "She invites",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438197
+                        },
+                        "m": { "text": "هي تدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "9vNfPhYikbg65co8FVWsy43HjyuBdrAJ",
+                          "text": "We invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438198
+                        },
+                        "m": { "text": "نحن ندعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "eK9_ukL-zjaj96HIl_S2V-PBwqLp5sJk",
+                          "text": "You invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547653
+                        },
+                        "m": { "text": "أنتم تدعون" }
+                      },
+                      {
+                        "t": {
+                          "key": "bLjTnqQjOSPKKEOx8cJ8lzH68TNKWgCw",
+                          "text": "They invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438200
+                        },
+                        "m": { "text": "هم يدعون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "y2X9s5AAdVjr2EXtwaoTotcLt6pO3t2R",
+                          "text": "I invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547655
+                        },
+                        "m": { "text": "أنا دعوت" }
+                      },
+                      {
+                        "t": {
+                          "key": "M_KXZ3HTHZeLVLQhvSqxwH2g1dlx-_nk",
+                          "text": "You invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547656
+                        },
+                        "m": { "text": "أنت دعوت" }
+                      },
+                      {
+                        "t": {
+                          "key": "iGbURn-EoLwJOw5ql8uUcBQLkfLvxmKr",
+                          "text": "He invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547657
+                        },
+                        "m": { "text": "هو دعا" }
+                      },
+                      {
+                        "t": {
+                          "key": "bFYDO08kVK3REqHmhxN2xIrh4G5N7VYi",
+                          "text": "She invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547658
+                        },
+                        "m": { "text": "هي دعت" }
+                      },
+                      {
+                        "t": {
+                          "key": "SNuYqPDbRiN0ILhzhd9IsfpB1D5z7-u5",
+                          "text": "We invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547660
+                        },
+                        "m": { "text": "نحن دعونا" }
+                      },
+                      {
+                        "t": {
+                          "key": "zD35Z-bJ2ESIWsnBHwNJaiy4V59TJFXG",
+                          "text": "You invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547662
+                        },
+                        "m": { "text": "أنتم دعوتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "I8_wCX2RWW5NP3h9PzAoXDezIYZpHlYz",
+                          "text": "They invited",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547663
+                        },
+                        "m": { "text": "هم دعوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "n9z_KenDkELg9sTbKe1xGhUZMlhFeH6v",
+                          "text": "I will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547664
+                        },
+                        "m": { "text": "أنا سأدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "th1Onh8zARzKFSB2TreAzhhG5DBubRb1",
+                          "text": "You will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547665
+                        },
+                        "m": { "text": "أنت ستدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "ksSrClB8mQmbuMJ5bhfrhVgZQdorA3lC",
+                          "text": "He will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547666
+                        },
+                        "m": { "text": "هو سيدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "wgP8TNKUvOKz9Iabd-2d6tEg9TYwlWjL",
+                          "text": "She will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547667
+                        },
+                        "m": { "text": "هي ستدعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "aOucUkrYSim4ImLlKvukikEJD0y1GqKz",
+                          "text": "We will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547670
+                        },
+                        "m": { "text": "نحن سندعو" }
+                      },
+                      {
+                        "t": {
+                          "key": "iKuYoZBW47PbgM4tPUsUVjrpvNNL-1Vv",
+                          "text": "You will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547671
+                        },
+                        "m": { "text": "أنتم ستدعون" }
+                      },
+                      {
+                        "t": {
+                          "key": "Jax3RmD9Ofj3uCvk8sh00tkjK1sLspNA",
+                          "text": "They will invite",
+                          "phonetic": "",
+                          "audio_updated_at": 1541547672
+                        },
+                        "m": { "text": "هم سيدعون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1639519581
+    },
+    {
+      "id": 10427,
+      "vocabulary": 9001,
+      "wordID": 18792,
+      "key": "BXC5StM5oMpX8Fae-b6kT4RfmKmvaf_A",
+      "sols": [
+        {
+          "key": "BXC5StM5oMpX8Fae-b6kT4RfmKmvaf_A",
+          "text": "نهاية أسبوع",
+          "dictionary": [
+            { "raw": "نهاية", "translations": [] },
+            { "raw": "أسبوع", "translations": [] }
+          ]
+        },
+        {
+          "key": "BXC5StM5oMpX8Fae-b6kT4RfmKmvaf_A",
+          "text": "weekend",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "weekend",
+              "translations": [
+                { "type": "dictionary", "text": "نهاية", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437605
+    },
+    {
+      "id": 10428,
+      "vocabulary": 9001,
+      "wordID": 18779,
+      "key": "YHkFL0q-yvUzJm6iC6f5RLIgR98bWcKi",
+      "sols": [
+        {
+          "key": "YHkFL0q-yvUzJm6iC6f5RLIgR98bWcKi",
+          "text": "أسبوع",
+          "dictionary": [{ "raw": "أسبوع", "translations": [] }]
+        },
+        {
+          "key": "YHkFL0q-yvUzJm6iC6f5RLIgR98bWcKi",
+          "text": "week",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "week",
+              "translations": [
+                { "type": "dictionary", "text": "أسبوع", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437603
+    },
+    {
+      "id": 10429,
+      "vocabulary": 9001,
+      "wordID": 18778,
+      "key": "1yXEPvEVwJSprk7dQqlV6gb3_fGPcP0I",
+      "sols": [
+        {
+          "key": "1yXEPvEVwJSprk7dQqlV6gb3_fGPcP0I",
+          "text": "يوم",
+          "dictionary": [{ "raw": "يوم", "translations": [] }]
+        },
+        {
+          "key": "1yXEPvEVwJSprk7dQqlV6gb3_fGPcP0I",
+          "text": "day",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "day",
+              "translations": [
+                { "type": "dictionary", "text": "يوم", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1607004501
+    },
+    {
+      "id": 10430,
+      "vocabulary": 9001,
+      "wordID": 18776,
+      "key": "MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v",
+      "sols": [
+        {
+          "key": "MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v",
+          "text": "سنة",
+          "dictionary": [{ "raw": "سنة", "translations": [] }]
+        },
+        {
+          "key": "MsRknQJzTVhj-Dx89bJcr3PSKZ8RYS6v",
+          "text": "year",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "year",
+              "translations": [
+                { "type": "dictionary", "text": "سنة", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437606
+    },
+    {
+      "id": 10431,
+      "vocabulary": 9001,
+      "wordID": 17941,
+      "key": "J2v2DLCX11WolF2ztWbX9LPlHWDiSTEM",
+      "sols": [
+        {
+          "key": "J2v2DLCX11WolF2ztWbX9LPlHWDiSTEM",
+          "text": "صيف",
+          "dictionary": [{ "raw": "صيف", "translations": [] }]
+        },
+        {
+          "key": "J2v2DLCX11WolF2ztWbX9LPlHWDiSTEM",
+          "text": "summer",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "summer",
+              "translations": [
+                { "type": "dictionary", "text": "صيف", "phonetic": null }
+              ]
+            }
+          ]
+        }
+      ],
+      "audio_updated_at": 1543437846
+    }
+  ]
+}

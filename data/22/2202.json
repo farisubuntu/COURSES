@@ -1,1 +1,3047 @@
-{"lesson":{"id":2202,"index":2,"unitNumber":null,"unitType":0,"unitStyle":0,"unitScope":0,"category":22,"categoryID":22,"unifiedUnitId":129,"unifiedCategoryId":22,"name":"هل يمكنني أن ...؟","isCourse":false,"disabled":false,"done":false,"stars":false,"difficulty":"beginner","countQuiz":22,"countWords":13,"countPhrases":6,"countDone":0,"quizzes":[605031,605032,605033,605034,605035,605036,605037,605038,605039,605040,605041,605042,605043,605044,605045,605046,605047,605048,605049,605050,605051,605052]},"quizzes":[{"id":605031,"lesson":2202,"type":"D","modifiers":327,"wordID":23721,"alternates":[16455,15219,16400],"sols":[{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text":"خريطة"},{"key":"GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc","audio_updated_at":1639520260,"text":"يجلس"},{"key":"myEi_GcrS2QpM4GAqUHnke8BfccYrrpA","audio_updated_at":1688290575,"text":"يمرّ"},{"key":"rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw","audio_updated_at":1543436800,"text":"هنا"}],"alts":[{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"image":"_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT","image_updated_at":1689159013,"text":"map","phonetic":"","article_text":"a","article_phonetic":""},{"key":"GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc","audio_updated_at":1639520260,"image":"s15iBgGGacTic7syHwVUR8ZqCIPjxGzj","image_updated_at":1689158979,"text":"to sit","phonetic":""},{"key":"myEi_GcrS2QpM4GAqUHnke8BfccYrrpA","audio_updated_at":1688290575,"text":"to pass","phonetic":"","image":"ruxUINsjQonMD2AxwWjdYeoG1NdyO0rl","image_updated_at":1689159208},{"key":"rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw","audio_updated_at":1543436800,"image":"ZI22E5a-35VaZZMwIz6wcSTAMwrrKggU","image_updated_at":1689159020,"text":"here","phonetic":""}]},{"id":605032,"lesson":2202,"type":"T1","modifiers":40,"wordID":16019,"alternates":[],"tokens":[{"key":"tf-OgG6LEYE","text":"الخير.","raw":{"text":"الخير","location":5,"length":5},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":".","location":10,"length":1},"linker":{"text":" ","location":4,"length":1}},{"key":"tJgXlHFF8rO","text":"مساء","raw":{"text":"مساء","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tBg2reM8ORd","text":"اعذرني.","raw":{"text":"اعذرني","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":6,"length":1},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tBg2reM8ORd"],"sols":[{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"Excuse me.","phonetic":"","dictionary":[{"raw":"Excuse","translations":[]},{"raw":"me","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Excuse","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"me","location":7,"length":2},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":9,"length":1},"linker":{"text":" ","location":6,"length":1}}],"phonetic_tokens":[]},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"اعذرني."}]},{"id":605033,"lesson":2202,"type":"P","modifiers":65,"wordID":23721,"alternates":[15219,16400,16455],"sols":[{"key":"myEi_GcrS2QpM4GAqUHnke8BfccYrrpA","audio_updated_at":1688290575,"text":"يمرّ"},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","text":"خريطة"},{"key":"rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw","text":"هنا"},{"key":"GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc","text":"يجلس"}],"alts":[{"key":"myEi_GcrS2QpM4GAqUHnke8BfccYrrpA","audio_updated_at":1688290575,"text":"to pass","phonetic":"","image":"ruxUINsjQonMD2AxwWjdYeoG1NdyO0rl","image_updated_at":1689159208},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text":"map","phonetic":"","article_text":"a","article_phonetic":"","image":"_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT","image_updated_at":1689159013},{"key":"rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw","audio_updated_at":1543436800,"text":"here","phonetic":"","image":"ZI22E5a-35VaZZMwIz6wcSTAMwrrKggU","image_updated_at":1689159020},{"key":"GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc","audio_updated_at":1639520260,"text":"to sit","phonetic":"","image":"s15iBgGGacTic7syHwVUR8ZqCIPjxGzj","image_updated_at":1689158979}]},{"id":605034,"lesson":2202,"type":"T1b","modifiers":72,"wordID":18951,"alternates":[],"tokens":[{"key":"txznG2glfRM","text":"Hello,","raw":{"text":"Hello","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":",","location":5,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"t7ZQLGJoRR-","text":"may","raw":{"text":"may","location":11,"length":3},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"txeUM0nYh9T","text":"can","raw":{"text":"can","location":11,"length":3},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tB4axPEOn7S","text":"pass?","raw":{"text":"pass","location":17,"length":4},"prefix":{"text":"","location":17,"length":0},"suffix":{"text":"?","location":21,"length":1},"linker":{"text":" ","location":16,"length":1}},{"key":"trs5UodVFKD","text":"I","raw":{"text":"I","location":15,"length":1},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"","location":16,"length":0},"linker":{"text":" ","location":14,"length":1}},{"key":"t8aU0CNuzTF","text":"Excuse","raw":{"text":"Excuse","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tDWqWs8E5Q1","text":"me,","raw":{"text":"me","location":7,"length":2},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":",","location":9,"length":1},"linker":{"text":" ","location":6,"length":1}},{"key":"tDAVonV082V","text":"how","raw":{"text":"how","location":7,"length":3},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":6,"length":1}}],"tokensEqualSize":false,"ord":["t8aU0CNuzTF","tDWqWs8E5Q1","t7ZQLGJoRR-","trs5UodVFKD","tB4axPEOn7S"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"Lbz2iy2urmrYWjZl4575eQMJZxP42qbO","audio_updated_at":1543435539,"text":"اعذرني، هل يمكنني أن أمرّ؟","dictionary":[{"raw":"اعذرني","translations":[{"type":"dictionary","text":"Excuse","phonetic":"Excuse"}]},{"raw":"هل","translations":[]},{"raw":"يمكنني","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أن","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"اعذرني","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"،","location":6,"length":1},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"هل","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"يمكنني","location":11,"length":6},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"أن","location":18,"length":2},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":17,"length":1}},{"raw":{"text":"أمرّ","location":21,"length":4},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"؟","location":25,"length":1},"linker":{"text":" ","location":20,"length":1}}]},{"key":"Lbz2iy2urmrYWjZl4575eQMJZxP42qbO","audio_updated_at":1543435539,"text":"Excuse me, may I pass?","phonetic":""}]},{"id":605035,"lesson":2202,"type":"C1b","modifiers":72,"wordID":16547,"alternates":[16400],"tokens":[{"key":"tEIY4VYa1DG","text":"I","raw":{"text":"I","location":4,"length":1},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t5jAZtWFhFP","text":"your","raw":{"text":"your","location":10,"length":4},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"t12IgDnkehJ","text":"around.","raw":{"text":"around","location":5,"length":6},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":".","location":11,"length":1},"linker":{"text":" ","location":4,"length":1}},{"key":"tz7YqRvcn18","text":"Turn","raw":{"text":"Turn","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tUTaIwkpstG","text":"May","raw":{"text":"May","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tVg8T5w77zt","text":"map?","raw":{"text":"map","location":15,"length":3},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"?","location":18,"length":1},"linker":{"text":" ","location":14,"length":1}},{"key":"tZIZBBhZWt9","text":"see","raw":{"text":"see","location":6,"length":3},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":5,"length":1}}],"tokensEqualSize":false,"ord":["tUTaIwkpstG","tEIY4VYa1DG","tZIZBBhZWt9","t5jAZtWFhFP","tVg8T5w77zt"],"completeToken":"tVg8T5w77zt","tokensPhonetic":[],"ordPhonetic":[],"completeTokenPhonetic":null,"sols":[{"key":"MwXfkHKDpEKLisgUrymtURsqAJuPlmSD","audio_updated_at":1543439608,"text":"هل يمكنني أن أرى خريطتك؟","dictionary":[{"raw":"هل","translations":[]},{"raw":"يمكنني","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أن","translations":[]},{"raw":"أرى","translations":[{"type":"dictionary","text":"I see","phonetic":"I see"},{"type":"verb","name":{"t":"to see","m":"يرى","phonetic":"to see"},"id":71,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk","text":"I see","phonetic":"","audio_updated_at":1543438393},"m":{"text":"أنا أرى"}},{"t":{"key":"-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1","text":"You see","phonetic":"","audio_updated_at":1543438394},"m":{"text":"أنت ترى"}},{"t":{"key":"7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr","text":"He sees","phonetic":"","audio_updated_at":1543438395},"m":{"text":"هو يرى"}},{"t":{"key":"QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR","text":"She sees","phonetic":"","audio_updated_at":1543438397},"m":{"text":"هي ترى"}},{"t":{"key":"uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN","text":"We see","phonetic":"","audio_updated_at":1543438398},"m":{"text":"نحن نرى"}},{"t":{"key":"Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C","text":"You see","phonetic":"","audio_updated_at":1541548255},"m":{"text":"أنتم ترون"}},{"t":{"key":"54REkAfCLzVvHIbwBaKq9I8ZLK559Wix","text":"They see","phonetic":"","audio_updated_at":1543438400},"m":{"text":"هم يرون"}}],"pa":[{"t":{"key":"aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz","text":"I saw","phonetic":"","audio_updated_at":1541548257},"m":{"text":"أنا رأيت"}},{"t":{"key":"ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4","text":"You saw","phonetic":"","audio_updated_at":1541548258},"m":{"text":"أنت رأيت"}},{"t":{"key":"viznNpNOyvjNfDTmqXAdFdmifryzbYpW","text":"He saw","phonetic":"","audio_updated_at":1541548259},"m":{"text":"هو رأى"}},{"t":{"key":"htauzPhP723-3XPFH0L6QZTz3sF5qpEY","text":"She saw","phonetic":"","audio_updated_at":1541548260},"m":{"text":"هي رأت"}},{"t":{"key":"VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d","text":"We saw","phonetic":"","audio_updated_at":1541548262},"m":{"text":"نحن رأينا"}},{"t":{"key":"UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc","text":"You saw","phonetic":"","audio_updated_at":1541548263},"m":{"text":"أنتم رأيتم"}},{"t":{"key":"vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C","text":"They saw","phonetic":"","audio_updated_at":1541548264},"m":{"text":"هم رأوا"}}],"fu":[{"t":{"key":"zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA","text":"I will see","phonetic":"","audio_updated_at":1541548265},"m":{"text":"أنا سأرى"}},{"t":{"key":"jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV","text":"You will see","phonetic":"","audio_updated_at":1541548266},"m":{"text":"أنت سترى"}},{"t":{"key":"JRYOAkNpJUETkw9D--dDDeULljLXETz9","text":"He will see","phonetic":"","audio_updated_at":1541548267},"m":{"text":"هو سيرى"}},{"t":{"key":"VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X","text":"She will see","phonetic":"","audio_updated_at":1541548268},"m":{"text":"هي سترى"}},{"t":{"key":"krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v","text":"We will see","phonetic":"","audio_updated_at":1541548271},"m":{"text":"نحن سنرى"}},{"t":{"key":"FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI","text":"You will see","phonetic":"","audio_updated_at":1541548272},"m":{"text":"أنتم سترون"}},{"t":{"key":"d0Ga1izvgstz3tAIminEaS00qNB-Pfmt","text":"They will see","phonetic":"","audio_updated_at":1541548273},"m":{"text":"هم سيرون"}}]}}]},{"raw":"خريطتك","translations":[{"type":"dictionary","text":"your","phonetic":"your"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"يمكنني","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"أن","location":10,"length":2},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"أرى","location":13,"length":3},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":16,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"خريطتك","location":17,"length":6},"prefix":{"text":"","location":17,"length":0},"suffix":{"text":"؟","location":23,"length":1},"linker":{"text":" ","location":16,"length":1}}]},{"key":"MwXfkHKDpEKLisgUrymtURsqAJuPlmSD","audio_updated_at":1543439608,"text":"May I see your map?","phonetic":""}]},{"id":605036,"lesson":2202,"type":"F","modifiers":71,"wordID":15219,"alternates":[16455],"sols":[{"key":"GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc","audio_updated_at":1639520260,"text":"يجلس"},{"key":"rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw","audio_updated_at":1543436800,"text":"هنا"}],"alts":[{"key":"GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc","audio_updated_at":1639520260,"text":"to sit","phonetic":null,"image":"s15iBgGGacTic7syHwVUR8ZqCIPjxGzj","image_updated_at":1689158979},{"key":"rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw","audio_updated_at":1543436800,"image":"ZI22E5a-35VaZZMwIz6wcSTAMwrrKggU","image_updated_at":1689159020,"text":"here","phonetic":""}]},{"id":605037,"lesson":2202,"type":"T1","modifiers":40,"wordID":17031,"alternates":[],"tokens":[{"key":"twN-8Q1T5oU","text":"أجلس","raw":{"text":"أجلس","location":13,"length":4},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"tZP4MdZNV0y","text":"واحد","raw":{"text":"واحد","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tZUVwUgMYnD","text":"بالشوكولاته.","raw":{"text":"بالشوكولاته","location":10,"length":11},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":".","location":21,"length":1},"linker":{"text":" ","location":9,"length":1}},{"key":"t3db-v4OmfO","text":"هل","raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tZQceZ4xb_P","text":"يمكنني","raw":{"text":"يمكنني","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tLQFdYB7efk","text":"حليب","raw":{"text":"حليب","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"key":"t-3K9VofE9v","text":"هنا؟","raw":{"text":"هنا","location":18,"length":3},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"؟","location":21,"length":1},"linker":{"text":" ","location":17,"length":1}},{"key":"tT8qSu8-Lhw","text":"أن","raw":{"text":"أن","location":10,"length":2},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":9,"length":1}}],"tokensEqualSize":true,"ord":["t3db-v4OmfO","tZQceZ4xb_P","tT8qSu8-Lhw","twN-8Q1T5oU","t-3K9VofE9v"],"sols":[{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","audio_updated_at":1543440042,"text":"May I sit here?","phonetic":"","dictionary":[{"raw":"May","translations":[{"type":"dictionary","text":"يمكنني","phonetic":null}]},{"raw":"I","translations":[{"type":"dictionary","text":"أن","phonetic":null}]},{"raw":"sit","translations":[{"type":"verb","name":{"t":"to sit","m":"يجلس","phonetic":"to sit"},"id":76,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"E-FvPfQqOyAT0YRFvkxI90JP5Ii-wqwY","text":"I sit","phonetic":"","audio_updated_at":1543438433},"m":{"text":"أنا أجلس"}},{"t":{"key":"rMU6l7nqybdGFzNCit5qnfsGXguNMzWt","text":"You sit","phonetic":"","audio_updated_at":1543438434},"m":{"text":"أنت تجلس"}},{"t":{"key":"8hzEMCQaHhjio7ZZIo5npBE1w_Z2pvHw","text":"He sits","phonetic":"","audio_updated_at":1543438435},"m":{"text":"هو يجلس"}},{"t":{"key":"J-y_iXp04per9430Fcg9OerqQ0huN8bq","text":"She sits","phonetic":"","audio_updated_at":1543438438},"m":{"text":"هي تجلس"}},{"t":{"key":"pn4ZXFOgrqtmmqZkfj7_rRroisvSnpJH","text":"We sit","phonetic":"","audio_updated_at":1543438439},"m":{"text":"نحن نجلس"}},{"t":{"key":"FD407cXWrXTM0UuWEZJN96SUVwZ9oKWQ","text":"You sit","phonetic":"","audio_updated_at":1543438440},"m":{"text":"أنتم تجلسون"}},{"t":{"key":"Dy1o9W6YUxMQBkNiOtky4cTnh4n_xaTO","text":"They sit","phonetic":"","audio_updated_at":1543438441},"m":{"text":"هم يجلسون"}}],"pa":[{"t":{"key":"jkqd0WmUm_KpAGwIITGL7TbnZRMdWuPU","text":"I sat","phonetic":"","audio_updated_at":1541548386},"m":{"text":"أنا جلست"}},{"t":{"key":"Bjf7DcKCxdH-PiZ8udlUQAI7g8iNXbUm","text":"You sat","phonetic":"","audio_updated_at":1541548387},"m":{"text":"أنت جلست"}},{"t":{"key":"xbAemhfWTjUkk3i2cB0A8sDe9Jf9D6mY","text":"He sat","phonetic":"","audio_updated_at":1541548388},"m":{"text":"هو جلس"}},{"t":{"key":"TjXigPBySe6sfDLNb28eUBjHLiGipt0n","text":"She sat","phonetic":"","audio_updated_at":1541548389},"m":{"text":"هي جلست"}},{"t":{"key":"uPf6JCe3ohI4nqylNgbf5bDL1vr33jtl","text":"We sat","phonetic":"","audio_updated_at":1541548391},"m":{"text":"نحن جلسنا"}},{"t":{"key":"tj78YFhRxjG5GsLGcSSkRYFQromwMY0x","text":"You sat","phonetic":"","audio_updated_at":1541548392},"m":{"text":"أنتم جلستم"}},{"t":{"key":"9v61KEyROBcU8xIVkvyyNnSC_2VgbAby","text":"They sat","phonetic":"","audio_updated_at":1541548393},"m":{"text":"هم جلسوا"}}],"fu":[{"t":{"key":"b_0VZ5x7h-ofFpXouxYD7l94eTRmkBY9","text":"I will sit","phonetic":"","audio_updated_at":1541548394},"m":{"text":"أنا سأجلس"}},{"t":{"key":"UHXntF42yyZQuqmVs3loX9Yyvm9AEskE","text":"You will sit","phonetic":"","audio_updated_at":1541548395},"m":{"text":"أنت ستجلس"}},{"t":{"key":"lkF3cMlnXCX3CkGsEle50rbXQsosX-iC","text":"He will sit","phonetic":"","audio_updated_at":1541548396},"m":{"text":"هو سيجلس"}},{"t":{"key":"IM-pqSpFo_m6iSNLMflQEU4_Y37CFySw","text":"She will sit","phonetic":"","audio_updated_at":1541548397},"m":{"text":"هي ستجلس"}},{"t":{"key":"0SjBSuHVCeRZoLn4ptF9dyWP7HrQWZwD","text":"We will sit","phonetic":"","audio_updated_at":1541548399},"m":{"text":"نحن سنجلس"}},{"t":{"key":"7afcI3LvWPe0eIUPPjss_SaR8Yslyrip","text":"You will sit","phonetic":"","audio_updated_at":1541548400},"m":{"text":"أنتم ستجلسون"}},{"t":{"key":"_JZiN14ZsALThvj65VuH8DtLoEUSCk3V","text":"They will sit","phonetic":"","audio_updated_at":1541548401},"m":{"text":"هم سيجلسون"}}]}}]},{"raw":"here","translations":[{"type":"dictionary","text":"هنا","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"May","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"I","location":4,"length":1},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"sit","location":6,"length":3},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":5,"length":1}},{"raw":{"text":"here","location":10,"length":4},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"?","location":14,"length":1},"linker":{"text":" ","location":9,"length":1}}],"phonetic_tokens":[]},{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","audio_updated_at":1543440042,"text":"هل يمكنني أن أجلس هنا؟"}]},{"id":605038,"lesson":2202,"type":"T1b","modifiers":72,"wordID":16108,"alternates":[],"tokens":[{"key":"tLsl-M4-Vj6","text":"Yes.","raw":{"text":"Yes","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":3,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"tIJVjL5MUhX","text":"or","raw":{"text":"or","location":22,"length":2},"prefix":{"text":"","location":22,"length":0},"suffix":{"text":"","location":24,"length":0},"linker":{"text":" ","location":21,"length":1}},{"key":"tUCU1AYX4Jq","text":"'no'.","raw":{"text":"no","location":26,"length":2},"prefix":{"text":"'","location":25,"length":1},"suffix":{"text":"'.","location":28,"length":2},"linker":{"text":" ","location":24,"length":1}},{"key":"tYrc6IsyaEC","text":"You","raw":{"text":"You","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tSiRNgMXen5","text":"must","raw":{"text":"must","location":4,"length":4},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":8,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"t6DzXdXyiQl","text":"answer","raw":{"text":"answer","location":9,"length":6},"prefix":{"text":"","location":9,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":8,"length":1}}],"tokensEqualSize":false,"ord":["tLsl-M4-Vj6"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4","audio_updated_at":1607004619,"text":"نعم.","dictionary":[{"raw":"نعم","translations":[{"type":"dictionary","text":"Yes","phonetic":"Yes"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"نعم","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":3,"length":1},"linker":{"text":"","location":0,"length":0}}]},{"key":"mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4","audio_updated_at":1607004619,"text":"Yes.","phonetic":""}]},{"id":605039,"lesson":2202,"type":"T1","modifiers":40,"wordID":16059,"alternates":[],"tokens":[{"key":"tQ-6nMLkNXh","text":"لا.","raw":{"text":"لا","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":2,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"t6CYn-zxSGh","text":"نعم!","raw":{"text":"نعم","location":5,"length":3},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"!","location":8,"length":1},"linker":{"text":" ","location":4,"length":1}},{"key":"t7ow5bGgrXm","text":"أوه!","raw":{"text":"أوه","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"!","location":3,"length":1},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tQ-6nMLkNXh"],"sols":[{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","audio_updated_at":1607004623,"text":"No.","phonetic":"","dictionary":[{"raw":"No","translations":[{"type":"dictionary","text":"لا","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"No","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":2,"length":1},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[]},{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","audio_updated_at":1607004623,"text":"لا."}]},{"id":605040,"lesson":2202,"type":"T1b","modifiers":72,"wordID":16019,"alternates":[],"tokens":[{"key":"twJXSczOyYh","text":"Good","raw":{"text":"Good","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"t29WnKbjTTC","text":"afternoon.","raw":{"text":"afternoon","location":5,"length":9},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":".","location":14,"length":1},"linker":{"text":" ","location":4,"length":1}},{"key":"t4mLXZzBsmL","text":"Excuse","raw":{"text":"Excuse","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tEPECA-aiEd","text":"me.","raw":{"text":"me","location":7,"length":2},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":9,"length":1},"linker":{"text":" ","location":6,"length":1}}],"tokensEqualSize":false,"ord":["t4mLXZzBsmL","tEPECA-aiEd"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"اعذرني.","dictionary":[{"raw":"اعذرني","translations":[{"type":"dictionary","text":"Excuse","phonetic":"Excuse"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"اعذرني","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":6,"length":1},"linker":{"text":"","location":0,"length":0}}]},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"Excuse me.","phonetic":""}]},{"id":605041,"lesson":2202,"type":"Qb","modifiers":73,"wordID":18951,"alternates":[16547,17031],"sols":[{"key":"Lbz2iy2urmrYWjZl4575eQMJZxP42qbO","audio_updated_at":1543435539,"text":"اعذرني، هل يمكنني أن أمرّ؟","dictionary":[{"raw":"اعذرني","translations":[{"type":"dictionary","text":"Excuse","phonetic":"Excuse"}]},{"raw":"هل","translations":[]},{"raw":"يمكنني","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أن","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"اعذرني","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"،","location":6,"length":1},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"هل","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"raw":{"text":"يمكنني","location":11,"length":6},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":10,"length":1}},{"raw":{"text":"أن","location":18,"length":2},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":17,"length":1}},{"raw":{"text":"أمرّ","location":21,"length":4},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"؟","location":25,"length":1},"linker":{"text":" ","location":20,"length":1}}]},{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","text":"هل يمكنني أن أجلس هنا؟"},{"key":"MwXfkHKDpEKLisgUrymtURsqAJuPlmSD","text":"هل يمكنني أن أرى خريطتك؟"}],"alts":[{"key":"Lbz2iy2urmrYWjZl4575eQMJZxP42qbO","audio_updated_at":1543435539,"text":"Excuse me, may I pass?","phonetic":""},{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","audio_updated_at":1543440042,"text":"May I sit here?","phonetic":""},{"key":"MwXfkHKDpEKLisgUrymtURsqAJuPlmSD","audio_updated_at":1543439608,"text":"May I see your map?","phonetic":""}]},{"id":605042,"lesson":2202,"type":"W1b","modifiers":68,"wordID":16400,"alternates":[],"tokens":[{"key":"tiR1jvGlwdu","text":"a","group":0},{"key":"tkjDD9ksuXB","text":"p","group":0},{"key":"tSoTTtRP_m8","text":"m","group":0}],"tokensEqualSize":false,"ord":["tSoTTtRP_m8","tiR1jvGlwdu","tkjDD9ksuXB"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text":"خريطة","dictionary":[{"raw":"خريطة","translations":[{"type":"dictionary","text":"map","phonetic":"map"}]}],"phraseType":0,"text_tokens":[{"raw":{"text":"خريطة","location":0,"length":5},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":"","location":0,"length":0}}]},{"key":"Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI","audio_updated_at":1543437549,"text_tokens":[{"raw":{"text":"map","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[],"text":"map","phonetic":"","article_text":"a","article_phonetic":"","image":"_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT","image_updated_at":1689159013}]},{"id":605043,"lesson":2202,"type":"C2b","modifiers":92,"wordID":16547,"alternates":[16400],"tokens":[{"key":"trYcQCG3pug","text":"m","group":4},{"key":"tvfUabbL19d","text":"?","specialChar":true},{"key":"tjNFfjSi_oD","text":"a","group":4},{"key":"tylLVUO4wuC","text":" ","specialChar":true},{"key":"t0nCVVbTGgj","text":"p","group":4}],"tokensEqualSize":false,"ord":["tylLVUO4wuC","trYcQCG3pug","tjNFfjSi_oD","t0nCVVbTGgj","tvfUabbL19d"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"MwXfkHKDpEKLisgUrymtURsqAJuPlmSD","audio_updated_at":1543439608,"text":"هل يمكنني أن أرى خريطتك؟","dictionary":[{"raw":"هل","translations":[]},{"raw":"يمكنني","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أن","translations":[]},{"raw":"أرى","translations":[{"type":"dictionary","text":"I see","phonetic":"I see"},{"type":"verb","name":{"t":"to see","m":"يرى","phonetic":"to see"},"id":71,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk","text":"I see","phonetic":"","audio_updated_at":1543438393},"m":{"text":"أنا أرى"}},{"t":{"key":"-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1","text":"You see","phonetic":"","audio_updated_at":1543438394},"m":{"text":"أنت ترى"}},{"t":{"key":"7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr","text":"He sees","phonetic":"","audio_updated_at":1543438395},"m":{"text":"هو يرى"}},{"t":{"key":"QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR","text":"She sees","phonetic":"","audio_updated_at":1543438397},"m":{"text":"هي ترى"}},{"t":{"key":"uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN","text":"We see","phonetic":"","audio_updated_at":1543438398},"m":{"text":"نحن نرى"}},{"t":{"key":"Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C","text":"You see","phonetic":"","audio_updated_at":1541548255},"m":{"text":"أنتم ترون"}},{"t":{"key":"54REkAfCLzVvHIbwBaKq9I8ZLK559Wix","text":"They see","phonetic":"","audio_updated_at":1543438400},"m":{"text":"هم يرون"}}],"pa":[{"t":{"key":"aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz","text":"I saw","phonetic":"","audio_updated_at":1541548257},"m":{"text":"أنا رأيت"}},{"t":{"key":"ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4","text":"You saw","phonetic":"","audio_updated_at":1541548258},"m":{"text":"أنت رأيت"}},{"t":{"key":"viznNpNOyvjNfDTmqXAdFdmifryzbYpW","text":"He saw","phonetic":"","audio_updated_at":1541548259},"m":{"text":"هو رأى"}},{"t":{"key":"htauzPhP723-3XPFH0L6QZTz3sF5qpEY","text":"She saw","phonetic":"","audio_updated_at":1541548260},"m":{"text":"هي رأت"}},{"t":{"key":"VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d","text":"We saw","phonetic":"","audio_updated_at":1541548262},"m":{"text":"نحن رأينا"}},{"t":{"key":"UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc","text":"You saw","phonetic":"","audio_updated_at":1541548263},"m":{"text":"أنتم رأيتم"}},{"t":{"key":"vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C","text":"They saw","phonetic":"","audio_updated_at":1541548264},"m":{"text":"هم رأوا"}}],"fu":[{"t":{"key":"zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA","text":"I will see","phonetic":"","audio_updated_at":1541548265},"m":{"text":"أنا سأرى"}},{"t":{"key":"jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV","text":"You will see","phonetic":"","audio_updated_at":1541548266},"m":{"text":"أنت سترى"}},{"t":{"key":"JRYOAkNpJUETkw9D--dDDeULljLXETz9","text":"He will see","phonetic":"","audio_updated_at":1541548267},"m":{"text":"هو سيرى"}},{"t":{"key":"VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X","text":"She will see","phonetic":"","audio_updated_at":1541548268},"m":{"text":"هي سترى"}},{"t":{"key":"krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v","text":"We will see","phonetic":"","audio_updated_at":1541548271},"m":{"text":"نحن سنرى"}},{"t":{"key":"FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI","text":"You will see","phonetic":"","audio_updated_at":1541548272},"m":{"text":"أنتم سترون"}},{"t":{"key":"d0Ga1izvgstz3tAIminEaS00qNB-Pfmt","text":"They will see","phonetic":"","audio_updated_at":1541548273},"m":{"text":"هم سيرون"}}]}}]},{"raw":"خريطتك","translations":[{"type":"dictionary","text":"your","phonetic":"your"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"يمكنني","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"أن","location":10,"length":2},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"أرى","location":13,"length":3},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":16,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"خريطتك","location":17,"length":6},"prefix":{"text":"","location":17,"length":0},"suffix":{"text":"؟","location":23,"length":1},"linker":{"text":" ","location":16,"length":1}}]},{"key":"MwXfkHKDpEKLisgUrymtURsqAJuPlmSD","audio_updated_at":1543439608,"text_tokens":[{"raw":{"text":"May","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"I","location":4,"length":1},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"see","location":6,"length":3},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":5,"length":1}},{"raw":{"text":"your","location":10,"length":4},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"map","location":15,"length":3},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"?","location":18,"length":1},"linker":{"text":" ","location":14,"length":1}}],"phonetic_tokens":[],"text":"May I see your map?","phonetic":""}]},{"id":605044,"lesson":2202,"type":"T1b","modifiers":72,"wordID":17031,"alternates":[],"tokens":[{"key":"t4LPvPXUpPP","text":"May","raw":{"text":"May","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tDNuPQoYPlu","text":"I","raw":{"text":"I","location":4,"length":1},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":" ","location":3,"length":1}},{"key":"tBeapYBzCJV","text":"sit","raw":{"text":"sit","location":6,"length":3},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":5,"length":1}},{"key":"tY84hi2u0-k","text":"here?","raw":{"text":"here","location":10,"length":4},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"?","location":14,"length":1},"linker":{"text":" ","location":9,"length":1}},{"key":"tZLvyrjIahK","text":"we","raw":{"text":"we","location":4,"length":2},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":" ","location":3,"length":1}}],"tokensEqualSize":false,"ord":["t4LPvPXUpPP","tDNuPQoYPlu","tBeapYBzCJV","tY84hi2u0-k"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","audio_updated_at":1543440042,"text":"هل يمكنني أن أجلس هنا؟","dictionary":[{"raw":"هل","translations":[]},{"raw":"يمكنني","translations":[{"type":"dictionary","text":"I","phonetic":"I"}]},{"raw":"أن","translations":[]},{"raw":"أجلس","translations":[{"type":"dictionary","text":"sit","phonetic":"sit"},{"type":"verb","name":{"t":"to sit","m":"يجلس","phonetic":"to sit"},"id":76,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"E-FvPfQqOyAT0YRFvkxI90JP5Ii-wqwY","text":"I sit","phonetic":"","audio_updated_at":1543438433},"m":{"text":"أنا أجلس"}},{"t":{"key":"rMU6l7nqybdGFzNCit5qnfsGXguNMzWt","text":"You sit","phonetic":"","audio_updated_at":1543438434},"m":{"text":"أنت تجلس"}},{"t":{"key":"8hzEMCQaHhjio7ZZIo5npBE1w_Z2pvHw","text":"He sits","phonetic":"","audio_updated_at":1543438435},"m":{"text":"هو يجلس"}},{"t":{"key":"J-y_iXp04per9430Fcg9OerqQ0huN8bq","text":"She sits","phonetic":"","audio_updated_at":1543438438},"m":{"text":"هي تجلس"}},{"t":{"key":"pn4ZXFOgrqtmmqZkfj7_rRroisvSnpJH","text":"We sit","phonetic":"","audio_updated_at":1543438439},"m":{"text":"نحن نجلس"}},{"t":{"key":"FD407cXWrXTM0UuWEZJN96SUVwZ9oKWQ","text":"You sit","phonetic":"","audio_updated_at":1543438440},"m":{"text":"أنتم تجلسون"}},{"t":{"key":"Dy1o9W6YUxMQBkNiOtky4cTnh4n_xaTO","text":"They sit","phonetic":"","audio_updated_at":1543438441},"m":{"text":"هم يجلسون"}}],"pa":[{"t":{"key":"jkqd0WmUm_KpAGwIITGL7TbnZRMdWuPU","text":"I sat","phonetic":"","audio_updated_at":1541548386},"m":{"text":"أنا جلست"}},{"t":{"key":"Bjf7DcKCxdH-PiZ8udlUQAI7g8iNXbUm","text":"You sat","phonetic":"","audio_updated_at":1541548387},"m":{"text":"أنت جلست"}},{"t":{"key":"xbAemhfWTjUkk3i2cB0A8sDe9Jf9D6mY","text":"He sat","phonetic":"","audio_updated_at":1541548388},"m":{"text":"هو جلس"}},{"t":{"key":"TjXigPBySe6sfDLNb28eUBjHLiGipt0n","text":"She sat","phonetic":"","audio_updated_at":1541548389},"m":{"text":"هي جلست"}},{"t":{"key":"uPf6JCe3ohI4nqylNgbf5bDL1vr33jtl","text":"We sat","phonetic":"","audio_updated_at":1541548391},"m":{"text":"نحن جلسنا"}},{"t":{"key":"tj78YFhRxjG5GsLGcSSkRYFQromwMY0x","text":"You sat","phonetic":"","audio_updated_at":1541548392},"m":{"text":"أنتم جلستم"}},{"t":{"key":"9v61KEyROBcU8xIVkvyyNnSC_2VgbAby","text":"They sat","phonetic":"","audio_updated_at":1541548393},"m":{"text":"هم جلسوا"}}],"fu":[{"t":{"key":"b_0VZ5x7h-ofFpXouxYD7l94eTRmkBY9","text":"I will sit","phonetic":"","audio_updated_at":1541548394},"m":{"text":"أنا سأجلس"}},{"t":{"key":"UHXntF42yyZQuqmVs3loX9Yyvm9AEskE","text":"You will sit","phonetic":"","audio_updated_at":1541548395},"m":{"text":"أنت ستجلس"}},{"t":{"key":"lkF3cMlnXCX3CkGsEle50rbXQsosX-iC","text":"He will sit","phonetic":"","audio_updated_at":1541548396},"m":{"text":"هو سيجلس"}},{"t":{"key":"IM-pqSpFo_m6iSNLMflQEU4_Y37CFySw","text":"She will sit","phonetic":"","audio_updated_at":1541548397},"m":{"text":"هي ستجلس"}},{"t":{"key":"0SjBSuHVCeRZoLn4ptF9dyWP7HrQWZwD","text":"We will sit","phonetic":"","audio_updated_at":1541548399},"m":{"text":"نحن سنجلس"}},{"t":{"key":"7afcI3LvWPe0eIUPPjss_SaR8Yslyrip","text":"You will sit","phonetic":"","audio_updated_at":1541548400},"m":{"text":"أنتم ستجلسون"}},{"t":{"key":"_JZiN14ZsALThvj65VuH8DtLoEUSCk3V","text":"They will sit","phonetic":"","audio_updated_at":1541548401},"m":{"text":"هم سيجلسون"}}]}}]},{"raw":"هنا","translations":[{"type":"dictionary","text":"here","phonetic":"here"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"يمكنني","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"raw":{"text":"أن","location":10,"length":2},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"أجلس","location":13,"length":4},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":12,"length":1}},{"raw":{"text":"هنا","location":18,"length":3},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"؟","location":21,"length":1},"linker":{"text":" ","location":17,"length":1}}]},{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","audio_updated_at":1543440042,"text":"May I sit here?","phonetic":""}]},{"id":605045,"lesson":2202,"type":"Q","modifiers":41,"wordID":16108,"alternates":[16059,16019],"sols":[{"key":"mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4","audio_updated_at":1607004619,"text":"Yes.","phonetic":"","dictionary":[{"raw":"Yes","translations":[{"type":"dictionary","text":"نعم","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Yes","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":3,"length":1},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[]},{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","text":"No.","phonetic":""},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","text":"Excuse me.","phonetic":""}],"alts":[{"key":"mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4","audio_updated_at":1607004619,"text":"نعم."},{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","audio_updated_at":1607004623,"text":"لا."},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"اعذرني."}]},{"id":605046,"lesson":2202,"type":"T1b","modifiers":72,"wordID":16059,"alternates":[],"tokens":[{"key":"tLgjnTfWi5u","text":"Oh!","raw":{"text":"Oh","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"!","location":2,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"teW2yTwdlCh","text":"you.","raw":{"text":"you","location":10,"length":3},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":".","location":13,"length":1},"linker":{"text":" ","location":9,"length":1}},{"key":"t-_i9KdNy57","text":"No.","raw":{"text":"No","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":2,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"tM9mZYYq1QN","text":"Thank","raw":{"text":"Thank","location":4,"length":5},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":3,"length":1}}],"tokensEqualSize":false,"ord":["t-_i9KdNy57"],"tokensPhonetic":[],"ordPhonetic":[],"sols":[{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","audio_updated_at":1607004623,"text":"لا.","dictionary":[{"raw":"لا","translations":[{"type":"dictionary","text":"No","phonetic":"No"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"لا","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":2,"length":1},"linker":{"text":"","location":0,"length":0}}]},{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","audio_updated_at":1607004623,"text":"No.","phonetic":""}]},{"id":605047,"lesson":2202,"type":"R","modifiers":636,"wordID":16019,"alternates":[],"tokens":[{"key":"tJ3b2S-_Lu8","text":"الخير.","raw":{"text":"الخير","location":5,"length":5},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":".","location":10,"length":1},"linker":{"text":" ","location":4,"length":1}},{"key":"tX-HqSgo1QR","text":"اعذرني.","raw":{"text":"اعذرني","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":6,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"tGfSL07b1Vx","text":"مساء","raw":{"text":"مساء","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["tX-HqSgo1QR"],"sols":[{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"Excuse me.","phonetic":"","dictionary":[{"raw":"Excuse","translations":[]},{"raw":"me","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Excuse","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"me","location":7,"length":2},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":9,"length":1},"linker":{"text":" ","location":6,"length":1}}],"phonetic_tokens":[]},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"اعذرني."}],"quizSkipData":{"type":"T1","modifiers":40,"tokens":[{"key":"tFXVsqQps7f","text":"ليلة","raw":{"text":"ليلة","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tOF1zZ6TS__","text":"اعذرني.","raw":{"text":"اعذرني","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":6,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"t7vb97d-S_A","text":"سعيدة.","raw":{"text":"سعيدة","location":5,"length":5},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":".","location":10,"length":1},"linker":{"text":" ","location":4,"length":1}}],"tokensEqualSize":true,"ord":["tOF1zZ6TS__"],"sols":[{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"Excuse me.","phonetic":"","dictionary":[{"raw":"Excuse","translations":[]},{"raw":"me","translations":[]}],"phraseType":1,"text_tokens":[{"raw":{"text":"Excuse","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":6,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"me","location":7,"length":2},"prefix":{"text":"","location":7,"length":0},"suffix":{"text":".","location":9,"length":1},"linker":{"text":" ","location":6,"length":1}}],"phonetic_tokens":[]},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"اعذرني."}]}},{"id":605048,"lesson":2202,"type":"L1","modifiers":42,"wordID":18951,"alternates":[],"tokens":[{"key":"teJ0FUj0WL3","text":"املأ","raw":{"text":"املأ","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tAJqEmi9WaZ","text":"من","raw":{"text":"من","location":13,"length":2},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":15,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"tuFEst8g6JJ","text":"اعذرني،","raw":{"text":"اعذرني","location":0,"length":6},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"،","location":6,"length":1},"linker":{"text":"","location":0,"length":0}},{"key":"t124D7YC1zS","text":"أن","raw":{"text":"أن","location":18,"length":2},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"","location":20,"length":0},"linker":{"text":" ","location":17,"length":1}},{"key":"t-JziYlbUp5","text":"هل","raw":{"text":"هل","location":8,"length":2},"prefix":{"text":"","location":8,"length":0},"suffix":{"text":"","location":10,"length":0},"linker":{"text":" ","location":7,"length":1}},{"key":"tHvJeUOmfSv","text":"يمكنني","raw":{"text":"يمكنني","location":11,"length":6},"prefix":{"text":"","location":11,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":10,"length":1}},{"key":"tpXu_Dmtpqf","text":"أمرّ؟","raw":{"text":"أمرّ","location":21,"length":4},"prefix":{"text":"","location":21,"length":0},"suffix":{"text":"؟","location":25,"length":1},"linker":{"text":" ","location":20,"length":1}},{"key":"tHgmbYP0JZM","text":"الخزان،","raw":{"text":"الخزان","location":5,"length":6},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"،","location":11,"length":1},"linker":{"text":" ","location":4,"length":1}}],"tokensEqualSize":true,"ord":["tuFEst8g6JJ","t-JziYlbUp5","tHvJeUOmfSv","t124D7YC1zS","tpXu_Dmtpqf"],"sols":[{"key":"Lbz2iy2urmrYWjZl4575eQMJZxP42qbO","audio_updated_at":1543435539,"text":"Excuse me, may I pass?","phonetic":""},{"key":"Lbz2iy2urmrYWjZl4575eQMJZxP42qbO","audio_updated_at":1543435539,"text":"اعذرني، هل يمكنني أن أمرّ؟"}]},{"id":605049,"lesson":2202,"type":"Q","modifiers":41,"wordID":16547,"alternates":[18951,17031],"sols":[{"key":"MwXfkHKDpEKLisgUrymtURsqAJuPlmSD","audio_updated_at":1543439608,"text":"May I see your map?","phonetic":"","dictionary":[{"raw":"May","translations":[{"type":"dictionary","text":"يمكنني","phonetic":null}]},{"raw":"I","translations":[{"type":"dictionary","text":"أن","phonetic":null}]},{"raw":"see","translations":[{"type":"verb","name":{"t":"to see","m":"يرى","phonetic":"to see"},"id":71,"tenseNames":{"pr":"الحاضر","pa":"ماضي","fu":"مستقبل"},"conj":{"pr":[{"t":{"key":"MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk","text":"I see","phonetic":"","audio_updated_at":1543438393},"m":{"text":"أنا أرى"}},{"t":{"key":"-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1","text":"You see","phonetic":"","audio_updated_at":1543438394},"m":{"text":"أنت ترى"}},{"t":{"key":"7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr","text":"He sees","phonetic":"","audio_updated_at":1543438395},"m":{"text":"هو يرى"}},{"t":{"key":"QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR","text":"She sees","phonetic":"","audio_updated_at":1543438397},"m":{"text":"هي ترى"}},{"t":{"key":"uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN","text":"We see","phonetic":"","audio_updated_at":1543438398},"m":{"text":"نحن نرى"}},{"t":{"key":"Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C","text":"You see","phonetic":"","audio_updated_at":1541548255},"m":{"text":"أنتم ترون"}},{"t":{"key":"54REkAfCLzVvHIbwBaKq9I8ZLK559Wix","text":"They see","phonetic":"","audio_updated_at":1543438400},"m":{"text":"هم يرون"}}],"pa":[{"t":{"key":"aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz","text":"I saw","phonetic":"","audio_updated_at":1541548257},"m":{"text":"أنا رأيت"}},{"t":{"key":"ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4","text":"You saw","phonetic":"","audio_updated_at":1541548258},"m":{"text":"أنت رأيت"}},{"t":{"key":"viznNpNOyvjNfDTmqXAdFdmifryzbYpW","text":"He saw","phonetic":"","audio_updated_at":1541548259},"m":{"text":"هو رأى"}},{"t":{"key":"htauzPhP723-3XPFH0L6QZTz3sF5qpEY","text":"She saw","phonetic":"","audio_updated_at":1541548260},"m":{"text":"هي رأت"}},{"t":{"key":"VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d","text":"We saw","phonetic":"","audio_updated_at":1541548262},"m":{"text":"نحن رأينا"}},{"t":{"key":"UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc","text":"You saw","phonetic":"","audio_updated_at":1541548263},"m":{"text":"أنتم رأيتم"}},{"t":{"key":"vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C","text":"They saw","phonetic":"","audio_updated_at":1541548264},"m":{"text":"هم رأوا"}}],"fu":[{"t":{"key":"zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA","text":"I will see","phonetic":"","audio_updated_at":1541548265},"m":{"text":"أنا سأرى"}},{"t":{"key":"jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV","text":"You will see","phonetic":"","audio_updated_at":1541548266},"m":{"text":"أنت سترى"}},{"t":{"key":"JRYOAkNpJUETkw9D--dDDeULljLXETz9","text":"He will see","phonetic":"","audio_updated_at":1541548267},"m":{"text":"هو سيرى"}},{"t":{"key":"VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X","text":"She will see","phonetic":"","audio_updated_at":1541548268},"m":{"text":"هي سترى"}},{"t":{"key":"krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v","text":"We will see","phonetic":"","audio_updated_at":1541548271},"m":{"text":"نحن سنرى"}},{"t":{"key":"FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI","text":"You will see","phonetic":"","audio_updated_at":1541548272},"m":{"text":"أنتم سترون"}},{"t":{"key":"d0Ga1izvgstz3tAIminEaS00qNB-Pfmt","text":"They will see","phonetic":"","audio_updated_at":1541548273},"m":{"text":"هم سيرون"}}]}}]},{"raw":"your","translations":[]},{"raw":"map","translations":[{"type":"dictionary","text":"خريطتك","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"May","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":3,"length":0},"linker":{"text":"","location":0,"length":0}},{"raw":{"text":"I","location":4,"length":1},"prefix":{"text":"","location":4,"length":0},"suffix":{"text":"","location":5,"length":0},"linker":{"text":" ","location":3,"length":1}},{"raw":{"text":"see","location":6,"length":3},"prefix":{"text":"","location":6,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":5,"length":1}},{"raw":{"text":"your","location":10,"length":4},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":14,"length":0},"linker":{"text":" ","location":9,"length":1}},{"raw":{"text":"map","location":15,"length":3},"prefix":{"text":"","location":15,"length":0},"suffix":{"text":"?","location":18,"length":1},"linker":{"text":" ","location":14,"length":1}}],"phonetic_tokens":[]},{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","text":"May I sit here?","phonetic":""},{"key":"Lbz2iy2urmrYWjZl4575eQMJZxP42qbO","text":"Excuse me, may I pass?","phonetic":""}],"alts":[{"key":"MwXfkHKDpEKLisgUrymtURsqAJuPlmSD","audio_updated_at":1543439608,"text":"هل يمكنني أن أرى خريطتك؟"},{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","audio_updated_at":1543440042,"text":"هل يمكنني أن أجلس هنا؟"},{"key":"Lbz2iy2urmrYWjZl4575eQMJZxP42qbO","audio_updated_at":1543435539,"text":"اعذرني، هل يمكنني أن أمرّ؟"}]},{"id":605050,"lesson":2202,"type":"L1","modifiers":42,"wordID":17031,"alternates":[],"tokens":[{"key":"tBg12yMcWPi","text":"أن","raw":{"text":"أن","location":10,"length":2},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":"","location":12,"length":0},"linker":{"text":" ","location":9,"length":1}},{"key":"t6bP9C5Y8Ur","text":"بالشوكولاته.","raw":{"text":"بالشوكولاته","location":10,"length":11},"prefix":{"text":"","location":10,"length":0},"suffix":{"text":".","location":21,"length":1},"linker":{"text":" ","location":9,"length":1}},{"key":"ttOu3yFz0nO","text":"هنا؟","raw":{"text":"هنا","location":18,"length":3},"prefix":{"text":"","location":18,"length":0},"suffix":{"text":"؟","location":21,"length":1},"linker":{"text":" ","location":17,"length":1}},{"key":"tg6NErnjuTG","text":"واحد","raw":{"text":"واحد","location":0,"length":4},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":4,"length":0},"linker":{"text":"","location":0,"length":0}},{"key":"tQCnkwHV7_c","text":"أجلس","raw":{"text":"أجلس","location":13,"length":4},"prefix":{"text":"","location":13,"length":0},"suffix":{"text":"","location":17,"length":0},"linker":{"text":" ","location":12,"length":1}},{"key":"tyVUOa53Her","text":"يمكنني","raw":{"text":"يمكنني","location":3,"length":6},"prefix":{"text":"","location":3,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":2,"length":1}},{"key":"tWC7Z0kN_LD","text":"حليب","raw":{"text":"حليب","location":5,"length":4},"prefix":{"text":"","location":5,"length":0},"suffix":{"text":"","location":9,"length":0},"linker":{"text":" ","location":4,"length":1}},{"key":"t7TiXNxCHxP","text":"هل","raw":{"text":"هل","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":"","location":2,"length":0},"linker":{"text":"","location":0,"length":0}}],"tokensEqualSize":true,"ord":["t7TiXNxCHxP","tyVUOa53Her","tBg12yMcWPi","tQCnkwHV7_c","ttOu3yFz0nO"],"sols":[{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","audio_updated_at":1543440042,"text":"May I sit here?","phonetic":""},{"key":"9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr","audio_updated_at":1543440042,"text":"هل يمكنني أن أجلس هنا؟"}]},{"id":605051,"lesson":2202,"type":"Qb","modifiers":73,"wordID":16108,"alternates":[16019,16059],"sols":[{"key":"mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4","audio_updated_at":1607004619,"text":"نعم.","dictionary":[{"raw":"نعم","translations":[{"type":"dictionary","text":"Yes","phonetic":"Yes"}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"نعم","location":0,"length":3},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":3,"length":1},"linker":{"text":"","location":0,"length":0}}]},{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","text":"لا."},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","text":"اعذرني."}],"alts":[{"key":"mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4","audio_updated_at":1607004619,"text":"Yes.","phonetic":""},{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","audio_updated_at":1607004623,"text":"No.","phonetic":""},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"Excuse me.","phonetic":""}]},{"id":605052,"lesson":2202,"type":"Q","modifiers":41,"wordID":16059,"alternates":[16019,16108],"sols":[{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","audio_updated_at":1607004623,"text":"No.","phonetic":"","dictionary":[{"raw":"No","translations":[{"type":"dictionary","text":"لا","phonetic":null}]}],"phraseType":1,"text_tokens":[{"raw":{"text":"No","location":0,"length":2},"prefix":{"text":"","location":0,"length":0},"suffix":{"text":".","location":2,"length":1},"linker":{"text":"","location":0,"length":0}}],"phonetic_tokens":[]},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","text":"Excuse me.","phonetic":""},{"key":"mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4","text":"Yes.","phonetic":""}],"alts":[{"key":"hLKtsptQPotm5qOywPaybR21hYw1xpro","audio_updated_at":1607004623,"text":"لا."},{"key":"Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23","audio_updated_at":1543439254,"text":"اعذرني."},{"key":"mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4","audio_updated_at":1607004619,"text":"نعم."}]}]}
+{
+  "lesson": {
+    "id": 2202,
+    "index": 2,
+    "unitNumber": null,
+    "unitType": 0,
+    "unitStyle": 0,
+    "unitScope": 0,
+    "category": 22,
+    "categoryID": 22,
+    "unifiedUnitId": 129,
+    "unifiedCategoryId": 22,
+    "name": "هل يمكنني أن ...؟",
+    "isCourse": false,
+    "disabled": false,
+    "done": false,
+    "stars": false,
+    "difficulty": "beginner",
+    "countQuiz": 22,
+    "countWords": 13,
+    "countPhrases": 6,
+    "countDone": 0,
+    "quizzes": [
+      605031, 605032, 605033, 605034, 605035, 605036, 605037, 605038, 605039,
+      605040, 605041, 605042, 605043, 605044, 605045, 605046, 605047, 605048,
+      605049, 605050, 605051, 605052
+    ]
+  },
+  "quizzes": [
+    {
+      "id": 605031,
+      "lesson": 2202,
+      "type": "D",
+      "modifiers": 327,
+      "wordID": 23721,
+      "alternates": [16455, 15219, 16400],
+      "sols": [
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text": "خريطة"
+        },
+        {
+          "key": "GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc",
+          "audio_updated_at": 1639520260,
+          "text": "يجلس"
+        },
+        {
+          "key": "myEi_GcrS2QpM4GAqUHnke8BfccYrrpA",
+          "audio_updated_at": 1688290575,
+          "text": "يمرّ"
+        },
+        {
+          "key": "rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw",
+          "audio_updated_at": 1543436800,
+          "text": "هنا"
+        }
+      ],
+      "alts": [
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "image": "_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT",
+          "image_updated_at": 1689159013,
+          "text": "map",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": ""
+        },
+        {
+          "key": "GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc",
+          "audio_updated_at": 1639520260,
+          "image": "s15iBgGGacTic7syHwVUR8ZqCIPjxGzj",
+          "image_updated_at": 1689158979,
+          "text": "to sit",
+          "phonetic": ""
+        },
+        {
+          "key": "myEi_GcrS2QpM4GAqUHnke8BfccYrrpA",
+          "audio_updated_at": 1688290575,
+          "text": "to pass",
+          "phonetic": "",
+          "image": "ruxUINsjQonMD2AxwWjdYeoG1NdyO0rl",
+          "image_updated_at": 1689159208
+        },
+        {
+          "key": "rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw",
+          "audio_updated_at": 1543436800,
+          "image": "ZI22E5a-35VaZZMwIz6wcSTAMwrrKggU",
+          "image_updated_at": 1689159020,
+          "text": "here",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605032,
+      "lesson": 2202,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16019,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tf-OgG6LEYE",
+          "text": "الخير.",
+          "raw": { "text": "الخير", "location": 5, "length": 5 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": ".", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tJgXlHFF8rO",
+          "text": "مساء",
+          "raw": { "text": "مساء", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tBg2reM8ORd",
+          "text": "اعذرني.",
+          "raw": { "text": "اعذرني", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ".", "location": 6, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tBg2reM8ORd"],
+      "sols": [
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "audio_updated_at": 1543439254,
+          "text": "Excuse me.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Excuse", "translations": [] },
+            { "raw": "me", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Excuse", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "me", "location": 7, "length": 2 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 9, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "audio_updated_at": 1543439254,
+          "text": "اعذرني."
+        }
+      ]
+    },
+    {
+      "id": 605033,
+      "lesson": 2202,
+      "type": "P",
+      "modifiers": 65,
+      "wordID": 23721,
+      "alternates": [15219, 16400, 16455],
+      "sols": [
+        {
+          "key": "myEi_GcrS2QpM4GAqUHnke8BfccYrrpA",
+          "audio_updated_at": 1688290575,
+          "text": "يمرّ"
+        },
+        { "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI", "text": "خريطة" },
+        { "key": "rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw", "text": "هنا" },
+        { "key": "GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc", "text": "يجلس" }
+      ],
+      "alts": [
+        {
+          "key": "myEi_GcrS2QpM4GAqUHnke8BfccYrrpA",
+          "audio_updated_at": 1688290575,
+          "text": "to pass",
+          "phonetic": "",
+          "image": "ruxUINsjQonMD2AxwWjdYeoG1NdyO0rl",
+          "image_updated_at": 1689159208
+        },
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text": "map",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT",
+          "image_updated_at": 1689159013
+        },
+        {
+          "key": "rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw",
+          "audio_updated_at": 1543436800,
+          "text": "here",
+          "phonetic": "",
+          "image": "ZI22E5a-35VaZZMwIz6wcSTAMwrrKggU",
+          "image_updated_at": 1689159020
+        },
+        {
+          "key": "GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc",
+          "audio_updated_at": 1639520260,
+          "text": "to sit",
+          "phonetic": "",
+          "image": "s15iBgGGacTic7syHwVUR8ZqCIPjxGzj",
+          "image_updated_at": 1689158979
+        }
+      ]
+    },
+    {
+      "id": 605034,
+      "lesson": 2202,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 18951,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "txznG2glfRM",
+          "text": "Hello,",
+          "raw": { "text": "Hello", "location": 0, "length": 5 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ",", "location": 5, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t7ZQLGJoRR-",
+          "text": "may",
+          "raw": { "text": "may", "location": 11, "length": 3 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "txeUM0nYh9T",
+          "text": "can",
+          "raw": { "text": "can", "location": 11, "length": 3 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tB4axPEOn7S",
+          "text": "pass?",
+          "raw": { "text": "pass", "location": 17, "length": 4 },
+          "prefix": { "text": "", "location": 17, "length": 0 },
+          "suffix": { "text": "?", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 16, "length": 1 }
+        },
+        {
+          "key": "trs5UodVFKD",
+          "text": "I",
+          "raw": { "text": "I", "location": 15, "length": 1 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "", "location": 16, "length": 0 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "t8aU0CNuzTF",
+          "text": "Excuse",
+          "raw": { "text": "Excuse", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tDWqWs8E5Q1",
+          "text": "me,",
+          "raw": { "text": "me", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ",", "location": 9, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        },
+        {
+          "key": "tDAVonV082V",
+          "text": "how",
+          "raw": { "text": "how", "location": 7, "length": 3 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "t8aU0CNuzTF",
+        "tDWqWs8E5Q1",
+        "t7ZQLGJoRR-",
+        "trs5UodVFKD",
+        "tB4axPEOn7S"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "Lbz2iy2urmrYWjZl4575eQMJZxP42qbO",
+          "audio_updated_at": 1543435539,
+          "text": "اعذرني، هل يمكنني أن أمرّ؟",
+          "dictionary": [
+            {
+              "raw": "اعذرني",
+              "translations": [
+                { "type": "dictionary", "text": "Excuse", "phonetic": "Excuse" }
+              ]
+            },
+            { "raw": "هل", "translations": [] },
+            {
+              "raw": "يمكنني",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            { "raw": "أن", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "اعذرني", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "،", "location": 6, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هل", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "يمكنني", "location": 11, "length": 6 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 18, "length": 2 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "أمرّ", "location": 21, "length": 4 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "؟", "location": 25, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "Lbz2iy2urmrYWjZl4575eQMJZxP42qbO",
+          "audio_updated_at": 1543435539,
+          "text": "Excuse me, may I pass?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605035,
+      "lesson": 2202,
+      "type": "C1b",
+      "modifiers": 72,
+      "wordID": 16547,
+      "alternates": [16400],
+      "tokens": [
+        {
+          "key": "tEIY4VYa1DG",
+          "text": "I",
+          "raw": { "text": "I", "location": 4, "length": 1 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t5jAZtWFhFP",
+          "text": "your",
+          "raw": { "text": "your", "location": 10, "length": 4 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 14, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t12IgDnkehJ",
+          "text": "around.",
+          "raw": { "text": "around", "location": 5, "length": 6 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": ".", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tz7YqRvcn18",
+          "text": "Turn",
+          "raw": { "text": "Turn", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tUTaIwkpstG",
+          "text": "May",
+          "raw": { "text": "May", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tVg8T5w77zt",
+          "text": "map?",
+          "raw": { "text": "map", "location": 15, "length": 3 },
+          "prefix": { "text": "", "location": 15, "length": 0 },
+          "suffix": { "text": "?", "location": 18, "length": 1 },
+          "linker": { "text": " ", "location": 14, "length": 1 }
+        },
+        {
+          "key": "tZIZBBhZWt9",
+          "text": "see",
+          "raw": { "text": "see", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tUTaIwkpstG",
+        "tEIY4VYa1DG",
+        "tZIZBBhZWt9",
+        "t5jAZtWFhFP",
+        "tVg8T5w77zt"
+      ],
+      "completeToken": "tVg8T5w77zt",
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "completeTokenPhonetic": null,
+      "sols": [
+        {
+          "key": "MwXfkHKDpEKLisgUrymtURsqAJuPlmSD",
+          "audio_updated_at": 1543439608,
+          "text": "هل يمكنني أن أرى خريطتك؟",
+          "dictionary": [
+            { "raw": "هل", "translations": [] },
+            {
+              "raw": "يمكنني",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أرى",
+              "translations": [
+                { "type": "dictionary", "text": "I see", "phonetic": "I see" },
+                {
+                  "type": "verb",
+                  "name": { "t": "to see", "m": "يرى", "phonetic": "to see" },
+                  "id": 71,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk",
+                          "text": "I see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438393
+                        },
+                        "m": { "text": "أنا أرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438394
+                        },
+                        "m": { "text": "أنت ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr",
+                          "text": "He sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438395
+                        },
+                        "m": { "text": "هو يرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR",
+                          "text": "She sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438397
+                        },
+                        "m": { "text": "هي ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN",
+                          "text": "We see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438398
+                        },
+                        "m": { "text": "نحن نرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548255
+                        },
+                        "m": { "text": "أنتم ترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "54REkAfCLzVvHIbwBaKq9I8ZLK559Wix",
+                          "text": "They see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438400
+                        },
+                        "m": { "text": "هم يرون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz",
+                          "text": "I saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548257
+                        },
+                        "m": { "text": "أنا رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548258
+                        },
+                        "m": { "text": "أنت رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "viznNpNOyvjNfDTmqXAdFdmifryzbYpW",
+                          "text": "He saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548259
+                        },
+                        "m": { "text": "هو رأى" }
+                      },
+                      {
+                        "t": {
+                          "key": "htauzPhP723-3XPFH0L6QZTz3sF5qpEY",
+                          "text": "She saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548260
+                        },
+                        "m": { "text": "هي رأت" }
+                      },
+                      {
+                        "t": {
+                          "key": "VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d",
+                          "text": "We saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548262
+                        },
+                        "m": { "text": "نحن رأينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548263
+                        },
+                        "m": { "text": "أنتم رأيتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C",
+                          "text": "They saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548264
+                        },
+                        "m": { "text": "هم رأوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA",
+                          "text": "I will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548265
+                        },
+                        "m": { "text": "أنا سأرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548266
+                        },
+                        "m": { "text": "أنت سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JRYOAkNpJUETkw9D--dDDeULljLXETz9",
+                          "text": "He will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548267
+                        },
+                        "m": { "text": "هو سيرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X",
+                          "text": "She will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548268
+                        },
+                        "m": { "text": "هي سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v",
+                          "text": "We will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548271
+                        },
+                        "m": { "text": "نحن سنرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548272
+                        },
+                        "m": { "text": "أنتم سترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "d0Ga1izvgstz3tAIminEaS00qNB-Pfmt",
+                          "text": "They will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548273
+                        },
+                        "m": { "text": "هم سيرون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "خريطتك",
+              "translations": [
+                { "type": "dictionary", "text": "your", "phonetic": "your" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "يمكنني", "location": 3, "length": 6 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 10, "length": 2 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "أرى", "location": 13, "length": 3 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "خريطتك", "location": 17, "length": 6 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "؟", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "MwXfkHKDpEKLisgUrymtURsqAJuPlmSD",
+          "audio_updated_at": 1543439608,
+          "text": "May I see your map?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605036,
+      "lesson": 2202,
+      "type": "F",
+      "modifiers": 71,
+      "wordID": 15219,
+      "alternates": [16455],
+      "sols": [
+        {
+          "key": "GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc",
+          "audio_updated_at": 1639520260,
+          "text": "يجلس"
+        },
+        {
+          "key": "rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw",
+          "audio_updated_at": 1543436800,
+          "text": "هنا"
+        }
+      ],
+      "alts": [
+        {
+          "key": "GQDffDk3KaiFACJaz3tDoLv9Yzr1vQhc",
+          "audio_updated_at": 1639520260,
+          "text": "to sit",
+          "phonetic": null,
+          "image": "s15iBgGGacTic7syHwVUR8ZqCIPjxGzj",
+          "image_updated_at": 1689158979
+        },
+        {
+          "key": "rI1xshy7MNAQayHNKMgaAKMNaEP2Nkzw",
+          "audio_updated_at": 1543436800,
+          "image": "ZI22E5a-35VaZZMwIz6wcSTAMwrrKggU",
+          "image_updated_at": 1689159020,
+          "text": "here",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605037,
+      "lesson": 2202,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 17031,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "twN-8Q1T5oU",
+          "text": "أجلس",
+          "raw": { "text": "أجلس", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tZP4MdZNV0y",
+          "text": "واحد",
+          "raw": { "text": "واحد", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tZUVwUgMYnD",
+          "text": "بالشوكولاته.",
+          "raw": { "text": "بالشوكولاته", "location": 10, "length": 11 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t3db-v4OmfO",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tZQceZ4xb_P",
+          "text": "يمكنني",
+          "raw": { "text": "يمكنني", "location": 3, "length": 6 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tLQFdYB7efk",
+          "text": "حليب",
+          "raw": { "text": "حليب", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "t-3K9VofE9v",
+          "text": "هنا؟",
+          "raw": { "text": "هنا", "location": 18, "length": 3 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "؟", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tT8qSu8-Lhw",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "t3db-v4OmfO",
+        "tZQceZ4xb_P",
+        "tT8qSu8-Lhw",
+        "twN-8Q1T5oU",
+        "t-3K9VofE9v"
+      ],
+      "sols": [
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "audio_updated_at": 1543440042,
+          "text": "May I sit here?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "May",
+              "translations": [
+                { "type": "dictionary", "text": "يمكنني", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "sit",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to sit", "m": "يجلس", "phonetic": "to sit" },
+                  "id": 76,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "E-FvPfQqOyAT0YRFvkxI90JP5Ii-wqwY",
+                          "text": "I sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438433
+                        },
+                        "m": { "text": "أنا أجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "rMU6l7nqybdGFzNCit5qnfsGXguNMzWt",
+                          "text": "You sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438434
+                        },
+                        "m": { "text": "أنت تجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "8hzEMCQaHhjio7ZZIo5npBE1w_Z2pvHw",
+                          "text": "He sits",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438435
+                        },
+                        "m": { "text": "هو يجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "J-y_iXp04per9430Fcg9OerqQ0huN8bq",
+                          "text": "She sits",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438438
+                        },
+                        "m": { "text": "هي تجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "pn4ZXFOgrqtmmqZkfj7_rRroisvSnpJH",
+                          "text": "We sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438439
+                        },
+                        "m": { "text": "نحن نجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "FD407cXWrXTM0UuWEZJN96SUVwZ9oKWQ",
+                          "text": "You sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438440
+                        },
+                        "m": { "text": "أنتم تجلسون" }
+                      },
+                      {
+                        "t": {
+                          "key": "Dy1o9W6YUxMQBkNiOtky4cTnh4n_xaTO",
+                          "text": "They sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438441
+                        },
+                        "m": { "text": "هم يجلسون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "jkqd0WmUm_KpAGwIITGL7TbnZRMdWuPU",
+                          "text": "I sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548386
+                        },
+                        "m": { "text": "أنا جلست" }
+                      },
+                      {
+                        "t": {
+                          "key": "Bjf7DcKCxdH-PiZ8udlUQAI7g8iNXbUm",
+                          "text": "You sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548387
+                        },
+                        "m": { "text": "أنت جلست" }
+                      },
+                      {
+                        "t": {
+                          "key": "xbAemhfWTjUkk3i2cB0A8sDe9Jf9D6mY",
+                          "text": "He sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548388
+                        },
+                        "m": { "text": "هو جلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "TjXigPBySe6sfDLNb28eUBjHLiGipt0n",
+                          "text": "She sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548389
+                        },
+                        "m": { "text": "هي جلست" }
+                      },
+                      {
+                        "t": {
+                          "key": "uPf6JCe3ohI4nqylNgbf5bDL1vr33jtl",
+                          "text": "We sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548391
+                        },
+                        "m": { "text": "نحن جلسنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "tj78YFhRxjG5GsLGcSSkRYFQromwMY0x",
+                          "text": "You sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548392
+                        },
+                        "m": { "text": "أنتم جلستم" }
+                      },
+                      {
+                        "t": {
+                          "key": "9v61KEyROBcU8xIVkvyyNnSC_2VgbAby",
+                          "text": "They sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548393
+                        },
+                        "m": { "text": "هم جلسوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "b_0VZ5x7h-ofFpXouxYD7l94eTRmkBY9",
+                          "text": "I will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548394
+                        },
+                        "m": { "text": "أنا سأجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "UHXntF42yyZQuqmVs3loX9Yyvm9AEskE",
+                          "text": "You will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548395
+                        },
+                        "m": { "text": "أنت ستجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "lkF3cMlnXCX3CkGsEle50rbXQsosX-iC",
+                          "text": "He will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548396
+                        },
+                        "m": { "text": "هو سيجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "IM-pqSpFo_m6iSNLMflQEU4_Y37CFySw",
+                          "text": "She will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548397
+                        },
+                        "m": { "text": "هي ستجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "0SjBSuHVCeRZoLn4ptF9dyWP7HrQWZwD",
+                          "text": "We will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548399
+                        },
+                        "m": { "text": "نحن سنجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "7afcI3LvWPe0eIUPPjss_SaR8Yslyrip",
+                          "text": "You will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548400
+                        },
+                        "m": { "text": "أنتم ستجلسون" }
+                      },
+                      {
+                        "t": {
+                          "key": "_JZiN14ZsALThvj65VuH8DtLoEUSCk3V",
+                          "text": "They will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548401
+                        },
+                        "m": { "text": "هم سيجلسون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "here",
+              "translations": [
+                { "type": "dictionary", "text": "هنا", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "May", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "I", "location": 4, "length": 1 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "sit", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "here", "location": 10, "length": 4 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "?", "location": 14, "length": 1 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "audio_updated_at": 1543440042,
+          "text": "هل يمكنني أن أجلس هنا؟"
+        }
+      ]
+    },
+    {
+      "id": 605038,
+      "lesson": 2202,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16108,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tLsl-M4-Vj6",
+          "text": "Yes.",
+          "raw": { "text": "Yes", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ".", "location": 3, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tIJVjL5MUhX",
+          "text": "or",
+          "raw": { "text": "or", "location": 22, "length": 2 },
+          "prefix": { "text": "", "location": 22, "length": 0 },
+          "suffix": { "text": "", "location": 24, "length": 0 },
+          "linker": { "text": " ", "location": 21, "length": 1 }
+        },
+        {
+          "key": "tUCU1AYX4Jq",
+          "text": "'no'.",
+          "raw": { "text": "no", "location": 26, "length": 2 },
+          "prefix": { "text": "'", "location": 25, "length": 1 },
+          "suffix": { "text": "'.", "location": 28, "length": 2 },
+          "linker": { "text": " ", "location": 24, "length": 1 }
+        },
+        {
+          "key": "tYrc6IsyaEC",
+          "text": "You",
+          "raw": { "text": "You", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tSiRNgMXen5",
+          "text": "must",
+          "raw": { "text": "must", "location": 4, "length": 4 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 8, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "t6DzXdXyiQl",
+          "text": "answer",
+          "raw": { "text": "answer", "location": 9, "length": 6 },
+          "prefix": { "text": "", "location": 9, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 8, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tLsl-M4-Vj6"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4",
+          "audio_updated_at": 1607004619,
+          "text": "نعم.",
+          "dictionary": [
+            {
+              "raw": "نعم",
+              "translations": [
+                { "type": "dictionary", "text": "Yes", "phonetic": "Yes" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نعم", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": ".", "location": 3, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4",
+          "audio_updated_at": 1607004619,
+          "text": "Yes.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605039,
+      "lesson": 2202,
+      "type": "T1",
+      "modifiers": 40,
+      "wordID": 16059,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tQ-6nMLkNXh",
+          "text": "لا.",
+          "raw": { "text": "لا", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ".", "location": 2, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t6CYn-zxSGh",
+          "text": "نعم!",
+          "raw": { "text": "نعم", "location": 5, "length": 3 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "!", "location": 8, "length": 1 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "t7ow5bGgrXm",
+          "text": "أوه!",
+          "raw": { "text": "أوه", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "!", "location": 3, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tQ-6nMLkNXh"],
+      "sols": [
+        {
+          "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro",
+          "audio_updated_at": 1607004623,
+          "text": "No.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "No",
+              "translations": [
+                { "type": "dictionary", "text": "لا", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "No", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": ".", "location": 2, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro",
+          "audio_updated_at": 1607004623,
+          "text": "لا."
+        }
+      ]
+    },
+    {
+      "id": 605040,
+      "lesson": 2202,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16019,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "twJXSczOyYh",
+          "text": "Good",
+          "raw": { "text": "Good", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t29WnKbjTTC",
+          "text": "afternoon.",
+          "raw": { "text": "afternoon", "location": 5, "length": 9 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": ".", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "t4mLXZzBsmL",
+          "text": "Excuse",
+          "raw": { "text": "Excuse", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tEPECA-aiEd",
+          "text": "me.",
+          "raw": { "text": "me", "location": 7, "length": 2 },
+          "prefix": { "text": "", "location": 7, "length": 0 },
+          "suffix": { "text": ".", "location": 9, "length": 1 },
+          "linker": { "text": " ", "location": 6, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t4mLXZzBsmL", "tEPECA-aiEd"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "audio_updated_at": 1543439254,
+          "text": "اعذرني.",
+          "dictionary": [
+            {
+              "raw": "اعذرني",
+              "translations": [
+                { "type": "dictionary", "text": "Excuse", "phonetic": "Excuse" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "اعذرني", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": ".", "location": 6, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "audio_updated_at": 1543439254,
+          "text": "Excuse me.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605041,
+      "lesson": 2202,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 18951,
+      "alternates": [16547, 17031],
+      "sols": [
+        {
+          "key": "Lbz2iy2urmrYWjZl4575eQMJZxP42qbO",
+          "audio_updated_at": 1543435539,
+          "text": "اعذرني، هل يمكنني أن أمرّ؟",
+          "dictionary": [
+            {
+              "raw": "اعذرني",
+              "translations": [
+                { "type": "dictionary", "text": "Excuse", "phonetic": "Excuse" }
+              ]
+            },
+            { "raw": "هل", "translations": [] },
+            {
+              "raw": "يمكنني",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            { "raw": "أن", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "اعذرني", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "،", "location": 6, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "هل", "location": 8, "length": 2 },
+              "prefix": { "text": "", "location": 8, "length": 0 },
+              "suffix": { "text": "", "location": 10, "length": 0 },
+              "linker": { "text": " ", "location": 7, "length": 1 }
+            },
+            {
+              "raw": { "text": "يمكنني", "location": 11, "length": 6 },
+              "prefix": { "text": "", "location": 11, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 10, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 18, "length": 2 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "", "location": 20, "length": 0 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            },
+            {
+              "raw": { "text": "أمرّ", "location": 21, "length": 4 },
+              "prefix": { "text": "", "location": 21, "length": 0 },
+              "suffix": { "text": "؟", "location": 25, "length": 1 },
+              "linker": { "text": " ", "location": 20, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "text": "هل يمكنني أن أجلس هنا؟"
+        },
+        {
+          "key": "MwXfkHKDpEKLisgUrymtURsqAJuPlmSD",
+          "text": "هل يمكنني أن أرى خريطتك؟"
+        }
+      ],
+      "alts": [
+        {
+          "key": "Lbz2iy2urmrYWjZl4575eQMJZxP42qbO",
+          "audio_updated_at": 1543435539,
+          "text": "Excuse me, may I pass?",
+          "phonetic": ""
+        },
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "audio_updated_at": 1543440042,
+          "text": "May I sit here?",
+          "phonetic": ""
+        },
+        {
+          "key": "MwXfkHKDpEKLisgUrymtURsqAJuPlmSD",
+          "audio_updated_at": 1543439608,
+          "text": "May I see your map?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605042,
+      "lesson": 2202,
+      "type": "W1b",
+      "modifiers": 68,
+      "wordID": 16400,
+      "alternates": [],
+      "tokens": [
+        { "key": "tiR1jvGlwdu", "text": "a", "group": 0 },
+        { "key": "tkjDD9ksuXB", "text": "p", "group": 0 },
+        { "key": "tSoTTtRP_m8", "text": "m", "group": 0 }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["tSoTTtRP_m8", "tiR1jvGlwdu", "tkjDD9ksuXB"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text": "خريطة",
+          "dictionary": [
+            {
+              "raw": "خريطة",
+              "translations": [
+                { "type": "dictionary", "text": "map", "phonetic": "map" }
+              ]
+            }
+          ],
+          "phraseType": 0,
+          "text_tokens": [
+            {
+              "raw": { "text": "خريطة", "location": 0, "length": 5 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "Eb5fN-7UBnZc6GPNPxoMLU4uo1BNOYtI",
+          "audio_updated_at": 1543437549,
+          "text_tokens": [
+            {
+              "raw": { "text": "map", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "map",
+          "phonetic": "",
+          "article_text": "a",
+          "article_phonetic": "",
+          "image": "_lQXDChbvrgoxgswt_2rq-tlTTBb5EXT",
+          "image_updated_at": 1689159013
+        }
+      ]
+    },
+    {
+      "id": 605043,
+      "lesson": 2202,
+      "type": "C2b",
+      "modifiers": 92,
+      "wordID": 16547,
+      "alternates": [16400],
+      "tokens": [
+        { "key": "trYcQCG3pug", "text": "m", "group": 4 },
+        { "key": "tvfUabbL19d", "text": "?", "specialChar": true },
+        { "key": "tjNFfjSi_oD", "text": "a", "group": 4 },
+        { "key": "tylLVUO4wuC", "text": " ", "specialChar": true },
+        { "key": "t0nCVVbTGgj", "text": "p", "group": 4 }
+      ],
+      "tokensEqualSize": false,
+      "ord": [
+        "tylLVUO4wuC",
+        "trYcQCG3pug",
+        "tjNFfjSi_oD",
+        "t0nCVVbTGgj",
+        "tvfUabbL19d"
+      ],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "MwXfkHKDpEKLisgUrymtURsqAJuPlmSD",
+          "audio_updated_at": 1543439608,
+          "text": "هل يمكنني أن أرى خريطتك؟",
+          "dictionary": [
+            { "raw": "هل", "translations": [] },
+            {
+              "raw": "يمكنني",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أرى",
+              "translations": [
+                { "type": "dictionary", "text": "I see", "phonetic": "I see" },
+                {
+                  "type": "verb",
+                  "name": { "t": "to see", "m": "يرى", "phonetic": "to see" },
+                  "id": 71,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk",
+                          "text": "I see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438393
+                        },
+                        "m": { "text": "أنا أرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438394
+                        },
+                        "m": { "text": "أنت ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr",
+                          "text": "He sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438395
+                        },
+                        "m": { "text": "هو يرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR",
+                          "text": "She sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438397
+                        },
+                        "m": { "text": "هي ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN",
+                          "text": "We see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438398
+                        },
+                        "m": { "text": "نحن نرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548255
+                        },
+                        "m": { "text": "أنتم ترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "54REkAfCLzVvHIbwBaKq9I8ZLK559Wix",
+                          "text": "They see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438400
+                        },
+                        "m": { "text": "هم يرون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz",
+                          "text": "I saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548257
+                        },
+                        "m": { "text": "أنا رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548258
+                        },
+                        "m": { "text": "أنت رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "viznNpNOyvjNfDTmqXAdFdmifryzbYpW",
+                          "text": "He saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548259
+                        },
+                        "m": { "text": "هو رأى" }
+                      },
+                      {
+                        "t": {
+                          "key": "htauzPhP723-3XPFH0L6QZTz3sF5qpEY",
+                          "text": "She saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548260
+                        },
+                        "m": { "text": "هي رأت" }
+                      },
+                      {
+                        "t": {
+                          "key": "VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d",
+                          "text": "We saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548262
+                        },
+                        "m": { "text": "نحن رأينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548263
+                        },
+                        "m": { "text": "أنتم رأيتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C",
+                          "text": "They saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548264
+                        },
+                        "m": { "text": "هم رأوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA",
+                          "text": "I will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548265
+                        },
+                        "m": { "text": "أنا سأرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548266
+                        },
+                        "m": { "text": "أنت سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JRYOAkNpJUETkw9D--dDDeULljLXETz9",
+                          "text": "He will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548267
+                        },
+                        "m": { "text": "هو سيرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X",
+                          "text": "She will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548268
+                        },
+                        "m": { "text": "هي سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v",
+                          "text": "We will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548271
+                        },
+                        "m": { "text": "نحن سنرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548272
+                        },
+                        "m": { "text": "أنتم سترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "d0Ga1izvgstz3tAIminEaS00qNB-Pfmt",
+                          "text": "They will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548273
+                        },
+                        "m": { "text": "هم سيرون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "خريطتك",
+              "translations": [
+                { "type": "dictionary", "text": "your", "phonetic": "your" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "يمكنني", "location": 3, "length": 6 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 10, "length": 2 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "أرى", "location": 13, "length": 3 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 16, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "خريطتك", "location": 17, "length": 6 },
+              "prefix": { "text": "", "location": 17, "length": 0 },
+              "suffix": { "text": "؟", "location": 23, "length": 1 },
+              "linker": { "text": " ", "location": 16, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "MwXfkHKDpEKLisgUrymtURsqAJuPlmSD",
+          "audio_updated_at": 1543439608,
+          "text_tokens": [
+            {
+              "raw": { "text": "May", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "I", "location": 4, "length": 1 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "see", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "your", "location": 10, "length": 4 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "map", "location": 15, "length": 3 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": "?", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": [],
+          "text": "May I see your map?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605044,
+      "lesson": 2202,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 17031,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "t4LPvPXUpPP",
+          "text": "May",
+          "raw": { "text": "May", "location": 0, "length": 3 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 3, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tDNuPQoYPlu",
+          "text": "I",
+          "raw": { "text": "I", "location": 4, "length": 1 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 5, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        },
+        {
+          "key": "tBeapYBzCJV",
+          "text": "sit",
+          "raw": { "text": "sit", "location": 6, "length": 3 },
+          "prefix": { "text": "", "location": 6, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 5, "length": 1 }
+        },
+        {
+          "key": "tY84hi2u0-k",
+          "text": "here?",
+          "raw": { "text": "here", "location": 10, "length": 4 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "?", "location": 14, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "tZLvyrjIahK",
+          "text": "we",
+          "raw": { "text": "we", "location": 4, "length": 2 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 6, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t4LPvPXUpPP", "tDNuPQoYPlu", "tBeapYBzCJV", "tY84hi2u0-k"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "audio_updated_at": 1543440042,
+          "text": "هل يمكنني أن أجلس هنا؟",
+          "dictionary": [
+            { "raw": "هل", "translations": [] },
+            {
+              "raw": "يمكنني",
+              "translations": [
+                { "type": "dictionary", "text": "I", "phonetic": "I" }
+              ]
+            },
+            { "raw": "أن", "translations": [] },
+            {
+              "raw": "أجلس",
+              "translations": [
+                { "type": "dictionary", "text": "sit", "phonetic": "sit" },
+                {
+                  "type": "verb",
+                  "name": { "t": "to sit", "m": "يجلس", "phonetic": "to sit" },
+                  "id": 76,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "E-FvPfQqOyAT0YRFvkxI90JP5Ii-wqwY",
+                          "text": "I sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438433
+                        },
+                        "m": { "text": "أنا أجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "rMU6l7nqybdGFzNCit5qnfsGXguNMzWt",
+                          "text": "You sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438434
+                        },
+                        "m": { "text": "أنت تجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "8hzEMCQaHhjio7ZZIo5npBE1w_Z2pvHw",
+                          "text": "He sits",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438435
+                        },
+                        "m": { "text": "هو يجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "J-y_iXp04per9430Fcg9OerqQ0huN8bq",
+                          "text": "She sits",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438438
+                        },
+                        "m": { "text": "هي تجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "pn4ZXFOgrqtmmqZkfj7_rRroisvSnpJH",
+                          "text": "We sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438439
+                        },
+                        "m": { "text": "نحن نجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "FD407cXWrXTM0UuWEZJN96SUVwZ9oKWQ",
+                          "text": "You sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438440
+                        },
+                        "m": { "text": "أنتم تجلسون" }
+                      },
+                      {
+                        "t": {
+                          "key": "Dy1o9W6YUxMQBkNiOtky4cTnh4n_xaTO",
+                          "text": "They sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438441
+                        },
+                        "m": { "text": "هم يجلسون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "jkqd0WmUm_KpAGwIITGL7TbnZRMdWuPU",
+                          "text": "I sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548386
+                        },
+                        "m": { "text": "أنا جلست" }
+                      },
+                      {
+                        "t": {
+                          "key": "Bjf7DcKCxdH-PiZ8udlUQAI7g8iNXbUm",
+                          "text": "You sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548387
+                        },
+                        "m": { "text": "أنت جلست" }
+                      },
+                      {
+                        "t": {
+                          "key": "xbAemhfWTjUkk3i2cB0A8sDe9Jf9D6mY",
+                          "text": "He sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548388
+                        },
+                        "m": { "text": "هو جلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "TjXigPBySe6sfDLNb28eUBjHLiGipt0n",
+                          "text": "She sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548389
+                        },
+                        "m": { "text": "هي جلست" }
+                      },
+                      {
+                        "t": {
+                          "key": "uPf6JCe3ohI4nqylNgbf5bDL1vr33jtl",
+                          "text": "We sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548391
+                        },
+                        "m": { "text": "نحن جلسنا" }
+                      },
+                      {
+                        "t": {
+                          "key": "tj78YFhRxjG5GsLGcSSkRYFQromwMY0x",
+                          "text": "You sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548392
+                        },
+                        "m": { "text": "أنتم جلستم" }
+                      },
+                      {
+                        "t": {
+                          "key": "9v61KEyROBcU8xIVkvyyNnSC_2VgbAby",
+                          "text": "They sat",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548393
+                        },
+                        "m": { "text": "هم جلسوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "b_0VZ5x7h-ofFpXouxYD7l94eTRmkBY9",
+                          "text": "I will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548394
+                        },
+                        "m": { "text": "أنا سأجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "UHXntF42yyZQuqmVs3loX9Yyvm9AEskE",
+                          "text": "You will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548395
+                        },
+                        "m": { "text": "أنت ستجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "lkF3cMlnXCX3CkGsEle50rbXQsosX-iC",
+                          "text": "He will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548396
+                        },
+                        "m": { "text": "هو سيجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "IM-pqSpFo_m6iSNLMflQEU4_Y37CFySw",
+                          "text": "She will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548397
+                        },
+                        "m": { "text": "هي ستجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "0SjBSuHVCeRZoLn4ptF9dyWP7HrQWZwD",
+                          "text": "We will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548399
+                        },
+                        "m": { "text": "نحن سنجلس" }
+                      },
+                      {
+                        "t": {
+                          "key": "7afcI3LvWPe0eIUPPjss_SaR8Yslyrip",
+                          "text": "You will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548400
+                        },
+                        "m": { "text": "أنتم ستجلسون" }
+                      },
+                      {
+                        "t": {
+                          "key": "_JZiN14ZsALThvj65VuH8DtLoEUSCk3V",
+                          "text": "They will sit",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548401
+                        },
+                        "m": { "text": "هم سيجلسون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "raw": "هنا",
+              "translations": [
+                { "type": "dictionary", "text": "here", "phonetic": "here" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "هل", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 2, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "يمكنني", "location": 3, "length": 6 },
+              "prefix": { "text": "", "location": 3, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 2, "length": 1 }
+            },
+            {
+              "raw": { "text": "أن", "location": 10, "length": 2 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 12, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "أجلس", "location": 13, "length": 4 },
+              "prefix": { "text": "", "location": 13, "length": 0 },
+              "suffix": { "text": "", "location": 17, "length": 0 },
+              "linker": { "text": " ", "location": 12, "length": 1 }
+            },
+            {
+              "raw": { "text": "هنا", "location": 18, "length": 3 },
+              "prefix": { "text": "", "location": 18, "length": 0 },
+              "suffix": { "text": "؟", "location": 21, "length": 1 },
+              "linker": { "text": " ", "location": 17, "length": 1 }
+            }
+          ]
+        },
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "audio_updated_at": 1543440042,
+          "text": "May I sit here?",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605045,
+      "lesson": 2202,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 16108,
+      "alternates": [16059, 16019],
+      "sols": [
+        {
+          "key": "mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4",
+          "audio_updated_at": 1607004619,
+          "text": "Yes.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "Yes",
+              "translations": [
+                { "type": "dictionary", "text": "نعم", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Yes", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": ".", "location": 3, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro",
+          "text": "No.",
+          "phonetic": ""
+        },
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "text": "Excuse me.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4",
+          "audio_updated_at": 1607004619,
+          "text": "نعم."
+        },
+        {
+          "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro",
+          "audio_updated_at": 1607004623,
+          "text": "لا."
+        },
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "audio_updated_at": 1543439254,
+          "text": "اعذرني."
+        }
+      ]
+    },
+    {
+      "id": 605046,
+      "lesson": 2202,
+      "type": "T1b",
+      "modifiers": 72,
+      "wordID": 16059,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tLgjnTfWi5u",
+          "text": "Oh!",
+          "raw": { "text": "Oh", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "!", "location": 2, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "teW2yTwdlCh",
+          "text": "you.",
+          "raw": { "text": "you", "location": 10, "length": 3 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 13, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t-_i9KdNy57",
+          "text": "No.",
+          "raw": { "text": "No", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ".", "location": 2, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tM9mZYYq1QN",
+          "text": "Thank",
+          "raw": { "text": "Thank", "location": 4, "length": 5 },
+          "prefix": { "text": "", "location": 4, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 3, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": false,
+      "ord": ["t-_i9KdNy57"],
+      "tokensPhonetic": [],
+      "ordPhonetic": [],
+      "sols": [
+        {
+          "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro",
+          "audio_updated_at": 1607004623,
+          "text": "لا.",
+          "dictionary": [
+            {
+              "raw": "لا",
+              "translations": [
+                { "type": "dictionary", "text": "No", "phonetic": "No" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "لا", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": ".", "location": 2, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        {
+          "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro",
+          "audio_updated_at": 1607004623,
+          "text": "No.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605047,
+      "lesson": 2202,
+      "type": "R",
+      "modifiers": 636,
+      "wordID": 16019,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tJ3b2S-_Lu8",
+          "text": "الخير.",
+          "raw": { "text": "الخير", "location": 5, "length": 5 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": ".", "location": 10, "length": 1 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "tX-HqSgo1QR",
+          "text": "اعذرني.",
+          "raw": { "text": "اعذرني", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": ".", "location": 6, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tGfSL07b1Vx",
+          "text": "مساء",
+          "raw": { "text": "مساء", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": ["tX-HqSgo1QR"],
+      "sols": [
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "audio_updated_at": 1543439254,
+          "text": "Excuse me.",
+          "phonetic": "",
+          "dictionary": [
+            { "raw": "Excuse", "translations": [] },
+            { "raw": "me", "translations": [] }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "Excuse", "location": 0, "length": 6 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 6, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "me", "location": 7, "length": 2 },
+              "prefix": { "text": "", "location": 7, "length": 0 },
+              "suffix": { "text": ".", "location": 9, "length": 1 },
+              "linker": { "text": " ", "location": 6, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "audio_updated_at": 1543439254,
+          "text": "اعذرني."
+        }
+      ],
+      "quizSkipData": {
+        "type": "T1",
+        "modifiers": 40,
+        "tokens": [
+          {
+            "key": "tFXVsqQps7f",
+            "text": "ليلة",
+            "raw": { "text": "ليلة", "location": 0, "length": 4 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": "", "location": 4, "length": 0 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "tOF1zZ6TS__",
+            "text": "اعذرني.",
+            "raw": { "text": "اعذرني", "location": 0, "length": 6 },
+            "prefix": { "text": "", "location": 0, "length": 0 },
+            "suffix": { "text": ".", "location": 6, "length": 1 },
+            "linker": { "text": "", "location": 0, "length": 0 }
+          },
+          {
+            "key": "t7vb97d-S_A",
+            "text": "سعيدة.",
+            "raw": { "text": "سعيدة", "location": 5, "length": 5 },
+            "prefix": { "text": "", "location": 5, "length": 0 },
+            "suffix": { "text": ".", "location": 10, "length": 1 },
+            "linker": { "text": " ", "location": 4, "length": 1 }
+          }
+        ],
+        "tokensEqualSize": true,
+        "ord": ["tOF1zZ6TS__"],
+        "sols": [
+          {
+            "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+            "audio_updated_at": 1543439254,
+            "text": "Excuse me.",
+            "phonetic": "",
+            "dictionary": [
+              { "raw": "Excuse", "translations": [] },
+              { "raw": "me", "translations": [] }
+            ],
+            "phraseType": 1,
+            "text_tokens": [
+              {
+                "raw": { "text": "Excuse", "location": 0, "length": 6 },
+                "prefix": { "text": "", "location": 0, "length": 0 },
+                "suffix": { "text": "", "location": 6, "length": 0 },
+                "linker": { "text": "", "location": 0, "length": 0 }
+              },
+              {
+                "raw": { "text": "me", "location": 7, "length": 2 },
+                "prefix": { "text": "", "location": 7, "length": 0 },
+                "suffix": { "text": ".", "location": 9, "length": 1 },
+                "linker": { "text": " ", "location": 6, "length": 1 }
+              }
+            ],
+            "phonetic_tokens": []
+          },
+          {
+            "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+            "audio_updated_at": 1543439254,
+            "text": "اعذرني."
+          }
+        ]
+      }
+    },
+    {
+      "id": 605048,
+      "lesson": 2202,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 18951,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "teJ0FUj0WL3",
+          "text": "املأ",
+          "raw": { "text": "املأ", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tAJqEmi9WaZ",
+          "text": "من",
+          "raw": { "text": "من", "location": 13, "length": 2 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 15, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tuFEst8g6JJ",
+          "text": "اعذرني،",
+          "raw": { "text": "اعذرني", "location": 0, "length": 6 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "،", "location": 6, "length": 1 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "t124D7YC1zS",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 18, "length": 2 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "", "location": 20, "length": 0 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "t-JziYlbUp5",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 8, "length": 2 },
+          "prefix": { "text": "", "location": 8, "length": 0 },
+          "suffix": { "text": "", "location": 10, "length": 0 },
+          "linker": { "text": " ", "location": 7, "length": 1 }
+        },
+        {
+          "key": "tHvJeUOmfSv",
+          "text": "يمكنني",
+          "raw": { "text": "يمكنني", "location": 11, "length": 6 },
+          "prefix": { "text": "", "location": 11, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 10, "length": 1 }
+        },
+        {
+          "key": "tpXu_Dmtpqf",
+          "text": "أمرّ؟",
+          "raw": { "text": "أمرّ", "location": 21, "length": 4 },
+          "prefix": { "text": "", "location": 21, "length": 0 },
+          "suffix": { "text": "؟", "location": 25, "length": 1 },
+          "linker": { "text": " ", "location": 20, "length": 1 }
+        },
+        {
+          "key": "tHgmbYP0JZM",
+          "text": "الخزان،",
+          "raw": { "text": "الخزان", "location": 5, "length": 6 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "،", "location": 11, "length": 1 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "tuFEst8g6JJ",
+        "t-JziYlbUp5",
+        "tHvJeUOmfSv",
+        "t124D7YC1zS",
+        "tpXu_Dmtpqf"
+      ],
+      "sols": [
+        {
+          "key": "Lbz2iy2urmrYWjZl4575eQMJZxP42qbO",
+          "audio_updated_at": 1543435539,
+          "text": "Excuse me, may I pass?",
+          "phonetic": ""
+        },
+        {
+          "key": "Lbz2iy2urmrYWjZl4575eQMJZxP42qbO",
+          "audio_updated_at": 1543435539,
+          "text": "اعذرني، هل يمكنني أن أمرّ؟"
+        }
+      ]
+    },
+    {
+      "id": 605049,
+      "lesson": 2202,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 16547,
+      "alternates": [18951, 17031],
+      "sols": [
+        {
+          "key": "MwXfkHKDpEKLisgUrymtURsqAJuPlmSD",
+          "audio_updated_at": 1543439608,
+          "text": "May I see your map?",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "May",
+              "translations": [
+                { "type": "dictionary", "text": "يمكنني", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "I",
+              "translations": [
+                { "type": "dictionary", "text": "أن", "phonetic": null }
+              ]
+            },
+            {
+              "raw": "see",
+              "translations": [
+                {
+                  "type": "verb",
+                  "name": { "t": "to see", "m": "يرى", "phonetic": "to see" },
+                  "id": 71,
+                  "tenseNames": {
+                    "pr": "الحاضر",
+                    "pa": "ماضي",
+                    "fu": "مستقبل"
+                  },
+                  "conj": {
+                    "pr": [
+                      {
+                        "t": {
+                          "key": "MTom3LMZVaDdAoO3Yt7QvVcsiTx4XEEk",
+                          "text": "I see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438393
+                        },
+                        "m": { "text": "أنا أرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "-hepcdwx0P_RiWZeHi2mJSw3GnGXLwg1",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438394
+                        },
+                        "m": { "text": "أنت ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "7vHnJwr8FUNgpYscAlQs_RzKyddJyZCr",
+                          "text": "He sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438395
+                        },
+                        "m": { "text": "هو يرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "QXXgxYq5LhHxrdcaClOIBS8Ysb4q4AOR",
+                          "text": "She sees",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438397
+                        },
+                        "m": { "text": "هي ترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "uv9SFXXCAmfk9BH3JlSgXllAFQ6csRAN",
+                          "text": "We see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438398
+                        },
+                        "m": { "text": "نحن نرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "Et7XvHIuH8NqW0FwQ9QIbmzkFSInX66C",
+                          "text": "You see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548255
+                        },
+                        "m": { "text": "أنتم ترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "54REkAfCLzVvHIbwBaKq9I8ZLK559Wix",
+                          "text": "They see",
+                          "phonetic": "",
+                          "audio_updated_at": 1543438400
+                        },
+                        "m": { "text": "هم يرون" }
+                      }
+                    ],
+                    "pa": [
+                      {
+                        "t": {
+                          "key": "aiZj-Cj4BRY8P8s-fq3GbuPGd9OiPyjz",
+                          "text": "I saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548257
+                        },
+                        "m": { "text": "أنا رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "ZDMFy2mgFha3PfWQSzsl71kBrjquf9v4",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548258
+                        },
+                        "m": { "text": "أنت رأيت" }
+                      },
+                      {
+                        "t": {
+                          "key": "viznNpNOyvjNfDTmqXAdFdmifryzbYpW",
+                          "text": "He saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548259
+                        },
+                        "m": { "text": "هو رأى" }
+                      },
+                      {
+                        "t": {
+                          "key": "htauzPhP723-3XPFH0L6QZTz3sF5qpEY",
+                          "text": "She saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548260
+                        },
+                        "m": { "text": "هي رأت" }
+                      },
+                      {
+                        "t": {
+                          "key": "VJ78-sfQWo8jNVNsRn1AErz3Vf7SPf7d",
+                          "text": "We saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548262
+                        },
+                        "m": { "text": "نحن رأينا" }
+                      },
+                      {
+                        "t": {
+                          "key": "UdYI1cogW5jKoZBz9M45O8_7DNwbFmcc",
+                          "text": "You saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548263
+                        },
+                        "m": { "text": "أنتم رأيتم" }
+                      },
+                      {
+                        "t": {
+                          "key": "vL_X6jxrPfpx3sGBCqrFAJHsp8RqHC3C",
+                          "text": "They saw",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548264
+                        },
+                        "m": { "text": "هم رأوا" }
+                      }
+                    ],
+                    "fu": [
+                      {
+                        "t": {
+                          "key": "zdKWGjQkRha9pZJ_NWjYFyWJzihqgNuA",
+                          "text": "I will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548265
+                        },
+                        "m": { "text": "أنا سأرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "jN_6eBTdppkl4Va_wheb0wEAtdh7cbJV",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548266
+                        },
+                        "m": { "text": "أنت سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "JRYOAkNpJUETkw9D--dDDeULljLXETz9",
+                          "text": "He will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548267
+                        },
+                        "m": { "text": "هو سيرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "VS4wwyLJJv-_Cq3qVw_Sufi1CC3JCc2X",
+                          "text": "She will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548268
+                        },
+                        "m": { "text": "هي سترى" }
+                      },
+                      {
+                        "t": {
+                          "key": "krpjdNOxGIooSOrQxCd_YAFtkOU-ZJ6v",
+                          "text": "We will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548271
+                        },
+                        "m": { "text": "نحن سنرى" }
+                      },
+                      {
+                        "t": {
+                          "key": "FYJYa-jB4j2AWvxWECnD0hKpZLqZWWlI",
+                          "text": "You will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548272
+                        },
+                        "m": { "text": "أنتم سترون" }
+                      },
+                      {
+                        "t": {
+                          "key": "d0Ga1izvgstz3tAIminEaS00qNB-Pfmt",
+                          "text": "They will see",
+                          "phonetic": "",
+                          "audio_updated_at": 1541548273
+                        },
+                        "m": { "text": "هم سيرون" }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            { "raw": "your", "translations": [] },
+            {
+              "raw": "map",
+              "translations": [
+                { "type": "dictionary", "text": "خريطتك", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "May", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": "", "location": 3, "length": 0 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            },
+            {
+              "raw": { "text": "I", "location": 4, "length": 1 },
+              "prefix": { "text": "", "location": 4, "length": 0 },
+              "suffix": { "text": "", "location": 5, "length": 0 },
+              "linker": { "text": " ", "location": 3, "length": 1 }
+            },
+            {
+              "raw": { "text": "see", "location": 6, "length": 3 },
+              "prefix": { "text": "", "location": 6, "length": 0 },
+              "suffix": { "text": "", "location": 9, "length": 0 },
+              "linker": { "text": " ", "location": 5, "length": 1 }
+            },
+            {
+              "raw": { "text": "your", "location": 10, "length": 4 },
+              "prefix": { "text": "", "location": 10, "length": 0 },
+              "suffix": { "text": "", "location": 14, "length": 0 },
+              "linker": { "text": " ", "location": 9, "length": 1 }
+            },
+            {
+              "raw": { "text": "map", "location": 15, "length": 3 },
+              "prefix": { "text": "", "location": 15, "length": 0 },
+              "suffix": { "text": "?", "location": 18, "length": 1 },
+              "linker": { "text": " ", "location": 14, "length": 1 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "text": "May I sit here?",
+          "phonetic": ""
+        },
+        {
+          "key": "Lbz2iy2urmrYWjZl4575eQMJZxP42qbO",
+          "text": "Excuse me, may I pass?",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "MwXfkHKDpEKLisgUrymtURsqAJuPlmSD",
+          "audio_updated_at": 1543439608,
+          "text": "هل يمكنني أن أرى خريطتك؟"
+        },
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "audio_updated_at": 1543440042,
+          "text": "هل يمكنني أن أجلس هنا؟"
+        },
+        {
+          "key": "Lbz2iy2urmrYWjZl4575eQMJZxP42qbO",
+          "audio_updated_at": 1543435539,
+          "text": "اعذرني، هل يمكنني أن أمرّ؟"
+        }
+      ]
+    },
+    {
+      "id": 605050,
+      "lesson": 2202,
+      "type": "L1",
+      "modifiers": 42,
+      "wordID": 17031,
+      "alternates": [],
+      "tokens": [
+        {
+          "key": "tBg12yMcWPi",
+          "text": "أن",
+          "raw": { "text": "أن", "location": 10, "length": 2 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": "", "location": 12, "length": 0 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "t6bP9C5Y8Ur",
+          "text": "بالشوكولاته.",
+          "raw": { "text": "بالشوكولاته", "location": 10, "length": 11 },
+          "prefix": { "text": "", "location": 10, "length": 0 },
+          "suffix": { "text": ".", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 9, "length": 1 }
+        },
+        {
+          "key": "ttOu3yFz0nO",
+          "text": "هنا؟",
+          "raw": { "text": "هنا", "location": 18, "length": 3 },
+          "prefix": { "text": "", "location": 18, "length": 0 },
+          "suffix": { "text": "؟", "location": 21, "length": 1 },
+          "linker": { "text": " ", "location": 17, "length": 1 }
+        },
+        {
+          "key": "tg6NErnjuTG",
+          "text": "واحد",
+          "raw": { "text": "واحد", "location": 0, "length": 4 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 4, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        },
+        {
+          "key": "tQCnkwHV7_c",
+          "text": "أجلس",
+          "raw": { "text": "أجلس", "location": 13, "length": 4 },
+          "prefix": { "text": "", "location": 13, "length": 0 },
+          "suffix": { "text": "", "location": 17, "length": 0 },
+          "linker": { "text": " ", "location": 12, "length": 1 }
+        },
+        {
+          "key": "tyVUOa53Her",
+          "text": "يمكنني",
+          "raw": { "text": "يمكنني", "location": 3, "length": 6 },
+          "prefix": { "text": "", "location": 3, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 2, "length": 1 }
+        },
+        {
+          "key": "tWC7Z0kN_LD",
+          "text": "حليب",
+          "raw": { "text": "حليب", "location": 5, "length": 4 },
+          "prefix": { "text": "", "location": 5, "length": 0 },
+          "suffix": { "text": "", "location": 9, "length": 0 },
+          "linker": { "text": " ", "location": 4, "length": 1 }
+        },
+        {
+          "key": "t7TiXNxCHxP",
+          "text": "هل",
+          "raw": { "text": "هل", "location": 0, "length": 2 },
+          "prefix": { "text": "", "location": 0, "length": 0 },
+          "suffix": { "text": "", "location": 2, "length": 0 },
+          "linker": { "text": "", "location": 0, "length": 0 }
+        }
+      ],
+      "tokensEqualSize": true,
+      "ord": [
+        "t7TiXNxCHxP",
+        "tyVUOa53Her",
+        "tBg12yMcWPi",
+        "tQCnkwHV7_c",
+        "ttOu3yFz0nO"
+      ],
+      "sols": [
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "audio_updated_at": 1543440042,
+          "text": "May I sit here?",
+          "phonetic": ""
+        },
+        {
+          "key": "9hR-3YpW5ZnA8DZT7sk8FtXRetpqeJxr",
+          "audio_updated_at": 1543440042,
+          "text": "هل يمكنني أن أجلس هنا؟"
+        }
+      ]
+    },
+    {
+      "id": 605051,
+      "lesson": 2202,
+      "type": "Qb",
+      "modifiers": 73,
+      "wordID": 16108,
+      "alternates": [16019, 16059],
+      "sols": [
+        {
+          "key": "mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4",
+          "audio_updated_at": 1607004619,
+          "text": "نعم.",
+          "dictionary": [
+            {
+              "raw": "نعم",
+              "translations": [
+                { "type": "dictionary", "text": "Yes", "phonetic": "Yes" }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "نعم", "location": 0, "length": 3 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": ".", "location": 3, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ]
+        },
+        { "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro", "text": "لا." },
+        { "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23", "text": "اعذرني." }
+      ],
+      "alts": [
+        {
+          "key": "mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4",
+          "audio_updated_at": 1607004619,
+          "text": "Yes.",
+          "phonetic": ""
+        },
+        {
+          "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro",
+          "audio_updated_at": 1607004623,
+          "text": "No.",
+          "phonetic": ""
+        },
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "audio_updated_at": 1543439254,
+          "text": "Excuse me.",
+          "phonetic": ""
+        }
+      ]
+    },
+    {
+      "id": 605052,
+      "lesson": 2202,
+      "type": "Q",
+      "modifiers": 41,
+      "wordID": 16059,
+      "alternates": [16019, 16108],
+      "sols": [
+        {
+          "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro",
+          "audio_updated_at": 1607004623,
+          "text": "No.",
+          "phonetic": "",
+          "dictionary": [
+            {
+              "raw": "No",
+              "translations": [
+                { "type": "dictionary", "text": "لا", "phonetic": null }
+              ]
+            }
+          ],
+          "phraseType": 1,
+          "text_tokens": [
+            {
+              "raw": { "text": "No", "location": 0, "length": 2 },
+              "prefix": { "text": "", "location": 0, "length": 0 },
+              "suffix": { "text": ".", "location": 2, "length": 1 },
+              "linker": { "text": "", "location": 0, "length": 0 }
+            }
+          ],
+          "phonetic_tokens": []
+        },
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "text": "Excuse me.",
+          "phonetic": ""
+        },
+        {
+          "key": "mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4",
+          "text": "Yes.",
+          "phonetic": ""
+        }
+      ],
+      "alts": [
+        {
+          "key": "hLKtsptQPotm5qOywPaybR21hYw1xpro",
+          "audio_updated_at": 1607004623,
+          "text": "لا."
+        },
+        {
+          "key": "Y4W3o6nPOP3GkbQU7HB2R5oCo2TQmE23",
+          "audio_updated_at": 1543439254,
+          "text": "اعذرني."
+        },
+        {
+          "key": "mDTuLYcZ4GpYrWubW-A4nrD8IYEQF5S4",
+          "audio_updated_at": 1607004619,
+          "text": "نعم."
+        }
+      ]
+    }
+  ]
+}
