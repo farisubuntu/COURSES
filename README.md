@@ -28,4 +28,4 @@ branches:
 - `useFetcher.jsx`: custom hook used to fetch course data then extracted as `quizzes`,`lesson`
 - `globals.js`: example of using globals varaibles
 - `AppContext`: another way of using global variables
-
+- or use `react-redux` see: [https://react-redux.js.org/introduction/getting-started](https://react-redux.js.org/introduction/getting-started)
