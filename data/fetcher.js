@@ -1,8 +1,9 @@
 import fs from "fs";
+import { categories } from "./categories";
 
 let AudioArray = [];
 let ImageArray = [];
-target_lang="en_gb"; // change this per target language
+target_lang = "en_gb"; // change this per target language
 // function to extract image and audio links from quizzes
 // TODO: dont forget vocabularies.json
 function extractUrls(quiz) {
@@ -68,9 +69,14 @@ function getCategory(category_id) {
   }
 }
 
-// getCategory("1");
+// getUrls
 
-
+categories.forEach((category_id) => {
+  getCategory(category_id);
+  setTimeout(function () {
+    console.log("category_id: ", category_id, " done.........");
+  }, 2000);
+});
 
 // remove duplicate array using `Sets` which allows you to create collections of unique values:
 // for other ways see: https://builtin.com/software-engineering-perspectives/remove-duplicates-from-array-javascript
@@ -85,25 +91,22 @@ let images_set = removeDubplicates(ImageArray);
 // console.log('joined audios_set:');
 // console.log(audios_set.join('\n')); // working
 
-// log urls
-// console.log('audios_set: ');
-// console.log(audios_set);
-// console.log("#########################");
-// console.log('images_set');
-// console.log(images_set);
 
-// console.log("Audio Urls: ")
-// console.log(AudioArray);
-// console.log("#########################");
-// console.log("Image Urls:")
-// console.log(ImageArray);
-// console.log("writing audio array to audio_urls.txt....");
 
-fs.appendFileSync("audios_urls.txt", audios_set.join("\n"), (err) => {
+// wait 2 seconds before writing audio array
+setTimeout(function(){
+  console.log('>>>  writing audio array to audio_urls.txt....');
+},2000);
+fs.appendFileSync("audios/audios_urls.txt", audios_set.join("\n"), (err) => {
   if (err) console.log(err);
   console.log("OK...");
 });
-fs.appendFileSync("images_urls.txt", images_set.join("\n"), (err) => {
+// wait 2 seconds before writing image array
+setTimeout(function(){
+  console.log('>>>  writing image array to images_urls.txt....');
+},2000);
+
+fs.appendFileSync("images/images_urls.txt", images_set.join("\n"), (err) => {
   if (err) console.log(err);
   console.log("OK...");
 });
