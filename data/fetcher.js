@@ -3,7 +3,7 @@ import { categories } from "./categories";
 
 let AudioArray = [];
 let ImageArray = [];
-target_lang = "en_gb"; // change this per target language
+target_lang = "it"; // change this per target language
 // function to extract image and audio links from quizzes
 // TODO: dont forget vocabularies.json
 function extractUrls(quiz) {
