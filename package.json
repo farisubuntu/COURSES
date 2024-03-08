@@ -2,11 +2,11 @@
   "name": "courses",
   "version": "1.0.0",
   "description": "contain's JSON data",
-  "main": "./data/fetcher.js",
+  "main": "./fetcher.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./data/fetcher.js"
+    "start": "node fetcher.js"
   },
   "keywords": [],
   "author": "",
