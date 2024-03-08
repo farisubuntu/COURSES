@@ -1,9 +1,9 @@
 import fs from "fs";
-import { categories } from "./categories";
+import { categories } from "./categories.js";
 
 let AudioArray = [];
 let ImageArray = [];
-target_lang = "en_gb"; // change this per target language
+let target_lang = "en_gb"; // change this per target language
 // function to extract image and audio links from quizzes
 // TODO: dont forget vocabularies.json
 function extractUrls(quiz) {
@@ -26,7 +26,7 @@ function extractUrls(quiz) {
     case "D":
       quiz.alts.forEach((x) => {
         AudioArray.push(
-          `https://d13tz37rv54ob.cloudfront.net/en_gb/${x.key}?t=${x.audio_updated_at}`
+          `https://d13tz37rv54ob.cloudfront.net/${target_lang}/${x.key}?t=${x.audio_updated_at}`
         );
       });
       break;
@@ -39,14 +39,14 @@ function extractUrls(quiz) {
     case "L1":
       quiz.sols.forEach((x) => {
         AudioArray.push(
-          `https://d13tz37rv54ob.cloudfront.net/en_gb/${x.key}?t=${x.audio_updated_at}`
+          `https://d13tz37rv54ob.cloudfront.net/${target_lang}/${x.key}?t=${x.audio_updated_at}`
         );
       });
       break;
     case "W1b":
       let x = quiz.sols[1];
       AudioArray.push(
-        `https://d13tz37rv54ob.cloudfront.net/en_gb/${x.key}?t=${x.audio_updated_at}`
+        `https://d13tz37rv54ob.cloudfront.net/${target_lang}/${x.key}?t=${x.audio_updated_at}`
       );
       ImageArray.push(
         `https://d37sy4vufic209.cloudfront.net/phrase-images/${x.image}`
