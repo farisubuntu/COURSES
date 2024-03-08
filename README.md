@@ -20,3 +20,12 @@ $ wget https://d13tz37rv54ob.cloudfront.net/en_gb/5GwX74ia-8nEV1331d1QayXXQpa1TG
 $ wget https://d13tz37rv54ob.cloudfront.net/ur/5yJIklmE-tT6L44G-d2no9epgjQXY1kV?t=1580691716
 
 ```
+
+**quizzes** length in such `101.json`
+
+length => Quiz Type => modifier
+8 => P,F,Q,Qb,D => 65, ,41, ,73
+12 => T1b,W1b,C2b => 
+10 => T1
+14 => C1b
+11 => R
