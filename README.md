@@ -10,6 +10,8 @@ links:
 - get an image with `wget`:
 ```sh
 $ wget https://d37sy4vufic209.cloudfront.net/phrase-images/r4pxGRXv2CnWTPSiIjgo7hfi7mOeML3m?t=1689159128
+# download all urls from input file to specific directory:
+$ wget -i input_urls.txt -P dest_dir/
 # use wget better than `curl` in images
 ```
 
