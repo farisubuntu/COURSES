@@ -1,0 +1,14 @@
+{
+  "name": "courses",
+  "version": "1.0.0",
+  "description": "contain's JSON data",
+  "main": "./fetcher.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node fetcher.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
