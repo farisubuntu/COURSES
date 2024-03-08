@@ -13,7 +13,7 @@ function extractUrls(quiz) {
     case "F":
       quiz.alts.forEach((x) => {
         AudioArray.push(
-          `https://d13tz37rv54ob.cloudfront.net/en_gb/${x.key}?t=${x.audio_updated_at}`
+          `https://d13tz37rv54ob.cloudfront.net/${target_lang}/${x.key}?t=${x.audio_updated_at}`
         );
         ImageArray.push(
           `https://d37sy4vufic209.cloudfront.net/phrase-images/${x.image}`
@@ -91,20 +91,18 @@ let images_set = removeDubplicates(ImageArray);
 // console.log('joined audios_set:');
 // console.log(audios_set.join('\n')); // working
 
-
-
 // wait 2 seconds before writing audio array
-setTimeout(function(){
-  console.log('>>>  writing audio array to audio_urls.txt....');
-},2000);
+setTimeout(function () {
+  console.log(">>>  writing audio array to audio_urls.txt....");
+}, 2000);
 fs.appendFileSync("audios/audios_urls.txt", audios_set.join("\n"), (err) => {
   if (err) console.log(err);
   console.log("OK...");
 });
 // wait 2 seconds before writing image array
-setTimeout(function(){
-  console.log('>>>  writing image array to images_urls.txt....');
-},2000);
+setTimeout(function () {
+  console.log(">>>  writing image array to images_urls.txt....");
+}, 2000);
 
 fs.appendFileSync("images/images_urls.txt", images_set.join("\n"), (err) => {
   if (err) console.log(err);
